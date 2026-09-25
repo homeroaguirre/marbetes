@@ -15,5 +15,15 @@
   {"fileId": "1tciCYvmJUmi5mdwvrruEa2i6ZvlVd74D", "action": "trash"},
   {"fileId": "18_cHkoFBxlgM6FCr3t5f_lFY7uK3POfv", "action": "rename", "newTitle": "Odeón, 5605 B, La novena (Miguel Bonano - Alfredo Bigeschi), Rodolfo A. Biagi y su Orquesta Típica, Tango con recitado.jpg"},
   {"fileId": "1Nm5Y66Y7jqx8xK4fYLNRFJFkTImMmkYw", "action": "rename", "newTitle": "Victor, 39041 B, El jaguar (Atilio Lombardo), Carlos Di Sarli y su Orquesta Típica, Tango.jpg"},
-  {"fileId": "1Z5QvHJOx-NMjBV-Yrro_MME1jx62RSJd", "action": "rename", "newTitle": "Victor, 39045 B, Improvisando (Enrique Cadícamo - Pedro Laurenz), Pedro Laurenz y su Orquesta Típica, Canta Juan Carlos Casas, Milonga.jpg"}
+  {"fileId": "1Z5QvHJOx-NMjBV-Yrro_MME1jx62RSJd", "action": "rename", "newTitle": "Victor, 39045 B, Improvisando (Enrique Cadícamo - Pedro Laurenz), Pedro Laurenz y su Orquesta Típica, Canta Juan Carlos Casas, Milonga.jpg"},
+  {"fileId": "1thMATWspVLdfUywM-6mLY0cEy7Utqrf1", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1wc9eR0jOdG7R01DtyRikt-nQ-jnAV-bV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1zu1TkCFOrNGKRHMqBt5_S3hHW1_FiKE5", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1CCYFfn_RnyJ37Y2qvrP7Zb50lMgCWJdZ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1fgMPu7SFf5eVc1cdZR8IvuZ_7HXI3RB0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1-LBrSGwIDJ-09NZYz_S_YKecxVrNMIKs", "action": "rename", "newTitle": "Victor, 68-0681 A, Sentimental y canyengue (L. Federico - V. Felice), Horacio Salgán y su Gran Orquesta Típica, Tango.png"},
+  {"fileId": "1noOdawbU0X2f8NOo7stGzrP4pFItNv4f", "action": "rename", "newTitle": "Victor, 68-0681 B, Un momento (Héctor Stamponi), Horacio Salgán y su Gran Orquesta Típica, Canta Roberto Goyeneche, Vals.png"},
+  {"fileId": "1O97jMz2u4nofyWIvVN0z8yhgnTzp2kA7", "action": "rename", "newTitle": "Odeón, 8063 B, Pena de amor (Jorge A. Fernández - José M. Contursi), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Tango.png"},
+  {"fileId": "1PJS_sjaKdSZxSm0aCI9RBrRpkEHJ4nZQ", "action": "rename", "newTitle": "Odeón, 8064 A, Moneda de cobre (Carlos Viván - Horacio Sanguinetti), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Tango.png"},
+  {"fileId": "1TAyUXxkC9vqMFVuRSyWb5AfJFSkpUiMq", "action": "rename", "newTitle": "Victor, 68-1043 B, Don Goyo (L. Bernstein), Horacio Salgán y su Gran Orquesta Típica, Tango.png"}
 ]
