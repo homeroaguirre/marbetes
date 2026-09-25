@@ -20,10 +20,21 @@ Si el usuario no da la URL de la carpeta, pedirla antes de empezar.
 
 1. **Listar los archivos de imagen** de la carpeta de Drive indicada, con
    `mcp__Google_Drive__search_files` o el listado que corresponda a esa carpeta.
-   Confirmar la cantidad total de fotos antes de seguir (si son muchas, cientos o
-   miles, avisar al usuario que se va a procesar en lotes).
+   Esto es solo para saber el total y los nombres/IDs — NO implica leer o
+   descargar el contenido de todos todavía. Confirmar la cantidad total de
+   fotos antes de seguir (si son muchas, cientos o miles, avisar al usuario que
+   se va a procesar en tandas de 10, como se detalla en el paso 7).
 
-2. **Leer y analizar cada foto** con `mcp__Google_Drive__download_file_content` /
+2. **Trabajar de a una tanda de 10 fotos por vez.** Nunca leer, descargar o
+   analizar el contenido de más de 10 fotos de una sola vez, aunque la carpeta
+   tenga cientos o miles. Tomar los primeros 10 archivos pendientes, hacer con
+   ellos los pasos 3 a 5 completos (leer, armar nombres, detectar duplicados,
+   mostrar la tabla y esperar confirmación), aplicar los cambios en Drive, y
+   recién ahí pasar a los siguientes 10. Repetir hasta cubrir el total. Esto
+   evita cargar de entrada el contenido de miles de imágenes en la conversación
+   cuando todavía falta procesar la inmensa mayoría.
+
+3. **Leer y analizar cada foto** de la tanda actual con `mcp__Google_Drive__download_file_content` /
    `read_file_content`, mirando el texto impreso en la etiqueta del disco. Extraer:
    - Sello discográfico
    - Número de disco
@@ -34,7 +45,7 @@ Si el usuario no da la URL de la carpeta, pedirla antes de empezar.
    - Cantor de estribillo, si lo hay
    - Estilo (Tango, Vals, Milonga, Fox-trot, Tango canción, etc.)
 
-3. **Construir el nombre nuevo** con este formato EXACTO, campos separados por ", ":
+4. **Construir el nombre nuevo** con este formato EXACTO, campos separados por ", ":
 
    ```
    Sello, Nº Cara, Título (Autor - Autor), Intérprete, Estilo.jpg
@@ -56,7 +67,7 @@ Si el usuario no da la URL de la carpeta, pedirla antes de empezar.
      campo tal cual aparece en la etiqueta, o escribir `SIN DATO`. Nunca
      completar con una suposición.
 
-4. **Detectar duplicados del mismo disco.** Antes de armar la lista de renombres,
+5. **Detectar duplicados del mismo disco.** Antes de armar la lista de renombres,
    agrupar las fotos que corresponden al MISMO tema/etiqueta (mismo número de
    disco y cara, mismo contenido de etiqueta) aunque estén en distintos archivos
    o formatos (ej. la misma foto subida en `.jpg` y en `.png`, o dos tomas
@@ -76,19 +87,26 @@ Si el usuario no da la URL de la carpeta, pedirla antes de empezar.
      `Victor, 39246 A, Yo soy el tango (H. Expósito - D. S. Federico), Aníbal
      Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango 2.jpg`.
 
-5. **Confirmación obligatoria antes de renombrar (o eliminar).** Nunca renombrar archivos sin
-   aprobación explícita del usuario. Mostrar la lista completa
+6. **Confirmación obligatoria antes de renombrar (o eliminar).** Nunca renombrar
+   archivos sin aprobación explícita del usuario. Mostrar la lista completa
    "nombre actual → nombre propuesto" (marcando también los que se van a
-   **eliminar** por ser duplicados) para TODOS los archivos del lote (o de la
-   carpeta entera si es manejable) y esperar a que el usuario la revise y
-   confirme. Recién después de la confirmación, aplicar los renombres en Drive
-   uno por uno con la tool de renombrado/actualización de metadata
-   (`mcp__Google_Drive__update_file`) y las eliminaciones de duplicados
-   correspondientes.
+   **eliminar** por ser duplicados) para TODOS los archivos de la tanda actual
+   y esperar a que el usuario la revise y confirme. Recién después de la
+   confirmación, aplicar los renombres en Drive uno por uno con la tool de
+   renombrado/actualización de metadata (`mcp__Google_Drive__update_file`) y
+   las eliminaciones de duplicados correspondientes.
 
-6. **Procesar en lotes** si hay muchos archivos, mostrando avance (ej. "lote 1 de
-   6, archivos 1–500") para que el usuario pueda cortar o revisar sin perder el
-   trabajo ya hecho.
+7. **Tandas de 10, nunca más.** El procesamiento es SIEMPRE en tandas de
+   exactamente 10 fotos, sin excepción, sin importar si el total es 20, 300 o
+   3000. La lógica es simple: se agarran los primeros 10 pendientes, se hace
+   con ellos el ciclo completo (leer, armar nombres, detectar duplicados,
+   mostrar tabla, confirmar, aplicar cambios), y recién cuando esos 10 están
+   terminados se pasa a los siguientes 10 — nunca antes, y nunca se adelanta
+   trabajo de lectura sobre fotos que todavía no les toca el turno. No hay que
+   preocuparse por "los 2990 restantes" mientras se trabaja en la tanda 1: esa
+   tanda es la única unidad de trabajo activa. Avisar al usuario en qué tanda
+   se está ("tanda 3 de 300, fotos 21–30") para que pueda seguir el avance o
+   cortar en cualquier momento sin perder lo ya hecho.
 
 ## Nota sobre permisos
 
@@ -101,6 +119,6 @@ repetitivas, sugerirle al usuario correr la skill `fewer-permission-prompts`
 
 La tool de escritura (`mcp__Google_Drive__update_file`, que renombra el
 archivo) sí debe seguir pidiendo confirmación normal, porque modifica archivos
-reales del usuario — el paso 4 de este flujo ya cubre esa confirmación a nivel
+reales del usuario — el paso 6 de este flujo ya cubre esa confirmación a nivel
 de contenido (la lista completa de renombres), pero el permiso de la tool en sí
 no se debe saltear.
