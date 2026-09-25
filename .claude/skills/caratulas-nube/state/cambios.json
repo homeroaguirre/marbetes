@@ -55,5 +55,15 @@
   {"fileId": "1cyDBWxU3z8YW9CzBYYCFewIWFk2nk8sI", "action": "rename", "newTitle": "Victor, 39637 B, Los mareados (Juan C. Cobián), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.jpg"},
   {"fileId": "14bsJmiBJPrLmx1bazBxdhcyhlFz8ozJQ", "action": "rename", "newTitle": "Victor, 39627 A, Suerte loca (F. García Jiménez - A. Aleta), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.jpg"},
   {"fileId": "1qLAcR0KCVr-olKnsfEj0AxPvND5kr0No", "action": "rename", "newTitle": "Victor, 79742 B, Falucho (J. M. Cresta), Orquesta Típica Victor, Tango.jpg"},
-  {"fileId": "1vbnXEl9VAsQIaShOY62CejU2_xFosFHR", "action": "rename", "newTitle": "Victor, 39368 B, Sentimiento criollo (R. Firpo), Carlos Di Sarli y su Orquesta Típica, Tango.jpg"}
+  {"fileId": "1vbnXEl9VAsQIaShOY62CejU2_xFosFHR", "action": "rename", "newTitle": "Victor, 39368 B, Sentimiento criollo (R. Firpo), Carlos Di Sarli y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "19TFUQcqfjDgmr4Kyr9xuoo0chk1__qTn", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1gvI_Hsi8phvEXEKE_befOq0gVe4n8RiE", "action": "rename", "newTitle": "Victor, 39675 B, Acordandome de vos... (E. Dizeo - A. Troilo), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Vals.png"},
+  {"fileId": "146vuvlZitdbwHlyTeLpEEMyfS7VZ7GAk", "action": "trash"},
+  {"fileId": "1b9X5_Q4zfaC6FzXfVHLQohN7EEb7QvLu", "action": "trash"},
+  {"fileId": "1ACJ6RyvG4D6kEuXpupy5gITsD26Roh8f", "action": "rename", "newTitle": "Victor, 79742 A, Flor de fango (A. Gentile), Orquesta Típica Victor, Tango.jpg"},
+  {"fileId": "1lnOxbzIswl8G0Kj5kP-7A8ZF_3bp3C8T", "action": "rename", "newTitle": "Victor, 79730 B, Te fuiste (V. Ferrer - A. Carbona), Orquesta Típica Victor, Tango.png"},
+  {"fileId": "1DnTmskuaI_EkDWVZRzxBUP3J3JnCk4t4", "action": "trash"},
+  {"fileId": "1oVJT05QKbGYigSZioRuwNpTSk2i8qq0m", "action": "rename", "newTitle": "Odeón, 5616 B, Por un beso de amor (D. Vasin - U. Bertini), Rodolfo A. Biagi y su Orquesta Típica, Vals con estribillo.png"},
+  {"fileId": "1_ZuDVyE9EUq5GIJjbpLGOsXCRKyQcm19", "action": "rename", "newTitle": "Odeón, 8067 A, Canta pajarito (Juan J. Guichandut), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Tango.png"},
+  {"fileId": "1mcuG15x6lR3yNgSuJnKUJ7GGM9H9a3LA", "action": "rename", "newTitle": "Odeón, 8066 B, Ropa blanca (Alfredo Malerba - H. Manzi), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Milonga.png"}
 ]
