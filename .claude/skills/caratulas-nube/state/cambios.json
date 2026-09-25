@@ -85,5 +85,15 @@
   {"fileId": "1k9VeVWUPHHMenqgTiQMAeqTusY7ndci0", "action": "rename", "newTitle": "Victor, 39313 A, Tierrita (J. Fernández Blanco - A. Bardi), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.png"},
   {"fileId": "1MYWlLsPKUW-OCRnWu1_K2W1T1gJTq5Cc", "action": "trash"},
   {"fileId": "1T7WKyFMTk7uoEjqx2-00r_a5Tx1uwgD7", "action": "rename", "newTitle": "Odeón, 5613 A, ¡Todo te nombra! (Francisco Canaro - Ivo Pelay), Rodolfo A. Biagi y su Orquesta Típica, Tango con estribillo.png"},
-  {"fileId": "1n-z6liMiUL9UynD-CDmCW0ZSnNvvObbA", "action": "rename", "newTitle": "Odeón, 8065 A, Tal vez será mi alcohol (Lucio Demare - H. Manzi), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Tango.png"}
+  {"fileId": "1n-z6liMiUL9UynD-CDmCW0ZSnNvvObbA", "action": "rename", "newTitle": "Odeón, 8065 A, Tal vez será mi alcohol (Lucio Demare - H. Manzi), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Tango.png"},
+  {"fileId": "1eV6H4FPX1-XVk0hfX-XVPeOwU5RPciK6", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1diBD8BjOFah3ysel0Sw-5nZiZ76BuwDa", "action": "rename", "newTitle": "Victor, 79720 B, Orgullosa (V. Gorressi), Orquesta Típica Victor, Tango.png"},
+  {"fileId": "1SuQVfVT6UPz-qc8xRDHbNUTPj4rKrDZe", "action": "trash"},
+  {"fileId": "1kQvCZ-O8F1b1EK6pgIziC-KT6_MwdXzW", "action": "rename", "newTitle": "Victor, 79721 B, Musiquita (L. Viapiana), Orquesta Típica Victor, Tango.png"},
+  {"fileId": "13b3dpFKXJiw_JzGm60fMj074nJ1FnUrB", "action": "trash"},
+  {"fileId": "1-FNRUUgikl1U4hqJfByi-azR81FKK_4u", "action": "rename", "newTitle": "Victor, 39630 A, Fueye (H. Manzi - Charlo), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.png"},
+  {"fileId": "1Ydayvh98vpoXobtfG0AhIiCF2Kv42LoZ", "action": "trash"},
+  {"fileId": "1ifMLlGHGszEiCbXGvWjrHpRtGPaO8Zw2", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1owlTFBxgK0o6J7yGyC4-smGm0DdqzDYv", "action": "rename", "newTitle": "Odeón, 5615 B, ¡Pinta orillera! (Antonio M. Arcieri - David Farina Ortiz), Rodolfo A. Biagi y su Orquesta Típica, Tango con estribillo.png"},
+  {"fileId": "1l59otdv1Havnod_-DsFy5B1TOmC1hCOd", "action": "rename", "newTitle": "Odeón, 7630 B, Patria mía (Pedro Laurenz - Héctor Marcó), Pedro Laurenz y su Orquesta Típica, Canta Alberto Podestá, Tango.jpg"}
 ]
