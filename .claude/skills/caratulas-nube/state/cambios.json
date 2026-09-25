@@ -95,5 +95,15 @@
   {"fileId": "1Ydayvh98vpoXobtfG0AhIiCF2Kv42LoZ", "action": "trash"},
   {"fileId": "1ifMLlGHGszEiCbXGvWjrHpRtGPaO8Zw2", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1owlTFBxgK0o6J7yGyC4-smGm0DdqzDYv", "action": "rename", "newTitle": "Odeón, 5615 B, ¡Pinta orillera! (Antonio M. Arcieri - David Farina Ortiz), Rodolfo A. Biagi y su Orquesta Típica, Tango con estribillo.png"},
-  {"fileId": "1l59otdv1Havnod_-DsFy5B1TOmC1hCOd", "action": "rename", "newTitle": "Odeón, 7630 B, Patria mía (Pedro Laurenz - Héctor Marcó), Pedro Laurenz y su Orquesta Típica, Canta Alberto Podestá, Tango.jpg"}
+  {"fileId": "1l59otdv1Havnod_-DsFy5B1TOmC1hCOd", "action": "rename", "newTitle": "Odeón, 7630 B, Patria mía (Pedro Laurenz - Héctor Marcó), Pedro Laurenz y su Orquesta Típica, Canta Alberto Podestá, Tango.jpg"},
+  {"fileId": "1898FGhtFrkM7Ng8mKi0D-g2H7rwGRWGp", "action": "rename", "newTitle": "Victor, 68-1044 A, Doble castigo (C. Bahr - E. Randal), Horacio Salgán y su Gran Orquesta Típica, Canta A. Díaz, Tango.png"},
+  {"fileId": "17L5UGOnJUnOFr5XZ2bndLQ5QLOynK5n8", "action": "rename", "newTitle": "Victor, 39579 A, Pa que bailen los muchachos (E. Cadícamo - A. Troilo), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.png"},
+  {"fileId": "1ibChiYd2N7BkeV7gEXhIkMLVttfGD37e", "action": "trash"},
+  {"fileId": "1LFMOVoZfSuXKf2ZCuDO3WYZZ1e5yOYFo", "action": "rename", "newTitle": "Victor, 39343 B, Canaro (J. Martínez), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1vf3t6qAJTSqKITPIXo60DrbbNzvPHNQI", "action": "rename", "newTitle": "Victor, 39343 A, Nunca más (Oscar y Francisco J. Lomuto), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"},
+  {"fileId": "1Du7txhXVpp0_L_D_iNVSa24Ii2V-jFKa", "action": "rename", "newTitle": "Victor, 79720 A, Te acompaño el sentimiento (J. Bauer), Orquesta Típica Victor, Tango.png"},
+  {"fileId": "1CnVfPlnImuw9qjbNru8FjDg5oDoudljk", "action": "trash"},
+  {"fileId": "14-_XSWTIdmA1iXt2SbZLsB61b8xjanJX", "action": "rename", "newTitle": "Victor, 79670 A, Retintín (Eduardo Arolas), Orquesta Típica Victor, Tango.png"},
+  {"fileId": "1nOS2spfFfEHtRP-zIZDC-hEXRhkrqK0m", "action": "rename", "newTitle": "Victor, 68-1043 A, Siga el corso (F. García Jiménez - A. Aieta), Horacio Salgán y su Gran Orquesta Típica, Canta R. Goyeneche, Tango.png"},
+  {"fileId": "1Y_ezHOK4paEimX-UOKP8FkE7i4XoL87p", "action": "rename", "newTitle": "Victor, 39331 B, Patotero (M. Romero - M. Jovés), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Tango.jpg"}
 ]
