@@ -1,4 +1,8 @@
 [
   {"fileId": "1BjK0H6UQRbIwniI7Igz1pq5225s7Uetn", "action": "rename", "newTitle": "Victor, 38999 A, El pillin (Francisco Canaro), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"},
-  {"fileId": "150QmZXvziJLSOVHsUmsR16QSwaGCmoT0", "action": "rename", "newTitle": "Victor, 38932 B, Alma mia (Héctor Marcó - Diego Centeno), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Vals.jpg"}
+  {"fileId": "150QmZXvziJLSOVHsUmsR16QSwaGCmoT0", "action": "rename", "newTitle": "Victor, 38932 B, Alma mia (Héctor Marcó - Diego Centeno), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Vals.jpg"},
+  {"fileId": "1wsTYREBF9eXUKBy6_VhYUP5gn-PIoaJk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1bJ1xzXkd7D7wGqKNa8g3232_UEkCaBJL", "action": "rename", "newTitle": "Victor, 39401 A, Orgullo criollo (J. De Caro - P. Laurenz), Pedro Laurenz y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1u88VAuRfsp47vIJQudOhwD-aiRJVp34Y", "action": "rename", "newTitle": "Victor, 68-0201 A, Ojos negros (Vicente Greco), Horacio Salgan y su Gran Orquesta Típica, Tango.jpg"},
+  {"fileId": "1sh13NFTO3zPHgiwO1vUM0N4QEtpUpVF2", "action": "rename", "newTitle": "Victor, 39111 B, Yo tambien (L. Rubistein - L. Viscal), Juan D'Arienzo y su Orquesta Típica, Canta Carlos Casares, Tango.jpg"}
 ]
