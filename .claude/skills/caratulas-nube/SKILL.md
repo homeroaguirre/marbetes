@@ -56,15 +56,37 @@ Si el usuario no da la URL de la carpeta, pedirla antes de empezar.
      campo tal cual aparece en la etiqueta, o escribir `SIN DATO`. Nunca
      completar con una suposición.
 
-4. **Confirmación obligatoria antes de renombrar.** Nunca renombrar archivos sin
+4. **Detectar duplicados del mismo disco.** Antes de armar la lista de renombres,
+   agrupar las fotos que corresponden al MISMO tema/etiqueta (mismo número de
+   disco y cara, mismo contenido de etiqueta) aunque estén en distintos archivos
+   o formatos (ej. la misma foto subida en `.jpg` y en `.png`, o dos tomas
+   prácticamente idénticas de la misma cara).
+   - Si son la misma imagen (o recortes/versiones de la misma toma): comparar
+     la calidad (nitidez, resolución, que no falte texto por recorte o brillo)
+     y quedarse con la mejor. Avisar en la lista de confirmación cuál se
+     conserva y cuál se va a **eliminar** (no solo renombrar), y aplicar esa
+     eliminación en Drive recién después de la confirmación del usuario, igual
+     que los renombres.
+   - Si son fotos **distintas** del mismo disco/cara (ángulos, tomas o estados
+     de conservación diferentes, no la misma imagen), no se elimina ninguna:
+     conservar todas y numerarlas agregando ` 2`, ` 3`, ` 4`... antes de la
+     extensión, en el mismo orden en que aparecen en la carpeta, ej.
+     `Victor, 39246 A, Yo soy el tango (H. Expósito - D. S. Federico), Aníbal
+     Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.jpg` y
+     `Victor, 39246 A, Yo soy el tango (H. Expósito - D. S. Federico), Aníbal
+     Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango 2.jpg`.
+
+5. **Confirmación obligatoria antes de renombrar (o eliminar).** Nunca renombrar archivos sin
    aprobación explícita del usuario. Mostrar la lista completa
-   "nombre actual → nombre propuesto" para TODOS los archivos del lote (o de la
+   "nombre actual → nombre propuesto" (marcando también los que se van a
+   **eliminar** por ser duplicados) para TODOS los archivos del lote (o de la
    carpeta entera si es manejable) y esperar a que el usuario la revise y
    confirme. Recién después de la confirmación, aplicar los renombres en Drive
    uno por uno con la tool de renombrado/actualización de metadata
-   (`mcp__Google_Drive__update_file`).
+   (`mcp__Google_Drive__update_file`) y las eliminaciones de duplicados
+   correspondientes.
 
-5. **Procesar en lotes** si hay muchos archivos, mostrando avance (ej. "lote 1 de
+6. **Procesar en lotes** si hay muchos archivos, mostrando avance (ej. "lote 1 de
    6, archivos 1–500") para que el usuario pueda cortar o revisar sin perder el
    trabajo ya hecho.
 
