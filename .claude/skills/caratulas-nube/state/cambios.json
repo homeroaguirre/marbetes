@@ -1682,5 +1682,59 @@
     "fileId": "1ohn2N9i4d0NlLKVmPiblKMgrbSKljRJd",
     "action": "rename",
     "newTitle": "Victor, 79757 A, Trapo viejo (A. Magaldi - P. Noda), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "10N2eB4UMmaH3mOZtYrJvdwffQ5JxHLxq",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1jBgiGtnt5n7UK7KuuyLbfludmanQeT6H",
+    "action": "trash"
+  },
+  {
+    "fileId": "1w002T-jJk7Ype3qix97lJ10d-UjnetHB",
+    "action": "rename",
+    "newTitle": "Odeón, 7642 B, Mendocina (Miguel Bruno - Benigno Palmeiro), Pedro Laurenz y su Orquesta Típica, Canta Carlos Bermúdez y Jorge Linares, Vals.jpg"
+  },
+  {
+    "fileId": "1K-lUb9IEMIm--rccf2E68byHn-gnP6LS",
+    "action": "rename",
+    "newTitle": "Odeón, 5626 B, Pájaro herido (Amadeo Raffo - Esteban A. Parma), Rodolfo Biagi y su Orquesta Típica, Vals.jpg"
+  },
+  {
+    "fileId": "1m4_8DDNV8pWAOkdd_OcjZtm5X3-wZ_Oy",
+    "action": "rename",
+    "newTitle": "Victor, 39638 B, Mírame en la cara (L. Castiñeira - H. Varela), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "1Y-HuIfV5HNF7jf2Igyiu0u7a0a7J6TtD",
+    "action": "rename",
+    "newTitle": "Victor, 60-0017 A, Margarita Gauthier (J. J. Nelson - J. Mora), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Tango.jpg"
+  },
+  {
+    "fileId": "1K9PEKhGyymO04YAypDedm97kWohr4UuU",
+    "action": "rename",
+    "newTitle": "Victor, 39638 A, Tierra negra (J. F. Noli - G. De Leone), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1SH90O5jV8yjq7A433dJOcYWOoP2PnXtx",
+    "action": "rename",
+    "newTitle": "Odeón, 5626 A, Quejas de bandoneón (Juan de Dios Filiberto), Rodolfo Biagi y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1rR4OODB2HyhiyDwoE5xbP32lCCs9JYAm",
+    "action": "rename",
+    "newTitle": "Victor, 68-1757 B, Por las calles de la vida (E. Cadícamo - R. Luna), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Tango.png"
+  },
+  {
+    "fileId": "1qHeYmiVQ1-VakGShlLLpnNyhhv1-g21P",
+    "action": "rename",
+    "newTitle": "Victor, 79769 A, Coralito (R. Mailles), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1MR1WTtma5iyMuNubsJAZ9xkx3POipGFz",
+    "action": "rename",
+    "newTitle": "Odeón, 7641 B, Barrio tranquilo (Arturo Gacci - Victorino Velázquez), Pedro Laurenz y su Orquesta Típica, Canta Jorge Linares, Tango.jpg"
   }
 ]
