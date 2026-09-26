@@ -163,5 +163,15 @@
   {"fileId": "1DqfF95YLSUBbCflKNkxsqnBU90KS1e1z", "action": "trash"},
   {"fileId": "1N725KtVXvDgVRDMB70tT7giXecz16JCU", "action": "rename", "newTitle": "Victor, 39765 B, Chatero de aquel entonces (Luis J. Mejías - Julián Ortiz), Pedro Laurenz y su Orquesta Típica, Canta Juan Carlos Casas, Milonga.jpg"},
   {"fileId": "1pMQHmjKBLp8wEhaBC6Dp5PTTbP8YFtua", "action": "rename", "newTitle": "Odeón, 5611 B, El último adiós (Juan Santini - Nicolás Afrimani), Rodolfo A. Biagi y su Orquesta Típica, Canta Andrés Falgás, Tango.jpg"},
-  {"fileId": "1RYyOr0Zf7b7pwc6WaBeNAnm1gZH_h_Hi", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1RYyOr0Zf7b7pwc6WaBeNAnm1gZH_h_Hi", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Fx8CBsqTuzYEoE_s-i3HuESpMjJbn5Ah", "action": "rename", "newTitle": "Victor, 39086 A, En un beso... la vida! (Héctor Marcó - Carlos Di Sarli), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Tango.png"},
+  {"fileId": "1ZregS0sYVtPIycIGlsTEpJ6v1tDVq2pQ", "action": "rename", "newTitle": "Victor, 39273 B, Candombe oriental (P. Castellanos), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Reynal, Milonga.jpg"},
+  {"fileId": "1jyQ7obkpSl4Na4tYQqP9gOcZe0QUnPno", "action": "rename", "newTitle": "Victor, 68-0392 A, Yo soy el mismo (L. E. Rivero - V. Felice), Horacio Salgán y su Gran Orquesta Típica, Canta R. Goyeneche, Tango.png"},
+  {"fileId": "1voUkd-U9BUPLJUJUh_P3HkEww71i1SsA", "action": "rename", "newTitle": "Victor, 79696 B, Pato (R. Collazo), Orquesta Típica Victor, Tango.png"},
+  {"fileId": "1IXCGqaITCKAWlI3HAKX5zoN3oohBU8Ez", "action": "trash"},
+  {"fileId": "1h3xTylYla1gU-XlXYjLNgmIHXP4oNNoc", "action": "rename", "newTitle": "Victor, 39273 A, Ya lo ves (L. Rubistein - J. D'Arienzo), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"},
+  {"fileId": "1eQgr0lcrqMkD_pGDgMtnmxqiGWB-bnkI", "action": "rename", "newTitle": "Odeón, 8062 A, Me llaman el zorro (Mario Perini - Roberto Lambertucci), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Tango.png"},
+  {"fileId": "1Ngfu7-7Ls6INAZSGWY2HCltvgr15cb4L", "action": "trash"},
+  {"fileId": "1LOUBCAMha46OdvkEAcj0N8CpAXviulWd", "action": "rename", "newTitle": "Victor, 39502 A, Sencillo y compadre (C. Bahr - J. Guichandut), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.jpg"},
+  {"fileId": "1PLQ9D5ZCoobNLuJjXJY4MMTDZxE8Ruay", "action": "rename", "newTitle": "Victor, 68-0296 A, Los mareados (En mi pasado) (E. Cadícamo - J. C. Cobián), Horacio Salgán y su Gran Orquesta Típica, Tango.png"}
 ]
