@@ -1189,5 +1189,55 @@
   {
     "fileId": "1q3slFFsNbwoPAyaTCTWGb6wfnNZ8xbq0",
     "action": "trash"
+  },
+  {
+    "fileId": "1t_5h5WIHPSQ9Bf66GOslD9zAn0B6iVVJ",
+    "action": "rename",
+    "newTitle": "Victor, 60-1962 A, Recuerdo (E. Moreno - O. Pugliese), Horacio Salgán y su Gran Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1AxurFnplJk0x3squFxpwA_2awkG3ZJRh",
+    "action": "rename",
+    "newTitle": "Victor, 39676 A, El amasijo (A. Avilés), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1rrdjFMoYiBnKQh4m9G3OAnn8yU9gcAnX",
+    "action": "rename",
+    "newTitle": "Odeón, 8078 A, El aguacero (Cátulo Castillo - José González Castillo), Lucio Demare y su Orquesta Típica, Canta Horacio Quintana, Tango.png"
+  },
+  {
+    "fileId": "10tV3vGp-_l0YNCY5SNcoW8xkWfjJLrhX",
+    "action": "rename",
+    "newTitle": "Victor, 39651 B, Barranca abajo (Canción de Soledad) (M. García Servitto), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "1WsKxERdf0vTtrCN5pg4Xc_0lnfhCiZOB",
+    "action": "rename",
+    "newTitle": "Victor, 79839 A, Puente Alsina (B. Tagle Lara), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1kaa2QvaqjRSh1KPjPzHP0uPgRL7PPrqb",
+    "action": "rename",
+    "newTitle": "Odeón, 7642 A, Trenzas (Armando Pontier - Homero Expósito), Pedro Laurenz y su Orquesta Típica, Canta Jorge Linares, Tango.jpg"
+  },
+  {
+    "fileId": "1WnBVEGokobyJDQ7fQJUZLplm5bWMJBWT",
+    "action": "rename",
+    "newTitle": "Victor, 39611 B, Muchachita porteña (A. Vacarezza - M. Mores), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Vals.jpg"
+  },
+  {
+    "fileId": "1VBXUEasWfgFjGU1MPzhyorv1mRA_OsRL",
+    "action": "rename",
+    "newTitle": "Odeón, 8075 B, Se va una tarde más (Enrique Cantore - Luis Caruso), Lucio Demare y su Orquesta Típica, Canta Horacio Quintana, Tango.png"
+  },
+  {
+    "fileId": "1epmiqkPc7LJxj0Vjq7WYDleZ6CovkszQ",
+    "action": "rename",
+    "newTitle": "Odeón, 8076 A, Alhucema (Francisco Pracánico - Horacio Sanguinetti), Lucio Demare y su Orquesta Típica, Canta Horacio Quintana, Tango.png"
+  },
+  {
+    "fileId": "1oND6b0nMNuM_92BLbci-wMEec-DCtCbL",
+    "action": "rename",
+    "newTitle": "Victor, 39611 A, Vidas marcadas (Juego) (R. Sciammarella), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Reynal, Tango.jpg"
   }
 ]
