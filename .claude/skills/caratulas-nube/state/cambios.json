@@ -173,5 +173,15 @@
   {"fileId": "1eQgr0lcrqMkD_pGDgMtnmxqiGWB-bnkI", "action": "rename", "newTitle": "Odeón, 8062 A, Me llaman el zorro (Mario Perini - Roberto Lambertucci), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Tango.png"},
   {"fileId": "1Ngfu7-7Ls6INAZSGWY2HCltvgr15cb4L", "action": "trash"},
   {"fileId": "1LOUBCAMha46OdvkEAcj0N8CpAXviulWd", "action": "rename", "newTitle": "Victor, 39502 A, Sencillo y compadre (C. Bahr - J. Guichandut), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.jpg"},
-  {"fileId": "1PLQ9D5ZCoobNLuJjXJY4MMTDZxE8Ruay", "action": "rename", "newTitle": "Victor, 68-0296 A, Los mareados (En mi pasado) (E. Cadícamo - J. C. Cobián), Horacio Salgán y su Gran Orquesta Típica, Tango.png"}
+  {"fileId": "1PLQ9D5ZCoobNLuJjXJY4MMTDZxE8Ruay", "action": "rename", "newTitle": "Victor, 68-0296 A, Los mareados (En mi pasado) (E. Cadícamo - J. C. Cobián), Horacio Salgán y su Gran Orquesta Típica, Tango.png"},
+  {"fileId": "15mKkaZf6L8a4vRfT38CneqzPAls2Btsd", "action": "rename", "newTitle": "Victor, 39247 B, Cortando camino (E. Cadícamo - F. Frontera), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Vals.jpg"},
+  {"fileId": "1EYmch5b5kN-IrmHRt2SUWj7V2mT16647", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1RjtWUYUjuvOqVfBtTLB3huNV6CASogTs", "action": "rename", "newTitle": "Victor, 39566 B, Caserón de tejas (S. Piana - Castillo), Pedro Laurenz y su Orquesta Típica, Canta Alberto Del Campo, Vals.jpg"},
+  {"fileId": "16V66pB8LKlJ56F2-ZIkryP1cNFxLNI0o", "action": "rename", "newTitle": "Victor, 39215 A, Quasi nada (J. Maglio Pacho), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1j7c3aJg1itQpCaA6novkPHYbtct7Kvcv", "action": "rename", "newTitle": "Odeón, 8060 A, Tinta verde (Agustín Bardi), Lucio Demare y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1aYOxX3G6T5Td3KwsCu94jzYucqogmU1Y", "action": "rename", "newTitle": "Victor, 39185 B, Rosamel (H. Marcó - C. Di Sarli), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Vals.jpg"},
+  {"fileId": "1vrKvOB2-bJ68j0ypiJvzcU0feEJAY3K7", "action": "rename", "newTitle": "Odeón, 8056 A, Mañana zarpa un barco (Lucio Demare - Homero Manzi), Lucio Demare y su Orquesta Típica, Canta Juan Carlos Miranda, Tango.png"},
+  {"fileId": "1StzANWxQUuTFdbiqKO5D28UGYHAlfcf_", "action": "rename", "newTitle": "Victor, 79686 A, De mi sentir (Verri Landolfi - Galucci), Orquesta Típica Victor, Tango.png"},
+  {"fileId": "1aIfGzcOfXf6QJ8gQrHAhE-G_jaYKfFVG", "action": "trash"},
+  {"fileId": "1d95dFOJb7o8uRU_a5YeagY49I4vF54AK", "action": "rename", "newTitle": "Victor, 79686 B, Confesión (O. Pérez Freire), Orquesta Típica Victor, Tango.png"}
 ]
