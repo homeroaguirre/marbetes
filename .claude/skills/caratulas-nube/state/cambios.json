@@ -193,5 +193,15 @@
   {"fileId": "1BZ8mZlkLJmH0dQCNIFE2YpMeUEgy25bx", "action": "rename", "newTitle": "Victor, 68-0247 B, La llamo silbando (Horacio A. Salgán), Horacio Salgán y su Gran Orquesta Típica, Tango.jpg"},
   {"fileId": "1CNQLwzJ16coglw3fxzRb-7qDjIYw_h_T", "action": "trash"},
   {"fileId": "13VJw5cqVvqTo-clMBWT4Hk98YJeAnZiK", "action": "rename", "newTitle": "Odeón, 5608 A, Son cosas del bandoneón (Enrique Rodríguez - Enrique Cadícamo), Rodolfo A. Biagi y su Orquesta Típica, Canta Andrés Falgás, Tango.jpg"},
-  {"fileId": "1JGTryPZyFUl9AOjv45H8pBomVu3cITDd", "action": "rename", "newTitle": "Victor, 39197 A, Esclavas blancas (H. Pettorossi), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Reynal, Tango.jpg"}
+  {"fileId": "1JGTryPZyFUl9AOjv45H8pBomVu3cITDd", "action": "rename", "newTitle": "Victor, 39197 A, Esclavas blancas (H. Pettorossi), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Reynal, Tango.jpg"},
+  {"fileId": "1z6eG033EX7rStYZJtH2b3Ly0qtXinNAx", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1EsPYDaQSk0pddBTS7TiwjEEcP1qI6yBf", "action": "rename", "newTitle": "Victor, 68-0247 A, Ilusión de mi vida (Nolo López - Feliciano Brunelli), Horacio Salgán y su Gran Orquesta Típica, Vals.jpg"},
+  {"fileId": "1blon4rUd1c1eMpKrUxmbG5em57zjj92W", "action": "rename", "newTitle": "Victor, 39151 B, Lo pasado, pasó (M. Bucino), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Tango.jpg"},
+  {"fileId": "1xcGEbi6mfHymh_H4qSHy9AuUCku9Lani", "action": "rename", "newTitle": "Victor, 39110 B, Volver a soñar (F. García Jiménez - A. M. Fraga), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Tango.jpg"},
+  {"fileId": "1yfPB8FJb9GQA3eLOw5e-HMi0YGwvXtWl", "action": "rename", "newTitle": "Odeón, 8059 A, Canción de rango (Raúl Kaplún - José M. Suñé), Lucio Demare y su Orquesta Típica, Canta Roberto Arrieta, Tango.jpg"},
+  {"fileId": "18pz43vTj5rmygMXsHErjG_p_oqX5CoVY", "action": "rename", "newTitle": "Victor, 39403 B, El cuarteador (E. Cadícamo), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango milonga.png"},
+  {"fileId": "1wej9lmRU6zGy1QTG5yPr27VmB3hawU1X", "action": "trash"},
+  {"fileId": "1HQuRYCGSQNn6OwEA8Li-zhZYVbAulrT2", "action": "rename", "newTitle": "Victor, 68-0202 B, N. P. (J. J. Riverol - F. Loiacono), Horacio Salgán y su Gran Orquesta Típica, Canta A. Díaz, Tango.jpg"},
+  {"fileId": "1eDolh-QpondjCDkAhOPV7vjZwQE8wjv9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1_qU57ZrQ161K4QVsYwlhWlHEeTrV8MG5", "action": "trash"}
 ]
