@@ -1407,5 +1407,59 @@
     "fileId": "1c4FwXc2JvPHN2YisliR0IN_pEUbyzxCv",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1BN1upZv6bhRCpAO52-pi2FJztSl0udhw",
+    "action": "rename",
+    "newTitle": "Victor, 39689 B, Tirando a matar (Pintín Castellanos), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Milonga.jpg"
+  },
+  {
+    "fileId": "18KX2myVJZr551bBmueMPcmhTuxBGwjbp",
+    "action": "rename",
+    "newTitle": "Victor, 60-0064 A, Soy del 90 (C. G. Waiss - Tito Rivero), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Tango.png"
+  },
+  {
+    "fileId": "1Ncv9i84Ez3lZE5rhgfBHhyXc61sDHzEa",
+    "action": "trash"
+  },
+  {
+    "fileId": "1NxUdnTSEdMUJMNqkveq_7wX_AZOe8Gmq",
+    "action": "rename",
+    "newTitle": "Pathé, PG 11047 A, La gayola (Rafael Tuegols - Armando J. M. Tagini), Pedro Laurenz y su Orquesta Típica, Canta Alfredo Del Río, Tango.jpg"
+  },
+  {
+    "fileId": "1RBtTbb1cDBQBDjrCLWbSjH6jMblppcMj",
+    "action": "rename",
+    "newTitle": "Odeón, 8070 B, Dos palabras, por favor (Luis Visca - Luis Rubistein), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Tango.png"
+  },
+  {
+    "fileId": "1cLRldUnFAIdBcCrnMH8mtrQRYNVU3Yxg",
+    "action": "rename",
+    "newTitle": "Pathé, PG 11038 A, Cuando me entrés a fallar (José María Aguilar - Celedonio Esteban Flores), Pedro Laurenz y su Orquesta Típica, Canta Alfredo Del Río, Tango.jpg"
+  },
+  {
+    "fileId": "1EY5_Iw9lTmqUI5omrS2OmWzswaYCRvTv",
+    "action": "rename",
+    "newTitle": "Odeón, 5630 A, Sentimiento gaucho, Rodolfo Biagi y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1AKdSDFidaNqBi2ZBt5ow0Rut0rkzCacA",
+    "action": "rename",
+    "newTitle": "Odeón, 5629 B, Bélgica (Enrique Delfino), Rodolfo Biagi y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1KszyupuAXTwNOXWjIs85guqPaqLk9_Hj",
+    "action": "rename",
+    "newTitle": "Victor, 39689 A, Claudinette (Julián Centeya - Enrique Delfino), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "1L_cIv-Gw88CabMC69Ml9aHjTRg9XqkJN",
+    "action": "rename",
+    "newTitle": "Victor, 60-1591 B, El raje (C. Waiss - J. D'Arienzo - H. S. Varela), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Milonga.jpg"
+  },
+  {
+    "fileId": "1Rqb7d2U0qP8nowxDuUx-wUhNU_JiAmOR",
+    "action": "rename",
+    "newTitle": "Victor, 60-1591 A, El choclo (A. Villoldo), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
   }
 ]
