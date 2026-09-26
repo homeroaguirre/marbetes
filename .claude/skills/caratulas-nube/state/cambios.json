@@ -203,5 +203,10 @@
   {"fileId": "1wej9lmRU6zGy1QTG5yPr27VmB3hawU1X", "action": "trash"},
   {"fileId": "1HQuRYCGSQNn6OwEA8Li-zhZYVbAulrT2", "action": "rename", "newTitle": "Victor, 68-0202 B, N. P. (J. J. Riverol - F. Loiacono), Horacio Salgán y su Gran Orquesta Típica, Canta A. Díaz, Tango.jpg"},
   {"fileId": "1eDolh-QpondjCDkAhOPV7vjZwQE8wjv9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1_qU57ZrQ161K4QVsYwlhWlHEeTrV8MG5", "action": "trash"}
+  {"fileId": "1_qU57ZrQ161K4QVsYwlhWlHEeTrV8MG5", "action": "trash"},
+  {"fileId": "1kAanOn9549v78hjbbkt_tffUFFhJjnOO", "action": "rename", "newTitle": "Victor, 79657 B, La cumparsita (G. Matos Rodríguez), Orquesta Típica Victor, Tango.png"},
+  {"fileId": "1pTzeKgFEaLagcHKr8dC6SiNt4M0iLlsd", "action": "rename", "newTitle": "Odeón, 5607 B, Cielo (Andrés Falgás - Mario Landi), Rodolfo A. Biagi y su Orquesta Típica, Canta Andrés Falgás, Tango.png"},
+  {"fileId": "1lLjwKFpy1bIINIszQmXBUZJPjFMLt4mu", "action": "rename", "newTitle": "Victor, 1A-0297 B, Milonga del ochenta y tres (J. D. Pécora - P. Romano), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Reynal, Milonga.jpg"},
+  {"fileId": "1mptFEjPOeAuz4pjjAxbMMdVlQKk5dzV-", "action": "rename", "newTitle": "Odeón, 8058 A, No te apures carablanca (Roberto Harza - Carlos Bahr), Lucio Demare y su Orquesta Típica, Canta Juan Carlos Miranda, Tango.jpg"},
+  {"fileId": "1Miui6BIh5fVB6fTnVLMjvDOXTsHWgOCM", "action": "rename", "newTitle": "Victor, 39110 A, Shusheta (J. C. Cobián), Carlos Di Sarli y su Orquesta Típica, Tango.jpg"}
 ]
