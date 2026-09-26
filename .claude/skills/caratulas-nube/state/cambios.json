@@ -2183,5 +2183,15 @@
     "fileId": "1vUeCLTMscYyFRelZp4c24FDGzrSy9EVI",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1YFAqqJ03YGqrLinD3kuSJhoY01NP-1R-",
+    "action": "rename",
+    "newTitle": "Odeón, 5619 A, No le Digas que la Quiero (Enrique Delfino - Alberto Vacarezza), Rodolfo Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.jpg"
+  },
+  {
+    "fileId": "1xmHrjXTye5ElvwiRXZ7qV2XHeaZcA6td",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
