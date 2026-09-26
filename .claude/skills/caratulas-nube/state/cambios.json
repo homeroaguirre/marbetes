@@ -1339,5 +1339,73 @@
     "fileId": "1JpWkiRg513-1mCA3nkajiX6m9r39JaW7",
     "action": "rename",
     "newTitle": "Odeón, 8071 B, Qué solo estoy (Raúl Kaplún - Roberto Miró), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Tango.png"
+  },
+  {
+    "fileId": "1A8wQ7rAoKqGGUgMz-lXnXtcxknBl5wc0",
+    "action": "rename",
+    "newTitle": "Victor, 39744 B, Ficha de oro (E. Dizeo - C. Di Napoli), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Milonga.png"
+  },
+  {
+    "fileId": "1jpKJZL0tASHNdI4TwTvUa7mn8tzRgIZ5",
+    "action": "rename",
+    "newTitle": "Odeón, 8071 A, Luna (Lucio Demare - Homero Manzi), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Milonga.png"
+  },
+  {
+    "fileId": "1a0F-SZ4tA2iQOZst52ErMEKlW1nY4Cft",
+    "action": "rename",
+    "newTitle": "Victor, 60-0067 B, Inspiración (L. Rubistein - P. Paulos (h)), Aníbal Troilo y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1UXIvhOSSFxs-Xw7-Z4w-j9pk9Szx-x5f",
+    "action": "trash"
+  },
+  {
+    "fileId": "1zR8514eacHO6NEOOij40fIcRf87dmMn5",
+    "action": "rename",
+    "newTitle": "Odeón, 5630 B, Te odio (Francisco Pracánico - Celedonio Esteban Flores), Rodolfo Biagi y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "180ZNuF5yqFMpfyeGck8oP_Lk4_R27xeu",
+    "action": "rename",
+    "newTitle": "Pathé, PG 11047 B, Amurado (Pedro Maffia - Pedro Laurenz - José De Grandis), Pedro Laurenz y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1WiHV3pKVgMVnRUgEPeI5f2smn-yZdn_k",
+    "action": "rename",
+    "newTitle": "Victor, 39736 A, Y se van los años (L. Castiñeira), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "1L4QSp4kDgrB3-qVydU0T7F-Vj186JOra",
+    "action": "rename",
+    "newTitle": "Victor, 60-0104 B, Soy un porteño (Celedonio Esteban Flores - José Razzano), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Milonga.png"
+  },
+  {
+    "fileId": "17NVJ9Cym4nvKebtvLxXZG4aWSKvtRGff",
+    "action": "trash"
+  },
+  {
+    "fileId": "1OXH3VMkwoStK5nVnzdE6ZpF004OyeO1c",
+    "action": "rename",
+    "newTitle": "Odeón, 7644 B, Amurado (Abandonado) (Pedro Laurenz - Pedro Maffia), Pedro Laurenz y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1JeIngNE2PnOHrh8iY8ssTAZGpFAu8qRU",
+    "action": "rename",
+    "newTitle": "Pathé, PG 11038 B, Quejas de bandoneón (Juan de Dios Filiberto), Pedro Laurenz y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1mDYDLyDHAefszWivfLNX_2q8CZEZfZvG",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1yPBx--rAk7OI4Vhe4h-27DFW28s3zrxt",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1c4FwXc2JvPHN2YisliR0IN_pEUbyzxCv",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]

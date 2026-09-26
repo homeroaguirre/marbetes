@@ -1,20 +1,107 @@
 [
-  {"fileId": "1wsTYREBF9eXUKBy6_VhYUP5gn-PIoaJk", "title": "15-El-Once-mp3-image.png", "motivo": "Es un LP (Music Hall LP 1004-B) con dos temas en la misma cara (El once / El recodo, Carlos Di Sarli), no un disco de pasta de un solo tema. No encaja en el formato estándar de nombre."},
-  {"fileId": "1thMATWspVLdfUywM-6mLY0cEy7Utqrf1", "title": "33-Barba-de-choclo-mp3-image.png", "motivo": "LP Music Hall 33 1/3 RPM (LP 1009-A) con dos temas en la misma cara (Barba de choclo / A la luz del candil, Carlos Di Sarli), no un disco de pasta de un solo tema."},
-  {"fileId": "1wc9eR0jOdG7R01DtyRikt-nQ-jnAV-bV", "title": "27-La-cachila-mp3-image.png", "motivo": "LP Music Hall 33 1/3 RPM (LP 1007-B) con dos temas en la misma cara (La cachila / Los 33 orientales, Carlos Di Sarli), no un disco de pasta de un solo tema."},
-  {"fileId": "1zu1TkCFOrNGKRHMqBt5_S3hHW1_FiKE5", "title": "17-Don-Juan-mp3-image.png", "motivo": "LP Music Hall 33 1/3 RPM (LP 1005-A) con dos temas en la misma cara (Don Juan / El cabure, Carlos Di Sarli), no un disco de pasta de un solo tema."},
-  {"fileId": "1CCYFfn_RnyJ37Y2qvrP7Zb50lMgCWJdZ", "title": "35-Asi-era-mi-novia-mp3-image.png", "motivo": "LP Music Hall 33 1/3 RPM (LP 1009-B) con dos temas en la misma cara (Asi era mi novia / Cara sucia, Carlos Di Sarli), no un disco de pasta de un solo tema."},
-  {"fileId": "1fgMPu7SFf5eVc1cdZR8IvuZ_7HXI3RB0", "title": "37-Mi-refugio-mp3-image.png", "motivo": "LP Music Hall 33 1/3 RPM (LP 1010-A) con dos temas en la misma cara (Mi refugio / Champagne tango, Carlos Di Sarli), no un disco de pasta de un solo tema."},
-  {"fileId": "19TFUQcqfjDgmr4Kyr9xuoo0chk1__qTn", "title": "29-Siete-palabras-mp3-image.png", "motivo": "LP Music Hall 33 1/3 RPM (LP 1008-A) con dos temas en la misma cara (Siete palabras / Por el camino, Carlos Di Sarli), no un disco de pasta de un solo tema."},
-  {"fileId": "1eV6H4FPX1-XVk0hfX-XVPeOwU5RPciK6", "title": "032-Tal-vez-sera-su-voz-mp3-image.png", "motivo": "Mismo número de disco (Odeón 8065 A) que el ya catalogado como 'Tal vez será mi alcohol' (Lucio Demare), pero esta foto muestra el título principal impreso como 'TAL VEZ SERA SU VOZ' con 'Tal vez será mi alcohol' en itálica debajo y otro número de matriz (e 13130 vs e 12757). No queda claro si es una reedición con cambio de título o un error de identificación; se deja para revisión manual en vez de asumir."},
-  {"fileId": "1ifMLlGHGszEiCbXGvWjrHpRtGPaO8Zw2", "title": "31-El-ingeniero-mp3-image.png", "motivo": "LP Music Hall 33 1/3 RPM (LP 1008-B) con dos temas en la misma cara (El ingeniero / Porteña y nada más, Carlos Di Sarli), no un disco de pasta de un solo tema."},
-  {"fileId": "1Ure9zHSGwF1kgTFOzWVBwJLlM7qDbAbP", "title": "19-El-pollito-mp3-image.png", "motivo": "LP Music Hall 33 1/3 RPM (LP 1005-B) con dos temas en la misma cara (El pollito / El ciruja, Carlos Di Sarli), no un disco de pasta de un solo tema."},
-  {"fileId": "13CyABaMN6maZjETAGeTcKGSAeREx8qZK", "title": "21-Rodriguez-Pena-mp3-image.jpg", "motivo": "LP Sono Film 33 1/3 RPM (LP 1006-A) con dos temas en la misma cara (Rodriguez Peña / Nueve puntos, Carlos Di Sarli), no un disco de pasta de un solo tema."},
-  {"fileId": "1NC1vpJKwd2_xZnh3kh3PQPUHZYWRYYpq", "title": "13-Organito-de-la-tarde-mp3-image.png", "motivo": "LP Music Hall/Sono Film (LP 1004-A) con dos temas en la misma cara (El organito de la tarde / Didi, Carlos Di Sarli), no un disco de pasta de un solo tema."},
-  {"fileId": "1MbWp8Lapzv4Oh_iIdu4yedJyo7SXmD2K", "title": "25-Cuatro-vidas-mp3-image.png", "motivo": "LP Music Hall 33 1/3 RPM (LP 1007-A) con dos temas en la misma cara (Cuatro vidas / Sueño de juventud, Carlos Di Sarli), no un disco de pasta de un solo tema."},
-  {"fileId": "1RYyOr0Zf7b7pwc6WaBeNAnm1gZH_h_Hi", "title": "026-Del-tiempo-guapo-mp3-image.jpg", "motivo": "Mismo disco (Victor 39502 B, Del tiempo guapo, Troilo) ya catalogado y renombrado con otra foto; esta parece ser otra toma del mismo disco pero no se pudo comparar la calidad contra la ya renombrada para decidir si es duplicado a eliminar o variante a conservar con sufijo. Se deja para revisión manual."},
-  {"fileId": "1EYmch5b5kN-IrmHRt2SUWj7V2mT16647", "title": "022-Miedo-mp3-image-scaled.jpg", "motivo": "Mismo disco (Victor 39215 B, Miedo, D'Arienzo) ya catalogado y renombrado con otra foto en una tanda anterior; se deja para revisión manual si es duplicado a eliminar o variante a conservar."},
-  {"fileId": "1z6eG033EX7rStYZJtH2b3Ly0qtXinNAx", "title": "019-Pebeta-linda-mp3-image.jpg", "motivo": "Mismo disco (Victor 79681 A, Pebeta linda, Orquesta Típica Victor) ya catalogado y renombrado con otra foto en una tanda anterior; se deja para revisión manual si es duplicado a eliminar o variante a conservar."},
-  {"fileId": "1eDolh-QpondjCDkAhOPV7vjZwQE8wjv9", "title": "018-Ojos-que-brillan-mp3-image.jpg", "motivo": "Mismo disco (Victor 79681 B, Ojos que brillan, Orquesta Típica Victor) ya catalogado y renombrado con otra foto en una tanda anterior; se deja para revisión manual si es duplicado a eliminar o variante a conservar."},
-  {"fileId": "18O2bQ2-rGnp7lRg7R5gGUPtDB3vMicaF", "title": "016-Retintin-mp3-image.jpg", "motivo": "Mismo disco (Victor 79670 A, Retintín, Orquesta Típica Victor) ya catalogado y renombrado con otra foto en una tanda anterior; se deja para revisión manual si es duplicado a eliminar o variante a conservar."}
+  {
+    "fileId": "1wsTYREBF9eXUKBy6_VhYUP5gn-PIoaJk",
+    "title": "15-El-Once-mp3-image.png",
+    "motivo": "Es un LP (Music Hall LP 1004-B) con dos temas en la misma cara (El once / El recodo, Carlos Di Sarli), no un disco de pasta de un solo tema. No encaja en el formato estándar de nombre."
+  },
+  {
+    "fileId": "1thMATWspVLdfUywM-6mLY0cEy7Utqrf1",
+    "title": "33-Barba-de-choclo-mp3-image.png",
+    "motivo": "LP Music Hall 33 1/3 RPM (LP 1009-A) con dos temas en la misma cara (Barba de choclo / A la luz del candil, Carlos Di Sarli), no un disco de pasta de un solo tema."
+  },
+  {
+    "fileId": "1wc9eR0jOdG7R01DtyRikt-nQ-jnAV-bV",
+    "title": "27-La-cachila-mp3-image.png",
+    "motivo": "LP Music Hall 33 1/3 RPM (LP 1007-B) con dos temas en la misma cara (La cachila / Los 33 orientales, Carlos Di Sarli), no un disco de pasta de un solo tema."
+  },
+  {
+    "fileId": "1zu1TkCFOrNGKRHMqBt5_S3hHW1_FiKE5",
+    "title": "17-Don-Juan-mp3-image.png",
+    "motivo": "LP Music Hall 33 1/3 RPM (LP 1005-A) con dos temas en la misma cara (Don Juan / El cabure, Carlos Di Sarli), no un disco de pasta de un solo tema."
+  },
+  {
+    "fileId": "1CCYFfn_RnyJ37Y2qvrP7Zb50lMgCWJdZ",
+    "title": "35-Asi-era-mi-novia-mp3-image.png",
+    "motivo": "LP Music Hall 33 1/3 RPM (LP 1009-B) con dos temas en la misma cara (Asi era mi novia / Cara sucia, Carlos Di Sarli), no un disco de pasta de un solo tema."
+  },
+  {
+    "fileId": "1fgMPu7SFf5eVc1cdZR8IvuZ_7HXI3RB0",
+    "title": "37-Mi-refugio-mp3-image.png",
+    "motivo": "LP Music Hall 33 1/3 RPM (LP 1010-A) con dos temas en la misma cara (Mi refugio / Champagne tango, Carlos Di Sarli), no un disco de pasta de un solo tema."
+  },
+  {
+    "fileId": "19TFUQcqfjDgmr4Kyr9xuoo0chk1__qTn",
+    "title": "29-Siete-palabras-mp3-image.png",
+    "motivo": "LP Music Hall 33 1/3 RPM (LP 1008-A) con dos temas en la misma cara (Siete palabras / Por el camino, Carlos Di Sarli), no un disco de pasta de un solo tema."
+  },
+  {
+    "fileId": "1eV6H4FPX1-XVk0hfX-XVPeOwU5RPciK6",
+    "title": "032-Tal-vez-sera-su-voz-mp3-image.png",
+    "motivo": "Mismo número de disco (Odeón 8065 A) que el ya catalogado como 'Tal vez será mi alcohol' (Lucio Demare), pero esta foto muestra el título principal impreso como 'TAL VEZ SERA SU VOZ' con 'Tal vez será mi alcohol' en itálica debajo y otro número de matriz (e 13130 vs e 12757). No queda claro si es una reedición con cambio de título o un error de identificación; se deja para revisión manual en vez de asumir."
+  },
+  {
+    "fileId": "1ifMLlGHGszEiCbXGvWjrHpRtGPaO8Zw2",
+    "title": "31-El-ingeniero-mp3-image.png",
+    "motivo": "LP Music Hall 33 1/3 RPM (LP 1008-B) con dos temas en la misma cara (El ingeniero / Porteña y nada más, Carlos Di Sarli), no un disco de pasta de un solo tema."
+  },
+  {
+    "fileId": "1Ure9zHSGwF1kgTFOzWVBwJLlM7qDbAbP",
+    "title": "19-El-pollito-mp3-image.png",
+    "motivo": "LP Music Hall 33 1/3 RPM (LP 1005-B) con dos temas en la misma cara (El pollito / El ciruja, Carlos Di Sarli), no un disco de pasta de un solo tema."
+  },
+  {
+    "fileId": "13CyABaMN6maZjETAGeTcKGSAeREx8qZK",
+    "title": "21-Rodriguez-Pena-mp3-image.jpg",
+    "motivo": "LP Sono Film 33 1/3 RPM (LP 1006-A) con dos temas en la misma cara (Rodriguez Peña / Nueve puntos, Carlos Di Sarli), no un disco de pasta de un solo tema."
+  },
+  {
+    "fileId": "1NC1vpJKwd2_xZnh3kh3PQPUHZYWRYYpq",
+    "title": "13-Organito-de-la-tarde-mp3-image.png",
+    "motivo": "LP Music Hall/Sono Film (LP 1004-A) con dos temas en la misma cara (El organito de la tarde / Didi, Carlos Di Sarli), no un disco de pasta de un solo tema."
+  },
+  {
+    "fileId": "1MbWp8Lapzv4Oh_iIdu4yedJyo7SXmD2K",
+    "title": "25-Cuatro-vidas-mp3-image.png",
+    "motivo": "LP Music Hall 33 1/3 RPM (LP 1007-A) con dos temas en la misma cara (Cuatro vidas / Sueño de juventud, Carlos Di Sarli), no un disco de pasta de un solo tema."
+  },
+  {
+    "fileId": "1RYyOr0Zf7b7pwc6WaBeNAnm1gZH_h_Hi",
+    "title": "026-Del-tiempo-guapo-mp3-image.jpg",
+    "motivo": "Mismo disco (Victor 39502 B, Del tiempo guapo, Troilo) ya catalogado y renombrado con otra foto; esta parece ser otra toma del mismo disco pero no se pudo comparar la calidad contra la ya renombrada para decidir si es duplicado a eliminar o variante a conservar con sufijo. Se deja para revisión manual."
+  },
+  {
+    "fileId": "1EYmch5b5kN-IrmHRt2SUWj7V2mT16647",
+    "title": "022-Miedo-mp3-image-scaled.jpg",
+    "motivo": "Mismo disco (Victor 39215 B, Miedo, D'Arienzo) ya catalogado y renombrado con otra foto en una tanda anterior; se deja para revisión manual si es duplicado a eliminar o variante a conservar."
+  },
+  {
+    "fileId": "1z6eG033EX7rStYZJtH2b3Ly0qtXinNAx",
+    "title": "019-Pebeta-linda-mp3-image.jpg",
+    "motivo": "Mismo disco (Victor 79681 A, Pebeta linda, Orquesta Típica Victor) ya catalogado y renombrado con otra foto en una tanda anterior; se deja para revisión manual si es duplicado a eliminar o variante a conservar."
+  },
+  {
+    "fileId": "1eDolh-QpondjCDkAhOPV7vjZwQE8wjv9",
+    "title": "018-Ojos-que-brillan-mp3-image.jpg",
+    "motivo": "Mismo disco (Victor 79681 B, Ojos que brillan, Orquesta Típica Victor) ya catalogado y renombrado con otra foto en una tanda anterior; se deja para revisión manual si es duplicado a eliminar o variante a conservar."
+  },
+  {
+    "fileId": "18O2bQ2-rGnp7lRg7R5gGUPtDB3vMicaF",
+    "title": "016-Retintin-mp3-image.jpg",
+    "motivo": "Mismo disco (Victor 79670 A, Retintín, Orquesta Típica Victor) ya catalogado y renombrado con otra foto en una tanda anterior; se deja para revisión manual si es duplicado a eliminar o variante a conservar."
+  },
+  {
+    "fileId": "1mDYDLyDHAefszWivfLNX_2q8CZEZfZvG",
+    "title": "064-Tu-panuelo-mp3-image-scaled.jpg",
+    "motivo": "Victor, Tu pañuelo (Vals), Juan D'Arienzo, Estribillo cantado por Héctor Mauré: el número de disco está tapado por el agujero central y una raspadura ('3_..6-B', ilegible con confianza), así que no se puede armar el nombre completo."
+  },
+  {
+    "fileId": "1yPBx--rAk7OI4Vhe4h-27DFW28s3zrxt",
+    "title": "63-Porteno-y-bailarin-mp3-image.png",
+    "motivo": "LP Music Hall 33 1/3 RPM (LP 1026-B) con dos temas en la misma cara (Porteño y bailarín / Tierra negra, Carlos Di Sarli), no un disco de pasta de un solo tema."
+  },
+  {
+    "fileId": "1c4FwXc2JvPHN2YisliR0IN_pEUbyzxCv",
+    "title": "61-Quejas-de-bandoneon-mp3-image.png",
+    "motivo": "LP Music Hall 33 1/3 RPM (LP 1026-A) con dos temas en la misma cara (Quejas de bandoneón / Caminito, Carlos Di Sarli), no un disco de pasta de un solo tema."
+  }
 ]
