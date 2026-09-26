@@ -1860,5 +1860,94 @@
     "fileId": "1vtreU2OQLvzpmwAZ2exdz65c0wG4qCWe",
     "action": "rename",
     "newTitle": "Odeón, 7638 B, Temblando (Albo Acuña - Charrúa), Pedro Laurenz y su Orquesta Típica, Canta Carlos Bermúdez, Vals.jpg"
+  },
+  {
+    "fileId": "1Mda_pHsv9kgM7sLklMbqzvBBRIBy-ZZu",
+    "action": "rename",
+    "newTitle": "Victor, 68-0173 B, Shusheta (El Aristócrata) (Enrique Cadícamo - Juan Carlos Cobián), Horacio Salgán y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1e7alfW1KnOWTsEo-JhZcvc3QvJjXNZrx",
+    "action": "rename",
+    "newTitle": "Victor, 39063 B, El Tigre Millán (Francisco Canaro), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Reynal, Tango.jpg"
+  },
+  {
+    "fileId": "15uzID2-92ROStu51PGM3XBN5mmFbFLpm",
+    "action": "rename",
+    "newTitle": "Odeón, 8055 B, Un Tango Guapo (Oscar Rome - Roberto del Pino), Lucio Demare y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1oVMzIhejhfAjNeOOUMXJUIMOrpibA_ee",
+    "action": "rename",
+    "newTitle": "Odeón, 5604 B, Alma de Bohemio (Roberto Firpo - Juan A. Caruso), Rodolfo Biagi y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1YTOPIwX4wpKqdnKrjec1IOPRInf3W8xO",
+    "action": "rename",
+    "newTitle": "Victor, 68-0173 A, Tierra Querida (Luis Díaz - Julio De Caro), Horacio Salgán y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1IZI37fDUIyVxS-MJRL5xV7atFbVX6T6l",
+    "action": "rename",
+    "newTitle": "Victor, 39313 B, Adiós Querida (C. Volpe - H. A. Salgán), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Vals.jpg"
+  },
+  {
+    "fileId": "1D9o6gMT5EXU94WSCqAc1GlOHWKyuIY1q",
+    "action": "rename",
+    "newTitle": "Victor, 79780 B, Hagan Juego, Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "1nb2-CcIrxPhNIHAgTV2WrwsuMJkYQfEo",
+    "action": "rename",
+    "newTitle": "Victor, 39790 B, De Pura Cepa (J. Ceglia), Aníbal Troilo y su Orquesta Típica, Milonga.jpg"
+  },
+  {
+    "fileId": "1MZ8axnjF2rcU5uJ6OM9Mi3y6LD0NEdM3",
+    "action": "rename",
+    "newTitle": "Victor, 39540 B, El Porteño, Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Milongón.jpg"
+  },
+  {
+    "fileId": "1E32nyDYxp0Z6UZw6GcIJr1nNjU5xwuad",
+    "action": "rename",
+    "newTitle": "Victor, 39771 B, El Chupete (A. Timarni - R. Gaudenzio), Aníbal Troilo y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1Qgg0AZkntvSPdPotUcdfXQm5LjiXN9YR",
+    "action": "rename",
+    "newTitle": "Odeón, 5622 A, Zaraza (Benjamín Tagle Lara), Rodolfo Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.png"
+  },
+  {
+    "fileId": "1qMF0x9a_wvryuClakf6xrL1y_b6VNIOM",
+    "action": "trash"
+  },
+  {
+    "fileId": "1xnStFjmMxll0gn19goAJE4ucAVKjDF36",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1NI5GM183OMh_u7_OtXy008IunX-4-aAr",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1DbRZNDaBTgDBzqh_X0ON6nGxiFlGOpHP",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1jQWhP1737yjEdx4H5UEDzWVCWqoPYI8T",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1YR4QGvY1sMGxVunbJTCZryyDu4Nz-CTn",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1q3O2AIl4FdOiZ0N7nKA0ZqxuWs_cxs6M",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
