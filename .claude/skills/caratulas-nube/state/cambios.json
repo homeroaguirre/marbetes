@@ -1741,5 +1741,79 @@
     "fileId": "1HyYrAhOu4kf3fOazN-hyuVpC19jDG7e-",
     "action": "rename",
     "newTitle": "Victor, 68-1757 A, Buenos Aires (M. Romero - M. Jovés), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Tango.png"
+  },
+  {
+    "fileId": "1GWF8ZZncOodV_BSfOnLW3FLuLRovlWI8",
+    "action": "trash"
+  },
+  {
+    "fileId": "1w-Xk4whzuFX_kYTV1MqZk60mK6lrqzIL",
+    "action": "trash"
+  },
+  {
+    "fileId": "1vIRjOI7LEASifWYsx6E70JlxYM2I0RfM",
+    "action": "trash"
+  },
+  {
+    "fileId": "1ul1STdon_FLiUT7bPo9EIBlmA-hml-Ez",
+    "action": "trash"
+  },
+  {
+    "fileId": "1OFYDm8V4uvIos3FCxp1pIG1Tvv2jgf9D",
+    "action": "trash"
+  },
+  {
+    "fileId": "1ZCT7kdiAHYEpje0L7aVIQk3pWhVKTZO_",
+    "action": "trash"
+  },
+  {
+    "fileId": "1oyZ-P7Yt7NDAskvClFjmB3McJsiykwb5",
+    "action": "rename",
+    "newTitle": "Victor, 60-0017 B, Corazón... no le hagas caso (Carlos Bahr - Armando Pontier), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Tango.jpg"
+  },
+  {
+    "fileId": "1N6VpS4ScNq4KkYFJDIoxsUrvSylBIE57",
+    "action": "rename",
+    "newTitle": "Odeón, 5625 B, Ahora... no me conocés (Armando Baliotti - Carlos Giampe), Rodolfo Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.jpg"
+  },
+  {
+    "fileId": "1r50OyNQ1ruow7i6oZovsDdY0YgEkHC9O",
+    "action": "rename",
+    "newTitle": "Odeón, 8076 B, Dos corazones (Francisco Canaro - Ivo Pelay), Lucio Demare y su Orquesta Típica, Canta Horacio Quintana, Vals.jpg"
+  },
+  {
+    "fileId": "1Sc7OyhMZjQjUbzwoMk0GOawi6h6xGsJi",
+    "action": "rename",
+    "newTitle": "Odeón, 5624 B, Cuatro palabras (Miguel Bucino), Rodolfo Biagi y su Orquesta Típica, Canta Jorge Ortiz, Vals.jpg"
+  },
+  {
+    "fileId": "1mqYmLeuroaJrRBLoEPdc7_tE9RmI-QY2",
+    "action": "rename",
+    "newTitle": "Victor, 39812 B, Pa' qué seguir (P. Lloret - F. Fiorentino), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Tango.jpg"
+  },
+  {
+    "fileId": "15ZiCWELMo7rYJDe7808agR5UHGZjhFLV",
+    "action": "rename",
+    "newTitle": "Victor, 39588 B, Consejos (Nolo López - Juan D'Arienzo), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Reynal, Tango.jpg"
+  },
+  {
+    "fileId": "1XdRINJ4SS3iwBOqUjPPPGJPHxPJohjoX",
+    "action": "rename",
+    "newTitle": "Odeón, 5625 A, Carrillón de la Merced (Enrique Santos Discépolo), Rodolfo Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.jpg"
+  },
+  {
+    "fileId": "1nBhPTBl_k9ATUCus8w_X-eeTzRfjP3tc",
+    "action": "rename",
+    "newTitle": "Victor, 39588 A, Loca (M. Jovés), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1Nd-_PHqnM5hmYrHPuNRrcCg5lORGC1LT",
+    "action": "rename",
+    "newTitle": "Odeón, 8069 A, Una emoción (Raúl Kaplún - José M. Suñé), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Tango.png"
+  },
+  {
+    "fileId": "19k1s3o37iHkYx1F4Pf6yARPuPyZ_BKMk",
+    "action": "rename",
+    "newTitle": "Odeón, 7640 A, Esta noche al pasar (Héctor Grané - Ricardo Thompson), Pedro Laurenz y su Orquesta Típica, Canta Jorge Linares, Tango.jpg"
   }
 ]
