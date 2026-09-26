@@ -1632,5 +1632,55 @@
     "fileId": "1KRcfo987tJ15YvNUbg8bTPwr30DPAwOW",
     "action": "rename",
     "newTitle": "Victor, 39472 A, Sobre el pucho (José González Castillo - Sebastián Piana), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "1nnWVbE6vbcftrPhEwoy_g1biWlRFpc5F",
+    "action": "rename",
+    "newTitle": "Victor, 39675 A, La tablada (Francisco Canaro), Aníbal Troilo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1xsJP_QMva9FALnolG1nPrywR6XeNrFS1",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1NNhtx8caLpSav1FeW7uhVd5EVXpmeuFf",
+    "action": "rename",
+    "newTitle": "Odeón, 5619 B, La marca de fuego (Juan Maglio \"Pacho\"), Rodolfo Biagi y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1_UZAVQc6MuvpUUo7DIc4TAtuCB-pZ2P9",
+    "action": "rename",
+    "newTitle": "Victor, 39438 B, Carnavalera (Homero Manzi - Sebastián Piana), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Milonga.jpg"
+  },
+  {
+    "fileId": "1WudixlAWz916o2FfObF-QpXhXzS23iHw",
+    "action": "rename",
+    "newTitle": "Victor, 79757 B, Horas fugaces (R. Arancibia Rodríguez), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "13dTuaLAy9Bdxx0I6ACgP_noJzVfyCscE",
+    "action": "rename",
+    "newTitle": "Odeón, 8068 B, Palomita mía (Carlos Viván - Horacio Sanguinetti), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Tango.png"
+  },
+  {
+    "fileId": "1CyjdaxkwChigzqjmmT0u8H8ShQZjdBKM",
+    "action": "rename",
+    "newTitle": "Victor, 39438 A, Orquesta típica (E. Cadícamo - R. Luna), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Reynal, Tango.jpg"
+  },
+  {
+    "fileId": "1xohkil7rNc3Np2zJ4rolmHWIwT14qcCd",
+    "action": "rename",
+    "newTitle": "Victor, 39431 A, Don Juan (R. Podestá - E. Ponzio), Carlos Di Sarli y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1MLUg49pBSchXzZCD9JbfaKBxvE7A-s1X",
+    "action": "rename",
+    "newTitle": "Odeón, 7634 A, Maldonado (Alberto Mastra), Pedro Laurenz y su Orquesta Típica, Canta Alberto Podestá, Milonga.jpg"
+  },
+  {
+    "fileId": "1ohn2N9i4d0NlLKVmPiblKMgrbSKljRJd",
+    "action": "rename",
+    "newTitle": "Victor, 79757 A, Trapo viejo (A. Magaldi - P. Noda), Orquesta Típica Victor, Tango.jpg"
   }
 ]
