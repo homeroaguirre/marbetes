@@ -1954,5 +1954,234 @@
     "fileId": "1mkJJf_P4ONF9EA3a0yk40as164p-yZYx",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1M7TCC36jnEh-b65ZzANfnpObvu3D05DE",
+    "action": "rename",
+    "newTitle": "Odeón, 7634 B, Todo (Hugo Guerrez - Homero Expósito), Pedro Laurenz y su Orquesta Típica, Canta Alberto Podestá, Tango.jpg"
+  },
+  {
+    "fileId": "1s_wXngBjB793xFsyxDetgcd_SEJKJB_D",
+    "action": "rename",
+    "newTitle": "Victor, 39431 B, El Cielo en tus Ojos (F. Bohigas - F. Pracánico), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Tango.jpg"
+  },
+  {
+    "fileId": "1DwcSgNa9HlMkJUxsblXgaAqq7u97spy2",
+    "action": "rename",
+    "newTitle": "Odeón, 8069 B, Al Pasar (Raúl Iglesias - Juan B. Gatti), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Tango.jpg"
+  },
+  {
+    "fileId": "1kwmt2PbgdtoEbkhC_Qpe4s9iV5KaDuZ_",
+    "action": "rename",
+    "newTitle": "Victor, 79769 A, Coralito (R. Mailles), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "1m3KgRao9rTEUHjxY1bIWjjVKpC6GJQRs",
+    "action": "rename",
+    "newTitle": "Victor, 39462 B, La Mulateada (C. Pesce - J. Del Puerto), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Milonga.png"
+  },
+  {
+    "fileId": "16rIkIeCa0UN7_O9zpDljXaRyv2DYWuvK",
+    "action": "rename",
+    "newTitle": "Victor, 39472 B, La Serenata de Ayer (I. R. Aguilar - M. Buzón), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Vals.jpg"
+  },
+  {
+    "fileId": "1ORxEwexY2-M1o2Dd55H_Nqh1pV0S--Hf",
+    "action": "rename",
+    "newTitle": "Odeón, 7635 B, Como el Hornero (Manuel Sucher - José Otulo), Pedro Laurenz y su Orquesta Típica, Canta Alberto Podestá, Tango.jpg"
+  },
+  {
+    "fileId": "1tV3ZCFA90IbZ6Al-PhN2Cgs6whhjy1yA",
+    "action": "rename",
+    "newTitle": "Victor, 79769 B, Linda (L. F. Olivari), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "14aEYuedRQelZou0IEsveuh6urYXY-Udc",
+    "action": "rename",
+    "newTitle": "Odeón, 5618 B, Re-Fa-Si (Enrique Delfino), Rodolfo Biagi y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1WDoNU6EPEAM3xz4I-DkudaFliGAKilku",
+    "action": "rename",
+    "newTitle": "Victor, 39491 A, El Recodo (Alejandro Junnissi), Carlos Di Sarli y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1SnQU-Ukj_gJ54iDj9F-Au9R2pnJ4-p48",
+    "action": "rename",
+    "newTitle": "Odeón, 7636 A, El Criollito Oriental (Alberto Mastra), Pedro Laurenz y su Orquesta Típica, Canta Alberto Podestá, Milonga.jpg"
+  },
+  {
+    "fileId": "1NLZoG-N03_CR3pHp9a1wH05HQP183gdX",
+    "action": "rename",
+    "newTitle": "Victor, 39485 A, Infamia (Enrique S. Discépolo), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "1rzHdJD8uM98Kk70hlg6vuISTI7GtCgg0",
+    "action": "rename",
+    "newTitle": "Victor, 39718 B, Pedacito de Cielo (H. Expósito - E. Francini - H. Stamponi), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Vals.jpg"
+  },
+  {
+    "fileId": "1E09Etxy_G5XJQBT9uz9XFBfhwkGxFNhf",
+    "action": "rename",
+    "newTitle": "Victor, 39491 B, Zorzal (Dorita Zárate), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Milonga.jpg"
+  },
+  {
+    "fileId": "1K7HioTLDXKNrp4vi-t2WaC-kEzej72f3",
+    "action": "rename",
+    "newTitle": "Odeón, 5620 B, El Entrerriano (Rosendo Mendizábal), Rodolfo Biagi y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1unvecVI1sJ4jBwT_v9GYKxUJvj_5RT0B",
+    "action": "rename",
+    "newTitle": "Victor, 39485 B, El Vals de los Abuelos (Luis Rubistein), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Vals.jpg"
+  },
+  {
+    "fileId": "1JNh_SXC0aDIV4Wp9SoOha5g-7QdlZrKM",
+    "action": "rename",
+    "newTitle": "Odeón, 7636 B, Muchachos... Mi Último Tango (Titi Ross - Ricardo Tempone), Pedro Laurenz y su Orquesta Típica, Canta Alberto Podestá, Tango.jpg"
+  },
+  {
+    "fileId": "1ArNGJ3wIrfYDWbJ5TSbLCDnZw6ukZIak",
+    "action": "rename",
+    "newTitle": "Victor, 39718 A, Tristezas de la Calle Corrientes (H. Expósito - D. S. Federico), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Tango.jpg"
+  },
+  {
+    "fileId": "1KOLNm_psJ28dnmF14TFMV9pi1MhbWMGu",
+    "action": "rename",
+    "newTitle": "Odeón, 7637 A, Más Solo que Nunca (Federico Leone - Enrique Dizeo), Pedro Laurenz y su Orquesta Típica, Canta Carlos Bermúdez, Tango.jpg"
+  },
+  {
+    "fileId": "10VcaQDoy00jA9W4kxQ1l99pyO_IX0ap2",
+    "action": "rename",
+    "newTitle": "Victor, 39744 A, No Te Apures Carablanca (C. Bahr - R. Garza), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Tango.jpg"
+  },
+  {
+    "fileId": "1eSiaH4BW8Ar8ay4zv-Lt4Hdjv-L9U7Qr",
+    "action": "rename",
+    "newTitle": "Victor, 79775 A, Triste Payaso (P. Vergés), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "16asE_Shx74lFaLSkj23J_zC-zqFoBDzi",
+    "action": "rename",
+    "newTitle": "Odeón, 5621 A, Humillación (Rodolfo Biagi - Carlos Bahr), Rodolfo Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.png"
+  },
+  {
+    "fileId": "1W8jWALxU_d_0IdfgLU6r7EMNKVdJpy9o",
+    "action": "rename",
+    "newTitle": "Victor, 39516 A, El Calabozo (Augusto Gentile), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1VhBz9ka6PGtTdHUiihYGSr6fLp9eNkoo",
+    "action": "rename",
+    "newTitle": "Victor, 39539 A, El Paladín (A. Bardi), Carlos Di Sarli y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1yL5sczQCq05K3EMQGM2D4MjCiEOoNGMO",
+    "action": "rename",
+    "newTitle": "Victor, 39516 B, Cuatro Palabras (Miguel Bucino), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Vals.jpg"
+  },
+  {
+    "fileId": "1f2KarZo4TAbb0jGu1qBAWNsNpJK4deYM",
+    "action": "rename",
+    "newTitle": "Victor, 39744 B, Ficha de Oro (E. Dizeo - C. Di Napoli), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Milonga.jpg"
+  },
+  {
+    "fileId": "1Ap9Z2HGxKF9QOdNeBQmd2dTaXaVWKjHy",
+    "action": "rename",
+    "newTitle": "Victor, 39539 B, Y Hasta el Cardo Tiene Flor (C. Escobar), Carlos Di Sarli y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "16sRTxTkjsQwNAXSAMki9NPCy0pfbQptn",
+    "action": "rename",
+    "newTitle": "Victor, 79775 B, María Cristina (E. Armani), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1Zteu6jVSDMTlWxiS7ipsWMfuOs4o0chL",
+    "action": "rename",
+    "newTitle": "Odeón, 7637 B, Llueve Otra Vez (Nan J. Guichandut), Pedro Laurenz y su Orquesta Típica, Canta Carlos Bermúdez, Tango.jpg"
+  },
+  {
+    "fileId": "19hhNjwrUiBzK-VAXldLtxql8n-sllUd3",
+    "action": "rename",
+    "newTitle": "Victor, 39540 A, El Resero (R. Petillo), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "17hp1mtu2OngE3quSzeI38nhGRkhIHGb2",
+    "action": "rename",
+    "newTitle": "Victor, 39790 A, La Maleva (A. Buglione), Aníbal Troilo y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1XZNjQNV_G6n6-gD6o-vfLIfDo4AfuAVd",
+    "action": "rename",
+    "newTitle": "Odeón, 7638 A, La Madrugada (Ángel Maffia - Cátulo Castillo), Pedro Laurenz y su Orquesta Típica, Canta Carlos Bermúdez, Tango.jpg"
+  },
+  {
+    "fileId": "1EIscufZrhR49tU8diJNru63VRUGhMNoE",
+    "action": "rename",
+    "newTitle": "Victor, 39520 B, Lo Mismo que Antes (J. M. Contursi - C. Ortiz), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Tango.jpg"
+  },
+  {
+    "fileId": "1RhkIjLV2myHf3bUw-Ek9T3E9tYc20rVR",
+    "action": "rename",
+    "newTitle": "Victor, 79780 A, Lazos de Seda (A. Tanfuri), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "13dPfecM0T5VE4mrRm2jWk76iawsc73LY",
+    "action": "trash"
+  },
+  {
+    "fileId": "140XI39KlRDkPgOq_QYbyhxBGkPCA8kCt",
+    "action": "trash"
+  },
+  {
+    "fileId": "1O5X2flfUilZ51UqUa8ke8ig5Q6eVC1Dv",
+    "action": "trash"
+  },
+  {
+    "fileId": "18gmjOsJvSlbAorzxSsI0dxDoEyVOlqq1",
+    "action": "trash"
+  },
+  {
+    "fileId": "1dkiI95lkX5grjQLaIBJ8Rc4NfNcBGdwj",
+    "action": "trash"
+  },
+  {
+    "fileId": "1LKQ2HXCUSfjcDkxTWwDiXEWQbsUbEAgn",
+    "action": "trash"
+  },
+  {
+    "fileId": "1NDyH1VamT7S2vF3B39JGlK_CjiLaKSbB",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1nvjhoVSJDEjyE1sVvpPIvJmrSOeQnDgi",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1jUgN67JTglhlF1fj7liZ7SHtymShDZvJ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "13sd9semtJs7GMuiSqbBzvIUPcGGvLHzG",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1MkRc7twJbfYhsHO-vltN36bU-vzm1jnm",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1CvRrf0-KduFxv6DHfrP4TNyiOqncGkg8",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1vUeCLTMscYyFRelZp4c24FDGzrSy9EVI",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
