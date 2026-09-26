@@ -124,5 +124,20 @@
   {"fileId": "1ViRcLTiSSKLIRzMUnsoAyPCMd8ZGd67I", "action": "rename", "newTitle": "TK, S-5242 A, Nueve de Julio (9 de Julio) (Eugenio Cárdenas - Lito Bayardo - José Luis Padula), Horacio Salgán y su Gran Orquesta Típica, Tango.png"},
   {"fileId": "1svRLkUMMKgcmixOtGJUCSGcYDuT66fRu", "action": "rename", "newTitle": "Victor, 39362 A, El olivo (N. Cabral - A. Scatasso y J. D. Vivas), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"},
   {"fileId": "1z14y2DS0QdDnLDqm_ZkUTLhnHknjPQ7K", "action": "rename", "newTitle": "Victor, 39362 B, Humillación (C. Bahr - R. Biagi), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"},
-  {"fileId": "1TcP-Ethr83wQiw2NVfmY370Q8hS01c-Y", "action": "trash"}
+  {"fileId": "1TcP-Ethr83wQiw2NVfmY370Q8hS01c-Y", "action": "trash"},
+  {"fileId": "1Ure9zHSGwF1kgTFOzWVBwJLlM7qDbAbP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "13CyABaMN6maZjETAGeTcKGSAeREx8qZK", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1NC1vpJKwd2_xZnh3kh3PQPUHZYWRYYpq", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1MbWp8Lapzv4Oh_iIdu4yedJyo7SXmD2K", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ttXYZAQgEZLvZI5LpVdxc3U3Nyn9cHJ2", "action": "rename", "newTitle": "Odeón, 8064 B, Chatero de aquel entonces (Julián Ortiz - Luis J. Mejías), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Milonga.png"},
+  {"fileId": "1QsigQ8rxaEigzDBm6wDXdqYaWdQfNjsM", "action": "rename", "newTitle": "Victor, 39266 A, El estagiario (M. A. Lasala - Alvarez), Carlos Di Sarli y su Orquesta Típica, Tango.png"},
+  {"fileId": "1p0mQoeZbU1qr7czcVP3gAoEm77aUKJ8m", "action": "rename", "newTitle": "Victor, 39582 A, Mi castigo (C. Vedani - J. Sanders), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.jpg"},
+  {"fileId": "1Nv7WJw3llDP06ixLHeG29dEn26d9JStP", "action": "rename", "newTitle": "Odeón, 7630 A, Alma de bohemio (Roberto Firpo - Juan A. Caruso), Pedro Laurenz y su Orquesta Típica, Canta Alberto Podestá, Tango.jpg"},
+  {"fileId": "1lySpFYHnoaqFrW-OGHWaigf9VcVsUvkq", "action": "rename", "newTitle": "Odeón, 5613 B, El Aguarón, Rodolfo A. Biagi y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1jgtieMG2y-I2RiAj6zD3A-ATE7_xMHOF", "action": "rename", "newTitle": "Victor, 79708 A, Rayito (A. Lacueva), Orquesta Típica Victor, Tango.png"},
+  {"fileId": "1hJxo32xWPvttHs6zfpydhnuhorDAb68b", "action": "trash"},
+  {"fileId": "1eVESURm5tWQPufRFrU7_ycsCSNjezgmk", "action": "rename", "newTitle": "Victor, 39295 A, Bien frappé (H. Marcó - C. Di Sarli), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Tango.png"},
+  {"fileId": "1ay66dGq0SGRqSaB3tf2HMRlCXHfdtTgy", "action": "trash"},
+  {"fileId": "1tUr1BZZzzGykjfJpXQfzsNXsDTZAkBzH", "action": "rename", "newTitle": "Victor, 60-0063 A, Nunca tuvo novio (E. Cadícamo - A. Bardi), Pedro Laurenz y su Orquesta Típica, Canta Alberto Podestá, Tango.jpg"},
+  {"fileId": "1qlWSmmLyFPPF-v2JXafPFK1081QpI9Xi", "action": "rename", "newTitle": "Victor, 39519 B, C.T.V. (Agustín Bardi), Aníbal Troilo (Pichuco) y su Orquesta Típica, Tango.jpg"}
 ]
