@@ -153,5 +153,15 @@
   {"fileId": "1Wn38-bna12HrkLaVHPH1Im3bboT4R0_Z", "action": "rename", "newTitle": "Victor, 39806 A, María Remedios (C. Pesce - L. Teisseire), Pedro Laurenz y su Orquesta Típica, Canta A. Fuentes, Vals.jpg"},
   {"fileId": "1x3kpXXgbW3EgT5YgUchxbvXKH3GsjaVX", "action": "rename", "newTitle": "Victor, 39266 B, Mi refugio (N. Córdoba - J. C. Cobián), Carlos Di Sarli y su Orquesta Típica, Tango.jpg"},
   {"fileId": "1qmEdzovX9sdBdTDmwJRlrFcNIA9nhCBv", "action": "rename", "newTitle": "Victor, 79696 A, Solterona (D'Agostino - Pollero), Orquesta Típica Victor, Tango.png"},
-  {"fileId": "1qEwdH_NxbtVY943oD1Jqp_OtvHMtxS6d", "action": "rename", "newTitle": "Victor, 39297 A, Dime mi amor (M. Romero - R. Sciammarella), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"}
+  {"fileId": "1qEwdH_NxbtVY943oD1Jqp_OtvHMtxS6d", "action": "rename", "newTitle": "Victor, 39297 A, Dime mi amor (M. Romero - R. Sciammarella), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"},
+  {"fileId": "1RUEmZK_uGEd5OHRJVjc311XtHf6MvTf6", "action": "trash"},
+  {"fileId": "1yxBb7v4XklJarH1f9WAtzzVxStN-oLXO", "action": "rename", "newTitle": "Odeón, 5612 A, El estribo (Vicente Greco), Rodolfo A. Biagi y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1zaOGTtXc87pEHKxi5gqtm-a1Q1_3cNRW", "action": "trash"},
+  {"fileId": "1QulHHsbwhOjYK85vqWjdlfiKn9u2kGZl", "action": "trash"},
+  {"fileId": "1pwVTAM-Y9_k9s2EOTpXKG8nDR5B2VtJj", "action": "rename", "newTitle": "Odeón, 8062 B, No nos veremos más (Lucio Demare - Alfredo Navarrine), Lucio Demare y su Orquesta Típica, Canta Raúl Berón, Tango.jpg"},
+  {"fileId": "1PMEHO46cVM6NGsQkDXFm943SJH4oaQXz", "action": "rename", "newTitle": "Victor, 39247 A, La cachila (E. Arolas), Carlos Di Sarli y su Orquesta Típica, Tango.png"},
+  {"fileId": "1DqfF95YLSUBbCflKNkxsqnBU90KS1e1z", "action": "trash"},
+  {"fileId": "1N725KtVXvDgVRDMB70tT7giXecz16JCU", "action": "rename", "newTitle": "Victor, 39765 B, Chatero de aquel entonces (Luis J. Mejías - Julián Ortiz), Pedro Laurenz y su Orquesta Típica, Canta Juan Carlos Casas, Milonga.jpg"},
+  {"fileId": "1pMQHmjKBLp8wEhaBC6Dp5PTTbP8YFtua", "action": "rename", "newTitle": "Odeón, 5611 B, El último adiós (Juan Santini - Nicolás Afrimani), Rodolfo A. Biagi y su Orquesta Típica, Canta Andrés Falgás, Tango.jpg"},
+  {"fileId": "1RYyOr0Zf7b7pwc6WaBeNAnm1gZH_h_Hi", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
