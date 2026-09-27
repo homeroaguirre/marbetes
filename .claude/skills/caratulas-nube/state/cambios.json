@@ -4277,5 +4277,55 @@
     "fileId": "13FJD7vgAy812pYcC7j2ZgmNW5tofiIVf",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1HUpOJ26V97fXeD_xe1a1BUyLQZIu7K_Z",
+    "action": "rename",
+    "newTitle": "Victor, 60-0629 A, Fantasma (C. Castillo - E. Delfino), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.jpg"
+  },
+  {
+    "fileId": "1OJ20S-UxEPoimZb8TY4JQV13kuoF9QIm",
+    "action": "rename",
+    "newTitle": "Victor, 60-0612 B, Mi piano (Lito Bayardo - E. Barbato), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.jpg"
+  },
+  {
+    "fileId": "1s93uKkxrOjSLOpgk05DWyKE1umBLrxlN",
+    "action": "rename",
+    "newTitle": "Victor, 60-0573 B, Siempre... siempre (O. Rubens - Haydée Villanueva), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.jpg"
+  },
+  {
+    "fileId": "1aY6LHkHoPBJhYvWLWNKgdS5Y6JF23h9e",
+    "action": "rename",
+    "newTitle": "Victor, 47201 B, Flor y truco (S. De Rosas), Orquesta Típica Victor, Ranchera.jpg"
+  },
+  {
+    "fileId": "1stnZKKkixVMRBgUCCRiK8Y0_yFqnMZyI",
+    "action": "rename",
+    "newTitle": "Victor, 60-0683 A, Sígueme, si puedes (J. Caldarella - A. Scarpino), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1syGKbIRR9E4jbRxElVhkUx0Ofvf-Mw-R",
+    "action": "rename",
+    "newTitle": "Victor, 60-0485 B, Nana (C. Castillo - B. Barbato - F. Lipesker), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.png"
+  },
+  {
+    "fileId": "1CBv981b-xJaC1GtlDMy4-zdTkLN71fVj",
+    "action": "rename",
+    "newTitle": "Victor, 60-1151 A, Yo no sé llorar (C. Flores - J. Do Reyes), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe y Armando Laborde, Tango.jpg"
+  },
+  {
+    "fileId": "1sN_uTWFKB9lr74PN2nh29pWfPMBxPOhI",
+    "action": "rename",
+    "newTitle": "Victor, 60-1151 B, Calandria pampa (G. Medina - M. Fama), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Milonga.jpg"
+  },
+  {
+    "fileId": "1G_GMlig63j4V07krd9b3iMDiUK20JW5L",
+    "action": "rename",
+    "newTitle": "Victor, 60-1104 B, Tiene razón, amigazo (E. Dizeo - A. Calabró), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Tango.jpg"
+  },
+  {
+    "fileId": "1wPREQR658u5O0Pa3l_lqntk6C4_IDYRa",
+    "action": "rename",
+    "newTitle": "Victor, 60-1104 A, La canción de mi tristeza (H. Sanguinetti - J. Sánchez Gorio), Juan D'Arienzo y su Orquesta Típica, Canta Armando Laborde, Tango.jpg"
   }
 ]
