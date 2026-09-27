@@ -2985,5 +2985,52 @@
     "fileId": "1EjjdE90MGVtHDH75vkxTUXGExepdIHqZ",
     "action": "rename",
     "newTitle": "Victor, 60-0406 B, Bien porteño (A. A. Barbera - G. Surif), Aníbal Troilo (Pichuco) y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1XAJnQx28xDi1-x_bKsEqUUQJR4UAzRFK",
+    "action": "trash"
+  },
+  {
+    "fileId": "1O6Z3cZmKiKDDdEwg10E3xRCsgcONiAfA",
+    "action": "rename",
+    "newTitle": "Victor, 79953 A, El alma del tango (J. M. González - Luis Viapiana), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "108acZMQx8Qntak6wpc4C8fSq0KhRyY9L",
+    "action": "rename",
+    "newTitle": "Odeón, 5644 B, Lisón (José Ranieri - Julián Centeya), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.png"
+  },
+  {
+    "fileId": "1sC2io6HUODbdFWt49BBdSOBfmsZThdeq",
+    "action": "rename",
+    "newTitle": "Victor, 60-0230 B, Yo quiero cantar un tango (J. M. Suñé - J. Nieso - M. Nijensohn), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "14CY1pELUwi4heh95--WuzlKOXF3_-Udj",
+    "action": "trash"
+  },
+  {
+    "fileId": "1vbwgfIyZPIJ2muvtNsTcYqkpyEgndscw",
+    "action": "rename",
+    "newTitle": "Victor, 79953 B, En la cárcel (L. F. Olivari), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1Ma0e-nkaSvuEQ2X1GOttWQxRpyik1XUu",
+    "action": "rename",
+    "newTitle": "Odeón, 5644 A, Nada (José Dames - Horacio Sanguinetti), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.jpg"
+  },
+  {
+    "fileId": "1Zxqb5HJrwCC_c0Qk_hpqW9wwV5CVRpAg",
+    "action": "trash"
+  },
+  {
+    "fileId": "1GsrVWf-gB6ul4hQqSuV2XbdYIUNAILmr",
+    "action": "rename",
+    "newTitle": "Victor, 60-0400 A, Sombras... nada más (J. M. Contursi - F. J. Lomuto), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.png"
+  },
+  {
+    "fileId": "1fwOWl7xqSCsbBH9SS5KV5T-fdOKSxLPK",
+    "action": "rename",
+    "newTitle": "Victor, 60-0260 A, Uno (E. S. Discépolo - M. Mores), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
   }
 ]
