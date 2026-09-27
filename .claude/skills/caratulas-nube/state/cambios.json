@@ -3442,5 +3442,48 @@
     "fileId": "1kaBa4MI2H8wRoVKyFhS1DoIE0UnEp71o",
     "action": "rename",
     "newTitle": "Victor, 39082 A, Un amor (L. Rubistein - M. Maurano y A. Malerba), Osvaldo Fresedo y su Orquesta Típica, Canta Ricardo Ruiz, Tango.jpg"
+  },
+  {
+    "fileId": "1ikcsiHjDM-V8NFJgOt11Fk_VPLg6ylD_",
+    "action": "rename",
+    "newTitle": "Victor, 39082 B, Alas (A. F. Roldán - V. Demarco), Osvaldo Fresedo y su Orquesta Típica, Canta Ricardo Ruiz, Tango.jpg"
+  },
+  {
+    "fileId": "1NLbBWrouyrnyeHaF5BCkTQ52lU_ins-G",
+    "action": "rename",
+    "newTitle": "Victor, 60-0427 B, El apache argentino (Manuel G. Aróztegui), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1rFHMpc5YTe8FqP-FZlqf0gOGgAmz5RsG",
+    "action": "trash"
+  },
+  {
+    "fileId": "17J1-My_UqmWO8CBJ12UiEPnpeB_cuiYy",
+    "action": "rename",
+    "newTitle": "Victor, 80100 A, El matrero (A. Carrera), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1qhSULKkFv7FnywPGLz913aJmWBp0haXY",
+    "action": "trash"
+  },
+  {
+    "fileId": "14h_EE8U1mx22Qy0KF15TOptagAIIVaBz",
+    "action": "rename",
+    "newTitle": "Victor, 60-0554 B, Marioneta (A. Taggini - J. J. Guichandut), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Floreal Ruiz, Tango.png"
+  },
+  {
+    "fileId": "1Un1di2x3kMFE4_LYMLbholEAYLiluF_Q",
+    "action": "rename",
+    "newTitle": "Odeón, 5651 B, Tu melodía (Oscar Rubens - Alberto Suárez Villanueva), Rodolfo A. Biagi y su Orquesta Típica, Canta Jorge Ortiz, Vals 3.png"
+  },
+  {
+    "fileId": "1bAYIfZXhKMV3rJSFcBoh7uir7KM3vLwf",
+    "action": "rename",
+    "newTitle": "Odeón, 5652 A, Cuando se ha querido mucho (Federico Leone - Enrique Dizeo), Rodolfo A. Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.png"
+  },
+  {
+    "fileId": "1IIcxCCjvZgq9gnFrK7VJKRT8weSZtr2t",
+    "action": "rename",
+    "newTitle": "Victor, 60-0449 A, Las doce (Nolo López - Juan D'Arienzo), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
   }
 ]
