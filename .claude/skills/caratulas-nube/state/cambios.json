@@ -3950,5 +3950,51 @@
     "fileId": "1ydHwLn8Jsco3Co6XI-sd5x5T2ZJWa30U",
     "action": "rename",
     "newTitle": "Victor, 80894 A, Una tirada (Domingo Greco), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1GqUneyqwlH4GZRDilcONNkUc5bNl1jsb",
+    "action": "trash"
+  },
+  {
+    "fileId": "1VEgxxN998PMOPQo3ggg3K9dnK7nXQxK3",
+    "action": "rename",
+    "newTitle": "Victor, 80897 A, Arrullos de bandoneón (E. Pereyra), Orquesta Argentina Victor, Tango.png"
+  },
+  {
+    "fileId": "1P7rimgCa7awYEi8SaWHFoy8XWz42mqj9",
+    "action": "trash"
+  },
+  {
+    "fileId": "1AtrFezo3d8Hv-isX0bv-qOi2UIFM9B-B",
+    "action": "rename",
+    "newTitle": "Victor, 80897 B, Letargo (M. Ángel Massini), Orquesta Argentina Victor, Tango.png"
+  },
+  {
+    "fileId": "1O-tExhhSqR2uJmf21UREwSShcvmQb4Vu",
+    "action": "trash"
+  },
+  {
+    "fileId": "1C5gXn_tIAKz03Hyn064QInBcs5qSs441",
+    "action": "rename",
+    "newTitle": "Victor, 80894 B, Alas caídas (Orlando Urruspuru), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1APlKeidS4H3s6h2E4Cza0d5VcwYSIVw6",
+    "action": "rename",
+    "newTitle": "Victor, 60-0602 A, Color cielo (Montenieve - A. Bonavena), Juan D'Arienzo y su Orquesta Típica, Canta Armando Laborde, Tango.jpg"
+  },
+  {
+    "fileId": "1hfsSbQoX4GwXy7gke2SnPK72DvBsvGSP",
+    "action": "trash"
+  },
+  {
+    "fileId": "1ZKk8l0_Ny4scFs37SqF0klS0zbtR2bbk",
+    "action": "rename",
+    "newTitle": "Victor, 60-0717 A, La noche que te fuiste (J. M. Contursi - Osmar Maderna), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Floreal Ruiz, Tango.png"
+  },
+  {
+    "fileId": "1Jym5Q_RH8lkLjSI-XR28E3sXxGfjGELd",
+    "action": "rename",
+    "newTitle": "Victor, 38916 B, Luna (Sandalio Gómez - Osvaldo Donato), Edgardo Donato y sus Muchachos, Canta Morales - Lagos - Gavio, Vals.jpg"
   }
 ]
