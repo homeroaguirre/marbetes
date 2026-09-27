@@ -3210,5 +3210,51 @@
     "fileId": "1AjhRs6jU5h9zT9wk1iTWzkJNvCiEH8cQ",
     "action": "rename",
     "newTitle": "Odeón, 5648 A, Magdala (Rodolfo Biagi - Francisco Gorrindo), Rodolfo A. Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.jpg"
+  },
+  {
+    "fileId": "16Wqb2FmSMWYGQhcb0VfpUj_yY1sPtefE",
+    "action": "trash"
+  },
+  {
+    "fileId": "1EAOovRGngi-O3y5rvN5kGUWY79Hs1zYB",
+    "action": "trash"
+  },
+  {
+    "fileId": "19imKdci8VO4ZHRoqAeuwqNpqC0h00kN7",
+    "action": "rename",
+    "newTitle": "Victor, 79965 A, Pancho Talero (S. Granata), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1qfPODQbBG4a2S1VcMq8fP9ovUTSN1Dpo",
+    "action": "rename",
+    "newTitle": "Victor, 60-0302 B, Seguime corazón (J. Fernández Blanco - B. Suárez), Juan D'Arienzo y su Orquesta Típica, Canta Juan Carlos Lamas, Tango.jpg"
+  },
+  {
+    "fileId": "1Pzr5oLGbKRJk9joV19GW4PrrKINdWKsr",
+    "action": "rename",
+    "newTitle": "Victor, 60-0329 A, A Mercedes (V. Juan Clauso - Hugo Gutiérrez), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Vals.jpg"
+  },
+  {
+    "fileId": "1GxG4SVPXIv_gMaXPqbCJ8CLjnr78A5dn",
+    "action": "rename",
+    "newTitle": "Victor, 38964 A, Careta, careta (Emilio y Osvaldo N. Fresedo), Osvaldo Fresedo y su Orquesta Típica, Canta Carlos Mavel, Tango.jpg"
+  },
+  {
+    "fileId": "1zW_2OfHhcYmhoKUAUkBVXRx8laoZSDTg",
+    "action": "trash"
+  },
+  {
+    "fileId": "1X2_HW5eC80RTUr1Sz6blYx-VPp1Tsund",
+    "action": "rename",
+    "newTitle": "Victor, 79965 B, Mala yerba (Vicente Urroso), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1LNOlLdLVys4v86CvozRIF_BROqEAkLZT",
+    "action": "trash"
+  },
+  {
+    "fileId": "1igbc5qXvB9MP2ep1QPtO-syn0KB2EqiJ",
+    "action": "rename",
+    "newTitle": "Victor, 60-0519 A, Rosa de tango (Luis Rubistein), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.png"
   }
 ]
