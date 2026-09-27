@@ -2938,5 +2938,52 @@
     "fileId": "1amV7yQcmrFQlBGfsLs8aAeBuJbpP_Prg",
     "action": "rename",
     "newTitle": "Victor, 79950 A, Viejo amor (I. Pittaluga), Orquesta Argentina Victor, Tango.png"
+  },
+  {
+    "fileId": "1b7M5Bu9utAlcdW_urVdFwn8dUQF4TFuh",
+    "action": "trash"
+  },
+  {
+    "fileId": "1oRXc7NDSeqbyKYwLeqQMgbT5o-oLMRfZ",
+    "action": "rename",
+    "newTitle": "Victor, 79950 B, Don Juan (E. Ponzio), Orquesta Argentina Victor, Tango.png"
+  },
+  {
+    "fileId": "10oF6koykooVdlRxobWjfB9v3fozcXutB",
+    "action": "rename",
+    "newTitle": "Victor, 60-0230 A, Aguilucho (A. Roldán - Helena A. C. de Leporace), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "1FAmOcqR_damjY2dW42kHPIieSXntFabF",
+    "action": "trash"
+  },
+  {
+    "fileId": "1RjO1V27zin6tgpal8KTMaDPFvAfOAJRO",
+    "action": "rename",
+    "newTitle": "Victor, 79944 B, Puesta de sol (F. Frontera), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1AJUTID62G6r55lgie-yi3VNzldhSlGSo",
+    "action": "rename",
+    "newTitle": "Odeón, 5643 B, Sueño de juventud (Enrique S. Discépolo), Rodolfo A. Biagi y su Orquesta Típica, Canta Carlos Acuña, Vals.png"
+  },
+  {
+    "fileId": "1vJnRF3oTuNPX3Ho6zTRx0NuUsGrhcEPh",
+    "action": "rename",
+    "newTitle": "Victor, 60-0416 B, Temblando (Charrúa - A. H. Acuña), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Vals.jpg"
+  },
+  {
+    "fileId": "1G8uzgP4DTw2ihM_IkUEHVsAoqypYpXNk",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1PmwmGOT-3lfjDTIcA8FBhveZjmeABymn",
+    "action": "trash"
+  },
+  {
+    "fileId": "1EjjdE90MGVtHDH75vkxTUXGExepdIHqZ",
+    "action": "rename",
+    "newTitle": "Victor, 60-0406 B, Bien porteño (A. A. Barbera - G. Surif), Aníbal Troilo (Pichuco) y su Orquesta Típica, Tango.png"
   }
 ]
