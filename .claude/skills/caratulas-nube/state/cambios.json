@@ -348,5 +348,55 @@
     "fileId": "11uR_c4e1sV53xidS5OsID2zSRtLYWQ7a",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "18-dj6LPXUBv_r99A5zV7HBX71W8mFkhj",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4507 B, Pobre gaucho (R. M. Perez), Orquesta Típica F. Canaro, Tango 2.jpg"
+  },
+  {
+    "fileId": "1CA6Oml5dB9yCcTj7aqnAE4N-Gva82b83",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4580 B, Piuma al vento (Ed Ponzio), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1-yDqIurBaQw-qtufYG12mUYUpWrdw0fh",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4580 A, Misa de once (J. A. Guichandut), Orquesta Típica F. Canaro, Selec. para el Gran Premio de Honor de 1929, Tango.jpg"
+  },
+  {
+    "fileId": "1JrTfjT7EEDHE1qskZzSqEQe3p7hE3n4P",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4728 B, Rosita (Cesar Ciociano), Francisco Canaro y su Orquesta Típica, Con estribillo, Fox trot.jpg"
+  },
+  {
+    "fileId": "1ydvgarQ5FKiXs8Kz2sxFFaPi8jN8f4qW",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4303 B, Alma tanguera (M. Licarse), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "14PfTWSOo3uEsKN9_-jaWvqK6JWRBrOL-",
+    "action": "rename",
+    "newTitle": "Odeon, 5028 A, Milonga de mis amores (Pedro B. Laurenz - Contursi hijo), Francisco Canaro y su Orquesta Típica, Milonga.jpg"
+  },
+  {
+    "fileId": "11pmUfMsJoxeOlOdt3SoyzkpS6_qFP83L",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4728 A, Mirella (Rodolfo Neyra), Francisco Canaro y su Orquesta Típica, Con estribillo, Vals.jpg"
+  },
+  {
+    "fileId": "1sTKjWum_zBYkOSxoMNUrlwDmB95ua2pg",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4303 A, Milonga con variacion (F. Canaro), Orquesta Típica F. Canaro, Variacion en el bandoneon por D. C. Minotto, Tango.jpg"
+  },
+  {
+    "fileId": "19jbC33h4WRCbBL1Q5j6h11tN-OFcqeL-",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4696 A, Mi destino (L. Teisseire), Orquesta Típica F. Canaro, Letra y musica con estribillo por Charlo, Tercer Premio del Concurso 1930, Tango.jpg"
+  },
+  {
+    "fileId": "1QegbfVpLH_KbYxX-Gas4MHxlH-PDHCht",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
