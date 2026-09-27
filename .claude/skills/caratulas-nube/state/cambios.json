@@ -3032,5 +3032,47 @@
     "fileId": "1fwOWl7xqSCsbBH9SS5KV5T-fdOKSxLPK",
     "action": "rename",
     "newTitle": "Victor, 60-0260 A, Uno (E. S. Discépolo - M. Mores), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "1KvsNzH87Dg9V3kpFxZ_WbNxibOIZaCIP",
+    "action": "rename",
+    "newTitle": "Victor, 60-0260 B, Joaquina (Juan Bergamino), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1TOsUQ4ojyMYIGJTXU7LCPA9gDru-wucV",
+    "action": "trash"
+  },
+  {
+    "fileId": "1RJRaB9JPZ460KUkZu7uZD6IvISnkfA6K",
+    "action": "rename",
+    "newTitle": "Victor, 60-0479 B, Piropos (Juan Carlos Cobián), Aníbal Troilo (Pichuco) y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1NT3ef1p-6kNRNwfYxtXsjznMpiReqOSW",
+    "action": "trash"
+  },
+  {
+    "fileId": "1OtRMA78zlrOSg6XiGZ9g7Th8tfmCPuRC",
+    "action": "rename",
+    "newTitle": "Victor, 79954 B, Pobre zonzo (Domingo Pelle), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "12SEHux1x01ZjUDAV4LD5Su16Lpa7XdrN",
+    "action": "rename",
+    "newTitle": "Odeón, 5645 B, Tu voz (Juan A. Migliore - Ricardo Duggan), Rodolfo A. Biagi y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1VkYKWCMAkNpuNzX6n0k-VDjKEKoNV649",
+    "action": "rename",
+    "newTitle": "Victor, 60-0263 A, Corrales viejos (Francisco Laino - Antonio Radicci - Anselmo A. Aieta), Juan D'Arienzo y su Orquesta Típica, Milonga Tangueada.jpg"
+  },
+  {
+    "fileId": "1X7V-SMsLwHWBd5CGS3t_srtkB4ZW97Du",
+    "action": "trash"
+  },
+  {
+    "fileId": "1uYYDQBivlWHEKdO-quRLroSXLMOSqPI8",
+    "action": "rename",
+    "newTitle": "Victor, 79954 A, Patoteros (Adolfo Mondino), Orquesta Típica Victor, Tango.png"
   }
 ]
