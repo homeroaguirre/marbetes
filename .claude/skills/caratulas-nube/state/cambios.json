@@ -298,5 +298,55 @@
     "fileId": "17xio2FKw9CvMksUohmwl4WU1jZR1MTDp",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1d6NcRTShqXEL9g2YGfRh-yY9GXNdswLN",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 6944 A, Neron (Iribarne-Valdez), Orquesta Jazz-Band Francisco Canaro, Shimmy.jpg"
+  },
+  {
+    "fileId": "1C3I8QaEXqUjklJwS0rc5Qz9vpMTiV07U",
+    "action": "rename",
+    "newTitle": "Odeon, 5253 B, Dos minutos (Miguel Bucino - Evaristo Fratantoni), Francisco Canaro y su Orquesta Típica, Estribillo por Carlos Roldán, Tango.jpg"
+  },
+  {
+    "fileId": "11-gMFiLQlUHFo6y6i1q-s_Aop5S2nvxa",
+    "action": "rename",
+    "newTitle": "Odeon, 5253 A, Naipe (Anibal Troilo - Enrique Cadicamo), Francisco Canaro y su Orquesta Típica, Estribillo por Carlos Roldán, Tango.jpg"
+  },
+  {
+    "fileId": "1HuO_SDppppRQEDu62iKWhYdKytuYNdUz5m",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4423 B, Siga el tango (C. Warren - E. Donato), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "18XrZLkAqzg5mSYMDCxar6eUyp6KafT",
+    "action": "rename",
+    "newTitle": "Odeon, 5112 B, El brocal (Estilo) (Francisco Canaro), Francisco Canaro y su Orquesta Típica, Canta Francisco Amor, Estilo.jpg"
+  },
+  {
+    "fileId": "1p15iJgaLISGBYXyOB2jy-mJFaEGn5bU0",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4507 A, Monadita (S. Nisguritz), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1e2izjdiRtsq0EDG5Ns9YEIBFXlSDLWop",
+    "action": "rename",
+    "newTitle": "Odeon, 46109 B, Boyera (Alberto Vaccarezza - Andrés Domenech - Pedro Rubbione), Francisco Amor con Francisco Canaro y su Orquesta Típica, Tonada.jpg"
+  },
+  {
+    "fileId": "193OLSyghtmpTPRk--RQ--KRCnvumL6_F",
+    "action": "rename",
+    "newTitle": "Odeon, 46109 A, Mulita (Francisco Amor), Francisco Amor con Francisco Canaro y su Orquesta Típica, Canción.jpg"
+  },
+  {
+    "fileId": "1dhQEuccngZbNZofevdQsD4Fi337x5qRL",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4507 B, Pobre gaucho (R. M. Perez), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "11uR_c4e1sV53xidS5OsID2zSRtLYWQ7a",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
