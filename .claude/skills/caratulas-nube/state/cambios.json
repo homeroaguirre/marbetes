@@ -3305,5 +3305,52 @@
     "fileId": "1QWXTBU1Cip94SIPFtz4hT3rC7NpJxQFy",
     "action": "rename",
     "newTitle": "Victor, 79966 B, Soy de Sevilla (Carmen Flores), Orquesta Típica Victor, Paso Doble.png"
+  },
+  {
+    "fileId": "1wQUYyR_DLA_Cus0Gp2CICDgrpj4h8Nuf",
+    "action": "rename",
+    "newTitle": "Victor, 60-0360 A, Viejo tintero, Juan D'Arienzo y su Orquesta Típica, Canta Juan Carlos Lamas, Tango.jpg"
+  },
+  {
+    "fileId": "1S-pgcnWbCgI_d3PsWVTqa8OAMae51P1L",
+    "action": "rename",
+    "newTitle": "Victor, 1A-5027, Candombe rioplatense (C. Santiago - P. Castellanos), Juan D'Arienzo y su Orquesta Típica, Canta J. C. Lamas, Milonga Candombe.jpg"
+  },
+  {
+    "fileId": "1aGSHn8YETl4bW_Lv1PvGXHygm2B58BRm",
+    "action": "rename",
+    "newTitle": "Odeón, 5650 A, Equipaje (Héctor Artola - Carlos Bahr), Rodolfo A. Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.png"
+  },
+  {
+    "fileId": "1pBgoY-VlSIKCx0Sf5wUdGS_Z3Bnn-6pe",
+    "action": "trash"
+  },
+  {
+    "fileId": "1L5eu5-YraIVsaaRfNlPzJS68kWsqbeg5",
+    "action": "rename",
+    "newTitle": "Victor, 79975 A, Historia maleva (Eduardo Pereyra), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1Tq96YRzI0qiTUd_S-0qU5QRFLQoJlSr0",
+    "action": "trash"
+  },
+  {
+    "fileId": "1H4hK9es4hcjMH5OutSgS1RnIiUO4gPHf",
+    "action": "rename",
+    "newTitle": "Victor, 60-0542 B, Nada más que un corazón (C. Bahr - M. Sucher), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.png"
+  },
+  {
+    "fileId": "1mnLtTfyhX7SsBRP0Hq-42dPbYbCF6Ith",
+    "action": "rename",
+    "newTitle": "Victor, 38974 B, Rosarina linda (Emilio y Osvaldo N. Fresedo), Osvaldo Fresedo y su Orquesta Típica, Canta Ricardo Ruiz, Tango.jpg"
+  },
+  {
+    "fileId": "1ZmnOEXWx-nw1IM5AEiwzFeRkDSreNNER",
+    "action": "trash"
+  },
+  {
+    "fileId": "1ycBu8V1FEB5NONZLw3YSZXypjc_3CwSF",
+    "action": "rename",
+    "newTitle": "Victor, 79975 B, Amor ciego (Juan Bauer), Orquesta Típica Victor, Tango.png"
   }
 ]
