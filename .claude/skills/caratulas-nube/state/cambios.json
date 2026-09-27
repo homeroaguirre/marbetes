@@ -4172,5 +4172,10 @@
     "fileId": "1T3Wc-5alR2nPO2tWC06SxZYmyMsWe21i",
     "action": "rename",
     "newTitle": "Victor, 47218 A, Mate amargo (F. Brancatti - F. Bravo), Orquesta Típica Victor con Coro, Ranchera.jpg"
+  },
+  {
+    "fileId": "1iFrXT3UARxwU7s-tgiZBfWJo4BU1r_Vx",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
