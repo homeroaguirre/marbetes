@@ -4777,5 +4777,55 @@
     "fileId": "1HIwQi4XS85OuTHNV_wTZpOKA3LgLSzbD",
     "action": "rename",
     "newTitle": "Victor, 39840 B, Te llama mi violín (C. Castilin - E. Vardaro), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.jpg"
+  },
+  {
+    "fileId": "1LuXnHc6oMOYr-f_jFqMm5xCongtFHJS6",
+    "action": "rename",
+    "newTitle": "Victor, 60-0801 A, Vamos zaino (E. Cadícamo - R. Luna), Juan D'Arienzo y su Orquesta Típica, Canta Armando Laborde, Tango.jpg"
+  },
+  {
+    "fileId": "1ogqxV2POVL1QFusnzkioa_2guHu93HIS",
+    "action": "rename",
+    "newTitle": "Victor, 60-0801 B, Canchero (C. Flores - A. De Bassi), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Tango.jpg"
+  },
+  {
+    "fileId": "1hsoGO8DlpyD3OEcB-H1_dV_ecQENW8XA",
+    "action": "rename",
+    "newTitle": "Victor, 39628 A, Madre mía (E. Fresedo - O. Fresedo), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.png"
+  },
+  {
+    "fileId": "1HHk8vgfh5uDXoDfZnfoX96LJEkOcWmF2",
+    "action": "rename",
+    "newTitle": "Victor, 39366 B, Te busco (H. Marcó - E. Donato), Edgardo Donato y sus Muchachos, Canta Horacio Lagos, Tango.jpg"
+  },
+  {
+    "fileId": "1afiUKT3cc1GRXEiT0115tD8q-wJ9QaD4",
+    "action": "rename",
+    "newTitle": "Victor, 39366 A, No se haga mala sangre (L. Rubistein), Edgardo Donato y sus Muchachos, Canta H. Lagos - L. Morales, Polca Humorística.jpg"
+  },
+  {
+    "fileId": "1onONpezH9HmTPij067yr5fag8h-ncJVm",
+    "action": "rename",
+    "newTitle": "Victor, 60-0785 A, Azul y oro (Emilio Q. Aguirre), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1oFqm9kHDqPFqKBdchflGU2bxHT2MlFKN",
+    "action": "rename",
+    "newTitle": "Victor, 47007 A, Mamá yo quiero un novio (Ramón Collazo), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "13SP2QCbYE2Mo-WDwcUpgbBRuvtuRPmQK",
+    "action": "rename",
+    "newTitle": "Victor, 39798 A, Ronda de ases (H. Manzi - O. Fresedo), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.jpg"
+  },
+  {
+    "fileId": "1gxwPPzmICT1J383GeY6-kn0YZZmzQT4F",
+    "action": "rename",
+    "newTitle": "Victor, 47007 B, Dominio (E. Vardaro), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "1yVrjhMJgx2b9vcsDAfqKgcnzB6kn5dXK",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]

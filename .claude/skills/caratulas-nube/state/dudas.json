@@ -318,5 +318,10 @@
     "fileId": "13FJD7vgAy812pYcC7j2ZgmNW5tofiIVf",
     "title": "135-Ya-estamos-iguales-mp3-image-scaled.jpg",
     "motivo": "Número de catálogo ilegible en la foto (se lee algo como '60-0-5-A', dígitos centrales tapados/borrosos). Victor, Ya estamos iguales (F. García Jiménez - A. Aieta), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Tango."
+  },
+  {
+    "fileId": "1yVrjhMJgx2b9vcsDAfqKgcnzB6kn5dXK",
+    "title": "144-Juanita-mp3-image.jpg",
+    "motivo": "OCR no devolvió ningún contenido (fileContent vacío); imagen probablemente ilegible o corrupta."
   }
 ]
