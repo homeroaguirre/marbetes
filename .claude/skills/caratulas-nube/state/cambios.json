@@ -298,5 +298,55 @@
     "fileId": "1AXARNwCmxiKOz-3qLsBW3OtIHp5vKJxM",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1wf7pEQKKuUNt65EzkK7kk_kA5SciEAZY",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4579 A, Prisionero (A. A. Aieta), Orquesta Típica F. Canaro, Seleccionado para el Gran Premio de Honor de 1929, Tango.jpg"
+  },
+  {
+    "fileId": "1Rnl2nwKEGem1ibZFrBAWDkvQTXU9leok",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4032 B, Solita (Angel Bozzi), Francisco Canaro, Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1Q7VGuC4eLXmjpCgMW02ht4Fe0diIe1Kl",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4523 A, Puro cuento (A. Alonso), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1tkCGh8WGZD-6t3hsSxe9d91yg9xDAi6p",
+    "action": "rename",
+    "newTitle": "Odeon, 30101 A, Pronto regreso (Rosendo Mendizábal), Francisco Canaro y su Quinteto Pirincho, Piano Marianito Mores, Bandoneon Minotto, Tango.jpg"
+  },
+  {
+    "fileId": "17IoTOUt5uiGxuTi2d-NTrAelk6m0QMcE",
+    "action": "rename",
+    "newTitle": "Odeon, 5093 B, A la Huacachina (Arreglo de Francisco Pérez), Francisco Canaro y su Orquesta Típica, Estribillo por Francisco Amor, Pasodoble.jpg"
+  },
+  {
+    "fileId": "1J4uXhpz8sGiSUBxvEfq9h2USas0nv1Zn",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4438 B, Quisistes cachar un gil (P. Aranaz), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1KGHD-n9H02QAIQfb0A62kdrq8X7_Wx55",
+    "action": "rename",
+    "newTitle": "Odeon, 5093 A, Por vos... yo me rompo todo (Francisco Canaro), Francisco Canaro y su Orquesta Típica, Estribillo por Ernesto Famá, Tango.jpg"
+  },
+  {
+    "fileId": "13CNFvQ-9Ee4S9CdtHj5ypffCKgwGbNBF",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4578 B, Bailarin compadrito (M. Bucino), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1IlleU4upl-DajMWte-Nu-JJDtBV5MhxC",
+    "action": "rename",
+    "newTitle": "Disco Criollo Odeon, 4861 B, Vida perra (Rafael Rossi - Francisco F. Gorrindo), Francisco Canaro y su Orquesta Típica, Con estribillo, Tango.jpg"
+  },
+  {
+    "fileId": "17YRqblP1LxHz6opIxNVd99_zEXFtjhyg",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4438 A, Por una mujer (Juan Rodriguez), Orquesta Típica F. Canaro, Tango.jpg"
   }
 ]
