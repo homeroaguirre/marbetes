@@ -4031,5 +4031,55 @@
     "fileId": "1oRyzVS_Lc46rEsgNaPqxMDngr2A3BbzV",
     "action": "rename",
     "newTitle": "Victor, 39433 B, Hablemos claramente (F. Loiácono \"Barquiña\" - O. Fresedo), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Ricardo Ruiz, Tango.jpg"
+  },
+  {
+    "fileId": "1ux8lFtcPCqGwwt1hNgU1kHiyq7x92Nwd",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "17ehOa_tBZpqId2OGqChzXtDQ2jzM5YcH",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1YjznmC0e68b3Ky0HZHGcuLDJb9ZDONd6",
+    "action": "rename",
+    "newTitle": "Victor, 68-0009 B, El choclo (Ángel Villoldo), Osvaldo Fresedo y su Gran Orquesta Argentina, Tango.png"
+  },
+  {
+    "fileId": "1sSACZtBA4rcQegq4UB9ZIAqclJdg7sOJ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1uLV0Ei7w_ADhXd2-STSEYFnqVEHgdfKq",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1r2YF43YiApfZIzgA6T8OCxnhpVfjAagx",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1WaHIgjbd9rmlTlVGhBrwoV1DYaMLDstQ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Yae-j3mPsKyGYv6jORSD_BPmKieE0hTx",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1YE4dMivRU8k8tUIiF4H1Jk2UjHWzqQkW",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1O_hKJGQkq6o5iWAlLaH7hVd4oUFPhKy7",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
