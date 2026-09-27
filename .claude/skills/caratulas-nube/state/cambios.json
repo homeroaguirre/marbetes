@@ -4827,5 +4827,55 @@
     "fileId": "1yVrjhMJgx2b9vcsDAfqKgcnzB6kn5dXK",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1lp7pDedZ4OcjpgtXAT77zk15gyrq3Zr1",
+    "action": "rename",
+    "newTitle": "Victor, 39798 B, Gitana rusa (H. Sanguinetti - J. Sánchez Gorio), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.jpg"
+  },
+  {
+    "fileId": "1eil5bOdDZv5EPV2FyouCt-aJbJZYS3eB",
+    "action": "rename",
+    "newTitle": "Victor, 39314 B, A oscuras (A. E. Donato y H. Marcó), Edgardo Donato y sus Muchachos, Canta Horacio Lagos, Tango.jpg"
+  },
+  {
+    "fileId": "1QPwTIUOdHD_3bxL4sCPczN3udnzoLyMN",
+    "action": "rename",
+    "newTitle": "Victor, 39314 A, Organillero (Agustín Lara), Edgardo Donato y sus Muchachos, Canta Horacio Lagos, Marcha Paso Doble.jpg"
+  },
+  {
+    "fileId": "1XK50vD170gj4rzYB1jS9C5m7B3Lbwcfx",
+    "action": "rename",
+    "newTitle": "Victor, 39840 A, Amor (E. Fresedo - O. Fresedo), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Vals.jpg"
+  },
+  {
+    "fileId": "1vE9aZzUryLw7FDAge1XkyM5ZS258GH9o",
+    "action": "rename",
+    "newTitle": "Victor, 39781 A, Adiós, adiós corazón (L. Bayarda - F. Lipesker - E. Barbato), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.jpg"
+  },
+  {
+    "fileId": "1Ise0o_RHnGqfcQjvXPECbJy5hYSele3W",
+    "action": "rename",
+    "newTitle": "Victor, 47001 B, No miento (B. Musci), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "1cWF45m7o9swrekEJLgFdCdfrI6lFsRD2",
+    "action": "rename",
+    "newTitle": "Victor, 47001 A, Vecinita gentil (Adolfo Mondino), Orquesta Típica Victor, Vals.jpg"
+  },
+  {
+    "fileId": "1x_keodlc_3-sGM-L3vIJ6Odq1s7MqiFo",
+    "action": "rename",
+    "newTitle": "Victor, 39238 B, Repique del corazón (J. Rótulo - O. Donato), Edgardo Donato y sus Muchachos, Canta Horacio Lagos, Milonga.jpg"
+  },
+  {
+    "fileId": "1988WRPAeMVDhH5skwmizHoPBJUWK5wsT",
+    "action": "rename",
+    "newTitle": "Victor, 80989 B, Hembra (Carlos Romeu), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "1H7ZDjMVmmHPE-8HTnqUHZpnwPWQiG4A2",
+    "action": "rename",
+    "newTitle": "Victor, 39781 B, Mi desventura (W. F. Buase Lépori - O. Coffaro), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.jpg"
   }
 ]
