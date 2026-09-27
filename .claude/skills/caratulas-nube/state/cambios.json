@@ -2892,5 +2892,51 @@
     "fileId": "1wC8y-qBK0bg5qKZ_ltOzgWtGLO02D0PQ",
     "action": "rename",
     "newTitle": "Odeón, 5642 B, Lonjazos (Andrés R. Domenech - J. Fernández Blanco), Rodolfo A. Biagi y su Orquesta Típica, Canta Carlos Acuña, Tango.jpg"
+  },
+  {
+    "fileId": "1G9CaF7tNaiIB_Iwp1ezo9ynSLaz4osxx",
+    "action": "trash"
+  },
+  {
+    "fileId": "1pXSEcXN7pB72nw8bg2lX-n-BWtvV1OI8",
+    "action": "rename",
+    "newTitle": "Victor, 60-0400 B, Tabaco (J. M. Contursi - A. Pontier), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.png"
+  },
+  {
+    "fileId": "1w9A0EHvc5kHJMwTOXLd_TYGpMH1dGh1u",
+    "action": "rename",
+    "newTitle": "Victor, 60-0208 B, Aunque vivas en el cielo (H. Marcó - F. Salamanca), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Vals.jpg"
+  },
+  {
+    "fileId": "1WabfM3wFNJ4rW1q86zTXdmzSjXAIdf3V",
+    "action": "trash"
+  },
+  {
+    "fileId": "1YGbQjb-eCz14OypkRzXlXnfmef9K4ruP",
+    "action": "rename",
+    "newTitle": "Victor, 79944 A, Barra universitaria (Avelino Molina), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1pn1QzN7zsbny2O-U2nR6kjvueI6Y7uqq",
+    "action": "trash"
+  },
+  {
+    "fileId": "1tPRlZy7Rf8iN-xIc-iBmc2KvPlqvp82s",
+    "action": "rename",
+    "newTitle": "Victor, 60-0406 A, El desafío (Charrúa - René Ruiz), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino - Marino, Milonga.png"
+  },
+  {
+    "fileId": "1QPt1wgH497nSnNJHYsbm2-nV6XdqKb3p",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ZX8-BDy3XuO4JsziZupYuKAnHPewP_vC",
+    "action": "trash"
+  },
+  {
+    "fileId": "1amV7yQcmrFQlBGfsLs8aAeBuJbpP_Prg",
+    "action": "rename",
+    "newTitle": "Victor, 79950 A, Viejo amor (I. Pittaluga), Orquesta Argentina Victor, Tango.png"
   }
 ]
