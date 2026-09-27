@@ -448,5 +448,50 @@
     "fileId": "1MSk1S9cDPZDIWcVLUrJsHBbpep80pgOL",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1VU6lGI16v1B6_YujFYvWTR9ivIq8TeCB",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4514 A, Mientras llora el tango (R. Courau), Orquesta Típica F. Canaro, Primer Premio (Musica y letra) del 2o Concurso de Tangos Montevideo, Tango.jpg"
+  },
+  {
+    "fileId": "1S4L5ZnxyX0xVAYrep9gnD7fjZoJTrrtD",
+    "action": "rename",
+    "newTitle": "Odeon, 5266 A, Miguel Angel (Vicente De Marco - Carlos Pesce), Francisco Canaro y su Orquesta Típica, Estribillo por Guillermo Coral, Tango.jpg"
+  },
+  {
+    "fileId": "12pki9FX13FmB4qyhZy00nZPbyHdCP2XL",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4514 B, Carton ligador (E. Donato), Orquesta Típica F. Canaro, Tercer Premio (Musica) del 2o Concurso de Tangos Montevideo, Tango.jpg"
+  },
+  {
+    "fileId": "1EJkAwkGLtZdqxiElwrQcRdPRYNMV7yxZ",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4657 A, Mi corazon (J. Carrasco), Orquesta Típica F. Canaro, Maxixa.jpg"
+  },
+  {
+    "fileId": "1z_UqDTrP3TiZs0hCjkmIC-DASHFSJuPL",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 16218 A, Mientras llora el tango (R. Courau - E. Barabino), Charlo, Con acomp. de Orquesta Francisco Canaro, Primer Premio (Musica y letra) del 2o Concurso de Tangos Montevideo, Tango.jpg"
+  },
+  {
+    "fileId": "1hgWaAqaVdST7XEj0lkgZRW6HnZg9_evL",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 16218 B, Chau ingrata (A. A. Aieta - F. Garcia Jimenez), Charlo, Con acomp. de Orquesta Francisco Canaro, Del 2o Concurso de Tangos Montevideo, Tango.jpg"
+  },
+  {
+    "fileId": "1QPRnopKMr0WE0br2nRnx52KIVNZ_SRJz",
+    "action": "rename",
+    "newTitle": "Odeon, 5136 B, Radioamor (Roberto Zerrillo - Juan C. Howard - Enrique Cadicamo), Francisco Canaro y su Orquesta Típica, Estribillo por Ernesto Fama, Pasodoble-Marcha Caracteristica.jpg"
+  },
+  {
+    "fileId": "1hHOofWnTx1-GqP5y8F15cp6wmq2cunxw",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4584 A, Me duele el alma (J. L. Padula), Orquesta Típica F. Canaro, Vals.jpg"
+  },
+  {
+    "fileId": "17tENqsUbrSqLUpnYZ2L8bXMrI-mKoHaR",
+    "action": "rename",
+    "newTitle": "Odeon, 1393 B, Que vachache (E. Discepolo), Orquesta Francisco Canaro, Tango.jpg"
   }
 ]
