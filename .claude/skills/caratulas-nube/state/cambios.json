@@ -3996,5 +3996,40 @@
     "fileId": "1Jym5Q_RH8lkLjSI-XR28E3sXxGfjGELd",
     "action": "rename",
     "newTitle": "Victor, 38916 B, Luna (Sandalio Gómez - Osvaldo Donato), Edgardo Donato y sus Muchachos, Canta Morales - Lagos - Gavio, Vals.jpg"
+  },
+  {
+    "fileId": "1wlu0iMHnczV4XRxUnI7344xdUEa3gMUd",
+    "action": "rename",
+    "newTitle": "Odeón, 5661 A, Mientras duerme la ciudad (Oscar Rubens - Alberto Suárez Villanueva), Rodolfo A. Biagi y su Orquesta Típica, Canta Carlos Saavedra, Tango.png"
+  },
+  {
+    "fileId": "1n7GtfMIlLW5F2AEpKYQIEu1_8PJTQnT4",
+    "action": "rename",
+    "newTitle": "Victor, 39433 A, Negra María (H. Manzi - L. Demare), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Carlos Roldán, Milonga.jpg"
+  },
+  {
+    "fileId": "1vcWyCEzWAHp4tPkpXtsaA9x5JpTcSKiB",
+    "action": "rename",
+    "newTitle": "Odeón, 5661 B, Camino del Tucumán (José Razzano - Cátulo Castillo), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.jpg"
+  },
+  {
+    "fileId": "1mxHNZmQoMCmfgeGgmqLjtFEDete6OO2E",
+    "action": "rename",
+    "newTitle": "Victor, 60-0717 B, Cimarrón de ausencia (J. Larenza - Marsilio Robles), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta A. Marino - Floreal Ruiz, Milonga.jpg"
+  },
+  {
+    "fileId": "1KExeAGmatG0zNQsJVzjI7aFoUz6Hx75o",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "18FCSD3AZnPavXbGlVE1AmqlUoOCPXcAV",
+    "action": "rename",
+    "newTitle": "Victor, 60-0602 B, Clavel (Osvaldo Sosa Cordero), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Milonga.jpg"
+  },
+  {
+    "fileId": "1oRyzVS_Lc46rEsgNaPqxMDngr2A3BbzV",
+    "action": "rename",
+    "newTitle": "Victor, 39433 B, Hablemos claramente (F. Loiácono \"Barquiña\" - O. Fresedo), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Ricardo Ruiz, Tango.jpg"
   }
 ]
