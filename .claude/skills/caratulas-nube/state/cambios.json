@@ -3620,5 +3620,52 @@
     "fileId": "1bCaiNYolDoS7pQTpWTEH6hfpfhSXNggK",
     "action": "rename",
     "newTitle": "Odeón, 5654 B, Soledad, la de Barracas (Garza - Carlos Bahr), Rodolfo A. Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.jpg"
+  },
+  {
+    "fileId": "12hZr6wyeS0FBv6SUQQqmcA9HQ-Z4U1dV",
+    "action": "rename",
+    "newTitle": "Victor, 60-0497 A, Amarras (C. Santiago - C. Marchisio), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "1rYVdaV5c3EeFwWeyQhQq7aqAsoI4jkCv",
+    "action": "rename",
+    "newTitle": "Odeón, 5655 A, Anselmo Laguna (Vicente Salerno - Marvil), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.png"
+  },
+  {
+    "fileId": "1AK51iy83bUMsJI51U5XYLsZDNhgA_I52",
+    "action": "trash"
+  },
+  {
+    "fileId": "1X5Q-7uM_Tv3_FkfcfthM5FPwaJZl7fwI",
+    "action": "rename",
+    "newTitle": "Victor, 60-0633 B, Café de los angelitos (J. Rozzano y C. Castillo), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.png"
+  },
+  {
+    "fileId": "1b-tPFgvBpdA6KEmxyIsuQ8P0SJsyNWoi",
+    "action": "trash"
+  },
+  {
+    "fileId": "1DhHxFIYlSp3xTEE1tq6Fuqaozg938Wh3",
+    "action": "rename",
+    "newTitle": "Victor, 80829 B, Olvidaste (B. Germino), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1FI6d1UVdLGVpw9A054euB8-2MT2AiH9s",
+    "action": "rename",
+    "newTitle": "Victor, 39290 A, Tres recuerdos (M. Romero - R. Sciammarella), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Ricardo Ruiz, Vals.jpg"
+  },
+  {
+    "fileId": "1RxMWx3XeGlNKz7mhHVjMPBAOATm1569t",
+    "action": "trash"
+  },
+  {
+    "fileId": "1y5VhwgY5pWDCbkehnMoMR7MwvKz9PlN0",
+    "action": "rename",
+    "newTitle": "Victor, 80830 A, Hacéme caso a mí (G. Matos Rodríguez), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1Yqk4pV75eJbT2v1yF_E06utBmvKBlALr",
+    "action": "rename",
+    "newTitle": "Victor, 60-0497 B, La mentirosa (Anselmo Aieta), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
   }
 ]
