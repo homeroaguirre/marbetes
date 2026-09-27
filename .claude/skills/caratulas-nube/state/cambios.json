@@ -2525,5 +2525,48 @@
     "fileId": "1U9Uh_UEal9KSS8hxJAraWD_hyzl0g_fR",
     "action": "rename",
     "newTitle": "Victor, 79888 B, Por última vez (Arturo Sica), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1L9unubzYQiwsgmlPRbDdKu9AAuybkJm1",
+    "action": "rename",
+    "newTitle": "Odeón, 5635 A, Si de mí te has olvidado (Osvaldo Fresedo - José M. Contursi), Rodolfo A. Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.jpg"
+  },
+  {
+    "fileId": "1QXHXdFgBTsXSdDYMXxfOfv-h-h9KpnnI",
+    "action": "trash"
+  },
+  {
+    "fileId": "1B_8XoJeO1g_0gPtkIwEvKSQx7ZbQufRf",
+    "action": "rename",
+    "newTitle": "Victor, 60-0226 A, Farol (V. y H. Expósito), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.png"
+  },
+  {
+    "fileId": "1VY9AIJdx_2deL2iSpM1iqz9Lb8suNOxN",
+    "action": "rename",
+    "newTitle": "Victor, 39835 B, La rumbita candombe (M. Battistella - R. Fortunato - O. Novarro), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Milonga.jpg"
+  },
+  {
+    "fileId": "1HVyWpdLhF4j8zssPByOvVy4BdLIM_DDx",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "104CIO66vcvT68YMHWv45KzieZURpeI1B",
+    "action": "trash"
+  },
+  {
+    "fileId": "1hMWNlq-jCioL7O2HjvBZ68HrgQUG9H_D",
+    "action": "rename",
+    "newTitle": "Victor, 79889 A, Pá que llorar (Luis Bernstein), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "11DyohwRK0H76SS5dzuR5selR2ILbamNh",
+    "action": "rename",
+    "newTitle": "Odeón, 5636 A, ¡Señor! ¡Señor! (V. Juan Clauso - Ángel J. Wells), Rodolfo A. Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.jpg"
+  },
+  {
+    "fileId": "1cs3KwT45lFt_GwrG7ZeP8UV4cFTz7I1L",
+    "action": "rename",
+    "newTitle": "Victor, 60-0006 A, El lazo (Eugenio Cárdenas - Oscar A. Caccavaio), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
   }
 ]
