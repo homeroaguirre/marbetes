@@ -2193,5 +2193,55 @@
     "fileId": "1xmHrjXTye5ElvwiRXZ7qV2XHeaZcA6td",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "163c-xrfJovmJKvZhHtISts18nnFCVPWp",
+    "action": "rename",
+    "newTitle": "Victor, 38984 A, Chirusa (Nolo López - Juan D'Arienzo), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Reynal, Tango.jpg"
+  },
+  {
+    "fileId": "1W9hocAyohlRsbGu6dNf9HUAm4DjwjNpB",
+    "action": "rename",
+    "newTitle": "Odeón, 5600 A, Gólgota (Rodolfo A. Biagi - Francisco Gorrindo), Rodolfo A. Biagi y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "16onqTfmvJQMqV_aPjJ6_4lGxgItQl99S",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1EWn9MiGtih59ZDVu9JIlmOfOflgmHbRO",
+    "action": "rename",
+    "newTitle": "Victor, 60-1997 A, Mi refugio (Juan Carlos Cobián), Horacio Salgán y su Gran Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1kHFqz4xuE65kRgQG2Xr5TWhAMqq7BSg_",
+    "action": "rename",
+    "newTitle": "Victor, 39246 B, Mano brava (E. Cadícamo - M. Buzón), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Milonga.png"
+  },
+  {
+    "fileId": "1f45-sLOsQP3ecogkronswGbJvoHvWxOM",
+    "action": "rename",
+    "newTitle": "Victor, 68-1671 B, Milonga del sentimiento (José A. Barbará - Rafael Dadino), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Milonga.png"
+  },
+  {
+    "fileId": "1yhxIbDEvzr64WxOS6RD_r0MTLZUq7x29",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1uF2aoaKDchqL5gcHqvpZSlI4APhGKh5Z",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "170EWXthz6eDLN5K5SAV9wvYz31uc-AiZ",
+    "action": "rename",
+    "newTitle": "Odeón, 5631 A, La cumparsita (G. H. Matos Rodríguez - Enrique P. Maroni), Rodolfo A. Biagi y su Orquesta Típica, Recita Jorge Ortiz, Tango.png"
+  },
+  {
+    "fileId": "1ZzUdNREQKPgeXvwsLjU5pNYPYV0xaRkj",
+    "action": "rename",
+    "newTitle": "Odeón, 8081 B, Nos encontramos al pasar (Raúl Kaplán - José María Suñé), Lucio Demare y su Orquesta Típica, Canta Horacio Quintana, Tango.jpg"
   }
 ]
