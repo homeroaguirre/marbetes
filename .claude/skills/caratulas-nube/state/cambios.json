@@ -3573,5 +3573,52 @@
     "fileId": "1W0C5x_TN5O_D73HCM4u1lUOUNNMc5dUc",
     "action": "rename",
     "newTitle": "Odeón, 5654 A, Mis amores de ayer (Mario Rocha - Oscar Sabine - Horacio Sanguinetti), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.png"
+  },
+  {
+    "fileId": "1qn4o5mkdIlLOJbCFAGHZ5FBajP25z8nQ",
+    "action": "trash"
+  },
+  {
+    "fileId": "1zfVMiz4YkhrHghyxCwa5F-MJiFry3l5P",
+    "action": "rename",
+    "newTitle": "Victor, 80828 B, Te felicito (A. Sica), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1Mz8q4PTmZb24Fk5eMGelXKRKmqF_huDm",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1uBOJiNsJaFrnJnYhGSftu7I4sUKoAG8n",
+    "action": "rename",
+    "newTitle": "Victor, 60-0476 B, El huracán (Nolo López - E. y O. Donato), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1X4yBzpE9jzUeTidmo0x5c27Jl8jZ540k",
+    "action": "rename",
+    "newTitle": "Victor, 39205 B, En este rincón amigo (J. M. Contursi - R. Grasso), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Ricardo Ruiz, Tango.jpg"
+  },
+  {
+    "fileId": "1FsRDsbRqQ8DVlDgpbdYVXhT83wUdusou",
+    "action": "trash"
+  },
+  {
+    "fileId": "1473tKrUSc1o6zoONxdY4spc53BtaKq7Q",
+    "action": "rename",
+    "newTitle": "Victor, 60-0606 B, Milonga en rojo (J. González Castillo - L. Demare y R. Fugazot), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Marino - Ruiz, Milonga.png"
+  },
+  {
+    "fileId": "1SSbPAvz_WaZ9usN0DwE6VW7AeLAkn1Ve",
+    "action": "trash"
+  },
+  {
+    "fileId": "1XEYFksELVPG9DehQWLQbg95x5UOtS3DL",
+    "action": "rename",
+    "newTitle": "Victor, 80829 A, Niño bien (Juan A. Collazo), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1bCaiNYolDoS7pQTpWTEH6hfpfhSXNggK",
+    "action": "rename",
+    "newTitle": "Odeón, 5654 B, Soledad, la de Barracas (Garza - Carlos Bahr), Rodolfo A. Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.jpg"
   }
 ]
