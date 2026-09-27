@@ -3352,5 +3352,48 @@
     "fileId": "1ycBu8V1FEB5NONZLw3YSZXypjc_3CwSF",
     "action": "rename",
     "newTitle": "Victor, 79975 B, Amor ciego (Juan Bauer), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1ct_BMnlndCSXJwKuwhlNj2BOCR9lQSbW",
+    "action": "trash"
+  },
+  {
+    "fileId": "12RRPbeJt0vOs7BjuOmDk751zMG1HIjQY",
+    "action": "rename",
+    "newTitle": "Victor, 60-0560 B, Con permiso (Alberto Mastra), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Milonga.png"
+  },
+  {
+    "fileId": "1e7XS-Z1IPhr7pqn-svEfXE6eAWfAkxc4",
+    "action": "rename",
+    "newTitle": "Victor, 38989 A, Si el corazón supiera (Héctor Marcó - Cayetano Puglisi), Osvaldo Fresedo y su Orquesta Típica, Canta Carlos Mayel, Tango.jpg"
+  },
+  {
+    "fileId": "1IcPo566MkDGNW45FB-Fc8OtRoH-iLc-C",
+    "action": "rename",
+    "newTitle": "Odeón, 5650 B, Trenzas (Armando Pontier - Homero Expósito), Rodolfo A. Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.jpg"
+  },
+  {
+    "fileId": "1PbDK0f4z7bGmgwGgVk44fuvQjwtKdJ3c",
+    "action": "rename",
+    "newTitle": "Victor, 60-0388 A, Vea, vea (Roberto Firpo), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1Y6ilX6R36gUqO25O0gbT-kj4TYXWZv7h",
+    "action": "trash"
+  },
+  {
+    "fileId": "1DhR1TTEpgsoid9RPgnrIikACFyqjytmz",
+    "action": "rename",
+    "newTitle": "Victor, 79980 A, Estampa rea (E. de Lábarca - A. Navarrine), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1N0w8tIWiRSGdhYhOOE9-I9uIhpgjI_7Y",
+    "action": "rename",
+    "newTitle": "Odeón, 5651 A, Me quedé mirándola (Vicente Spina - Roberto Miró), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.png"
+  },
+  {
+    "fileId": "17f-RXrAlB2w8slHUXciTuZ1kGEIHZPmU",
+    "action": "rename",
+    "newTitle": "Victor, 60-0388 B, Prisionero (C. Bahr - J. Carressons), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Vals.jpg"
   }
 ]
