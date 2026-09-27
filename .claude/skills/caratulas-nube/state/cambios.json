@@ -248,5 +248,55 @@
     "fileId": "12z3NLrA7JglsQJPtM8XMNwHc8-q3SnRq",
     "action": "rename",
     "newTitle": "Disco Nacional Odeon, 4088 B, Trapito (J. y L. Servidio), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1Ij5WFkkZ07T4jpsbxc5CwYZt4wkpqivQ",
+    "action": "rename",
+    "newTitle": "Odeon, 5225 A, Nido gaucho (Carlos Di Sarli - Hector Marcó), Francisco Canaro y su Orquesta Típica, Estribillo por Eduardo Adrián, Tango.jpg"
+  },
+  {
+    "fileId": "1czmSDyqKLZDWDYcJJCiG5UqE0vhW4eqz",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4408 A, No le digas que la quiero (E. Delfino), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1io5yknobJ160P_qOKMri2RiRLXCvpclV",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4408 B, Griseta (E. Delfino), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1I2j4ELuslPmOqh9LT-ovLIXvCinK0iA3",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 16207 A, Nelly (Luis J. Bates - Hector Bates), Charlo, Con acomp. de Orquesta Francisco Canaro, Vals.jpg"
+  },
+  {
+    "fileId": "1siky9cR48RxU8B8FDpsN4Q3vVCciCNd0",
+    "action": "rename",
+    "newTitle": "Odeon, 5225 B, El saleroso (Hector Lomuto - Gerardo González), Francisco Canaro y su Orquesta Típica, Estribillo por Carlos Roldan, Pasodoble.jpg"
+  },
+  {
+    "fileId": "161BUwhm58vtmO1nz5O-3X9q_KVcWHx5W",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4463 A, Nelly (Hector Bates), Orquesta Típica F. Canaro, Vals.jpg"
+  },
+  {
+    "fileId": "1Y5y0Svu0dIiUlyokjySStaPakzxeyXSg",
+    "action": "rename",
+    "newTitle": "Odeon, 5213 A, Necesito olvidar (Rodolfo Sciammarella - Manuel Romero), Francisco Canaro y su Orquesta Típica, Estribillo por Eduardo Adrian, Tango del film Elvira Fernandez Vendedora de Tienda.jpg"
+  },
+  {
+    "fileId": "1CecqN7XAHQc-nF8TNvoMHvM7Mjm4XDcs",
+    "action": "rename",
+    "newTitle": "Odeon, 5213 B, Cuando un viejo se enamora (Rodolfo Sciammarella - Manuel Romero), Francisco Canaro y su Orquesta Típica, Estribillo por Carlos Roldan, Milonga del film Elvira Fernandez Vendedora de Tienda.jpg"
+  },
+  {
+    "fileId": "1KUq32ZliuVHk_JWeyw25licpSVfb39N5",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 16207 B, Las vueltas de la vida (F. Canaro - M. Romero), Charlo, Con acomp. de Orquesta Francisco Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "17xio2FKw9CvMksUohmwl4WU1jZR1MTDp",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
