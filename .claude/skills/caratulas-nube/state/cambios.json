@@ -5025,5 +5025,54 @@
   {
     "fileId": "1inTYuARVTfw9WBN_IqatNobwAgS9M01P",
     "action": "trash"
+  },
+  {
+    "fileId": "1mNMdylxnw7yZKLMyR3MkAmgCbNR45Ww_",
+    "action": "rename",
+    "newTitle": "Victor, 39150 B, Virgencita milagrosa (A. Vedani - J. Pollicita), Edgardo Donato y sus Muchachos, Canta Lita Morales, Paso Doble.jpg"
+  },
+  {
+    "fileId": "1c7vsD3dzmv0pUv9jbyT_xeeVv_FL_xVD",
+    "action": "rename",
+    "newTitle": "Victor, 39189 A, El lengue (E. Donato), Edgardo Donato y sus Muchachos, Tango Canyengue.jpg"
+  },
+  {
+    "fileId": "1-ZYH2dmRF0pmBzglWKpEPx0Ma1j_LbgF",
+    "action": "rename",
+    "newTitle": "Victor, 80968 B, El porteñito (A. G. Villoldo), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "1UTWL0sJErQr1AeGdT51GwiOCCQS26X58",
+    "action": "rename",
+    "newTitle": "Victor, 60-0699 A, Corrientes y Esmeralda (C. Flores - F. Pracánico), Juan D'Arienzo y su Orquesta Típica, Canta A. Echagüe, Tango.jpg"
+  },
+  {
+    "fileId": "1z_XVAr4RavYIK_88JwwWlpSSCyaaLjHZ",
+    "action": "rename",
+    "newTitle": "Victor, 60-0825 B, El africano (Eduardo Pereyra), Aníbal Troilo (Pichuco) y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1N8kXlFq6oHH5F9b3PeESklXmuU40cf9u",
+    "action": "rename",
+    "newTitle": "Victor, 80968 A, Pancho's Bar (R. Ruiz Moreno), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "1E9CgBV0nT9XO5gQHFiHYoHUWvzq9mD7L",
+    "action": "rename",
+    "newTitle": "Victor, 60-0825 A, Adiós pampa mía (I. Pelay - F. Canaro y M. Mores), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta A. Marino - F. Ruiz, Tango Campero.png"
+  },
+  {
+    "fileId": "1-6DraQ760mG82q_kpfPnWrOR2rswIoYm",
+    "action": "rename",
+    "newTitle": "Victor, 80933 A, De punta y hacha (A. Magaldi - P. Noda), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1qR-D-6SPgS_h5aGAfMhcCwwU6iQe7R-q",
+    "action": "rename",
+    "newTitle": "Victor, 39628 B, Ayer (H. Manzi - A. de Bassi), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Milonga.jpg"
+  },
+  {
+    "fileId": "1kSAS7-TOYN3GOGTQNKUIUy4ZesRlTIku",
+    "action": "trash"
   }
 ]
