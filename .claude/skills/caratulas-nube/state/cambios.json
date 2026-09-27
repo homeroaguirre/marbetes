@@ -2845,5 +2845,52 @@
     "fileId": "1mlZ8AmrAyxuHC5NUZnf8GGwgRrcTbUWZ",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1td-Vh7lq_TGvn8-O9aIDaPDKJPwjSBqo",
+    "action": "trash"
+  },
+  {
+    "fileId": "19Cq38i9a6ao8N_XIeUBAkM6T2aPi40_U",
+    "action": "rename",
+    "newTitle": "Victor, 79942 B, Tradición (Fausto Frontera), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1X0Za1Trf0Qk6Lte1nuVNRPhQZMJRzv-S",
+    "action": "rename",
+    "newTitle": "Victor, 60-0371 B, El elegante (Chiqué) (Ricardo L. Brignolo), Aníbal Troilo (Pichuco) y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1gCU74ab8fDg8uRgx6PWX564iRXMEeVfX",
+    "action": "trash"
+  },
+  {
+    "fileId": "1qHP1-PbyQh9sXef_TcVOK88GEkHUouit",
+    "action": "rename",
+    "newTitle": "Victor, 79943 A, Malquerida (Luis Petrucelli), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1ePJKnwEy2GK5A_PhP3q1ouW7rJH9343c",
+    "action": "rename",
+    "newTitle": "Victor, 60-0136 B, Música de mi Argentina (Miguel Bucino), Juan D'Arienzo y su Orquesta Típica, Canta Juan Carlos Lamas, Milonga.jpg"
+  },
+  {
+    "fileId": "13Bnyozl2MUFeeXkpFWMfzuPjFtbuCGl4",
+    "action": "rename",
+    "newTitle": "Odeón, 5642 A, Si la llegarán a ver (Juan D'Arienzo - Enrique Cadícamo), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.jpg"
+  },
+  {
+    "fileId": "1Mi-ezv9nEdp1fY8UQoaJwcp_IQ4jEiul",
+    "action": "trash"
+  },
+  {
+    "fileId": "14GKaQtmvQCGKvPBN5Fp8ndCY7gPfn4qP",
+    "action": "rename",
+    "newTitle": "Victor, 79943 B, La sonámbula (P. Cardaropoli), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1wC8y-qBK0bg5qKZ_ltOzgWtGLO02D0PQ",
+    "action": "rename",
+    "newTitle": "Odeón, 5642 B, Lonjazos (Andrés R. Domenech - J. Fernández Blanco), Rodolfo A. Biagi y su Orquesta Típica, Canta Carlos Acuña, Tango.jpg"
   }
 ]
