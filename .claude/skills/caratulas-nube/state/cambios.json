@@ -4177,5 +4177,55 @@
     "fileId": "1iFrXT3UARxwU7s-tgiZBfWJo4BU1r_Vx",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1J-tPurkdCoZAIR43CVaRt2Xld2sqsCiK",
+    "action": "rename",
+    "newTitle": "Victor, 47179 B, Cancion mistonga (L. Rubistein - V. Sassano), Orquesta Típica Victor, Canta Delson, Tango.jpg"
+  },
+  {
+    "fileId": "1-KQnu_ed3D8pssbQ6kv5hjEU_VXBh0LB",
+    "action": "rename",
+    "newTitle": "Victor, 60-0715 B, El tren de las once (Horacio Susena), Juan D'Arienzo y su Orquesta Típica, Canta Armando Laborde, Tango.jpg"
+  },
+  {
+    "fileId": "1X9H_36jVSSFN4cQyBiVWzQ2Aeb97dH7Q",
+    "action": "rename",
+    "newTitle": "Victor, 60-0370 B, Llegarás amor (M. A. Molins - V. Demarco), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.jpg"
+  },
+  {
+    "fileId": "1zG4Hdix-GX-Tegy9fXz5JKBddN4_xO6X",
+    "action": "rename",
+    "newTitle": "Victor, 47218 B, Pollerita de percal (S. De Rosas), Orquesta Típica Victor, Polka.jpg"
+  },
+  {
+    "fileId": "1WKnmHE8fdjxSf2ZDxMJoOQDpNGMf7GHm",
+    "action": "rename",
+    "newTitle": "Victor, 47158 B, Por tus ojos (Juan Carlos Bazán), Orquesta Típica Victor, Canta Delson, Tango.jpg"
+  },
+  {
+    "fileId": "1nXqSPfncHDu1EAWyHxd2ZPvZ-dutrsfo",
+    "action": "rename",
+    "newTitle": "Victor, 60-0485 A, Cristal (J. M. Contursi - M. Mores), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.png"
+  },
+  {
+    "fileId": "1n2SQf75-IKS-tUYoY1DkeRwY_K49sXxK",
+    "action": "rename",
+    "newTitle": "Victor, 60-1078 B, Loca (Manuel Joves), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1tLUgKjYG3UrzhxbGCWj3GCqZ1a2heWE3",
+    "action": "rename",
+    "newTitle": "Victor, 60-0421 B, El entrerriano (Rosendo Mendizabal), Osvaldo Fresedo y su Gran Orquesta Argentina, Tango.png"
+  },
+  {
+    "fileId": "10CN5L7dISRAZiEFdldUo1oGXRRh_wfwV",
+    "action": "rename",
+    "newTitle": "Victor, 60-1029 B, Desde aquella noche (C. Bahr - F. Salamanca), Juan D'Arienzo y su Orquesta Típica, Canta Armando Laborde, Tango.jpg"
+  },
+  {
+    "fileId": "17wJtjZqDZcuvJdfAzNAjkP1iofWarv9R",
+    "action": "rename",
+    "newTitle": "Victor, 60-0254 B, Cosas viejas (C. Waiss - Tito Ribero), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.png"
   }
 ]
