@@ -2802,5 +2802,48 @@
     "fileId": "1uPURNrTn-qCoy1410F8r5QbLxaKhBOsK",
     "action": "rename",
     "newTitle": "Odeón, 5640 A, Soy del 90 (Tito Rivero - Carlos Waiss), Rodolfo A. Biagi y su Orquesta Típica, Canta Carlos Acuña, Milonga.jpg"
+  },
+  {
+    "fileId": "1xdsdU7hlRcvLAO0gKXOvtONezoyV5Ig_",
+    "action": "rename",
+    "newTitle": "Odeón, 5641 A, Adiós te vas (Cátulo Castillo), Rodolfo A. Biagi y su Orquesta Típica, Canta Carlos Acuña, Tango.jpg"
+  },
+  {
+    "fileId": "13IyLSZkp3afRdG1joQPLhnzrynyq9J1e",
+    "action": "rename",
+    "newTitle": "Victor, 60-0317 A, Cada día te extraño más (Carlos Bahr - A. Pontier), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.jpg"
+  },
+  {
+    "fileId": "12axHmS1CvUE3xk197NQEH39dff5lOYyd",
+    "action": "trash"
+  },
+  {
+    "fileId": "18AY37VNp5POREBWzcnL0SPmd9aI-4LY6",
+    "action": "rename",
+    "newTitle": "Victor, 79942 A, Che papusa oí (G. Matos Rodríguez), Orquesta Típica Victor, Tango Callejero.png"
+  },
+  {
+    "fileId": "1gZmhkHs3jz7JpElLQxtC0vppDcinFPF6",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1_2BxovzynHyRo0prQhDeN61QHh8p6y1f",
+    "action": "rename",
+    "newTitle": "Victor, 60-0136 A, Arlette (H. Sanguinetti - A. Bonavena), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "1oPnHWNmnsRSqHSV6WB8sOpGqB06mYkEJ",
+    "action": "trash"
+  },
+  {
+    "fileId": "1w02IB63oZ1C9JuxRXklyySFlyVHTFqED",
+    "action": "rename",
+    "newTitle": "Victor, 60-0371 A, Después (Homero Manzi - Hugo Gutiérrez), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.png"
+  },
+  {
+    "fileId": "1mlZ8AmrAyxuHC5NUZnf8GGwgRrcTbUWZ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
