@@ -5165,5 +5165,53 @@
   {
     "fileId": "1C9TnbMFcvt4xg_2392ZDwl2aaIeb1Bn2",
     "action": "trash"
+  },
+  {
+    "fileId": "1PXVaM6DmW93ZZhFOoKePASMzGtxAfDIn",
+    "action": "rename",
+    "newTitle": "Victor, 60-0795 B, Amor y tango (C. Bahr - J. Basso), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Floreal Ruiz, Tango.png"
+  },
+  {
+    "fileId": "1uYEQ63o7F1a1bpHOdXfd7QOO60f56bzY",
+    "action": "rename",
+    "newTitle": "Odeón, 5664 A, La huella (M. Aníbal Villanueva), Rodolfo A. Biagi y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1hAbtGPURgmi39lZwwe-2AtHwwgjY1zSR",
+    "action": "rename",
+    "newTitle": "Victor, 60-0646 A, Vieja volanta (F. A. Marino - E. de la Cruz), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Tango.jpg"
+  },
+  {
+    "fileId": "1nIXVz0EA-ZBERjtsjX1SUoGnBQs3ibcU",
+    "action": "rename",
+    "newTitle": "Victor, 60-0795 A, María (C. Castillo - A. Troilo), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.png"
+  },
+  {
+    "fileId": "1QNht9pp8bmyWXtanFy_3a6HKqwEgefny",
+    "action": "rename",
+    "newTitle": "Odeón, 5663 B, Lucienne (Domingo Rullo - Jorge Fuertes), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.png"
+  },
+  {
+    "fileId": "1alBzxai14LLeO_23pSXnefOZoBQecozl",
+    "action": "rename",
+    "newTitle": "Victor, 60-0628 B, Oro de ley (C. Waiss - R. Juri), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Milonga.jpg"
+  },
+  {
+    "fileId": "1hWP6bRPYdUrU97ac0OZKicStdKU9OSzq",
+    "action": "rename",
+    "newTitle": "Victor, 80933 B, Ronita (I. Goyeche), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "1cHv9C_Jjerkf5hRoQKhD01nBavNuv2Um",
+    "action": "trash"
+  },
+  {
+    "fileId": "1YAZMnHbXXF_xBf296Gl_S2hidvdiXyVZ",
+    "action": "trash"
+  },
+  {
+    "fileId": "1pkB7KYn2Aw3T7u3Vg_qVYIsmZXoixo_g",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
