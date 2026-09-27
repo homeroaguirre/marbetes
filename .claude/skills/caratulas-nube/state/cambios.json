@@ -398,5 +398,55 @@
     "fileId": "1QegbfVpLH_KbYxX-Gas4MHxlH-PDHCht",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1tSy2MdEpNVBPdpLVbcdHvUT0eLiA_fFJ",
+    "action": "rename",
+    "newTitle": "Odeon, 5019 B, En voz baja (German L. Teisseire - Diego E. Perkins), Francisco Canaro y su Orquesta Típica, Vals con estribillo.jpg"
+  },
+  {
+    "fileId": "1VOk8uc7jioNwisFBYqNgxMavGDbGky2P",
+    "action": "rename",
+    "newTitle": "Odeon, 4134 A, Milonga con variaciones (Francisco Canaro), Pirincho y su Quinteto Típico, Dir. Francisco Canaro, Especial para Baile, Tango Milonga.jpg"
+  },
+  {
+    "fileId": "15YCMBUJAhcz3TDWyVJKHRyywaI7LGZJG",
+    "action": "rename",
+    "newTitle": "Odeon, 5019 A, Milagro (Luis Rubistein), Francisco Canaro y su Orquesta Típica, Tango con estribillo.jpg"
+  },
+  {
+    "fileId": "1RgM4PObOpeXxcnr0x3JyMN821pYfJlat",
+    "action": "rename",
+    "newTitle": "Odeon, 5028 B, Charito (Hector Lomuto), Francisco Canaro y su Orquesta Típica, Pasodoble con estribillo.jpg"
+  },
+  {
+    "fileId": "12ZxAaoOYEQ8xSIqF-6zZCL4ZnGS0263G",
+    "action": "rename",
+    "newTitle": "Odeon, 5266 B, Me gusta bailar milonga (Pintin Castellanos), Francisco Canaro y su Orquesta Típica, Estribillo por Carlos Roldán, Milonga.jpg"
+  },
+  {
+    "fileId": "1LmodVeBfW1z20iG69G_deQWuGea9m1eA",
+    "action": "rename",
+    "newTitle": "Odeon, 4134 B, El trovero (Rafael Tuegols - Agustín Irusta), Pirincho y su Quinteto Típico, Dir. Francisco Canaro, Especial para Baile, Vals.jpg"
+  },
+  {
+    "fileId": "107ues0PmRwc9y3xdWin2_VVipxKqcji-",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4696 B, Apriendan los pedigüeños (E. Di Cicco - D. D'Angelo), Orquesta Típica F. Canaro, Con estribillo por Charlo, Accesit Concurso 1930, Ranchera.jpg"
+  },
+  {
+    "fileId": "1k3X2BZcsCzHv-DI29Ch0J5ulhWxMqYcv",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4657 B, Poca suerte (J. C. Patrón - R. Mastrangelo), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1OIZJ-fa6_rmh7vIoI02lgUX_KAnsCzpU",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1MSk1S9cDPZDIWcVLUrJsHBbpep80pgOL",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
