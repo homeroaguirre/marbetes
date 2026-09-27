@@ -5074,5 +5074,51 @@
   {
     "fileId": "1kSAS7-TOYN3GOGTQNKUIUy4ZesRlTIku",
     "action": "trash"
+  },
+  {
+    "fileId": "1ceekXwp4d_HkeUvROMfKg52JqxUJq2j3",
+    "action": "rename",
+    "newTitle": "Victor, 39150 A, Fue mi salvación (A. Cosentino - A. E. Donato), Edgardo Donato y sus Muchachos, Canta Horacio Lagos, Tango.jpg"
+  },
+  {
+    "fileId": "1Ug4A8wDRTJr4L-0eSA3PPJ5jA_FWNaZ8",
+    "action": "rename",
+    "newTitle": "Victor, 60-0806 B, Color de rosa (Antonio Polito), Aníbal Troilo (Pichuco) y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "15_c_EjCzaSXZPF9Q491h-TO16iB_EpsW",
+    "action": "rename",
+    "newTitle": "Odeón, 5666 A, Mañana por la mañana (Juan García - Emilio J. Brameri), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Vals.jpg"
+  },
+  {
+    "fileId": "1PVIbQiWEOq0SurwipTfKMQROMf63lz72",
+    "action": "rename",
+    "newTitle": "Odeón, 5665 B, Cuando llora la milonga (Juan de Dios Filiberto - Luis Mario), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.png"
+  },
+  {
+    "fileId": "1UvZLi2Er8Ll4-DqsPZLuFMh1HLKl13-h",
+    "action": "rename",
+    "newTitle": "Victor, 39103 B, Yo te amo (Carlos C. Lenzi - E. Donato), Edgardo Donato y sus Muchachos, Canta L. Morales y R. Gavio, Tango.png"
+  },
+  {
+    "fileId": "1ZfE6ruNvHwdV1QBYkzjMO_-9o-NvN1gZ",
+    "action": "rename",
+    "newTitle": "Victor, 60-0806 A, Canción desesperada (Enrique Santos Discépolo), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.png"
+  },
+  {
+    "fileId": "1SOCQx_yME05EgmkAuCBATO3RCu3NdSNg",
+    "action": "trash"
+  },
+  {
+    "fileId": "1WubFC7xw43YcKskgyEN_eU8UbjNuA2_G",
+    "action": "trash"
+  },
+  {
+    "fileId": "1sluWQpl099SuPqeSQtjFCeilzAYILAx_",
+    "action": "trash"
+  },
+  {
+    "fileId": "1mvOrrXJE1uzOyUbPpUuxsXQ3LR3QWxNx",
+    "action": "trash"
   }
 ]
