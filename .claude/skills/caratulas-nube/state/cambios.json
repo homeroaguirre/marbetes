@@ -1415,5 +1415,55 @@
   "fileId": "1x2Mj4HNVe5wm8iIXHQwSX3leROuXjGsh",
   "action": "move",
   "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+ },
+ {
+  "fileId": "1guquXSD4Pl8VEnvXpp3-H_7agdYvWRcS",
+  "action": "rename",
+  "newTitle": "Disco Nacional Odeon, 4630 A, Ojos verdes (J. Canaro), Orquesta Típica F. Canaro, Tango.jpg"
+ },
+ {
+  "fileId": "1O_EjycANCQaS38fa2Uw4ZoFXT0xdkZxF",
+  "action": "rename",
+  "newTitle": "Disco Nacional Odeon, 6965 B, Sobre el pucho (S. Piana), Orquesta Típica F. Canaro, Tango.jpg"
+ },
+ {
+  "fileId": "1gYZkyUgS9pUbyy2HDNaGkgN54sF9_nG0",
+  "action": "rename",
+  "newTitle": "Odeon, 4112 B, Sufra (Francisco Canaro), Pirincho y su Quinteto Típico, Dirección Francisco Canaro, Especial para Baile, Tango.jpg"
+ },
+ {
+  "fileId": "127gqs7fmKNjuXw39nIQVHLNVVohl5Kx5",
+  "action": "rename",
+  "newTitle": "Disco Nacional Odeon, 6965 A, Nuits de Chine (F. L. Benech), Orquesta Jazz-Band Francisco Canaro, Fox Trot Oriental.jpg"
+ },
+ {
+  "fileId": "1191DYSn_3cDplE6FBrHyoH1sQYkUtTHM",
+  "action": "rename",
+  "newTitle": "Disco Nacional Odeon, 6915 B, Paramount (D. Canaro), Orquesta Típica F. Canaro, Tango.jpg"
+ },
+ {
+  "fileId": "1os3ng0XKalm-PrwYExXhQw24aB-YBt8L",
+  "action": "rename",
+  "newTitle": "Disco Nacional Odeon, 4284 B, La malvada (N. Guastavino), Orquesta Típica F. Canaro, Tango.jpg"
+ },
+ {
+  "fileId": "12GCco33M0W1kvmlPM0dLChMD803sQUNG",
+  "action": "rename",
+  "newTitle": "Disco Nacional Odeon, 6915 A, Nubes de humo (Fume compadre) (M. Jovés), Orquesta Típica F. Canaro, Tango.jpg"
+ },
+ {
+  "fileId": "1r_X8qO7mRPte8ZWH2aIhn5XGl2sRvJs4",
+  "action": "rename",
+  "newTitle": "Odeon, 30132 A, Ojos negros (Vicente Greco), Francisco Canaro y su Orquesta Típica, Tango.jpg"
+ },
+ {
+  "fileId": "1Kpciq5P_IPek3cNLrgFskFYu24me5Gqi",
+  "action": "rename",
+  "newTitle": "Disco Nacional Odeon, 16205 B, Barra querida - La barra (C. A. Sanchez - C. F. Vedani), Charlo, Con acomp. de Orquesta Francisco Canaro, Del 5o Concurso de Tangos, Tango.jpg"
+ },
+ {
+  "fileId": "12T7mgJeIinuZ-tQIf913Fdwsh2sgpOxp",
+  "action": "rename",
+  "newTitle": "Disco Nacional Odeon, 16205 A, Noviecita mia (Antonio Polito), Charlo, Con acomp. de Orquesta Francisco Canaro, Quinto Premio del 5o Concurso del Palace Theatre, Tango.jpg"
  }
 ]
