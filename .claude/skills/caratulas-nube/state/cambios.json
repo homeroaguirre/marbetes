@@ -5261,5 +5261,46 @@
   {
     "fileId": "1nw-oXfCD7DaAxxjUb8RDguRCuq0Tr1x_",
     "action": "trash"
+  },
+  {
+    "fileId": "1uGf73IVr8P__Ip9HRWth3LJqjMba8QOG",
+    "action": "rename",
+    "newTitle": "Victor, 60-0762 B, Llorarás, llorarás (H. Manzi - H. Gutiérrez), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Floreal Ruiz, Vals.jpg"
+  },
+  {
+    "fileId": "1Px6X4fRH_RlLnD9aIouKGkj-GtET18Vk",
+    "action": "rename",
+    "newTitle": "Victor, 38969 A, La melodía del corazón (Carmelo Santiago - Fioravante Di Cicco y Héctor Artola), Edgardo Donato y sus Muchachos, Canta Romeo Gavio, Tango.jpg"
+  },
+  {
+    "fileId": "1fqi3vUA2rSJo7RPEcGufuohjLhYwr3Az",
+    "action": "rename",
+    "newTitle": "Victor, 39042 A, El distinguido ciudadano (Peregrino Paulos (h)), Edgardo Donato y sus Muchachos, Tango.jpg"
+  },
+  {
+    "fileId": "1zqqneCA4rVgZM6mJjtAEufai5otH963A",
+    "action": "rename",
+    "newTitle": "Victor, 39459 B, No preciso (J. Sassone - L. Mottolese), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Ricardo Ruiz, Tango.jpg"
+  },
+  {
+    "fileId": "138yHKMFa7kL_CSItdnK9q2KUT2GKPjN1",
+    "action": "rename",
+    "newTitle": "Victor, 68-1948 A, Derecho viejo (A. E. Baldasari - E. Arolas), Osvaldo Fresedo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1zPDDUEjGrAeD3y-RyOFxrsnD1sTjFkyb",
+    "action": "trash"
+  },
+  {
+    "fileId": "1aDY4foi8bMRLrwjQCxo04ms1v6LivEc9",
+    "action": "trash"
+  },
+  {
+    "fileId": "11hbNkbvmYtsu42932QdJlTq_YHFiBe6D",
+    "action": "trash"
+  },
+  {
+    "fileId": "15Aj6b2jtkyiLuWDu-rngrIopicoUUoRk",
+    "action": "trash"
   }
 ]
