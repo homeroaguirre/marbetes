@@ -4081,5 +4081,52 @@
     "fileId": "1O_hKJGQkq6o5iWAlLaH7hVd4oUFPhKy7",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1u-lpwDaE8wV4jORhhVbZu9eqAv8NUURK",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1CuRSIRlnwPOV9M1fAJfaYDriP98CCF27",
+    "action": "rename",
+    "newTitle": "Victor, 60-0208 A, Si la llegarán a ver (E. Cadícamo - J. D'Arienzo), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "1knpiU0I_J8Xg98WNr3QtKxlsP9Gh2x43",
+    "action": "rename",
+    "newTitle": "Victor, 60-0130 A, Tango brujo (Francisco Canaro), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "1hKyOc3d8epVw34_naxIfyImGbhfKdrHT",
+    "action": "trash"
+  },
+  {
+    "fileId": "1srLL-DQmajUnCbqRBs267Ro1Nc1aHCZE",
+    "action": "trash"
+  },
+  {
+    "fileId": "18hWoUb4uA4EdmW0LCxIpPRQbkyUmS8YF",
+    "action": "rename",
+    "newTitle": "Victor, 38950 A, Sinfonía de arrabal (Maruja Pacheco Huergo), Edgardo Donato y sus Muchachos, Canta Lagos - Morales - Gavio, Tango.png"
+  },
+  {
+    "fileId": "1MfZ9FZb7QjLxc7d0EWZhOKHxItHaEjJA",
+    "action": "rename",
+    "newTitle": "Victor, 80902 A, Soy de línea (José Laina), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "1AhvzUtZ7PF6J7BMGotCVgMk2RokXdott",
+    "action": "trash"
+  },
+  {
+    "fileId": "1w-xqXXRtlwAuDP25bujfY-y40WAg47yI",
+    "action": "rename",
+    "newTitle": "Victor, 80902 B, Por una carta (A. Pugliesi), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "15WqQNSkQScCfOYQnVlf2OcEuMFImb8_y",
+    "action": "rename",
+    "newTitle": "Odeón, 5662 A, Gracias (Elías Randal - Carlos Bahr), Rodolfo A. Biagi y su Orquesta Típica, Canta Carlos Saavedra, Tango.png"
   }
 ]
