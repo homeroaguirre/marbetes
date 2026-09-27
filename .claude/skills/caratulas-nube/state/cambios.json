@@ -2477,5 +2477,53 @@
     "fileId": "17vR62sgq8zBWrhbF9VKXJcoEMn8zDFjd",
     "action": "rename",
     "newTitle": "Victor, 39816 B, Carancho (H. Marcó - F. Salamanca), Juan D'Arienzo y su Orquesta Típica, Canta Juan Carlos Lamas, Tango.jpg"
+  },
+  {
+    "fileId": "1MR2eYPvAa6jSZqIWOifyyB0E0_X_m5De",
+    "action": "rename",
+    "newTitle": "Victor, 60-0189 B, El distinguido ciudadano (Peregrino Paulos (h)), Aníbal Troilo (Pichuco) y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1mzZcvqLQmFWTSREbFX3EjswsxELiz_wH",
+    "action": "trash"
+  },
+  {
+    "fileId": "1w1Io822qhCa1HhNI3JBgm4YLVFTD47Uz",
+    "action": "rename",
+    "newTitle": "Victor, 79888 A, Fumando espero (E. Villadomad), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1ZfWQIhGQLrY60v9SJS0h2y2EMLuRYLLa",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Z4yFUqyYNteL8q2fRvVOBHnYscKlO5Cg",
+    "action": "rename",
+    "newTitle": "Columbia, 301037 A, Rosa peregrina - Lupe (Lucio Demare - Agustín Irusta - Santiago R. Fugazot), Lucio Demare y su piano, Vals.jpg"
+  },
+  {
+    "fileId": "1DScIgu0gIBK-3oH4zNb5DKJijhihYy32",
+    "action": "rename",
+    "newTitle": "Victor, 60-0226 B, Cantando se van las penas (R. Duggan - J. Canaro), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta A. Marino, Tango.jpg"
+  },
+  {
+    "fileId": "1InAlXX8umGo_Pusn32girqMUUm5O44ae",
+    "action": "rename",
+    "newTitle": "Columbia, 301037 B, Mañana zarpa un barco - Dandy (Lucio Demare - Homero Manzi - Santiago R. Fugazot - Agustín Irusta), Lucio Demare y su piano, Tango.png"
+  },
+  {
+    "fileId": "1eGRGT7iV-VuyzBjK5X7d2ZgVWNfACwYa",
+    "action": "rename",
+    "newTitle": "Victor, 39835 A, Pobre mascarita (S. Granata - O. Romanelli), Juan D'Arienzo y su Orquesta Típica, Canta Juan Carlos Lamas, Tango.jpg"
+  },
+  {
+    "fileId": "1LQnbb6YPacNX_JEiZkNwvQBQQUL6kxlS",
+    "action": "trash"
+  },
+  {
+    "fileId": "1U9Uh_UEal9KSS8hxJAraWD_hyzl0g_fR",
+    "action": "rename",
+    "newTitle": "Victor, 79888 B, Por última vez (Arturo Sica), Orquesta Típica Victor, Tango.png"
   }
 ]
