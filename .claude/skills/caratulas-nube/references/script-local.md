@@ -53,5 +53,27 @@ Es idempotente: volver a aplicar un cambio ya aplicado (mismo rename, mismo tras
 no rompe nada, así que no hace falta que el usuario recuerde exactamente qué ya
 corrió — puede simplemente volver a pasarle el `cambios.json` más reciente.
 
+**Al terminar, el script vacía `cambios.json` (lo deja en `[]`)** en el mismo
+archivo que se le pasó por argumento. Así, la próxima vez que Claude cataloga una
+tanda nueva, arranca de un archivo vacío en vez de seguir acumulando para siempre
+entradas ya aplicadas (o de archivos que el usuario después movió/borró a mano en
+Drive, que rompían con "Requested entity was not found" al reintentarlas). Por eso
+el usuario tiene que commitear y pushear ese `cambios.json` vacío después de
+correr el script — si no, Claude va a ver en el repo cambios que en realidad ya se
+aplicaron:
+
+```bash
+cd <carpeta donde el usuario clonó el repo marbetes> && git pull
+~/marbetes-script/venv/bin/python ~/marbetes-script/marbetes.py .claude/skills/caratulas-nube/state/cambios.json
+git add .claude/skills/caratulas-nube/state/cambios.json
+git commit -m "Aplicar cambios de marbetes y vaciar cola"
+git push
+```
+
+`processed.json` (la memoria de qué fileIds ya catalogó Claude) NO se toca ni se
+vacía nunca — sirve para no volver a procesar un archivo que ya fue renombrado
+y sigue viviendo en la misma carpeta de Drive con su nuevo nombre.
+
 Se le puede sugerir dejar esto en un cron o un loop simple para que se aplique solo
-cada cierto tiempo, sin que el usuario tenga que acordarse.
+cada cierto tiempo, sin que el usuario tenga que acordarse (en ese caso, el cron
+también tiene que hacer el commit+push del `cambios.json` vacío).

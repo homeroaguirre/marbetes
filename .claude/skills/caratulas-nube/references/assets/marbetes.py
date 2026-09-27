@@ -32,6 +32,8 @@ def apply_changes(path):
     with open(path, encoding="utf-8") as f:
         changes = json.load(f)
     service = get_service()
+    ok = 0
+    failed = 0
     for c in changes:
         file_id = c["fileId"]
         action = c["action"]
@@ -58,8 +60,21 @@ def apply_changes(path):
                 print("Movido " + file_id + " -> carpeta " + c["targetFolderId"])
             else:
                 print("Accion desconocida para " + file_id + ": " + action)
+                continue
+            ok += 1
         except Exception as e:
             print("ERROR con " + file_id + " (" + action + "): " + str(e))
+            failed += 1
+
+    print("")
+    print(str(ok) + " cambios aplicados, " + str(failed) + " con error, de " + str(len(changes)) + " en total.")
+
+    # Vacía el archivo de cambios para que la proxima vez arranque de cero:
+    # ya se aplicaron (o fallaron por archivo inexistente/movido a mano),
+    # asi que no tiene sentido seguir acarreandolos en el repo.
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump([], f)
+    print("cambios.json vaciado (ya quedo aplicado en Drive).")
 
 
 if __name__ == "__main__":
