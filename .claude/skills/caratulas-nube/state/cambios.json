@@ -2755,5 +2755,52 @@
     "fileId": "1czDeMiGNf-JZLAO2zi4-027vXim22vp5",
     "action": "rename",
     "newTitle": "Victor, 79936 A, Adiós muchachos (A. Sanders - F. Vedani), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1nAYZiMSlOXpLKs7nwS2ISTnNgQB0w3fg",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "13M5PujFb9zORldLjLIyzF0tXxBQZ67KU",
+    "action": "trash"
+  },
+  {
+    "fileId": "1VleW8rsmN-knHET_sjmSCgNtuGEbPY00",
+    "action": "rename",
+    "newTitle": "Victor, 60-0317 B, Orquestas de mi ciudad (Avlis - Fco. Fiorentino), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.png"
+  },
+  {
+    "fileId": "17mnD9vb4FNjAUaq6CreNZoDvozJ23O9X",
+    "action": "rename",
+    "newTitle": "Victor, 60-0119 B, Se fue (P. Valdez - H. Salgán), Juan D'Arienzo y su Orquesta Típica, Canta H. Mauré, Vals.jpg"
+  },
+  {
+    "fileId": "1QYCj0TG97ZDjXGj70xnAYRv6QLfUHzvK",
+    "action": "rename",
+    "newTitle": "Odeón, 5640 B, Tres horas (Héctor Varela - Alberto Neri), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.jpg"
+  },
+  {
+    "fileId": "109xD9ba9g1O_Rqd-YC36Z3Bv5S0ilJWA",
+    "action": "trash"
+  },
+  {
+    "fileId": "11nMEwZJIy8KIk8Wua50AEKPY0pIDGEkP",
+    "action": "rename",
+    "newTitle": "Victor, 79936 B, Carta brava (R. Quiroga), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1HJ5579-jSSM87ywQLTeF06QQ2O1rutwR",
+    "action": "trash"
+  },
+  {
+    "fileId": "1WXQ9puu__5DiuobR8OZLKXYwz5FHW0G5",
+    "action": "rename",
+    "newTitle": "Victor, 60-0325 A, La luz de un fósforo (Enrique Cadícamo - A. Suárez Villanueva), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.png"
+  },
+  {
+    "fileId": "1uPURNrTn-qCoy1410F8r5QbLxaKhBOsK",
+    "action": "rename",
+    "newTitle": "Odeón, 5640 A, Soy del 90 (Tito Rivero - Carlos Waiss), Rodolfo A. Biagi y su Orquesta Típica, Canta Carlos Acuña, Milonga.jpg"
   }
 ]
