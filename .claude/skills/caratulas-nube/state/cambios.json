@@ -3667,5 +3667,53 @@
     "fileId": "1Yqk4pV75eJbT2v1yF_E06utBmvKBlALr",
     "action": "rename",
     "newTitle": "Victor, 60-0497 B, La mentirosa (Anselmo Aieta), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1_BXKuZG_15o7vngind0GeHB_WPLAY5Q4",
+    "action": "rename",
+    "newTitle": "Victor, 60-0633 A, Luna llena (C. Castillo - M. Perini), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Floreal Ruiz, Tango.jpg"
+  },
+  {
+    "fileId": "1av9VwVJfQHkE3gSGIhnpLdsxv8qky-YS",
+    "action": "rename",
+    "newTitle": "Odeón, 5655 B, Tus labios me dirán (Emilio Brameri - Héctor Marcó), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.png"
+  },
+  {
+    "fileId": "1-wWsIEeDTsbyP-BYObaOC0H6_9f5EWNy",
+    "action": "trash"
+  },
+  {
+    "fileId": "1Fdtv1ZBU5UYA9oOlslOw46KXi5Rk0oYs",
+    "action": "rename",
+    "newTitle": "Victor, 80830 B, Garabato (José M. Cresta), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1KFtGX7cLeUmSucyacAMdLmqff5ZBWvGU",
+    "action": "trash"
+  },
+  {
+    "fileId": "1kQKdA6jbEAhAVXOfUfLr5RGiYxhuqXCL",
+    "action": "rename",
+    "newTitle": "Victor, 60-0648 A, Garras (J. M. Contursi - A. Troilo), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.png"
+  },
+  {
+    "fileId": "1YaDTyXZ1uzh1fr2fnwBp38qypE-0JziM",
+    "action": "rename",
+    "newTitle": "Odeón, 5656 A, Hoy te quiero mucho más (Carlos Lazzari - Horacio Sanguinetti), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.png"
+  },
+  {
+    "fileId": "14o2GJ90sxWHC7Xrhh4xziFY2KRiD8Yy3",
+    "action": "rename",
+    "newTitle": "Victor, 39319 A, Mariposita (Anselmo Aieta), Osvaldo Fresedo y su Gran Orquesta Argentina, Tango.jpg"
+  },
+  {
+    "fileId": "1Ynj7pYZN0JxcEnvG87Xq94U_SoBd7sCS",
+    "action": "rename",
+    "newTitle": "Victor, 60-0531 A, No nos veremos nunca (C. Waiss - J. D'Arienzo), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Tango.jpg"
+  },
+  {
+    "fileId": "14pw6QrJTmvfFX54wmn-MndkJknhmGQID",
+    "action": "rename",
+    "newTitle": "Victor, 39319 B, Después del carnaval (J. A. Amuchástegui Keen), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Ricardo Ruiz, Tango.jpg"
   }
 ]
