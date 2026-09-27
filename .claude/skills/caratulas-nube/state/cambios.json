@@ -98,5 +98,40 @@
     "fileId": "1A0Rr6w_6XxSCioRHxkrYrxfQF2coi_Kp",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ZGwMgKHxGMoQWdOveeEbvvT8Yog2CT_G",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4683 A, Flor del campo (F. Canaro), Orquesta Típica F. Canaro, Con estribillo, Ranchera.jpg"
+  },
+  {
+    "fileId": "1jxBfmfVhufaym04s1yWmnHFZx9Ra9_h3",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4519 B, Palida noche (J. Stamburgo), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1BNyq345l4Xhe4p6sLINBVwmjZMsfq6Qu",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4519 A, Flores secas (J. C. Patrón), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1lTt1xQFjKo1CgajjsaO3eGReWFuzoGdW",
+    "action": "rename",
+    "newTitle": "Odeon, 55459 B, Cuna de fango (Motivos populares porteños, Arr. de Francisco Canaro), Francisco Canaro y su Orquesta Típica, Canta Alberto Arenas, Tango.jpg"
+  },
+  {
+    "fileId": "12wawYddzHfmoS4Vbd5y-M-af_102VdJ4",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4551 B, Yo tuve un amorcito (F. Canaro), Orquesta Típica F. Canaro, Fox-Trot.jpg"
+  },
+  {
+    "fileId": "1TqkjmXmhSA1zeOCF9qjJKvYJN8aIm5wy",
+    "action": "rename",
+    "newTitle": "Odeon, 55459 A, Flor de arrabal (Luis Riccardi), Francisco Canaro y su Orquesta Típica, Cantan Alberto Arenas y Mario Alonso, Milonga.jpg"
+  },
+  {
+    "fileId": "1ku4rOUAHsUp4rG3BiBjFQGdDzSOmwG_F",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 4551 A, Felicia (E. Saborido), Orquesta Típica F. Canaro, Tango.jpg"
   }
 ]
