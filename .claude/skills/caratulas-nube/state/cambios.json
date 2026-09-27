@@ -4976,5 +4976,54 @@
   {
     "fileId": "16EzH4pRSF7duDDJRJ5qkX0k1eKJRKjO7",
     "action": "trash"
+  },
+  {
+    "fileId": "1PnGSjukfh39-lOZW1HqY30A9hdut_BO4",
+    "action": "rename",
+    "newTitle": "Victor, 80970 A, Piba (R. Eggers - L. Roldán), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "1lW46GbIq-bubKQRx-IEuHPJt8E5nx1YH",
+    "action": "rename",
+    "newTitle": "Victor, 60-0699 B, Si supiera que la extraño (C. Waiss - H. Varela), Juan D'Arienzo y su Orquesta Típica, Canta A. Laborde, Tango.jpg"
+  },
+  {
+    "fileId": "19NGg8Hx5podT_aQsh5_gI_bZ4146PqxA",
+    "action": "rename",
+    "newTitle": "Odeón, 5667 A, Margot (Carlos Gardel - José Razzano - Esteban Celedonio Flores), Rodolfo A. Biagi y su Orquesta Típica, Canta Carlos Saavedra, Tango.png"
+  },
+  {
+    "fileId": "1awgo89eY781irh_zhsmR0yi3MY2EJwyI",
+    "action": "rename",
+    "newTitle": "Victor, 60-0847 B, Tedio (Miguel Bucino), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.jpg"
+  },
+  {
+    "fileId": "1BvbRhoG6KgQH7jeAiPVU89apKmszUc3z",
+    "action": "rename",
+    "newTitle": "Victor, 39687 A, Sin rabia y sin pena (L. Rubistein - A. Rodio), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.jpg"
+  },
+  {
+    "fileId": "1IOhaQkYRvRBOtXa3N9B0d5KCtof77_xu",
+    "action": "rename",
+    "newTitle": "Victor, 39687 B, Barrio porteño (Parque Patricios) (H. R. Demattei - E. N. de la Cruz), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.jpg"
+  },
+  {
+    "fileId": "1OiNZr80gN4iRkzAVc9U4ol-XqiTEVElK",
+    "action": "rename",
+    "newTitle": "Victor, 39209 A, Deja el mundo como está (R. Sciammarella - R. A. Biagi), Edgardo Donato y sus Muchachos, Canta Horacio Lagos, Tango.jpg"
+  },
+  {
+    "fileId": "1Cb54NLoa36KHFdHmUsSHD0EgpPjLcc1-",
+    "action": "rename",
+    "newTitle": "Victor, 39189 B, Sentir del corazón (Benito R. Atella), Edgardo Donato y sus Muchachos, Canta H. Lagos - R. Gavio, Milonga.jpg"
+  },
+  {
+    "fileId": "1aORSmF-Py3jE1dnlJ2TziKV3WSe91dUL",
+    "action": "rename",
+    "newTitle": "Victor, 60-0847 A, Margo (H. Expósito - A. Pontier), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.jpg"
+  },
+  {
+    "fileId": "1inTYuARVTfw9WBN_IqatNobwAgS9M01P",
+    "action": "trash"
   }
 ]
