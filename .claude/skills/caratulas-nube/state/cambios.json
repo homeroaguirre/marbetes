@@ -5213,5 +5213,53 @@
     "fileId": "1pkB7KYn2Aw3T7u3Vg_qVYIsmZXoixo_g",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1vjl-nBILj5epNyJHSUGcOQiXK7Wc9-GV",
+    "action": "rename",
+    "newTitle": "Victor, 39042 B, Diabla (Nenette Noriega - Tito Guizar), Edgardo Donato y sus Muchachos, Canta Horacio Lagos, Vals.jpg"
+  },
+  {
+    "fileId": "1iQwmCQYIY97JK0MKVIwfQLdW94CXIAwB",
+    "action": "rename",
+    "newTitle": "Victor, 39597 A, Mi noche triste (P. Contursi - S. Castriota), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.jpg"
+  },
+  {
+    "fileId": "1HFt9SWlzGqQUtiuSh062gJao8T3_TxCK",
+    "action": "rename",
+    "newTitle": "Victor, 60-0628 A, Seamos amigos (Príncipe Cubano - D. Rullo), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Tango.jpg"
+  },
+  {
+    "fileId": "11x6P2VVsH_T3uxiM9L1V5yXb_gXjDu0s",
+    "action": "rename",
+    "newTitle": "Victor, 80925 A, Portero suba y diga (Eduardo de Labar), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1bD5EPU99K31OGdRRNjHd3rXsa9a-AH3v",
+    "action": "rename",
+    "newTitle": "Victor, 38969 B, Porteña linda (Horacio Sanguinetti - Edgardo Donato), Edgardo Donato y sus Muchachos, Canta Horacio Lagos, Milonga Tangueada.png"
+  },
+  {
+    "fileId": "1XL6zCpE7Au4Fe_Z8b3XnxLPCNp1Jh-_s",
+    "action": "rename",
+    "newTitle": "Victor, 60-0762 A, Fruta amarga (H. Manzi - H. Gutiérrez), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.png"
+  },
+  {
+    "fileId": "1b4_Hl_8pOPGmlfdnZKMffxixk34a0P-w",
+    "action": "rename",
+    "newTitle": "Odeón, 5663 A, Con mi perro (Aníbal Troilo \"Pichuco\" - José María Contursi), Rodolfo Biagi y su Orquesta Típica, Canta Alberto Amor, Milonga.png"
+  },
+  {
+    "fileId": "1iNAgFxtPdu-ljEBho3B3lhze0HnebK3Z",
+    "action": "rename",
+    "newTitle": "Victor, 60-0742 A, Soledad... la de Barracas (Carlos Bahr - José Garza), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.png"
+  },
+  {
+    "fileId": "1VD52gguTxnqfAnK7Ez6izCU5slZ8mWB8",
+    "action": "trash"
+  },
+  {
+    "fileId": "1nw-oXfCD7DaAxxjUb8RDguRCuq0Tr1x_",
+    "action": "trash"
   }
 ]
