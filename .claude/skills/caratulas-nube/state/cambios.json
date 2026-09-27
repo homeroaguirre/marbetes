@@ -5120,5 +5120,50 @@
   {
     "fileId": "1mvOrrXJE1uzOyUbPpUuxsXQ3LR3QWxNx",
     "action": "trash"
+  },
+  {
+    "fileId": "1JQ4Hq4DV011E6kZAB1eFTVA6ZRXPqMrz",
+    "action": "rename",
+    "newTitle": "Victor, 60-0669 A, Aparcero (A. Radicer - A. Aieta), Juan D'Arienzo y su Orquesta Típica, Canta A. Echagüe - A. Laborde, Tango.jpg"
+  },
+  {
+    "fileId": "1tnIBTHH5xiOFpfbTRkS_6EZKrza6M5sO",
+    "action": "rename",
+    "newTitle": "Victor, 39103 A, Estrellita mía (R. Ratti - A. Soifer), Edgardo Donato y sus Muchachos, Canta R. Gavio - L. Morales y H. Lagos, Vals.png"
+  },
+  {
+    "fileId": "1sS4eLlhzrSOWt3kr36WPH23YUctOU6MC",
+    "action": "rename",
+    "newTitle": "Victor, 80925 B, Engominado (Fernando Montoni), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1-CZxBSowEmBTDPb4MBUqdhY7RumWW2g9",
+    "action": "rename",
+    "newTitle": "Victor, 60-0646 B, Me gusta bailar milonga (Pintín Castellanos), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Milonga.jpg"
+  },
+  {
+    "fileId": "1IBmqgSukUWoJsZDmAOajShoDavEfRkvW",
+    "action": "rename",
+    "newTitle": "Victor, 39597 B, Si de mí te has olvidado (J. M. Contursi - O. N. Fresedo), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.jpg"
+  },
+  {
+    "fileId": "1jZbuFFYI0PV00cXkxd_PTj5UBXO9wfn9",
+    "action": "trash"
+  },
+  {
+    "fileId": "1N5m9MiFsgaKgvY3ekgLVm_9PbPA1jVwV",
+    "action": "trash"
+  },
+  {
+    "fileId": "1kGv0jb5XcFkoki2UjcaSJoi5AXcOwriN",
+    "action": "trash"
+  },
+  {
+    "fileId": "1LseX1Ae8dY_T7_HRAOupEawee8i9gxJY",
+    "action": "trash"
+  },
+  {
+    "fileId": "1C9TnbMFcvt4xg_2392ZDwl2aaIeb1Bn2",
+    "action": "trash"
   }
 ]
