@@ -2568,5 +2568,54 @@
     "fileId": "1cs3KwT45lFt_GwrG7ZeP8UV4cFTz7I1L",
     "action": "rename",
     "newTitle": "Victor, 60-0006 A, El lazo (Eugenio Cárdenas - Oscar A. Caccavaio), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1iUUrMTMgTlcCcvLF0cczrcDt949IOtX8",
+    "action": "trash"
+  },
+  {
+    "fileId": "1USOJNpNoaL1LKWQgCWByIGuYQ1SJLIRY",
+    "action": "rename",
+    "newTitle": "Victor, 79889 B, Horas felices (O. Pérez Freire), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1-LbRLuItM-wDec-_-rVjjC89k8QQaIyA",
+    "action": "rename",
+    "newTitle": "Columbia, 301049 B, Preludio a mi noche triste - Mi noche triste (Lucio Demare - Samuel Castriota - Pascual Contursi), Lucio Demare y su Piano, Tango.png"
+  },
+  {
+    "fileId": "1sQiwTDLQvcw4-Bpmt_GhhMQOo8hmAPGo",
+    "action": "rename",
+    "newTitle": "Odeón, 5636 B, Pueblito de provincia (Héctor Stamponi - Homero Expósito), Rodolfo A. Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.png"
+  },
+  {
+    "fileId": "14h6NkRaHhNViS_9uy2-Mpn95T_o4rx2l",
+    "action": "rename",
+    "newTitle": "Victor, 60-0246 B, Uruguaya (J. M. Velich - F. Polonio), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino - Marino, Vals.jpg"
+  },
+  {
+    "fileId": "1Fj0Lbp0jsVdREUUWIsnWAc2XExu5g0Ah",
+    "action": "rename",
+    "newTitle": "Odeón, 5637 A, Arlette (Antonio Bonavena - Horacio Sanguinetti), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.jpg"
+  },
+  {
+    "fileId": "1P749of9VKy2b5Bz2OOnsxicrk67kGVSN",
+    "action": "rename",
+    "newTitle": "Victor, 60-0246 A, Gime el viento (O. Rubens - A. Bruni), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.jpg"
+  },
+  {
+    "fileId": "16_LM7jet-Gf22XulVf_xavtzcwhRoFPZ",
+    "action": "rename",
+    "newTitle": "Pampa, PM 14051 A, La casita de mis viejos (Juan Carlos Cobián - Enrique D. Cadícamo), Lucio Demare y su Piano, Tango.png"
+  },
+  {
+    "fileId": "1qfVyg6KZJFMd8pMygI41wBYY4DYBCKh8",
+    "action": "rename",
+    "newTitle": "Victor, 60-0006 B, Tan solo tú (Héctor Marcó - Servando F. Domínguez), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Vals.jpg"
+  },
+  {
+    "fileId": "1dLa2wVwJ84DOizHVnZxoghiJeiyyn36V",
+    "action": "rename",
+    "newTitle": "Pampa, PM 14051 B, Humildad (Lucio Demare - Alfredo Navarrine), Lucio Demare y su Piano, Vals.png"
   }
 ]
