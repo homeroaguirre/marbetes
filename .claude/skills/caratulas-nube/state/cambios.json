@@ -2708,5 +2708,52 @@
     "fileId": "1voIcK-WFaV4mtpz4HDHvzXFKFTcCLAcP",
     "action": "rename",
     "newTitle": "Victor, 60-0054 B, Cicatrices (E. P. Maroni - A. R. Avilés), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Tango.png"
+  },
+  {
+    "fileId": "1Z8OXIf1kzwd4NcNGMhMuTx-wwuVR_HDS",
+    "action": "trash"
+  },
+  {
+    "fileId": "1fOYmLFNw_qkaEI_gRsgCYOw5dSeA2Nkv",
+    "action": "rename",
+    "newTitle": "Victor, 79905 A, Vieja loca (R. Collazo), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1vVEa-ziQrfLuhRpxdYs1NOFGFbC0J92t",
+    "action": "rename",
+    "newTitle": "Odeón, 5639 B, Canción de rango (Raúl Kaplún - José M. Suñé), Rodolfo A. Biagi y su Orquesta Típica, Canta Carlos Acuña, Tango.png"
+  },
+  {
+    "fileId": "1ziWwg4CKrxexsRachmUqCPMcc7J0WTgM",
+    "action": "rename",
+    "newTitle": "Victor, 60-0271 A, La cumparsita (Gerardo H. Matos Rodríguez), Aníbal Troilo (Pichuco) y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1ERTf7xFmYfSS7-0hEmJOSUgWDTKuEuNJ",
+    "action": "trash"
+  },
+  {
+    "fileId": "126f0gjisUQbxT9QwsDcFENTb486dCVN0",
+    "action": "rename",
+    "newTitle": "Victor, 79905 B, Mala (H. Simier), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "10IvQVM2EoscUuah4rX2uMEP-NdV4hTfB",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Z5WzL9AcDePLy3gSeZAmxLHvjeKChS-H",
+    "action": "rename",
+    "newTitle": "Victor, 60-0119 A, Tres horas (I. Nery - H. Varela), Juan D'Arienzo y su Orquesta Típica, Canta H. Mauré, Tango.jpg"
+  },
+  {
+    "fileId": "1P_1tgGD-auhG2JuRGD8Lk4GllRji9qne",
+    "action": "trash"
+  },
+  {
+    "fileId": "1czDeMiGNf-JZLAO2zi4-027vXim22vp5",
+    "action": "rename",
+    "newTitle": "Victor, 79936 A, Adiós muchachos (A. Sanders - F. Vedani), Orquesta Típica Victor, Tango.png"
   }
 ]
