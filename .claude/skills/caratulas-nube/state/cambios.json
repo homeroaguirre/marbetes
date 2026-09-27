@@ -4227,5 +4227,55 @@
     "fileId": "17wJtjZqDZcuvJdfAzNAjkP1iofWarv9R",
     "action": "rename",
     "newTitle": "Victor, 60-0254 B, Cosas viejas (C. Waiss - Tito Ribero), Osvaldo Fresedo y su Gran Orquesta Argentina, Canta Oscar Serpa, Tango.png"
+  },
+  {
+    "fileId": "1i2u-IAbYNqrcfherhCnsiYEnZAktvm8-",
+    "action": "rename",
+    "newTitle": "Victor, 60-0936 A, Pan comido (E. Dizeo - I. Gómez), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Tango.jpg"
+  },
+  {
+    "fileId": "1c8_I2Sp7WgSNU0LaJEqY-9eW7pPs5Ntr",
+    "action": "rename",
+    "newTitle": "Victor, 60-0785 B, Aquí he venido a cantar (C. Bahr - F. Salamanca), Juan D'Arienzo y su Orquesta Típica, Canta Armando Laborde, Tango.jpg"
+  },
+  {
+    "fileId": "1su6lsGnGeSk_EP5buhQF0HGDb9mAW_7-",
+    "action": "rename",
+    "newTitle": "Victor, 60-0743 B, El pensamiento (José Martínez), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1VqfvcbdPb4LGzi0UdGVwWGDwqio8K5Ax",
+    "action": "rename",
+    "newTitle": "Victor, 60-0743 A, Me duele el corazón (C. Yeguit - L. Mendoza), Juan D'Arienzo y su Orquesta Típica, Canta Armando Laborde, Vals Peruano.jpg"
+  },
+  {
+    "fileId": "1kVzHALaMa_IErMddjC0zQ6rkfusZZF6V",
+    "action": "rename",
+    "newTitle": "Victor, 60-0683 B, La pena del payador (E. E. Méndez - L. y J. Servidio), Juan D'Arienzo y su Orquesta Típica, Canta Armando Laborde, Vals.jpg"
+  },
+  {
+    "fileId": "1t96mhftYtVI_uJn0zymM6ehTLeal-2kE",
+    "action": "rename",
+    "newTitle": "Victor, 80962 B, Muñeca de percal (Domingo Pelle), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "16wcmJjmGlQIXHNMDffEzQU4YnPqp4mZ4",
+    "action": "rename",
+    "newTitle": "Victor, 60-1163 A, El tarta (E. Fresedo - E. Rizzutti), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Tango.jpg"
+  },
+  {
+    "fileId": "11q3L-xl0Qoqv_lFzBGrBNEAsMvXTBRLj",
+    "action": "rename",
+    "newTitle": "Victor, 60-1163 B, Se apagó una estrella (G. Yorio - E. Petlejero y J. Santanero), Juan D'Arienzo y su Orquesta Típica, Canta Armando Laborde, Vals.jpg"
+  },
+  {
+    "fileId": "1ldrGkVB0o1Q8cCc89_iwl89QCQgcTyRS",
+    "action": "rename",
+    "newTitle": "Victor, 47201 A, Hombrecito (L. A. Cevallos - R. Collazo), Orquesta Típica Víctor, Canta R. Diaz, Tango.jpg"
+  },
+  {
+    "fileId": "13FJD7vgAy812pYcC7j2ZgmNW5tofiIVf",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
