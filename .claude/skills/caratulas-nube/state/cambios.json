@@ -2243,5 +2243,53 @@
     "fileId": "1ZzUdNREQKPgeXvwsLjU5pNYPYV0xaRkj",
     "action": "rename",
     "newTitle": "Odeón, 8081 B, Nos encontramos al pasar (Raúl Kaplán - José María Suñé), Lucio Demare y su Orquesta Típica, Canta Horacio Quintana, Tango.jpg"
+  },
+  {
+    "fileId": "1sCLQ6MJNp_9fOZFQvBQEzCxQ1QNUISU6",
+    "action": "rename",
+    "newTitle": "Pathé, PG 11072 A, Puente Alsina (Benjamín Tagle Lara), Pedro Laurenz y su Orquesta Típica, Canta A. del Río, Tango.jpg"
+  },
+  {
+    "fileId": "1_R36mfMnZTRazXkKE2nIUayUWV_kQx0M",
+    "action": "rename",
+    "newTitle": "Victor, 60-0067 A, Ropa blanca (H. Manzi - A. Malerba), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta A. Marino, Milonga.jpg"
+  },
+  {
+    "fileId": "1lWNvFzz3E9NtFFAD978zIQrHrPvTczRU",
+    "action": "trash"
+  },
+  {
+    "fileId": "18a6tMklSvKFl68PcjwlNAfPaifjakQ-K",
+    "action": "rename",
+    "newTitle": "Victor, 79864 B, Tanita de la proa (S. Mérico), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1N9gL3IUFiZJu7wXQhdpUjZ5NxhQbalVf",
+    "action": "rename",
+    "newTitle": "Victor, 39741 A, Vieja recoba (E. Cadícamo - R. Sciammarella), Juan D'Arienzo y su Orquesta Típica, Canta Juan Carlos Lamas, Tango.jpg"
+  },
+  {
+    "fileId": "1azvnplnx4tegBXaX2zObET5ceYflC7xO",
+    "action": "rename",
+    "newTitle": "Pathé, PG 11072 B, A Belisario Roldán (Enrique Luis Forté), Pedro Laurenz y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1JXZp7Afo9WhvlAT7GU2NFQuLOSL2sG9l",
+    "action": "rename",
+    "newTitle": "Odeón, 5631 B, Calla corazón (Enrique Delfino - Mario Rada), Rodolfo A. Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.jpg"
+  },
+  {
+    "fileId": "1MmQ9vCsle2f4oxpK0xHsIKXEb41QaFwC",
+    "action": "rename",
+    "newTitle": "Victor, 39741 B, Cortada de San Ignacio (C. Volpe - H. A. Salgán), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Milonga.jpg"
+  },
+  {
+    "fileId": "1v_fZRq5xHBe1s2adSh5wjEHRBkMDvgmE",
+    "action": "trash"
+  },
+  {
+    "fileId": "1ewaCw2AfLO_ge1LK3bRT3n20Dh9d2td2",
+    "action": "rename",
+    "newTitle": "Victor, 60-0104 A, De barro (H. Manzi - S. Piana), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.png"
   }
 ]
