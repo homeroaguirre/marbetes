@@ -1367,5 +1367,53 @@
  {
   "fileId": "1O3B8kmwS8o9Pm_cO2e_2obQsfWzm-B9U",
   "action": "trash"
+ },
+ {
+  "fileId": "1wTF2Oilx_IRMCKcDdA-9ktu6AUfzSyOw",
+  "action": "rename",
+  "newTitle": "Disco Nacional Odeon, 4538 A, Oracion (J. Canaro), Orquesta Típica F. Canaro, Vals.jpg"
+ },
+ {
+  "fileId": "1vE-2CtzHNNQBifzSUmrliSuLlrLUmPsH",
+  "action": "rename",
+  "newTitle": "Odeon, 4122 A, Olga (Francisco Peña), Pirincho y su Quinteto Típico, Dir. Francisco Canaro, Especial para Baile, Vals.jpg"
+ },
+ {
+  "fileId": "13Nz35oWwK6hXRyjRUogoKy31SLJVo479",
+  "action": "rename",
+  "newTitle": "Odeon, 30132 B, Re-Fa-Si (Enrique Delfino), Francisco Canaro y su Orquesta Típica, Tango.jpg"
+ },
+ {
+  "fileId": "1Zpch6E3Ro_dPQBQmIWVFsRGiyDyuDp6L",
+  "action": "rename",
+  "newTitle": "Disco Nacional Odeon, 4538 B, De a traicion (Charlo), Orquesta Típica F. Canaro, Tango.jpg"
+ },
+ {
+  "fileId": "1Naa9gMwmQdjY_mRO4NOpaKgIuC5piOBR",
+  "action": "rename",
+  "newTitle": "Disco Nacional Odeon, 4009 A, Oh Paris (Jose Bohr), Orquesta Jazz-Band Francisco Canaro, Shimmy.jpg"
+ },
+ {
+  "fileId": "15cGiHw7_2Kr8lfjvFPf6pMazXpiOehFL",
+  "action": "rename",
+  "newTitle": "Disco Nacional Odeon, 4009 B, Alfredo (H. Canaro), Orquesta Típica F. Canaro, Tango.jpg"
+ },
+ {
+  "fileId": "1DLDGMX3EnxqrvNuPLrsk3VhfLtrMvq9C",
+  "action": "rename",
+  "newTitle": "Disco Nacional Odeon, 4630 B, Yo naci para ti tu seras para mi (N. H. Brown), Orquesta Típica F. Canaro, Estrib. de M. Meaños, Fox trot.jpg"
+ },
+ {
+  "fileId": "1oAe-DK1t9idK6h9ZYf03zHw3uZSvJD49",
+  "action": "trash"
+ },
+ {
+  "fileId": "1ZOTbifRoeSawCCAZUW34jxfQZXAz2btB",
+  "action": "trash"
+ },
+ {
+  "fileId": "1x2Mj4HNVe5wm8iIXHQwSX3leROuXjGsh",
+  "action": "move",
+  "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
  }
 ]
