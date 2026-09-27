@@ -2382,5 +2382,52 @@
     "fileId": "1Ihuti7cA31T1DnsLyvibvwhVyXfFrhhl",
     "action": "rename",
     "newTitle": "Odeón, 5633 A, Catorce primaveras (Eduardo Pereyra - Julio Navarrine), Rodolfo A. Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.jpg"
+  },
+  {
+    "fileId": "15L0ABJANpV7ATtkvhtlYnFceXb_c3BQ5",
+    "action": "trash"
+  },
+  {
+    "fileId": "1uK5TFxj9mczGYgP5xYtpyBXcZEoxYVAE",
+    "action": "rename",
+    "newTitle": "Victor, 79876 B, De mi barrio (R. Goyeneche), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1XBwIPMr4prZfcfX_I97bkLnoy1HS23IO",
+    "action": "rename",
+    "newTitle": "Columbia, 301019 B, Negro el 20 (Luis Petrucelli), Lucio Demare y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1hxm0k24xxBWR_C55kM4xDzZeYut1F-HL",
+    "action": "rename",
+    "newTitle": "Victor, 39787 A, Sans souci (E. Delfino), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1dmXaHEawzOt1hx1sMJ3PQaXVHqFTIiqS",
+    "action": "trash"
+  },
+  {
+    "fileId": "1hPHXKvC8f9rC6euMUqDUFxVy6EA3Oh5Q",
+    "action": "rename",
+    "newTitle": "Victor, 60-0149 B, Soñar y nada más (Ivo Pelay - Fco. Canaro), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino - Marino, Vals.png"
+  },
+  {
+    "fileId": "1OuyM2RfITYI8i9gi5H6KcC1fdVb4MR_n",
+    "action": "trash"
+  },
+  {
+    "fileId": "1snA8F5YqjSUx2ola-Fr7Mj7yqykL4DSn",
+    "action": "rename",
+    "newTitle": "Victor, 79880 A, El entrerriano (Rosendo), Orquesta Típica Victor, Tango.png"
+  },
+  {
+    "fileId": "1fnRNlrohcAcnTKVrSbXPZUyMPATJxg9X",
+    "action": "rename",
+    "newTitle": "Columbia, 301029 A, El refrán (Roberto Héctor Peppe), Lucio Demare y su Orquesta Típica, Tango.png"
+  },
+  {
+    "fileId": "1L6M9TCveJch6chCZ4lCd9ZbBLo8Vvhc9",
+    "action": "rename",
+    "newTitle": "Odeón, 5633 B, Oyendo tu voz (Marcos Larrosa - Julio Jorge Nelson), Rodolfo A. Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.png"
   }
 ]
