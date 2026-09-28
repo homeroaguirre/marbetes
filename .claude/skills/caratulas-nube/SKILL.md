@@ -113,12 +113,20 @@ se puede borrar sin miedo.
      (esto reemplaza la regla anterior de escribir "SIN DATO" en el nombre; ahora
      el archivo dudoso ni se renombra, se aparta entero).
 
-5. **Detectar duplicados del mismo disco**, igual que antes:
-   - Misma imagen en formatos/tomas distintas → conservar la de mejor calidad,
-     marcar la otra para **eliminar**. Si la comparación de calidad no es clara,
-     mandar AMBAS a `DUDAS_REVISAR` en vez de arriesgar el borrado.
-   - Fotos distintas del mismo disco (no la misma imagen) → conservar todas,
-     numerar `2`, `3`, `4`... antes de la extensión.
+5. **Si hay dos o más fotos del mismo disco (mismo sello, número y cara), se
+   numeran y punto** — no hay que comparar calidad, no hay que decidir cuál
+   descartar, no hay que mandar nada a `DUDAS_REVISAR` por esto. Se conservan
+   todas, agregando `2`, `3`, `4`... antes de la extensión al nombre que le
+   tocaría por sí solo (ej.: `Victor, 38999 A, ....jpg` y
+   `Victor, 38999 A, ... 2.jpg`).
+
+   Como no se guarda un historial de nombres ya asignados (ver más arriba), para
+   saber si un disco ya tiene nombre asignado hay que preguntarle a Drive en el
+   momento: antes de fijar el nombre final de un archivo, buscar en la misma
+   carpeta (excluyendo `DUDAS_REVISAR`) títulos que empiecen con
+   `"Sello, Nº Cara, "` (`mcp__Google_Drive__search_files` con
+   `title contains 'Sello, Nº Cara,'`). Si no aparece ninguno, va sin sufijo. Si
+   ya hay uno o más, el nuevo lleva el siguiente número disponible.
 
 6. **Registrar la decisión, no aplicarla directamente.** Por cada archivo de la
    tanda, agregar una entrada a `.claude/skills/caratulas-nube/state/cambios.json`
@@ -133,7 +141,6 @@ se puede borrar sin miedo.
    Formato de cada entrada en `cambios.json`:
    ```json
    {"fileId": "<id>", "action": "rename", "newTitle": "Victor, 38999 A, ....jpg"}
-   {"fileId": "<id>", "action": "trash"}
    {"fileId": "<id>", "action": "move", "targetFolderId": "<id de DUDAS_REVISAR>"}
    ```
 
