@@ -70,9 +70,10 @@ git commit -m "Aplicar cambios de marbetes y vaciar cola"
 git push
 ```
 
-`processed.json` (la memoria de qué fileIds ya catalogó Claude) NO se toca ni se
-vacía nunca — sirve para no volver a procesar un archivo que ya fue renombrado
-y sigue viviendo en la misma carpeta de Drive con su nuevo nombre.
+No existe ningún `processed.json` ni memoria equivalente de qué se catalogó antes:
+Claude decide qué está pendiente mirando los nombres de archivo que hay ahora
+mismo en la carpeta de Drive (si ya tienen el formato final, están hechos; si no,
+están pendientes), así que el script no tiene que preocuparse por ese archivo.
 
 Se le puede sugerir dejar esto en un cron o un loop simple para que se aplique solo
 cada cierto tiempo, sin que el usuario tenga que acordarse (en ese caso, el cron

@@ -54,14 +54,19 @@ se renombra, no se borra) para que el usuario la revise cuando quiera:
   (ambigüedad real, no solo una ligera diferencia de nitidez).
 - La imagen no parece ser una etiqueta de disco (mala foto, archivo corrupto, etc.)
 
-No es necesario preguntarle al usuario por cada caso dudoso: se registra en
-`state/dudas.json` (ver más abajo) y se mueve, y listo.
+No es necesario preguntarle al usuario por cada caso dudoso: se mueve a
+`DUDAS_REVISAR` y listo, sin registrar nada en ningún archivo de estado aparte.
 
 ## Flujo de trabajo (autónomo)
 
-1. **Listar los archivos de imagen** pendientes de la carpeta de Drive con
-   `mcp__Google_Drive__search_files`. "Pendiente" = no está todavía en
-   `state/processed.json` (ver paso 6) y no es la carpeta `DUDAS_REVISAR` en sí.
+1. **Listar los archivos de imagen** de la carpeta de Drive con
+   `mcp__Google_Drive__search_files` (excluyendo la carpeta `DUDAS_REVISAR` en sí).
+   **No se usa ningún archivo de estado para decidir qué está pendiente.** La única
+   fuente de verdad es lo que hay ahora mismo en la carpeta: un archivo cuyo nombre
+   ya sigue el formato final (`Sello, Nº Cara, Título (...), Intérprete, Estilo.jpg`)
+   se considera ya procesado y se ignora; cualquier otro nombre (el de la cámara,
+   sin el formato) está pendiente. No importa qué se procesó en sesiones anteriores
+   ni de qué tanda vino — eso no se registra en ningún lado.
 
 2. **Trabajar en tandas internas de 10 fotos.** Nunca leer/descargar más de 10 a la
    vez, pero a diferencia de antes, **no parar a pedir confirmación entre tandas**:
@@ -98,12 +103,17 @@ No es necesario preguntarle al usuario por cada caso dudoso: se registra en
 
 6. **Registrar la decisión, no aplicarla directamente.** Por cada archivo de la
    tanda, agregar una entrada a `.claude/skills/caratulas-nube/state/cambios.json`
-   (formato abajo) y agregar su fileId a `state/processed.json`. Commitear y pushear
-   estos dos archivos al repo después de cada tanda (o cada pocas tandas) para que el
-   script local del usuario los vaya recogiendo. **No llamar `update_file` ni
-   `trash_file` directamente** salvo para el movimiento único de creación de la
-   carpeta `DUDAS_REVISAR` — eso es lo que le genera al usuario los diálogos de
-   permiso que quiere evitar.
+   (formato abajo). Commitear y pushear ese archivo al repo después de cada tanda
+   (o cada pocas tandas) para que el script local del usuario lo vaya recogiendo.
+   **No llamar `update_file` ni `trash_file` directamente** salvo para el
+   movimiento único de creación de la carpeta `DUDAS_REVISAR` — eso es lo que le
+   genera al usuario los diálogos de permiso que quiere evitar.
+
+   `cambios.json` es puramente un archivo de trabajo efímero (la cola de cambios
+   que el script del usuario todavía no aplicó): no es un registro histórico de lo
+   procesado. No se mantiene ningún otro archivo de estado (nada de
+   `processed.json` ni equivalentes) — lo procesado en el pasado no importa para
+   nada, ni hay que consultarlo ni preservarlo.
 
    Formato de cada entrada en `cambios.json`:
    ```json
@@ -114,8 +124,9 @@ No es necesario preguntarle al usuario por cada caso dudoso: se registra en
 
 7. **Avanzar solo, tanda tras tanda**, sin pausas de confirmación, hasta cubrir
    todo lo pendiente. Si la sesión se corta (se acaba el turno, se cierra la
-   conversación), lo hecho hasta ese punto ya quedó en el repo — al retomar
-   (manualmente o por un disparador programado), seguir desde `state/processed.json`.
+   conversación), no hay estado que retomar aparte de lo que ya haya en Drive: al
+   volver a activarse, se vuelve a listar la carpeta desde cero y se sigue con lo
+   que todavía no tenga el formato final.
 
 8. **Nunca reportar avance pidiendo aprobación.** Está bien dejar un mensaje corto
    de progreso si el usuario está mirando, pero no hace falta esperar respuesta para
