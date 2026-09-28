@@ -72,7 +72,8 @@ No es necesario preguntarle al usuario por cada caso dudoso: se mueve a
    vez, pero a diferencia de antes, **no parar a pedir confirmación entre tandas**:
    procesar una tanda, aplicar la decisión (ver paso 6), y seguir directo con la
    siguiente, hasta agotar lo pendiente o hasta que se termine la sesión de trabajo
-   (en cuyo caso, al retomar, seguir desde donde `state/processed.json` indique).
+   (en cuyo caso, al retomar, volver a listar la carpeta y seguir con lo que
+   todavía no tenga el formato final).
 
 3. **Leer y analizar cada foto** de la tanda con `download_file_content` /
    `read_file_content`, extrayendo: sello, número de disco, cara, título, autor(es),
