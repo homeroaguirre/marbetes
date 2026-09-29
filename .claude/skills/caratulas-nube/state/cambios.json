@@ -398,5 +398,55 @@
     "fileId": "1P9Ntyqf2-hAiuUfhMVxmERj5Ak4OLrXV",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1QisqP5wuscnLtFS6lylKG3Z5L5cp553P",
+    "action": "rename",
+    "newTitle": "Odeón, 511 A, El apronte (R. Firpo), Orquesta Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1RIIalcVBTSgK9CSCoXUjEp-2tzasUsmT",
+    "action": "rename",
+    "newTitle": "Disco Gardel-Razzano, 18010 B, Mi noche triste (S. Castriota - P. Contursi), Carlos Gardel, Solo con acomp. de 3 guitarras (J. Ricardo), Tango.jpg"
+  },
+  {
+    "fileId": "1PWPblhFAZD0xh5EVUyqGLgniR2lkiQmJ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1PWyLBCODLs7UCpHUtz6Q3105poP4QPhc",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1QF_XCyH0eL-iyXnBBGtHAxjPUyE0Mm4T",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1QroiV9XODQwC8sItxSx5VoPUiLd0LioO",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Quis8B_UYbIspwaCfQZ8fNSUvx_KRy_M",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1R5iBaGfkfb93ifj7qSgDbnV1Q_LE0bbJ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1R6e0Hs1WmNAOyoPMV12gtNfp4iC1M5d8",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1S0OM6MYVNj9whKWaFKgFgbbQAXvNzjEZ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
