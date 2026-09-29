@@ -148,5 +148,55 @@
     "fileId": "1Gj2YLIlilQgIIY_-35gPWKGveZ56GUAh",
     "action": "rename",
     "newTitle": "Odeón, 508 A, Germaine (M. C. Firpo), Orquesta Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1HvPUE_03MLgbEVPPWBCdH3os1iMgMRd4",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Igm0OhU6hoULEnRbK8k1TR5hfYc4jI-0",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1IyykH3Syuz6xs9704_lJJtQUxYt07Sdl",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1JY0-v3a9VS84Vp4xKfVkJGf8Vq466bBT",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Jn6ZOeWkj8d0NxbhzOawdowiyJqWj434",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 6165 B, Pobre gaucho (E. Arolas), Orquesta Típica Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1JnkxoxF8pDZ1ufpyoACxvGIMF5eholTe",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1KaBwWx87WckqXk8Tc0nU8O4sMiVW_BpN",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 468 B, Pico de oro (Cobián), Orquesta Típica Roberto Firpo, Tango de salón.jpg"
+  },
+  {
+    "fileId": "1LMNhVFYdrQ2b4tv257BaKwLDoG06A74j",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1LX4g1ravQr_iFB4vdoczwybRRa9f1G90",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1MjkqnABCG4MkC_w1tyrD_s4rVeIgupX4",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
