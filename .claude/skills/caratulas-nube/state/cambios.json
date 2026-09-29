@@ -58,5 +58,8 @@
   {"fileId": "1Fdc8znt4AtLefi1Hgiqizmz_KzwTW9SM", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1kc34b9kGlVYhyroU9GHG7pgseX8r0ocS", "action": "rename", "newTitle": "Victor, 73517 A, Sollozos (O. Fresedo), Orquesta Típica Fresedo, Tango.jpg"},
   {"fileId": "1ct1llhzf070-UkihTGZ3YPuPbQffBVo6", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "14Eaj0Ifv43bFkNB1LqdwisVbalqTU8Pn", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "14Eaj0Ifv43bFkNB1LqdwisVbalqTU8Pn", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "19Up39Dz-0H3LRzKnAVL-ddWA_50hp279", "action": "rename", "newTitle": "Nacional, 130 A, Tradición (A. de Navas), Arturo de Nava, Estilo.jpg"},
+  {"fileId": "1tf5erV31UOV35Y8O33yDDn6IUE7fTsfi", "action": "rename", "newTitle": "Victor, 69805 A, Senda de abrojos (J. Maglio), Orquesta Típica Maglio, Tango.jpg"},
+  {"fileId": "1viOZMJVgvJmJJnh2diqjTtCWTuZIwq8V", "action": "rename", "newTitle": "Nacional, 650 A, Mosca muerta (J. C. Cobián), Orquesta Típica Firpo, Tango.jpg"}
 ]
