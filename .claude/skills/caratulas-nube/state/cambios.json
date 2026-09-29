@@ -898,5 +898,70 @@
     "fileId": "1ufAcTsdY9I_f67bvtxUYbh_7rHzR4NlE",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1wDzCW4ufnx-eHmTXefsaMZL066u4GiBS",
+    "action": "rename",
+    "newTitle": "Victor, 63704 B, La vuelta (Moratorio - Munilla), Diego Munilla, Estilo Criollo.jpg"
+  },
+  {
+    "fileId": "1xUNihFu7BO0XjorL4x0rP9MBAULekwSr",
+    "action": "rename",
+    "newTitle": "Victor, 62182 A, El carretero, Llanimú, Payador, Con guitarra.jpg"
+  },
+  {
+    "fileId": "1v93vnIIVydQ7tFWRil1U7-u979GF5ai2",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1vfRJMzS6DzXq7GGCi6VMCiMnLb4BPapN",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1vkr781AZWNYe8NuLDUHDvlo5jBF0SP3P",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1voP8EsWZNdNbItp4Di3E8evtRuvhLISh",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1wvGE9KwD-7SlXIR7Uvkl-LG2RkKxoRnf",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1xbhyeQweQw7VTZXbrQ1jM3_9QizZl8o0",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1xjcBImxZEmTgHMo46bx5HN01Nfh5qeBG",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1xs-GHjPYPIE9J_N0zS1R0BtrRJBvRsvt",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1xztrhCanK0Ja7RiUvs6xakBlIer6n3P4",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1yDOqxacPKN6la7emyJKmtTdK4RG0xTAA",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1zqRVnDxIajjWUoWG655H-fEjx4CjbfoC",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
