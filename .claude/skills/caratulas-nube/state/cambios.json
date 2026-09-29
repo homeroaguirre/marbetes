@@ -348,5 +348,55 @@
     "fileId": "1KYb7Iojvuc1tj1jsb02-pLzDSTr7WyDV",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Moq35TJcqJZutm-itANVHd7OIDSpg8Be",
+    "action": "rename",
+    "newTitle": "Victor, 69588 A, El tío soltero (J. Maglio), Orquesta Típica Maglio, Tango.jpg"
+  },
+  {
+    "fileId": "1LDnjFbmtjGSFJ4ObiwklKM0NE6zuUq8O",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1LuovwI4V_9pYTSXeC4BLaNZjXbbDPfhr",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1LwjBWaDDmuCQtvFBnu6ChLXnYjpnHDwQ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1MOdErA1kt-Uf0-nT2m-CITYuWNK0g3Fg",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1MQ3m3gTUVmLfOzjrZhWE9bwsoRb4hhPq",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1NP8DAO3ae2IkZRHAkOuLy_zsLaHh-waB",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Ntw0drbH6yoAJcd7vTkRurZZvttw9Esm",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1OKiKKcPidA-9SL8jvkeQ9kQhqMtzC9ER",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1P9Ntyqf2-hAiuUfhMVxmERj5Ak4OLrXV",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
