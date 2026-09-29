@@ -28,5 +28,15 @@
   {"fileId": "103Xfin-QF1CJIIo0vHtmGIhJ250PvqdY", "action": "rename", "newTitle": "Gardel-Razzano, 18006 A, La madrugada (S. Salinas), Gardel-Razzano.jpg"},
   {"fileId": "1rzvaas3s1qgknp3Tekpd8TKalTKUDGKl", "action": "rename", "newTitle": "Nacional, 18571 B, El cisne (A. Anselmi), Ignacio Corsini, Vals.jpg"},
   {"fileId": "14Q3iMYWwYwGPoE_mnes2ksauNlCmxDGa", "action": "rename", "newTitle": "Nacional, 4214 B, Da' Silva (A. Bonanni), Jazz Band F. Canaro, Maxixe.jpg"},
-  {"fileId": "1_VbOiB1WmnpZ7EMuzY85kZx92N7rCGQE", "action": "rename", "newTitle": "Nacional, 4760 A, Taconeando (Pedro M. Maffia), Francisco Canaro y su Orquesta Típica, Canta José H. Staffolani, Tango.jpg"}
+  {"fileId": "1_VbOiB1WmnpZ7EMuzY85kZx92N7rCGQE", "action": "rename", "newTitle": "Nacional, 4760 A, Taconeando (Pedro M. Maffia), Francisco Canaro y su Orquesta Típica, Canta José H. Staffolani, Tango.jpg"},
+  {"fileId": "1jsU_RGRAeTL25ObzYHkcTvtpH9rOMQgk", "action": "rename", "newTitle": "Nacional, 7569 A, Mueble viejo (C. de C.S. Hoyos), Juan Maglio (Pacho), Tango.jpg"},
+  {"fileId": "1JYhiXfVwS1BWhhQRBtImLkCf9JqvO7PN", "action": "rename", "newTitle": "Nacional, 4731 A, La última copa (Francisco Canaro - Juan A. Caruso), Francisco Canaro y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1ulYHRZg7lojRvG6cXsQzonVXPyuL-ePx", "action": "rename", "newTitle": "Odeón, 18905 A, Aquellas farras (Enrique Cadícamo - Roberto Firpo), Carlos Gardel con acomp. de Guitarras, Tango.jpg"},
+  {"fileId": "1nfZpr5Y_rL3JSxV9GxglFivPimbPGyU6", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "12Rkv3J0hKeCKTEFD17RC2-k3xs2pRN8f", "action": "rename", "newTitle": "Victor, 37007 B, Organito callejero (Arturo M. Pardo - Adolfo Manzione), Orquesta Típica Víctor, Canta Francisco Fiorentino, Tango.jpg"},
+  {"fileId": "13UESBG44FAdDOGwr8JY16_oZgiDFUUH0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "18hTNeE8raxnSu6V0F8DJXp_0d4NMIxcn", "action": "rename", "newTitle": "Victor, 47595 B, El loco del tom thumb golf (Francisco Bohigas - Carlos Marcucci), Mercedes Simone, Tango.jpg"},
+  {"fileId": "1E_ifD5h7FX9mFuJ1ZjYP918AHwfnDN5v", "action": "rename", "newTitle": "Victor, 47391 B, Se casa Marieta (Pablo Rodríguez), Mercedes Simone, Tarantella.jpg"},
+  {"fileId": "1SwGr63ZvVJGeH1MSrXs7_PGQbqJ97Pbl", "action": "rename", "newTitle": "Nacional, 18595 B, La virgen del perdón (Viale - Retta - C.V.G. Flores), Ignacio Corsini, Vals.jpg"},
+  {"fileId": "1GWGYXl8MQGHv-1x-OK6rRZf074NxoAsK", "action": "rename", "newTitle": "Nacional, 4609 B, Departamento se alquila (C.V.G. Flores), Orquesta Típica F. Canaro, Tango.jpg"}
 ]
