@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "fileId": "10GsLZh2XmWy4deJKL1KlK_sad71QxOZo",
+    "action": "rename",
+    "newTitle": "Victor, 69807 A, El rastreador (P. Paulos), Orquesta Típica Augusto P. Berto, Tango.jpg"
+  },
+  {
+    "fileId": "119VDT5M0H4Jem8tcsQyh17iu4aIEJHAf",
+    "action": "rename",
+    "newTitle": "Victor, 79712 A, Quimeras (Héctor Ruiz Díaz), Héctor Ruiz Díaz, Solo de Piano, Tango (Estilización).jpg"
+  },
+  {
+    "fileId": "11o3srMrNDvRtn7uzks5S0JjpMvoA4Joi",
+    "action": "rename",
+    "newTitle": "Victor, 62151 A, Ay! Chinita, Banda Real Militar, Tango Criollo.jpg"
+  },
+  {
+    "fileId": "1-3NpF_54Mu7UT_wlfusGR1eVCyZyIog-",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1-Sw0_nW8mCYAxkoVsjngM1r_Frd_8Dst",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "10nVmASARmB_jB6q150L0_lgPxhJsoRZp",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "11B8rq-SdwQ6U3S9VZq0iUvNOkW-t1F48",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "11DOZJ2MzIgxNrpNInyQo8mYUeqsH4YzD",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "11H5JLMm_wN1eHsmu_4B7DSDqoBRoEOwW",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "124K7xWXmRxnf-WdMexhQXhGmNwzCWp_q",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  }
+]
