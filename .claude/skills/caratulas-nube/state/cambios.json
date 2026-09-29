@@ -447,5 +447,79 @@
     "fileId": "1tF7dmgkTEX3SAFwzlFVRmTBoE3yWhrlf",
     "action": "rename",
     "newTitle": "Victor, 72966 B, Nueva York (O. Fresedo), Oswaldo Fresedo, Tango.jpg"
+  },
+  {
+    "fileId": "1tug169ellk4q4_9E63YBWMX0I5s5yOvR",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1u03n6fSDD-sc1oE4wKnMRtCT2qABvrz9",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ugwrDBJanIbxklvrdq-7C32oTtFZGgbO",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1vYj_94VP8o4YHU84YqOAvBK0dW_6HcS8",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1vquvHhYCAQS4SX8Q1k4fCaSbkz5HVwgR",
+    "action": "rename",
+    "newTitle": "Victor, 63715 B, Estilo y relación (J. Otermín), Julio Otermín, Estilo.jpg"
+  },
+  {
+    "fileId": "1wWbfV7M9Oql13dqncNAYP-sqxkH9e5AP",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1wjfp_5QE_500U9VI93zdKPzFLfh4ADND",
+    "action": "rename",
+    "newTitle": "Odeón, 905 B, De mi flor (R. Firpo), Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1xKJupiXp_T37xqhelFtwrhYGvPefXWL_",
+    "action": "trash"
+  },
+  {
+    "fileId": "1y2GWuFerRdoqxfOWvbSIPb8YkIOk3VPx",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1y6v0HA3brxH1x9lqMGqZGPdFzBifP-SZ",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18001 A, El sol del 25 (C. Gardel - J. Razzano - D. Lombardi), Dúo Gardel-Razzano, Gato.jpg"
+  },
+  {
+    "fileId": "1kzUVChBcnMK5OK1umX0Rmtv_WjCFXUuJ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ySEhx0hG8AFk_hR3kvVLf3fhOMnoSy_L",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1yXmEgZuM5hB7Gasf76FFdj_BLcLGzLQz",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1z7tCFOW6IKW4PU5zS9BiYVACqCbhULXH",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1zHNqmyl7g-uCPsOYJMuX_zpanEAlkYXO",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
