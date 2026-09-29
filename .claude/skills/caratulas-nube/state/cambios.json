@@ -248,5 +248,55 @@
     "fileId": "1EqV5rOqTox6wF6KOh27vplLsxXVq3iLh",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1FN6sNtvPABwyoHjNG3f8_Xf8SDjtG6z3",
+    "action": "rename",
+    "newTitle": "Victor, 65935 B, El chiquito (E. Monelos), Orquesta Típica Argentina Loduca, Tango.jpg"
+  },
+  {
+    "fileId": "1FF9PSiA4pghsfwsWdKKrZvso2j5G3Yi2",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1FIeb6gFkmGp3HC5ob-lIA8t-UsfifcXo",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1FLtbQGT6jEDekoW-UhEkL2EnByC0MKE3",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1FPxQ9uk1Sarrizh1bpC4mV3kICstt824",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1FlDBnfO8cKUSaUWx2wFqPj12PlkGeDNQ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1GEmVsHKcIZdB6_Kw1l_AbnScmnKtSqVq",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Gi3gSq6M60EmTOkVt_jd7lgE0ewwhvLI",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1GqcNULfqFe-hKhpemD0_dnpU3MKUm6B2",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1HR-6aF1OFnVEGKSNnjR-TiKcfsAD7SgH",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
