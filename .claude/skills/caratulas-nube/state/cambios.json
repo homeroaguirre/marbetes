@@ -548,5 +548,55 @@
     "fileId": "1ZpJ2Jq8cjHt6lfHms9XQ5DsL6NGmf13P",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1bCJdwOaxygDBXbLzIk2Pdmnw63I-q_SN",
+    "action": "rename",
+    "newTitle": "Victor, 62247 B, Los escuchantes (Balaguer - Tulazre), Sr. y Sra. de Campo, Dúo con orquesta.jpg"
+  },
+  {
+    "fileId": "1aBvcHc9xyqs8719qOaXXkeObwNo4m94f",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1aI2nK0y0VN5v9oTIkzsIUeOW_KU7dA-D",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1akROQW0CVxDAQTBel9MST7jGt6WJVnI9",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1asxBJuVZnHaMOMOeGRmRIXPouuQFqK-E",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1bJY_6wCJCtTmfpxGlu78YUK2qb2AL9tp",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1bZQCaTzTSBh7WysMG_VBabG1DwlnQqnZ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1btlLokJYoZbOjPXYGbpDkdDjEbjXrrft",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1buK8xwuvY1Zh83qqzHpR4K0YBkxJICwP",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1cb1mXFgZdI64k91Yx5t9R2anSKtiZdqw",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
