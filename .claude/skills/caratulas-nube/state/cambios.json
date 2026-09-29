@@ -148,5 +148,55 @@
     "fileId": "173ijS-w-EFnJHAjCW5dxLa8VUmyy5IsC",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "17HCpT0NORLTQkiRl0DTxfoGrUONOTMbY",
+    "action": "rename",
+    "newTitle": "Victor, 69807 B, L'Abbaye (P. Paulos), Orquesta Típica Augusto P. Berto, Tango.jpg"
+  },
+  {
+    "fileId": "17ckVhhyUlUmyZ_lZgmwPh5bdgK3k1itS",
+    "action": "rename",
+    "newTitle": "Victor, 69579 A, La cumparsita (M. Rodríguez), Orquesta Típica Alonso-Minotto, Tango.jpg"
+  },
+  {
+    "fileId": "19FJon8XnsD3Kwu7FMN-UGctM_Z8hlyTQ",
+    "action": "rename",
+    "newTitle": "Victor, 63900 A, Canción del Chaná (J. P. López), Juan Pedro López, Con guitarra, Vals.jpg"
+  },
+  {
+    "fileId": "1AsGwtYKZ_lV47OuFET3SZ2PhnTHjEAvr",
+    "action": "rename",
+    "newTitle": "Victor, 65905 A, El argentino (V. Loduca), Orquesta Típica Argentina, Tango.jpg"
+  },
+  {
+    "fileId": "17VCIJLOj3f1a92aMUEuie_7yx1pbjmc5",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "18EMAN3KsOHG19aKV3yRd9nrfncpxN2kW",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "19dKuB38PcArR1oaNGNr_KGucsWBI8RiZ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "19pEqFtJS86uhH_AJyLFrxYWt2zTCBzf4",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1AowpJTKj-JZNUoijS4pIASMmbT_mX-Ru",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1BAPq1-wLOoWs9k4OZoFAWINImYCDK5fU",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
