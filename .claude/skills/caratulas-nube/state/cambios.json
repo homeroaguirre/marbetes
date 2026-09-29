@@ -48,5 +48,55 @@
     "fileId": "12gXdsxh8gdmo9T3XuRWfLGGSAZPZkwOA",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "12p-o6DdRstW5uZxGjuhl2t85rsOczuHx",
+    "action": "rename",
+    "newTitle": "Victor, 62781 B, El polo (R. Coll), Banda del Pabellón de las Rosas, Tango.jpg"
+  },
+  {
+    "fileId": "12xebB98dxVf4iCMJ73YINaIG7EbdqJ_E",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "13YlFPbfTvm9-BXx27r4GH6uouM-61Yxt",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "15uYXByeYKoxlIuVWh33vjJ06NvwXadR5",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "15wbGHHll1aR61w6hZ4-5krfS4LAwMeIt",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "163BuatN0U0FKR55q1FWV84yDAj2bTEX0",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "16ft_9Cj5baf2xje5h5XZluvqvNIqrJGm",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ADjLpX35VGllraMBYsoRIJE17ZZI_a1b",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1AzZowmXifRfMn5syKC4njXClJd071xsy",
+    "action": "rename",
+    "newTitle": "Victor, 62609 A, El negro, Banda Sousa, Tango.jpg"
+  },
+  {
+    "fileId": "1B6ESLePSoWoCa5ugIx4LBO7aAAJU8COM",
+    "action": "rename",
+    "newTitle": "Odeón, 511 B, Los Guevara (Arreglo R. Firpo), Orquesta Roberto Firpo, Tango.jpg"
   }
 ]
