@@ -648,5 +648,55 @@
     "fileId": "1evA8Raikdy5Q5izsEGX1JqhxML4GioGJ",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1hNzr8YwKRLHjBxSCd6RMv9DQHtK24ENU",
+    "action": "rename",
+    "newTitle": "Disco Gardel-Razzano, 18000 A, Cantar eterno (A. Villoldo), Gardel-Razzano, Dúo con acomp. de 3 guitarras (J. Ricardo).jpg"
+  },
+  {
+    "fileId": "1huPHXXhVkiAzcU81OfhcAIVUgbszqx_5",
+    "action": "rename",
+    "newTitle": "Victor, 62195 B, Partida de truco (Villoldo), Angel G. Villoldo, Con guitarra.jpg"
+  },
+  {
+    "fileId": "1g8ar47oYBEs6P6kLcbW5KMGQzAORg2NM",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1gj1Vm9TQ12vZ0jXl96b6wkjb7ss3e4PW",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1gsjOuf-mPTieq4UpzdNYHmgi3JD7kYAC",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1hJtUPvWg9aLNiR-9bS_ZCAiTPbFVa14D",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1hwBgKHNRAyx8U0P_Qo1ATD8jSpOzmBVF",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1i6KRTIydGDneK2L_7vtiU4i03rcRbD3r",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1iQiT0EYZEZLHzRz297rXOaAKnAT7Smsk",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ibCZy8TgCq1kZkeUjDWreEaBvKHOn748",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
