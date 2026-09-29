@@ -798,5 +798,55 @@
     "fileId": "1pZfU3leU2usWNXcUMWpKDcPDFtc9HM7K",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1qK0_taohco_5WXDKAGVg0dzMYyhTbL8c",
+    "action": "rename",
+    "newTitle": "Victor, 72245 A, La mariposa (Gardel-Razzano), Ignacio Riverol, Tenor con guitarra, Estilo.jpg"
+  },
+  {
+    "fileId": "1rSPjNqtGOdhU-3sB-aj4IxJTGuXShfQv",
+    "action": "rename",
+    "newTitle": "Victor, 72149 B, Marquesita (M. di Cicco), Orquesta Típica Alonso-Minotto, Tango.jpg"
+  },
+  {
+    "fileId": "1q1CcPbudbJuo8uRzc2Z0wBCAZzdebd7n",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1r9SzNGvHUxbmm7xOZJZx20NL8Ok1ekDr",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1rCbYG_AZsxkwptD3tWtp3D_i-FeNC2wM",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1rHkQOu3i6R3r1trK9K7Qoqqw6w8IV8l-",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1rX9_aHgLXMkkxyYL8GOjSJjWkd-jIWEc",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1r_-bE3-59toHq_HniIYEHqaqJzDjLWj-",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ryqb8TWTxqfgH-vwPA6d7Czr7b9juHav",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1s1pOslj1TZlsy4_n7NtSfshZTD91FoUS",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
