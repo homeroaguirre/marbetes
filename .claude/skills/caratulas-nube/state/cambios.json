@@ -198,5 +198,55 @@
     "fileId": "1MjkqnABCG4MkC_w1tyrD_s4rVeIgupX4",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1O0mT_scYp83xqGn1puyCkP3COEbr9tZ8",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1OtaYdrrurbKV7-QrX72SqlS2A9CN_Htp",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1PBX3yiwoyzk2UyBQyBoiU1a6Cdmy2tNR",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1PRhX0DhjMXA5UWtpaVxkgZKw1OEzTQTP",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 8743 B, Apariencias (P. Storto), Orquesta Típica R. Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1Pt7VD9x8tdywW2tam4rybqg7cBKW3R7I",
+    "action": "rename",
+    "newTitle": "Victor, 72897 B, El rodeo (A. Bardi), Orquesta Típica Select, Tango.jpg"
+  },
+  {
+    "fileId": "1PvhfsD0XZds06ARUD2bJhvDFtUkpXh8j",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1QFJ8tb3m7bOWwu0ujk3DabtEflqBWE71",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Rg0i1Ydglwjlrc5eWqb2NPIlKqmu_Qb4",
+    "action": "rename",
+    "newTitle": "Firpo, 549 B, Dinamita (E. Arolas), Orquesta Roberto Firpo, Tango milonga.jpg"
+  },
+  {
+    "fileId": "1SBEJWPomyp4FcZnhyLuVW3IdJ9nlfuaD",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1TI-mqN7zLop_o1M7ozt8q2WMmNXVYrgA",
+    "action": "rename",
+    "newTitle": "Victor, 69591 A, Cura segura (J. de D. Filiberti), Orquesta Típica Berto, Tango.jpg"
   }
 ]
