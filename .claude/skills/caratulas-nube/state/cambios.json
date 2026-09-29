@@ -498,5 +498,55 @@
     "fileId": "1URtJIqKeJ5SNKTnBTnZ_ukM78J_9ATsb",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1V-aZr3tE21Og4fNPHlSVKNQRvltG4qy1",
+    "action": "rename",
+    "newTitle": "Victor, 65904 B, Don Severo (C. P. Ferrer), Orquesta Típica Argentina, Tango.jpg"
+  },
+  {
+    "fileId": "1VCoElhjDxw8Wm84wZWGTLzWPCGXVvx4I",
+    "action": "rename",
+    "newTitle": "Victor, 63734 B, Los vagabundos (A. Barsanti), Orquesta Típica de Genaro Espósito, Bandoneón - Clarinete - Violín - Guitarra.jpg"
+  },
+  {
+    "fileId": "1XKDIyFoRgaMQd2wk36LpmXzY04JXs3Md",
+    "action": "rename",
+    "newTitle": "Victor, 79712 B, Lascitud (Héctor Ruiz Díaz), Héctor Ruiz Díaz, Solo de Piano, Tango (Estilización).jpg"
+  },
+  {
+    "fileId": "1XbOoayyY6PreVtxlyMIXyQnE6OBXhPnj",
+    "action": "rename",
+    "newTitle": "Victor, 72607 A, Adiós Buenos Aires (E. Arolas), Orquesta Típica E. Arolas, Tango de Despedida.jpg"
+  },
+  {
+    "fileId": "1VPhYm6AzfGGivkIBpk3jvKkxvEzcJvCx",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1WObDJ7jxaSK64_096M3dtvf16QCqqwl3",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1WrsF1RC38G4Y-qI70Zo726xwB4xC-TiT",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1XUzKSFE4H0hH-w5b5k3nFJuzLE8KpcDg",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1XqorqRfvShqttglRz3qFZG0DOSO85gKg",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ZpJ2Jq8cjHt6lfHms9XQ5DsL6NGmf13P",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
