@@ -98,5 +98,55 @@
     "fileId": "1B6ESLePSoWoCa5ugIx4LBO7aAAJU8COM",
     "action": "rename",
     "newTitle": "Odeón, 511 B, Los Guevara (Arreglo R. Firpo), Orquesta Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1BT2YQki2XYh9LPe50JCgLb0Ui7pwTv8N",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1BgAo1dhk6VYQaii1aWdxy0bP3AvjiDoz",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Dao1F12miN4I4IKmkjpQ0W8fGmQwcPIJ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1DkVKK2AC_7oqBrU9wICF1Ku-Co59jw5p",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1DytCkRiEp0r98eE07q9TQiUVQV3tpyxz",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1EJl9OpvuqJS2NyiZHdegXaJ_jgEcdNsv",
+    "action": "rename",
+    "newTitle": "Firpo, 517 B, Alma gaucha (R. Firpo), Orquesta Roberto Firpo, Tango sentimental.jpg"
+  },
+  {
+    "fileId": "1EqnkgTC5v-Uvyw8CoO5z3Sb0c5px-jhG",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1FTX7R3Ak7CMenfcdlTs1KGP6F-O4Jjij",
+    "action": "rename",
+    "newTitle": "Victor, 63715 A, El chacarero (C. M. Quintana), Trío de Guitarras de Uruguay, Tango.jpg"
+  },
+  {
+    "fileId": "1FqDheKD_M85phImqPkKQIcEmvPU2x-rg",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 648 A, Alice (E. Arolas), Orquesta Típica Roberto Firpo, Tango milonga.jpg"
+  },
+  {
+    "fileId": "1Gj2YLIlilQgIIY_-35gPWKGveZ56GUAh",
+    "action": "rename",
+    "newTitle": "Odeón, 508 A, Germaine (M. C. Firpo), Orquesta Roberto Firpo, Tango.jpg"
   }
 ]
