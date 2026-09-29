@@ -98,5 +98,55 @@
     "fileId": "13w1oqkYx6_LTOE0M3lM00RIqH6C56qZZ",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "17GDbRb57GhFYSDO5m-J9x8hGR-jUM0ti",
+    "action": "rename",
+    "newTitle": "Victor, 72161 A, Ivette (Julio A. Roca - Enrique Costa), Orquesta Típica Ferrer, Tango.jpg"
+  },
+  {
+    "fileId": "143pWaN6Lo030ffWUWcpoVArvIYP6Bkgl",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "14MYrKb4ec0MSD9qAOz3pO2QmrU-XwS5E",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "14MseehJYJZjOrJ_yGywzDq4rG0cZRv1m",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "14wBzxG13MqkfruCHsPGOpLr8lk5RI-l7",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "15JwVwPgY4uCVLTcNABTbUzaHoyeRUHDl",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "15OTb8i7IyW5Xi_NtO5Zr2w8HrDzUJGaF",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "15rtBiDcH81j6AXTDgrVU1tHug7Gvk0zy",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "16Aj7V03f8Uz-JmH1az0h7_fiztSEyZFM",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "173ijS-w-EFnJHAjCW5dxLa8VUmyy5IsC",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
