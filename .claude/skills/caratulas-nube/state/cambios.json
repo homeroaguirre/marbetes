@@ -848,5 +848,55 @@
     "fileId": "1s1pOslj1TZlsy4_n7NtSfshZTD91FoUS",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1sdwW3B0_0wH8WO9lU4fV6HeMHBqfqJ3E",
+    "action": "rename",
+    "newTitle": "Victor, 67784 B, De mi cosecha (Alejandro C. Rolla), Orquesta Argentina de Ferrer, Tango Milonga.jpg"
+  },
+  {
+    "fileId": "1t4Z5dBcMrE_IzAuM_noWN6tJNyIcP4YL",
+    "action": "rename",
+    "newTitle": "Victor, 63715 B, Estilo y relación (Julio Otermín), Julio J. Otermín, Solo de guitarra, Estilo.jpg"
+  },
+  {
+    "fileId": "1uN38S9ZtTeud-VHXHl4dGI9ba8RpCkuT",
+    "action": "rename",
+    "newTitle": "Victor, 62771 A, El entrerriano, Estudiantina Centenario, Trío de bandurrias y guitarra (Director Vicente Abad), Tango.jpg"
+  },
+  {
+    "fileId": "1sYWHPxKJQp-hWAR_iePZ3zyWqxYNnO87",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1sZhS0PoQZdgFKmK5QGk-tewnwQC6zdml",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1sjaELC0Ix9aO8l9rAPmrAG_taS69kPyW",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1tC-J6gjO1SrHnDixQ7fO712DuqQDoGZi",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1tptuatx_j01j7eLKjL_yXdaSmX0UtNH2",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1uOzL13C5o92UKjxOnYVg-g1kAiQdT2Y_",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ufAcTsdY9I_f67bvtxUYbh_7rHzR4NlE",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
