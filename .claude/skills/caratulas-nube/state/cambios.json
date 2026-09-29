@@ -448,5 +448,55 @@
     "fileId": "1S0OM6MYVNj9whKWaFKgFgbbQAXvNzjEZ",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Sh1G8F53_K3txL6p7VqXS81NBxRNtE2t",
+    "action": "rename",
+    "newTitle": "Odeón, 507 A, Alma de bohemio (R. Firpo), Orquesta Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1TEUvjO4rE_3MOf7Ih2FiQm8QVM_RyjHW",
+    "action": "rename",
+    "newTitle": "Victor, 62157 A, Recuerdos de la pampa (Bevilacqua), Banda de Sousa, Military Band.jpg"
+  },
+  {
+    "fileId": "1TNdTrhCPqrFmqNedCajZFdTYnXB4eiyK",
+    "action": "rename",
+    "newTitle": "Victor, 63722 A, Sueño magnífico (I. Corsini), Ignacio Corsini, Con guitarra, Canción Cómica.jpg"
+  },
+  {
+    "fileId": "1S0umHOBj4m90pxbaB2XS7qqVRyoNsj_r",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Sid0RGR4nadQpq0w6X3o1V38vHh16Sfd",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1TnC7bTB6PEAd21i6dwgQsHufJFgBsyvO",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1UBZTWdITPS47TFdu3Ef5Klg5eP1z1SLK",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1UEVwn7EnrCh99Vly5NqOJsv3hdh2Fer_",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1UKkJcENFXMEFj0fO1NlOY3SeFDFcddYJ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1URtJIqKeJ5SNKTnBTnZ_ukM78J_9ATsb",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
