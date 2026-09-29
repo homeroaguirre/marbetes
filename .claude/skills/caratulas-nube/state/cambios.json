@@ -248,5 +248,104 @@
     "fileId": "1TI-mqN7zLop_o1M7ozt8q2WMmNXVYrgA",
     "action": "rename",
     "newTitle": "Victor, 69591 A, Cura segura (J. de D. Filiberti), Orquesta Típica Berto, Tango.jpg"
+  },
+  {
+    "fileId": "1UnnoL_LXqPWzGXMjrDmntSsmgipY3LZk",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1UpC5V1kyUxv22Du8sksj5hk5KjzWhR-A",
+    "action": "trash"
+  },
+  {
+    "fileId": "1VBD8VLZNEaeqvWXmXDPEnwugNna7SqZk",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1WwhpVvUoz6_mGWIdyGczq3rnoNvlyTop",
+    "action": "rename",
+    "newTitle": "Odeón, 18068 A, La mariposa (P. Maffia - C. Flores), Carlos Gardel, Tango.jpg"
+  },
+  {
+    "fileId": "1XIUwGHf0c7xKs-EMU7L1M5NlI8OwTyfD",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1XMD4UdUYACz19BkHsME2ZVS19RJhwC6w",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Xy90v48_RG3VezFDmSxKtbFDytOqNGFP",
+    "action": "rename",
+    "newTitle": "Victor, 72898 A, Lengua 'e trapo (B. Germino), Orquesta Típica Select, Tango.jpg"
+  },
+  {
+    "fileId": "1YG1odAdclPH-RxrxWr5Qq2zFSXRgCX2C",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Ynf2q3Kb6GBFiy0FFEx8EsdRZAqfE2IZ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1_bw3z0ZmDZLYp8k2iFgnomQ4yoaRsyyC",
+    "action": "rename",
+    "newTitle": "Victor, 62208 A, Z Club (A. Rosendo), Orquesta del Teatro Apolo, Tango.jpg"
+  },
+  {
+    "fileId": "1a1eIAoRCeLtx5Mg7LmWRBhnccZHPzR2O",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1aEQCZaoCppEe8HRI_Lu6gDEfRNyJA019",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1aqJH5CRRzdL9TGEiOHP3rUSRaSu1rc_y",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1b0It9t9EkUWvWRl9fvoEnYOBCsqWojMe",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1bCKdmIKo5TIDGRt_DHzu90QSHH51N1Xa",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1bGzOGnBVeYBvyWLeKgnFP068YkHp2ih1",
+    "action": "rename",
+    "newTitle": "Victor, 62441 A, El otario (G. Metallo), Orquesta Victor, Tango.jpg"
+  },
+  {
+    "fileId": "1diTGdE0dkkZKxItNcx6SBx5r9YT6MPMg",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1fGSH9xzxJn4YHS1sLm6oNCebumfrfXkQ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1gK7YhezGequCY5WAlZmf3cuHgNusKTzl",
+    "action": "rename",
+    "newTitle": "Odeón, 145 B, Guitarra mía (A. Navas), Arturo Navas, Estilo.jpg"
+  },
+  {
+    "fileId": "1gqmkoryXStMNOZOhx3wJ-jeeBQ6RL8ri",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
