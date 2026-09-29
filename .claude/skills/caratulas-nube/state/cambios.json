@@ -598,5 +598,55 @@
     "fileId": "1cb1mXFgZdI64k91Yx5t9R2anSKtiZdqw",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1davyq-tbILFh8pRpFRXX3buoaSifko4b",
+    "action": "rename",
+    "newTitle": "Victor, 69588 B, Mala cara (L. Suárez), Orquesta Típica Maglio, Tango.jpg"
+  },
+  {
+    "fileId": "1g7p75yp1dXJ5SKAiBk4QV6eWrEKP-Lmf",
+    "action": "rename",
+    "newTitle": "Victor, 72147 B, El chañar (E. Arolas), Orquesta Típica E. Arolas, Tango.jpg"
+  },
+  {
+    "fileId": "1cro16KjHbCkbsImRGdXphBo61AUOZcc8",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1d_iX3b6WBkS27ZagakDAlqVHaL2H6uH2",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1e3oh6a5_NUq0zzb5N_VQvuINwJN0JugV",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1e6E0DwQhicBFa0AbCRDfyu2Ah-BNhrKZ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1eLMn2Z6bmmivgGGXpHsxtouZj_A3AxLl",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1eUT6l3q81bpR-MINNIQoNha2kF3aHlMp",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1e_4b7juH9TKX_pc-qqY8WTmpg1j0a2n2",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1evA8Raikdy5Q5izsEGX1JqhxML4GioGJ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
