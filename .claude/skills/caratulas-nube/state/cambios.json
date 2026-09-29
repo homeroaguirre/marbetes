@@ -198,5 +198,55 @@
     "fileId": "1BAPq1-wLOoWs9k4OZoFAWINImYCDK5fU",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Bj6NNqL1ymeonDHXO0IqSJSQodKvfp8L",
+    "action": "rename",
+    "newTitle": "Victor, 69591 A, Cura segura (J. de D. Filiberti), Orquesta Típica Berto, Tango.jpg"
+  },
+  {
+    "fileId": "1C5cFISVduJhtWf8d8gvxqEZbwY0CwgyD",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 10430 A, Ojos negros (Córdoba - Greco), Lola Membrives, Tango.jpg"
+  },
+  {
+    "fileId": "1CdHslhErlWioq_zoCSsuK6HrKYquCnFe",
+    "action": "rename",
+    "newTitle": "Odeón, 10409 A, El pangaré (E. de María), Lola Membrives, Tiple con acomp. de Orquesta Teres, Estilo.jpg"
+  },
+  {
+    "fileId": "1CyL2ds8rVcuNHF5UckzxpJcXawCq5HEh",
+    "action": "rename",
+    "newTitle": "Victor, 72240 B, Sans souci (E. Delfino), Enrique Delfino, Solo de Piano, Tango de Salón.jpg"
+  },
+  {
+    "fileId": "1DHX_pC10qePk-D2ssCO3Oz3VBj08edR5",
+    "action": "rename",
+    "newTitle": "Disco Nacional Odeon, 10469 A, Milonguita (Linnig - Delfino), Raquel Meller, Tango.jpg"
+  },
+  {
+    "fileId": "1ElzVnrk7QCSOjmkm1AoABMd18MWgaRIc",
+    "action": "rename",
+    "newTitle": "Odeón, 6151 A, El huérfano (A. Aieta), Orquesta Típica Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1BjezlhE8si4fJUch6sMCaQedC2jpLL4r",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1CIbPC8HnZ4mD7D69Laois-mWY9GsW2cb",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1E6bkUECGSrewyXGKF-74CLA76Pzgvyr4",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1EqV5rOqTox6wF6KOh27vplLsxXVq3iLh",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
