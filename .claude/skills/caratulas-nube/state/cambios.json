@@ -698,5 +698,55 @@
     "fileId": "1ibCZy8TgCq1kZkeUjDWreEaBvKHOn748",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1in6ffGaAJkO_mkYJPXmkVCjwILRhQX5O",
+    "action": "rename",
+    "newTitle": "Victor, 72161 B, 23 Contra la yeta (A. M. Spátola), Orquesta Típica Ferrer, Tango.jpg"
+  },
+  {
+    "fileId": "1j4C491IYzQsq5x65ha4F-S37j9ZSmNOZ",
+    "action": "rename",
+    "newTitle": "Victor, 63900 B, Mi pensamiento (S. Salinas), Saúl Salinas, Con guitarra, Vals.jpg"
+  },
+  {
+    "fileId": "1ilXloZ7BlaRI1WhbW7gaFqXd2-WO8GM3",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1jipzDoUQP095yX3Xlu5-vNfoD5pKTq6c",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1kOSCdXW71mVFSin8Y582dRjf0X_1UqV0",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1l8QA7noj_N5IxlS8mh4G4GApxKlfdmxR",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1lI5KnmzX1l1EfQDhSy-H8DzLc5ykwfX2",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1lRO0SZgY1E1AF7p-SMfO_CqDWy3oMQfK",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1lmXtDMyeah6JBBa6RHnE896G0S692k4q",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1m9-kk3ACZeCb64k6MNTSvrBQKOG2bWd2",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
