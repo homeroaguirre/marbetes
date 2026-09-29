@@ -1,42 +1,687 @@
 [
-  {"fileId": "1hM1K1xNbcTOkpZ61MLn1NPObitPsaVM1", "action": "rename", "newTitle": "Disco Criollo, 4910 A, Ronda del querer (Antonio Sureda - Gerónimo Sureda), Francisco Canaro y su Orquesta Típica, Vals con estribillo.jpg"},
-  {"fileId": "1yMISVS2rExHhCNoFCFGBuyh1ty_q1jxd", "action": "rename", "newTitle": "Nacional, 16207 B, Las vueltas de la vida (F. Canaro - M. Romero), Charlo con acomp. de Orquesta Francisco Canaro, Tango.jpg"},
-  {"fileId": "1ousv6VfF47ZJZp1pz7XhDJzFTFIhRrV7", "action": "rename", "newTitle": "Victor, 60-0602 B, Clavel (Osvaldo Sosa Cordero), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Milonga.jpg"},
-  {"fileId": "10zJpfKAXyYHLUNyF_KebjLB_nyTY2RvB", "action": "rename", "newTitle": "Odeón, 55085 B, Ríe... payaso (Emilio Falero - Virgilio R. Carmona), Carlos Gardel con acomp. de Guitarras, Tango.jpg"},
-  {"fileId": "1miYGhXau8uYL44RNlErob91kyEIkjbQN", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "10jBmCghSx6djgb5QLoV2e4ZbUSx7tiA-", "action": "rename", "newTitle": "Victor, 60-1339 B, Los ejes de mi carreta (R. Risso - A. Yupanqui), Antonio Tormo y su Conjunto, Milonga.jpg"},
-  {"fileId": "19gjSiS1OCZ51DpphC2EbaDKxoVqH1Flp", "action": "rename", "newTitle": "Victor, 17607 A, Pá no ser mal educao (Evaristo Barrios), Evaristo Barrios, Relato gaucho.jpg"},
-  {"fileId": "18GTHvqIpgP__amroACNAmFUHOAkDsIP2", "action": "rename", "newTitle": "Nacional, 4751 A, ¿Qué sapa, señor? (Enrique Santos Discépolo), Francisco Canaro y su Orquesta Típica, Tango con estribillo.jpg"},
-  {"fileId": "1OxXQ73ocYcvNm6rSFKwkEPHMjOdwvYDz", "action": "rename", "newTitle": "Rob. Firpo, 615 B, S. Paulo futuro (F. Lobo), Orquesta Roberto Firpo, Maxixe brasileiro.jpg"},
-  {"fileId": "1nXSChcPcUCj2kQNC44wSkOka8qUjjs57", "action": "rename", "newTitle": "Odeón, 52237 A, Pa' lo que te va a durar (Guillermo D. Barbieri - Esteban Celedonio Flores), Aníbal Troilo y su Orquesta Típica, Canta Roberto Goyeneche, Tango.jpg"},
-  {"fileId": "1eMU8W_sugfxRgz4-hhFkuHJYEwg7tC-5", "action": "rename", "newTitle": "Odeón, 18890 A, La uruguayita Lucía (Daniel López Barreto - Eduardo Pereyra), Carlos Gardel con acomp. de Guitarras, Canción.jpg"},
-  {"fileId": "1YEEd0TH0sGZbYgW-nH3TZYSS3B7Mhawt", "action": "rename", "newTitle": "Victor, 79714 A, Y no tengas que sufrir (E. Nobile - C. Martínez), Carlos Dix, acomp. A. Carabelli, Tango.jpg"},
-  {"fileId": "1Qwtwr-yFC-mOun5QA43r_qNFJ9qCcST4", "action": "rename", "newTitle": "Odeón, 18695 B, Camino del indio (Atahualpa Yupanqui), Ignacio Corsini con acomp. de Guitarras, Canción andina.jpg"},
-  {"fileId": "1ercl1rHPjETNF_DxiKU3EKEcsQ2uJbWr", "action": "rename", "newTitle": "Rob. Firpo, 581 B, La tablada (Canaro), Orquesta Roberto Firpo, Tango.jpg"},
-  {"fileId": "14C1W25FzWlC85mENpz4M6CkrlTSL9WUz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1zBots42OJriRMWUw-KI04zWpHiM4dHTM", "action": "rename", "newTitle": "Nacional, 4294 B, La vuelta de bocha (J. de Dios Filiberto), Orquesta Típica F. Canaro, Tango.jpg"},
-  {"fileId": "1KtkjOYNBhENR2Iaws3TW7VrHLDTkkgOL", "action": "rename", "newTitle": "Nacional, 8737 B, Nieve en el alma (L. A. Leoncini), Orquesta Típica R. Firpo, Tango.jpg"},
-  {"fileId": "16VMvFw2BURe_vmptsS0NA-2dGVmmpoSB", "action": "rename", "newTitle": "Victor, 37056 B, Muñequita (Adolfo C. Herschel - Francisco J. Lomuto), Francisco J. Lomuto y su Orquesta Típica Sinfónica, Canta a dúo Acuña-Díaz, Tango.jpg"},
-  {"fileId": "10ZaMmo3rQ4ShZ4G8rRRdUEMWbCMi_IvG", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1scUd6dCntDbdIiV8dFTUBrC7_1RuCM_T", "action": "rename", "newTitle": "Nacional, 4408 B, Griseta (E. Delfino), Orquesta Típica R. Canaro, Tango.jpg"},
-  {"fileId": "1eTnscS2iM4QUVk8xQHrUmlpTr0cpewxF", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1qEXX4QOTCmwoln8xP8w-JJSDDRFr7PCD", "action": "rename", "newTitle": "Nacional, 9008 B, Tango argentino (J. Maglio), Orquesta Pacho, Tango.jpg"},
-  {"fileId": "1UXQm58EMGyCjmS8m2B2-c_YvBiCVm8oG", "action": "rename", "newTitle": "Nacional, 18289 B, Yo beso vuestra mano, señora (L. Rubinstein - Erwin-Rotter), Carlos Gardel con acomp. de Guitarras, Canción.jpg"},
-  {"fileId": "1ZdH6HXIfK7zacenbRcDFt0dqIM3acHqn", "action": "rename", "newTitle": "Nacional, 4535 B, Sentate hermano (S. Castriota), Orquesta Típica F. Canaro, Tango.jpg"},
-  {"fileId": "1o4sgozOZWQZPXCCRrovdHh9Lid6hq0Gn", "action": "rename", "newTitle": "Victor, 68-1052 A, Viene clareando (A. Yupanqui - S. Aredes), Los Chalchaleros, Zamba.jpg"},
-  {"fileId": "1808MUR0jM7XXYPZM_SoVWylmbuRY2wlu", "action": "rename", "newTitle": "Nacional, 9001 A, Gachadora (F. Lomuto), Orquesta Pacho, Tango.jpg"},
-  {"fileId": "103Xfin-QF1CJIIo0vHtmGIhJ250PvqdY", "action": "rename", "newTitle": "Gardel-Razzano, 18006 A, La madrugada (S. Salinas), Gardel-Razzano.jpg"},
-  {"fileId": "1rzvaas3s1qgknp3Tekpd8TKalTKUDGKl", "action": "rename", "newTitle": "Nacional, 18571 B, El cisne (A. Anselmi), Ignacio Corsini, Vals.jpg"},
-  {"fileId": "14Q3iMYWwYwGPoE_mnes2ksauNlCmxDGa", "action": "rename", "newTitle": "Nacional, 4214 B, Da' Silva (A. Bonanni), Jazz Band F. Canaro, Maxixe.jpg"},
-  {"fileId": "1_VbOiB1WmnpZ7EMuzY85kZx92N7rCGQE", "action": "rename", "newTitle": "Nacional, 4760 A, Taconeando (Pedro M. Maffia), Francisco Canaro y su Orquesta Típica, Canta José H. Staffolani, Tango.jpg"},
-  {"fileId": "1jsU_RGRAeTL25ObzYHkcTvtpH9rOMQgk", "action": "rename", "newTitle": "Nacional, 7569 A, Mueble viejo (C. de C.S. Hoyos), Juan Maglio (Pacho), Tango.jpg"},
-  {"fileId": "1JYhiXfVwS1BWhhQRBtImLkCf9JqvO7PN", "action": "rename", "newTitle": "Nacional, 4731 A, La última copa (Francisco Canaro - Juan A. Caruso), Francisco Canaro y su Orquesta Típica, Tango.jpg"},
-  {"fileId": "1ulYHRZg7lojRvG6cXsQzonVXPyuL-ePx", "action": "rename", "newTitle": "Odeón, 18905 A, Aquellas farras (Enrique Cadícamo - Roberto Firpo), Carlos Gardel con acomp. de Guitarras, Tango.jpg"},
-  {"fileId": "1nfZpr5Y_rL3JSxV9GxglFivPimbPGyU6", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "12Rkv3J0hKeCKTEFD17RC2-k3xs2pRN8f", "action": "rename", "newTitle": "Victor, 37007 B, Organito callejero (Arturo M. Pardo - Adolfo Manzione), Orquesta Típica Víctor, Canta Francisco Fiorentino, Tango.jpg"},
-  {"fileId": "13UESBG44FAdDOGwr8JY16_oZgiDFUUH0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "18hTNeE8raxnSu6V0F8DJXp_0d4NMIxcn", "action": "rename", "newTitle": "Victor, 47595 B, El loco del tom thumb golf (Francisco Bohigas - Carlos Marcucci), Mercedes Simone, Tango.jpg"},
-  {"fileId": "1E_ifD5h7FX9mFuJ1ZjYP918AHwfnDN5v", "action": "rename", "newTitle": "Victor, 47391 B, Se casa Marieta (Pablo Rodríguez), Mercedes Simone, Tarantella.jpg"},
-  {"fileId": "1SwGr63ZvVJGeH1MSrXs7_PGQbqJ97Pbl", "action": "rename", "newTitle": "Nacional, 18595 B, La virgen del perdón (Viale - Retta - C.V.G. Flores), Ignacio Corsini, Vals.jpg"},
-  {"fileId": "1GWGYXl8MQGHv-1x-OK6rRZf074NxoAsK", "action": "rename", "newTitle": "Nacional, 4609 B, Departamento se alquila (C.V.G. Flores), Orquesta Típica F. Canaro, Tango.jpg"}
+  {
+    "fileId": "14t5IH3dHKMMDbCknRswLmytiYhSGUeSQ",
+    "action": "rename",
+    "newTitle": "Victor, 79641 B, Mocosita (Matos Rodríguez - V. Soliño), Rosita Quiroga, Tango.jpg"
+  },
+  {
+    "fileId": "1uZo2P-V-HUHjCf1YNDMFsiueTeNUBsEl",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4817 A, Dos amores (Antonio Sureda - Gerónimo Sureda), Francisco Canaro y su Orquesta Típica, Tango con estribillo.jpg"
+  },
+  {
+    "fileId": "1e3JAUxlEThS_SbEbzGY5dwkwNidUxitl",
+    "action": "rename",
+    "newTitle": "Odeón, 5634 A, La cumparsita (Gerardo Matos Rodríguez), Rodolfo A. Biagi y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1apVJN6OIA8nr-xQa8-SiLKFP03EZrRAg",
+    "action": "rename",
+    "newTitle": "Victor, 73517 A, Sollozos (O. Fresedo), Orquesta Típica Fresedo, Tango.jpg"
+  },
+  {
+    "fileId": "1p86c9HsDI04xBH6YiHU6NQ23Hs6lQxZH",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 3036 A, Clyde (Hector Bates - V. Juan Clauso), Roberto Firpo Orquesta Típica, Vals con estribillo.jpg"
+  },
+  {
+    "fileId": "1jEzjyZN_6d_Q69Q3EUigZt66yPRtEBCj",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 8949 B, Violines gitanos (E. Maciel), Orquesta Típica R. Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1wMD952HsuOolcA4uRE0GZiVVLoxSiFwM",
+    "action": "rename",
+    "newTitle": "Odeón, 74384 A, Marina (Rocco Granata - Vers. cast. Alvey), Luis Aguile, Fox-Trot.jpg"
+  },
+  {
+    "fileId": "1s5qLeF1nzsYPDBgkgUnxDud_YAL0lvB6",
+    "action": "rename",
+    "newTitle": "Odeón Pops, 75014 A, La mamadera (Osmar Saffetty), Yuyu Da Silva, Cha cha cha.jpg"
+  },
+  {
+    "fileId": "1dLKRyqVIZmto3SmWNi3gmD85E0lUsq5P",
+    "action": "rename",
+    "newTitle": "TK, SU-785 A, Peña andaluza (E. Soriano - D. Racciatti), Donato Racciatti y su Orquesta, Cantan Víctor Ruiz - Nina Miranda, Paso doble.jpg"
+  },
+  {
+    "fileId": "1A_fSN4MeBK_nO5SpibSomfkJ5Pzh71Y1",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4735 A, El pollito (Francisco Canaro), Francisco Canaro Orquesta Típica Sinfónica, Tango.jpg"
+  },
+  {
+    "fileId": "1LgkfyaHDFGPuKI9vOasIC73tEB1EOBF9",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1o34m0FJBrru4Ky9SGS61dfvPGHwJ4RlE",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18342 A, Sevilla (M. Moreno - E. Delfino), Carmen Mir, Paso doble.jpg"
+  },
+  {
+    "fileId": "1UVtgjcuvQnfURWbrG4cGqNC2d_UEqXDq",
+    "action": "rename",
+    "newTitle": "Victor, 68-0053 A, La cumparsita (G. H. Mattos Rodríguez), Feliciano Brunelli y su Orquesta Característica, Tango.jpg"
+  },
+  {
+    "fileId": "1h9GvwOSTsRDr-gv_Mcrt3e9eQPsT9M8X",
+    "action": "rename",
+    "newTitle": "Victor, 60-1199 A, La yerba mora (Hilario Cuadros), Antonio Tormo y su Conjunto, Canta Dúo Tormo-Báez, Cueca.jpg"
+  },
+  {
+    "fileId": "1YG8cICG7qAs56gHczwMiRnlazKs8x7sJ",
+    "action": "rename",
+    "newTitle": "Disco Criollo, 3080 B, La tortuguita (Roberto Firpo - José Fernández), Roberto Firpo y su Orquesta Típica, Rumba con estribillo.jpg"
+  },
+  {
+    "fileId": "1zxTweKY29neD4Bf2GFOhyRoGWOxm_wQ2",
+    "action": "rename",
+    "newTitle": "Victor, 47142 B, Calavera (J. C. Sanders - R. Sciamarella), Roberto Díaz, Tango.jpg"
+  },
+  {
+    "fileId": "12utvZoIOvyIvUmOdgXhrt_BhFfHrxR_5",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Nto53CjBjQDPimcQaPHJZ9KM49J7n9sg",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 605 A, Las tres marías (Massobrio - Caldarella), Caldarella - Massobrio, Ranchera.jpg"
+  },
+  {
+    "fileId": "1fjVpytkDUi0G9TiUO-YSK0oM--I2gJ-0",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 5137 A, Corazón (O. N. Fresedo), Orquesta Típica O. Fresedo, Vals.jpg"
+  },
+  {
+    "fileId": "1EOUJAcZ7Li-bk4EHNgssAEg_fmkPo5-i",
+    "action": "rename",
+    "newTitle": "Brunswick, 1622 B, Reminiscencias cuyanas (J. M. Velich), Magaldi - Noda, Aires criollos.jpg"
+  },
+  {
+    "fileId": "1ipg73OEQAzEVO5tRvxWCZFe5_7cjlRZY",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 3041 A, La buena moza (Jose L. Padula - Lito Bayardo), Roberto Firpo Orquesta Típica, Ranchera.jpg"
+  },
+  {
+    "fileId": "1TdMvpK14i7J1t7_45zl7YbD5zAlspJMv",
+    "action": "rename",
+    "newTitle": "Orfeo, 13003 B, Organito de la tarde (Cátulo Castillo - José G. Castillo), Luis Visca (piano solo), Tango.jpg"
+  },
+  {
+    "fileId": "1K9md8wwyZjUIsAdIulBC_S4uu8VCz7TN",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 6418 B, Sunday (Domingo) (Salamendi - Collazo), Jazz-Band R. Firpo, Fox-Trot.jpg"
+  },
+  {
+    "fileId": "1nbcNzORUqr1dH2_MnpC-Pa6D3WTHHtZ4",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4542 B, A lo gaucho (B. R. Atrella), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1iOSWQWlQ7EwSKB5gnT6gIVuEhWKAD7wP",
+    "action": "rename",
+    "newTitle": "Odeón, 61002 A, El choclo (Ángel Villoldo - Enrique Santos Discépolo - Carlos Marambio Catán), Tita Merello con Francisco Canaro y su Orquesta, Tango.jpg"
+  },
+  {
+    "fileId": "1-FLNq31DmRDfdP7wzXjsFTwWpAF9AGoU",
+    "action": "rename",
+    "newTitle": "Odeón, 31810 A, El penado 14 (Agustín Magaldi - Pedro H. Noda - Carlos Pesce), Alberto Margal con acomp. de guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1NekYYH6Ay8M3HEi0YlcdNa1fMUSLn9RR",
+    "action": "rename",
+    "newTitle": "Odeón, 18695 A, Griseta (José González Castillo - Enrique Delfino), Ignacio Corsini con acomp. de guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1hMFHjux8RXBj8qcJx_Ohyx2ioOAItOAo",
+    "action": "rename",
+    "newTitle": "Victor, 47608 B, Perdón de miseria (Francisco F. Garrido - Pablo Rodríguez), Mercedes Simone, Tango.jpg"
+  },
+  {
+    "fileId": "1B-DJfvjUW__OLRpn63FjuYqNiXbsXsz4",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1wbaGIgJfEH0wZxGDFSjh7bPT7aVLgvGJ",
+    "action": "rename",
+    "newTitle": "Brunswick, 1420 A, Una limosnita por amor de Dios (P. Vergez - F. Bastardi), Orquesta Típica Pedro M. Maffia, Canta L. Díaz, Tango.jpg"
+  },
+  {
+    "fileId": "1eMU8W_sugfxRgz4-hhFkuHJYEwg7tC-5",
+    "action": "rename",
+    "newTitle": "Odeón, 18890 A, La uruguayita Lucía (Daniel López Barreto - Eduardo Pereyra), Carlos Gardel con acomp. de Guitarras, Canción.jpg"
+  },
+  {
+    "fileId": "1YEEd0TH0sGZbYgW-nH3TZYSS3B7Mhawt",
+    "action": "rename",
+    "newTitle": "Victor, 79714 A, Y no tengas que sufrir (E. Nobile - C. Martínez), Carlos Dix, acomp. A. Carabelli, Tango.jpg"
+  },
+  {
+    "fileId": "1Qwtwr-yFC-mOun5QA43r_qNFJ9qCcST4",
+    "action": "rename",
+    "newTitle": "Odeón, 18695 B, Camino del indio (Atahualpa Yupanqui), Ignacio Corsini con acomp. de Guitarras, Canción andina.jpg"
+  },
+  {
+    "fileId": "1ercl1rHPjETNF_DxiKU3EKEcsQ2uJbWr",
+    "action": "rename",
+    "newTitle": "Rob. Firpo, 581 B, La tablada (Canaro), Orquesta Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "14C1W25FzWlC85mENpz4M6CkrlTSL9WUz",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1zBots42OJriRMWUw-KI04zWpHiM4dHTM",
+    "action": "rename",
+    "newTitle": "Nacional, 4294 B, La vuelta de bocha (J. de Dios Filiberto), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1KtkjOYNBhENR2Iaws3TW7VrHLDTkkgOL",
+    "action": "rename",
+    "newTitle": "Nacional, 8737 B, Nieve en el alma (L. A. Leoncini), Orquesta Típica R. Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "16VMvFw2BURe_vmptsS0NA-2dGVmmpoSB",
+    "action": "rename",
+    "newTitle": "Victor, 37056 B, Muñequita (Adolfo C. Herschel - Francisco J. Lomuto), Francisco J. Lomuto y su Orquesta Típica Sinfónica, Canta a dúo Acuña-Díaz, Tango.jpg"
+  },
+  {
+    "fileId": "10ZaMmo3rQ4ShZ4G8rRRdUEMWbCMi_IvG",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1scUd6dCntDbdIiV8dFTUBrC7_1RuCM_T",
+    "action": "rename",
+    "newTitle": "Nacional, 4408 B, Griseta (E. Delfino), Orquesta Típica R. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1eTnscS2iM4QUVk8xQHrUmlpTr0cpewxF",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1qEXX4QOTCmwoln8xP8w-JJSDDRFr7PCD",
+    "action": "rename",
+    "newTitle": "Nacional, 9008 B, Tango argentino (J. Maglio), Orquesta Pacho, Tango.jpg"
+  },
+  {
+    "fileId": "1UXQm58EMGyCjmS8m2B2-c_YvBiCVm8oG",
+    "action": "rename",
+    "newTitle": "Nacional, 18289 B, Yo beso vuestra mano, señora (L. Rubinstein - Erwin-Rotter), Carlos Gardel con acomp. de Guitarras, Canción.jpg"
+  },
+  {
+    "fileId": "1ZdH6HXIfK7zacenbRcDFt0dqIM3acHqn",
+    "action": "rename",
+    "newTitle": "Nacional, 4535 B, Sentate hermano (S. Castriota), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1o4sgozOZWQZPXCCRrovdHh9Lid6hq0Gn",
+    "action": "rename",
+    "newTitle": "Victor, 68-1052 A, Viene clareando (A. Yupanqui - S. Aredes), Los Chalchaleros, Zamba.jpg"
+  },
+  {
+    "fileId": "1808MUR0jM7XXYPZM_SoVWylmbuRY2wlu",
+    "action": "rename",
+    "newTitle": "Nacional, 9001 A, Gachadora (F. Lomuto), Orquesta Pacho, Tango.jpg"
+  },
+  {
+    "fileId": "103Xfin-QF1CJIIo0vHtmGIhJ250PvqdY",
+    "action": "rename",
+    "newTitle": "Gardel-Razzano, 18006 A, La madrugada (S. Salinas), Gardel-Razzano.jpg"
+  },
+  {
+    "fileId": "1rzvaas3s1qgknp3Tekpd8TKalTKUDGKl",
+    "action": "rename",
+    "newTitle": "Nacional, 18571 B, El cisne (A. Anselmi), Ignacio Corsini, Vals.jpg"
+  },
+  {
+    "fileId": "14Q3iMYWwYwGPoE_mnes2ksauNlCmxDGa",
+    "action": "rename",
+    "newTitle": "Nacional, 4214 B, Da' Silva (A. Bonanni), Jazz Band F. Canaro, Maxixe.jpg"
+  },
+  {
+    "fileId": "1_VbOiB1WmnpZ7EMuzY85kZx92N7rCGQE",
+    "action": "rename",
+    "newTitle": "Nacional, 4760 A, Taconeando (Pedro M. Maffia), Francisco Canaro y su Orquesta Típica, Canta José H. Staffolani, Tango.jpg"
+  },
+  {
+    "fileId": "1jsU_RGRAeTL25ObzYHkcTvtpH9rOMQgk",
+    "action": "rename",
+    "newTitle": "Nacional, 7569 A, Mueble viejo (C. de C.S. Hoyos), Juan Maglio (Pacho), Tango.jpg"
+  },
+  {
+    "fileId": "1JYhiXfVwS1BWhhQRBtImLkCf9JqvO7PN",
+    "action": "rename",
+    "newTitle": "Nacional, 4731 A, La última copa (Francisco Canaro - Juan A. Caruso), Francisco Canaro y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1ulYHRZg7lojRvG6cXsQzonVXPyuL-ePx",
+    "action": "rename",
+    "newTitle": "Odeón, 18905 A, Aquellas farras (Enrique Cadícamo - Roberto Firpo), Carlos Gardel con acomp. de Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1nfZpr5Y_rL3JSxV9GxglFivPimbPGyU6",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "12Rkv3J0hKeCKTEFD17RC2-k3xs2pRN8f",
+    "action": "rename",
+    "newTitle": "Victor, 37007 B, Organito callejero (Arturo M. Pardo - Adolfo Manzione), Orquesta Típica Víctor, Canta Francisco Fiorentino, Tango.jpg"
+  },
+  {
+    "fileId": "13UESBG44FAdDOGwr8JY16_oZgiDFUUH0",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "18hTNeE8raxnSu6V0F8DJXp_0d4NMIxcn",
+    "action": "rename",
+    "newTitle": "Victor, 47595 B, El loco del tom thumb golf (Francisco Bohigas - Carlos Marcucci), Mercedes Simone, Tango.jpg"
+  },
+  {
+    "fileId": "1E_ifD5h7FX9mFuJ1ZjYP918AHwfnDN5v",
+    "action": "rename",
+    "newTitle": "Victor, 47391 B, Se casa Marieta (Pablo Rodríguez), Mercedes Simone, Tarantella.jpg"
+  },
+  {
+    "fileId": "1SwGr63ZvVJGeH1MSrXs7_PGQbqJ97Pbl",
+    "action": "rename",
+    "newTitle": "Nacional, 18595 B, La virgen del perdón (Viale - Retta - C.V.G. Flores), Ignacio Corsini, Vals.jpg"
+  },
+  {
+    "fileId": "1GWGYXl8MQGHv-1x-OK6rRZf074NxoAsK",
+    "action": "rename",
+    "newTitle": "Nacional, 4609 B, Departamento se alquila (C.V.G. Flores), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1sOqL9qS6D0Ity4QXjZG1otGaqfz4fu5I",
+    "action": "rename",
+    "newTitle": "Music Hall, 15618 B, Mi noche triste (S. Castriota - P. Contursi), Adolfo Berón y su Conjunto, Tango.jpg"
+  },
+  {
+    "fileId": "15O0P2UJSUpelpJPUhsZG8vDz0wvALreU",
+    "action": "rename",
+    "newTitle": "Nacional, 6293 A, La porota (Bernardo Germino), Orquesta Típica Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1r0zYCptg6f4Ry-BL2EgC52LY6-3j0hPM",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1i2G3vj4jujvEBouFEKCXoY0KgSxpDhiz",
+    "action": "rename",
+    "newTitle": "Odeón, 18903 B, Mi primer goal (Horacio Pettorossi - Miguel Bonano - Alejandro Fattorini), Carlos Gardel con acomp. de guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1cplEiaNB9XRMnxexvzZk0EmSoaB-JKgW",
+    "action": "rename",
+    "newTitle": "Victor, 69585 A, La guitarrita, Orquesta Típica E. Arolas, Tango.jpg"
+  },
+  {
+    "fileId": "1ykHM6KdKTgHs-QfCXqV3HXKsxJAr9H00",
+    "action": "rename",
+    "newTitle": "Odeón, 74295 A, Milonga del novecientos (Sebastián Piana - Homero Manzi), El \"6\" de Música en el Aire, Milonga.jpg"
+  },
+  {
+    "fileId": "1og0w1C3rc8ThYK47x4B5EDdnbCPNPYrS",
+    "action": "rename",
+    "newTitle": "Nacional, 18227 A, Sonia (Cappenberg - Partos), Carlos Gardel, acomp. 4 guitarras Ricardo y Barbieri, Balada rusa.jpg"
+  },
+  {
+    "fileId": "1jbbT30EY7MEKae8chdYJqG0EKjTULrma",
+    "action": "rename",
+    "newTitle": "Nacional, 6047 B, La mariposa (P. Maffia), Orquesta Típica Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1xo-tUxXf4dxc7EaYp_L1SVJSe6ltc3OO",
+    "action": "rename",
+    "newTitle": "Pampa, 14005 A, Adiós muchachos (Julio César Sanders - César F. Vedani), Carlos Demaria y su Orquesta Típica, Canta Roberto Cortés, Tango.jpg"
+  },
+  {
+    "fileId": "1YQaLo_8vnV-nWniIhIh031V2DsZMReMl",
+    "action": "rename",
+    "newTitle": "Nacional, 4425 A, El carrerito (R. de los Hoyos), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1p-hPC4Faq7yKhYUFFtjxXpIkarnAaf-W",
+    "action": "rename",
+    "newTitle": "Odeón, 18521 B, Bendita seas (J. A. Bruno - A. de Bassi), Ignacio Corsini, 3 Guitarras Aguilar-Pesoa, Tango.jpg"
+  },
+  {
+    "fileId": "1BnQa5r2c77khRvBrWL0JGuf7M9SvqOid",
+    "action": "rename",
+    "newTitle": "Odeón, 7180 A, Sombras porteñas (Sebastián Piana - Pedro M. Maffia - Homero Manzi), Pedro M. Maffia y su Orquesta Típica, Vals del film con estribillo.jpg"
+  },
+  {
+    "fileId": "1aIIaPWlefuU-f6e-I48-r5ufVScb4rPl",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Qj3EHNyWvfOMHHMbcFcMTvyu3_17leHn",
+    "action": "rename",
+    "newTitle": "Victor, 77446 A, Julián (E. Donato), Orquesta Típica Fresedo, Tango.jpg"
+  },
+  {
+    "fileId": "16aygsClc4j6LW9pqK0u9674tOawvXhia",
+    "action": "rename",
+    "newTitle": "Victor, 47201 A, Hombrecito (L. A. Cevallos - R. Collazo), Orquesta Típica Victor, Canta R. Diaz, Tango.jpg"
+  },
+  {
+    "fileId": "1B9cIYq4X8xec0nMm6HNcMmx7zLISQpUm",
+    "action": "rename",
+    "newTitle": "Victor, 80945 B, Sinvergüenza (L. Rubistein - D. Lurbes), Rosita Quiroga, Tango.jpg"
+  },
+  {
+    "fileId": "15_QY0LK2bzorYi544xVozibhFrSnqr1X",
+    "action": "rename",
+    "newTitle": "Odeón, 5215 B, Hace un año (Valdés Leal), Francisco Canaro y su Orquesta Típica, Canta Eduardo Adrián, Canción ranchera mexicana.jpg"
+  },
+  {
+    "fileId": "1pciSVHOPz9lr14noHmhDfZHqg27GrpSe",
+    "action": "rename",
+    "newTitle": "Victor, 79757 A, Trapo viejo (A. Magaldi - P. Noda), Orquesta Típica Victor, Tango.jpg"
+  },
+  {
+    "fileId": "1Mnpz474rU_RoFvFxcoyBy1FkToQwYcli",
+    "action": "rename",
+    "newTitle": "Odeón, 31612 A, A mi madre (Francisco Peña), Rafael Rossi y su Trio, Canta Alfredo Rosales, Vals.jpg"
+  },
+  {
+    "fileId": "1liaZJLsrESIoaN8iAnserbjbN37v4knN",
+    "action": "rename",
+    "newTitle": "Brunswick, 2412 B, Hay novedad en el frente (E. Carrere - J. F. Blanco), Rondalla Los Baturros, Canta J. Carreras, T. Ibáñez y Coro, Fox-trot humorístico.jpg"
+  },
+  {
+    "fileId": "1hM1K1xNbcTOkpZ61MLn1NPObitPsaVM1",
+    "action": "rename",
+    "newTitle": "Disco Criollo, 4910 A, Ronda del querer (Antonio Sureda - Gerónimo Sureda), Francisco Canaro y su Orquesta Típica, Vals con estribillo.jpg"
+  },
+  {
+    "fileId": "1yMISVS2rExHhCNoFCFGBuyh1ty_q1jxd",
+    "action": "rename",
+    "newTitle": "Nacional, 16207 B, Las vueltas de la vida (F. Canaro - M. Romero), Charlo con acomp. de Orquesta Francisco Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1ousv6VfF47ZJZp1pz7XhDJzFTFIhRrV7",
+    "action": "rename",
+    "newTitle": "Victor, 60-0602 B, Clavel (Osvaldo Sosa Cordero), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Milonga.jpg"
+  },
+  {
+    "fileId": "10zJpfKAXyYHLUNyF_KebjLB_nyTY2RvB",
+    "action": "rename",
+    "newTitle": "Odeón, 55085 B, Ríe... payaso (Emilio Falero - Virgilio R. Carmona), Carlos Gardel con acomp. de Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1miYGhXau8uYL44RNlErob91kyEIkjbQN",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "10jBmCghSx6djgb5QLoV2e4ZbUSx7tiA-",
+    "action": "rename",
+    "newTitle": "Victor, 60-1339 B, Los ejes de mi carreta (R. Risso - A. Yupanqui), Antonio Tormo y su Conjunto, Milonga.jpg"
+  },
+  {
+    "fileId": "19gjSiS1OCZ51DpphC2EbaDKxoVqH1Flp",
+    "action": "rename",
+    "newTitle": "Victor, 17607 A, Pá no ser mal educao (Evaristo Barrios), Evaristo Barrios, Relato gaucho.jpg"
+  },
+  {
+    "fileId": "18GTHvqIpgP__amroACNAmFUHOAkDsIP2",
+    "action": "rename",
+    "newTitle": "Nacional, 4751 A, ¿Qué sapa, señor? (Enrique Santos Discépolo), Francisco Canaro y su Orquesta Típica, Tango con estribillo.jpg"
+  },
+  {
+    "fileId": "1OxXQ73ocYcvNm6rSFKwkEPHMjOdwvYDz",
+    "action": "rename",
+    "newTitle": "Rob. Firpo, 615 B, S. Paulo futuro (F. Lobo), Orquesta Roberto Firpo, Maxixe brasileiro.jpg"
+  },
+  {
+    "fileId": "1nXSChcPcUCj2kQNC44wSkOka8qUjjs57",
+    "action": "rename",
+    "newTitle": "Odeón, 52237 A, Pa' lo que te va a durar (Guillermo D. Barbieri - Esteban Celedonio Flores), Aníbal Troilo y su Orquesta Típica, Canta Roberto Goyeneche, Tango.jpg"
+  },
+  {
+    "fileId": "1uyvqq_qNXLEsXxOwFSUMoI_EopftJ_B9",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1NkiliShB_BFbUsEbqVq1LJTeLtAS1U4U",
+    "action": "rename",
+    "newTitle": "Odeón, 4758 B, Amores de Granada (S. Nisa), Francisco Canaro y su Orquesta Típica, Pasodoble.jpg"
+  },
+  {
+    "fileId": "1Pa5tBNgfeZfe78_PVS6lpebCY2biABKf",
+    "action": "rename",
+    "newTitle": "Odeón, 18084 B, Amor perdido (E. Bonessi), Carlos Gardel, Tango.jpg"
+  },
+  {
+    "fileId": "1ULsigj_7M81EjE_qFD_niKQaguoSuATs",
+    "action": "rename",
+    "newTitle": "Victor, 47133 A, ¡¡Victoria!! (Enrique Santos Discépolo), Alberto Vila, Tango.jpg"
+  },
+  {
+    "fileId": "1_wEbMbC5mlD3_p849zXnA1PmiL_bSWrT",
+    "action": "rename",
+    "newTitle": "Odeón, 4624 B, Milonga canyengue (F. Canaro), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1pMvIVnLisep4ZfWMaPkEcdn7FNeV6k41",
+    "action": "rename",
+    "newTitle": "Odeón, 4760 B, Gloria de guapo (Miguel Bucino), Francisco Canaro y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1V66NPflniMiy5lGVV3Bxzz3F63y9oTbm",
+    "action": "rename",
+    "newTitle": "Odeón, 7269 A, La vi llegar (Enrique M. Francini - Julián Centeya), Enrique Rodríguez y su Orquesta Típica, Canta Armando Moreno, Tango.jpg"
+  },
+  {
+    "fileId": "1vPu9-kNR7ZKRv-TuuFcu5vlGfuYoEUHV",
+    "action": "rename",
+    "newTitle": "Columbia, 15.186 B, Risque (Olvídame) (Ary Barroso), Héctor Varela y su Orquesta Típica, Canta Rodolfo Lesica, Samba en tiempo de tango.jpg"
+  },
+  {
+    "fileId": "1uswHfbVPo9Pzi7iN1w06BrV7xriMomhd",
+    "action": "rename",
+    "newTitle": "Victor, 68-2188 A, La cumparsita (P. Contursi - E. P. Maroni - G. M. Matos Rodríguez), Tres Guitarras Argentinas, Tango.jpg"
+  },
+  {
+    "fileId": "18E_UKeX12ngRHY5B5jW1K2zbnG2-SBSI",
+    "action": "rename",
+    "newTitle": "Brunswick, 2127 B, Noche trágica (A. Huergo - S. Sena), Azucena Maizani, Tango.jpg"
+  },
+  {
+    "fileId": "1cmswK0Gw-lCqNXHcZntcHi9aj5ssjMYj",
+    "action": "rename",
+    "newTitle": "Nacional, 4128 A, No puedo más (José Bohr), Jazz-Band F. Canaro, Maxixa.jpg"
+  },
+  {
+    "fileId": "1W9P3MOVdTbDHKxLpzJALxYMm9vkV1Y9j",
+    "action": "rename",
+    "newTitle": "Nacional, 4656 A, Enfunda la mandolina (F. Pracánico), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1atGr_lzyYVEvHpk1d7Yr2jKy_26qbwOJ",
+    "action": "rename",
+    "newTitle": "Nacional, 4158 A, Tus besos fueron míos (A. Aieta), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1GS_T3rQH5RGYVJkV6ZR8uot82JhRecne",
+    "action": "rename",
+    "newTitle": "Victor, 77022 B, Mujer (G. González - J. C. Cobián), Orquesta Típica Cobián, Tango.jpg"
+  },
+  {
+    "fileId": "1SErSAwt6fr6WANIPTkRZR3UAwvgjlZP_",
+    "action": "rename",
+    "newTitle": "Odeón, 165.061 B, Canaro en París (Caldarella - Scarpino), L'Orchestre Argentin Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1sJAxID05wKjjNszbKkI533bzy_FiGMYb",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1_NMpN77bCc-01O55K8QHF130AbqnMxct",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "13W0KP4YEYMCum8E94W1Qo8GofpscfSZs",
+    "action": "rename",
+    "newTitle": "Nacional, 4285 A, Barrio reo (R. Fugazot), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1QdJvg_io5PnHClkxLUfW6ZqVQPxLA2u_",
+    "action": "rename",
+    "newTitle": "Victor, 69987 A, La payanca (Aug. P. Berto), Orquesta Típica Ferrer, Tango Milonga.jpg"
+  },
+  {
+    "fileId": "1khr-iDxeTQk8VFBVofB_SXd8GeYl3--P",
+    "action": "rename",
+    "newTitle": "Victor, 31A-1353 A, Tema otoñal (Enrique M. Francini), Aníbal Troilo (Pichuco) y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1M00zvYUbSkmInVN_dlHRByXU2---Pv_D",
+    "action": "rename",
+    "newTitle": "Nacional, 18148 A, El triunfo (A. Chazarreta), Gardel-Razzano, Danza.jpg"
+  },
+  {
+    "fileId": "17IrcEdGDwFrbVx9vF-zHRzp6Ih-X2lgq",
+    "action": "rename",
+    "newTitle": "Victor, 27938 B, Tengo mil novias (Enrique Cadícamo - Enrique Rodríguez), Francisco Lomuto y su Orquesta, Canta Fernando Díaz, Vals.jpg"
+  },
+  {
+    "fileId": "1-S8eIvTcwtl5SCWDJw4luOh1N2_70EQE",
+    "action": "rename",
+    "newTitle": "Nacional, 16216 B, Cachadora (F. Lomuto - P. Laguna), Charlo con acomp. de Orquesta Francisco Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1loFCHe-31KPOuMLST2ALaQOQZMHqbgfz",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "10IK5IoYPmyNTwR8GN2L61ZW2FH_9Ryth",
+    "action": "rename",
+    "newTitle": "Odeón, 905 B, De mi flor (R. Firpo), Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "18cnI0FLd5pRfKwCNpehouO0e8uQE7scg",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1LRxsOts7d1uxU8-S0-EHfCZ1bR-C3Jpz",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1P0szMweRKheZTxXZA17kBh3iN4LhKyHA",
+    "action": "rename",
+    "newTitle": "Victor, 39197 B, Flor del mal (J. C. Gruviz), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Vals.jpg"
+  },
+  {
+    "fileId": "1RK6OhPUjRHBN-IhFMm5bTR8xdlsrgZ-M",
+    "action": "rename",
+    "newTitle": "Brunswick, 1244 B, Tradición (F. Frontera), Orquesta Típica Julio De Caro, Tango.jpg"
+  },
+  {
+    "fileId": "1tykOc2TInpXZB6K_otsKMZf40ZHexWqx",
+    "action": "rename",
+    "newTitle": "Brunswick, 500046 B, Tradición (Frontera), Orquesta Típica Julio De Caro, Tango 2.jpg"
+  },
+  {
+    "fileId": "1eV9CGBMnuuY_PNejyLUwYJ4juZe6R7DO",
+    "action": "rename",
+    "newTitle": "Brunswick, 500046 B, Tradición (Frontera), Orquesta Típica Julio de Caro, Tango.jpg"
+  },
+  {
+    "fileId": "1o-8w4B8MeALu40Mhpl5LZ3sKTx8A_5mH",
+    "action": "rename",
+    "newTitle": "Brunswick, 1378 B, Loro viejo (Aviles), Orquesta Típica Julio de Caro, Tango.jpg"
+  },
+  {
+    "fileId": "16ons4QmGorbLlL7RWOMKETuEh7yZlb0_",
+    "action": "rename",
+    "newTitle": "Brunswick, 500044 B, Gaucho noble (S. Grupillo - M. Meaños), Orquesta Típica Julio de Caro, Tango.jpg"
+  },
+  {
+    "fileId": "1uESbU7pPXGcWFhOIyMZuHHLxuFHH06E2",
+    "action": "rename",
+    "newTitle": "Brunswick, 1211 B, Negligé (S. Sciarretta), Orquesta Típica Julio de Caro, Tango.jpg"
+  },
+  {
+    "fileId": "1b_S70vMqGRIzB78O2TFXCWLoHoxGHkeU",
+    "action": "rename",
+    "newTitle": "Brunswick, 1378 A, Recoveco (d'Andrea - Bozzano), Orquesta Típica Julio de Caro, Tango.jpg"
+  },
+  {
+    "fileId": "18hmG4pXjHxn-84bI0j8Bd86-2cAk9tho",
+    "action": "rename",
+    "newTitle": "Brunswick, 1211 A, Mal agüero (G. de Leone), Orquesta Típica Julio de Caro, Tango.jpg"
+  },
+  {
+    "fileId": "1vW2qdgCTuLqMKfMkHBRxJF5GUNELF50h",
+    "action": "rename",
+    "newTitle": "Brunswick, 1208 B, Rosita (J. de Caro), Orquesta Típica Julio de Caro, Vals.jpg"
+  },
+  {
+    "fileId": "1Z3tZ8enveZq2sUfmvsDIX463KFUw4zQz",
+    "action": "rename",
+    "newTitle": "Victor, 39149 A, Canaro en Paris (J. Scarpino - A. Scarpino - I. Caldarella), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1-BEv_55-fBNNJiHtwWcAq7OoVKxbdd0a",
+    "action": "rename",
+    "newTitle": "Brunswick, 1208 A, Corazón (O. Ortiz), Orquesta Típica Julio de Caro, Tango.jpg"
+  },
+  {
+    "fileId": "1PcdzfdrzHChyKogqF15z67_p395pFDNH",
+    "action": "rename",
+    "newTitle": "Victor, 39149 B, El corazón me engañó (M. Bucino), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Reynal, Tango.jpg"
+  },
+  {
+    "fileId": "1wS91-COw8XRBQ2ATjXN4rFDBIQfx3ZEu",
+    "action": "rename",
+    "newTitle": "Victor, 39237 A, Fuegos artificiales (R. Firpo - E. Arolas), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1bj4J3TUgSdC4PbfdmDaEa-BS3-6hLfFC",
+    "action": "rename",
+    "newTitle": "Victor, 39215 B, Miedo (I. Casadó - E. Blanco), Juan D'Arienzo y su Orquesta Típica, Canta Héctor Mauré, Vals.jpg"
+  },
+  {
+    "fileId": "1JmlbATUXYaVzW1Gs_b6GLe5RkQmQYiIM",
+    "action": "rename",
+    "newTitle": "Victor, 39052 A, La bicoca (J. A. Severino), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1gxVUl6NPYT1w9InNY5W6ENc_GTSc3Ieo",
+    "action": "rename",
+    "newTitle": "Victor, 39063 A, Ríe, payaso (Emilio Falero - Virgilio Carmona), Juan D'Arienzo y su Orquesta Típica, Canta Carlos Casares, Tango.jpg"
+  },
+  {
+    "fileId": "1rM4pBaHY34tb05bBVY_nMl5vDzIk0fTw",
+    "action": "rename",
+    "newTitle": "Victor, 39063 B, El tigre Millán (Francisco Canaro), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Reynal, Tango.jpg"
+  },
+  {
+    "fileId": "18QR0Uj91qOvG6E8CD7v9rv9A6trM4QkK",
+    "action": "rename",
+    "newTitle": "Victor, 62139 A, La moral y los $50 (Angel G. Villoldo - Alfredo Gobbi), Angel G. Villoldo y Alfredo Gobbi, Escena cómica.jpg"
+  },
+  {
+    "fileId": "1g6-s0cTs0ArGDQE-HvDvWScM8jEPS4On",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  }
 ]
