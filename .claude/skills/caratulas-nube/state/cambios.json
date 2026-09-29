@@ -1,1 +1,12 @@
-[]
+[
+  {"fileId": "1hM1K1xNbcTOkpZ61MLn1NPObitPsaVM1", "action": "rename", "newTitle": "Disco Criollo, 4910 A, Ronda del querer (Antonio Sureda - Gerónimo Sureda), Francisco Canaro y su Orquesta Típica, Vals con estribillo.jpg"},
+  {"fileId": "1yMISVS2rExHhCNoFCFGBuyh1ty_q1jxd", "action": "rename", "newTitle": "Nacional, 16207 B, Las vueltas de la vida (F. Canaro - M. Romero), Charlo con acomp. de Orquesta Francisco Canaro, Tango.jpg"},
+  {"fileId": "1ousv6VfF47ZJZp1pz7XhDJzFTFIhRrV7", "action": "rename", "newTitle": "Victor, 60-0602 B, Clavel (Osvaldo Sosa Cordero), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Milonga.jpg"},
+  {"fileId": "10zJpfKAXyYHLUNyF_KebjLB_nyTY2RvB", "action": "rename", "newTitle": "Odeón, 55085 B, Ríe... payaso (Emilio Falero - Virgilio R. Carmona), Carlos Gardel con acomp. de Guitarras, Tango.jpg"},
+  {"fileId": "1miYGhXau8uYL44RNlErob91kyEIkjbQN", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "10jBmCghSx6djgb5QLoV2e4ZbUSx7tiA-", "action": "rename", "newTitle": "Victor, 60-1339 B, Los ejes de mi carreta (R. Risso - A. Yupanqui), Antonio Tormo y su Conjunto, Milonga.jpg"},
+  {"fileId": "19gjSiS1OCZ51DpphC2EbaDKxoVqH1Flp", "action": "rename", "newTitle": "Victor, 17607 A, Pá no ser mal educao (Evaristo Barrios), Evaristo Barrios, Relato gaucho.jpg"},
+  {"fileId": "18GTHvqIpgP__amroACNAmFUHOAkDsIP2", "action": "rename", "newTitle": "Nacional, 4751 A, ¿Qué sapa, señor? (Enrique Santos Discépolo), Francisco Canaro y su Orquesta Típica, Tango con estribillo.jpg"},
+  {"fileId": "1OxXQ73ocYcvNm6rSFKwkEPHMjOdwvYDz", "action": "rename", "newTitle": "Rob. Firpo, 615 B, S. Paulo futuro (F. Lobo), Orquesta Roberto Firpo, Maxixe brasileiro.jpg"},
+  {"fileId": "1nXSChcPcUCj2kQNC44wSkOka8qUjjs57", "action": "rename", "newTitle": "Odeón, 52237 A, Pa' lo que te va a durar (Guillermo D. Barbieri - Esteban Celedonio Flores), Aníbal Troilo y su Orquesta Típica, Canta Roberto Goyeneche, Tango.jpg"}
+]
