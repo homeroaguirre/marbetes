@@ -8,5 +8,15 @@
   {"fileId": "19gjSiS1OCZ51DpphC2EbaDKxoVqH1Flp", "action": "rename", "newTitle": "Victor, 17607 A, Pá no ser mal educao (Evaristo Barrios), Evaristo Barrios, Relato gaucho.jpg"},
   {"fileId": "18GTHvqIpgP__amroACNAmFUHOAkDsIP2", "action": "rename", "newTitle": "Nacional, 4751 A, ¿Qué sapa, señor? (Enrique Santos Discépolo), Francisco Canaro y su Orquesta Típica, Tango con estribillo.jpg"},
   {"fileId": "1OxXQ73ocYcvNm6rSFKwkEPHMjOdwvYDz", "action": "rename", "newTitle": "Rob. Firpo, 615 B, S. Paulo futuro (F. Lobo), Orquesta Roberto Firpo, Maxixe brasileiro.jpg"},
-  {"fileId": "1nXSChcPcUCj2kQNC44wSkOka8qUjjs57", "action": "rename", "newTitle": "Odeón, 52237 A, Pa' lo que te va a durar (Guillermo D. Barbieri - Esteban Celedonio Flores), Aníbal Troilo y su Orquesta Típica, Canta Roberto Goyeneche, Tango.jpg"}
+  {"fileId": "1nXSChcPcUCj2kQNC44wSkOka8qUjjs57", "action": "rename", "newTitle": "Odeón, 52237 A, Pa' lo que te va a durar (Guillermo D. Barbieri - Esteban Celedonio Flores), Aníbal Troilo y su Orquesta Típica, Canta Roberto Goyeneche, Tango.jpg"},
+  {"fileId": "1eMU8W_sugfxRgz4-hhFkuHJYEwg7tC-5", "action": "rename", "newTitle": "Odeón, 18890 A, La uruguayita Lucía (Daniel López Barreto - Eduardo Pereyra), Carlos Gardel con acomp. de Guitarras, Canción.jpg"},
+  {"fileId": "1YEEd0TH0sGZbYgW-nH3TZYSS3B7Mhawt", "action": "rename", "newTitle": "Victor, 79714 A, Y no tengas que sufrir (E. Nobile - C. Martínez), Carlos Dix, acomp. A. Carabelli, Tango.jpg"},
+  {"fileId": "1Qwtwr-yFC-mOun5QA43r_qNFJ9qCcST4", "action": "rename", "newTitle": "Odeón, 18695 B, Camino del indio (Atahualpa Yupanqui), Ignacio Corsini con acomp. de Guitarras, Canción andina.jpg"},
+  {"fileId": "1ercl1rHPjETNF_DxiKU3EKEcsQ2uJbWr", "action": "rename", "newTitle": "Rob. Firpo, 581 B, La tablada (Canaro), Orquesta Roberto Firpo, Tango.jpg"},
+  {"fileId": "14C1W25FzWlC85mENpz4M6CkrlTSL9WUz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1zBots42OJriRMWUw-KI04zWpHiM4dHTM", "action": "rename", "newTitle": "Nacional, 4294 B, La vuelta de bocha (J. de Dios Filiberto), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1KtkjOYNBhENR2Iaws3TW7VrHLDTkkgOL", "action": "rename", "newTitle": "Nacional, 8737 B, Nieve en el alma (L. A. Leoncini), Orquesta Típica R. Firpo, Tango.jpg"},
+  {"fileId": "16VMvFw2BURe_vmptsS0NA-2dGVmmpoSB", "action": "rename", "newTitle": "Victor, 37056 B, Muñequita (Adolfo C. Herschel - Francisco J. Lomuto), Francisco J. Lomuto y su Orquesta Típica Sinfónica, Canta a dúo Acuña-Díaz, Tango.jpg"},
+  {"fileId": "10ZaMmo3rQ4ShZ4G8rRRdUEMWbCMi_IvG", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1scUd6dCntDbdIiV8dFTUBrC7_1RuCM_T", "action": "rename", "newTitle": "Nacional, 4408 B, Griseta (E. Delfino), Orquesta Típica R. Canaro, Tango.jpg"}
 ]
