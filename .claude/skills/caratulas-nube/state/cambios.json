@@ -298,5 +298,55 @@
     "fileId": "1HR-6aF1OFnVEGKSNnjR-TiKcfsAD7SgH",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1IX-hTDwiVZwOiKtwqxb6Z0lulTs3c5QB",
+    "action": "rename",
+    "newTitle": "Victor, 72236 B, En la tierra de la armonía (Snyder), Orquesta Típica E. Arolas, One-Step.jpg"
+  },
+  {
+    "fileId": "1KNkV9FtSbzKKsP1VBzPgn6n0qYuMrY4_",
+    "action": "rename",
+    "newTitle": "Victor, 69810 B, Meneguina (O. Fresedo), Orquesta Típica V. Loduca, A dos bandoneones (Loduca-Fresedo), Tango Catedrático.jpg"
+  },
+  {
+    "fileId": "1IIJIkmNtQF4DVAWOv7f5p_lKYr-9Yc0b",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1J0S6KbQdBstzc7PJfkbRzXD38P7ye7Nv",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1J_dUOZQ1CySNLaOmc5X31sFWV7RjWtIm",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1JgkDQrqJ0eJX1uLVqXtzqaMDzN9R87W0",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1JnKY_9GYsxtnH_gz4pU9hdwWusfOFgwx",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1KA-JMY_289WHQyGLucubfziVlf2GhLRn",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1KK_0n19GncvVcC-x5AOjvuqjjHC9Un6P",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1KYb7Iojvuc1tj1jsb02-pLzDSTr7WyDV",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
