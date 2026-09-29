@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "fileId": "1-U9Y6qPc8ASJjZGW4xks5Ywi62--2zMK",
+    "action": "rename",
+    "newTitle": "Firpo, 516 B, El horizonte (R. Firpo), Orquesta Argentina Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1-ZRFtz19fJHcUP-0DA_VOt_lD4YvWIbr",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1-t2KliJvuKmQKQ3_VoLW0hEADavpjeFy",
+    "action": "rename",
+    "newTitle": "Victor, 69810 A, Amoniaco (O. Fresedo), Orquesta Típica V. Loduca, Tango.jpg"
+  },
+  {
+    "fileId": "1-y9l-B8Thd3jAQbcQTF1p5DpmSD2lHgM",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "10gEuN3dJurRGWzkVDIS9Xmgk90ok-zl8",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "11RAYFKbjhNKFCgy71wrbY3MX7VuJ3x1s",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "11g3t3CHvvDdOYaqHW4R-Sgn_OZhp7_Vi",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "126wCRs2XlSW1_N6lLaRY9tHKTsMLI-TP",
+    "action": "rename",
+    "newTitle": "Victor, 62674 A, Muy de la bombonera (A. Villoldo), Orquesta Victor, Tango.jpg"
+  },
+  {
+    "fileId": "12Br90VVEalGgTRCBVEBjWQiQmy_gbqk7",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "12gXdsxh8gdmo9T3XuRWfLGGSAZPZkwOA",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  }
+]
