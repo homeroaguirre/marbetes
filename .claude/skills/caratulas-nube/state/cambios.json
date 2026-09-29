@@ -347,5 +347,105 @@
     "fileId": "1gqmkoryXStMNOZOhx3wJ-jeeBQ6RL8ri",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1gsMAzMmGZlXQWpocbzZJvVAB26xpDvVO",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1hqpP7a9Lj3jzikJbBzX30QbhVqHCW3PO",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1icWyuoZ04ygtGo6U_lNTxoUAxxDPg8H7",
+    "action": "rename",
+    "newTitle": "Odeón, 16022 A, Aventuras del negro Raúl (A. Gobbi), Alfredo Gobbi, Tango cómico canyengue.jpg"
+  },
+  {
+    "fileId": "1ip6M9vR01hyBHusGoS0-m3VO0gwcJOAV",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1jJ0XjFUmY4-nRZE-VS5O1wTntFrgytw1",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1kYbXPt_sYRZWL-Ueb__R72gKY-1Pco0O",
+    "action": "rename",
+    "newTitle": "Victor, 69806 A, El comité (J. Maglio), Orquesta Típica Maglio, Tango.jpg"
+  },
+  {
+    "fileId": "1lk4tFWNNtGC4leKWlYywc_h0Wl64LIVm",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1lrfBOUimpPyEyhGhZMzDq-Fbg9N_SFK3",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1lwAZLSTn8xjqvMWxJp5uPsYBhUjgL6h0",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 650 A, Mosca muerta (J. C. Cobián), Orquesta Típica Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1mWVXLo0nskIiGxS0J4-sUMY9zI-GAHbL",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1npt8VITMIs6vsflnBY0p9CIgyE-N9XPH",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1nxfqmpm_k-MCQsRL-jf8nrS79eQ4rFod",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1pkzzm_DE5cqPAxzwJqT_cYIEprMcXNOW",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1q4oDT7xhPZKczIVv5bM-GipzOuWQODxx",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1qsGzKFTF2PKC6hhaqQ3yz2flQQOpX9NL",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 462 A, A pan y agua (J. C. Cobián), Orquesta Típica Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1rEGN0bL83dupItGwga3lW3nBkybL8NVv",
+    "action": "rename",
+    "newTitle": "Victor, 62139 A, La moral y los 50$ (N. Trejo), Angel Villoldo y Alfredo Gobbi, Escena cómica.jpg"
+  },
+  {
+    "fileId": "1rFg0RcKTizjenP75djwk78AxrebrZi95",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1rQSf-79Ki1Tazr3epTAdgzDKqbV36Nua",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1r_v3Bb5vTwpChXmuvNmbhYgm6UCdrI-Q",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1tF7dmgkTEX3SAFwzlFVRmTBoE3yWhrlf",
+    "action": "rename",
+    "newTitle": "Victor, 72966 B, Nueva York (O. Fresedo), Oswaldo Fresedo, Tango.jpg"
   }
 ]
