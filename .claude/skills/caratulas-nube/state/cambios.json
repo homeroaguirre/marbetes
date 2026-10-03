@@ -1,12 +1,12 @@
 [
-  {"fileId": "1hiByiorQMfpRervdw5CI6JmyIXOgyo8Z", "action": "rename", "newTitle": "Nacional, 4079 A, Hasta la vuelta (H. Canaro), Orquesta Típica Canaro, Tango.jpg"},
-  {"fileId": "1wIhlfK5AetiK1gPkVKnX7GYAJydB7MRr", "action": "rename", "newTitle": "Victor, 37129 A, Mi provinciana (J. Romero G. - H. Matos Rodríguez), Charlo, Tango.jpg"},
-  {"fileId": "1mtTRsboN3zCszCDDCDH23-tDW0bgLjbX", "action": "rename", "newTitle": "Odeon, 7507 A, Viejo ciego (S. Piana - C. Castillo), Juan Maglio (Pacho), Tango.jpg"},
-  {"fileId": "1S8RsM3SO8R536mr7KoVrkt6hyJXMOEEx", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1gnzkBfPd8F6nZMl-kdK2cqPCrOEeVXQz", "action": "rename", "newTitle": "Victor, 79676 A, Allá en el bajo (A. Magaldi - P. Noda - J. Aquilar - M. Massa), Agustín Magaldi, Tango.jpg"},
-  {"fileId": "17Rb-JWq8Z3RL-m9cgtYIuIh76GGTLwOq", "action": "rename", "newTitle": "Victor, 47144 B, No seas así (J. N. Vega - E. Dizeo), Libertad Lamarque, Tango.jpg"},
-  {"fileId": "1SDdMJky1Xym-81rU6-zZ6F2PgYRTWkqT", "action": "rename", "newTitle": "Brunswick, 2210 A, Soy tu esclavo (F. Pracánico - F. Blanco - V. Candeloro), Mercedes Carné con orquesta Carlos Di Sarli, Paso Doble.jpg"},
-  {"fileId": "1BVywnrOUaCRe7QviY-M5lCClB8PzG_VH", "action": "rename", "newTitle": "Brunswick, 1201 A, Yo me quiero divertir (Julio De Caro), Julio De Caro, Tango.jpg"},
-  {"fileId": "1sSU1rLBTU2E-s_VTYDzoGgKohJf8hhoM", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1iqxqUyqtMmKeGWCTqSartobn_e9AOXPe", "action": "rename", "newTitle": "Nacional, 4239 B, Que yunta (M. Canaro), Orquesta Típica Canaro, Tango.jpg"}
+  {"fileId": "1eBvo27qMXy-GNHK-2RAUT5d3zEYTSEh3", "action": "rename", "newTitle": "Brunswick, 1247 A, Derecho viejo (E. Arolas), Orquesta Típica Julio De Caro, Tango.jpg"},
+  {"fileId": "1Qqmg-fbm0IpD9HQ8bK2EeGz4G37MEHwG", "action": "rename", "newTitle": "RCA Victor, 68-0053 B, Ilusión de mi vida (F. Brunelli), Feliciano Brunelli y su Orquesta Característica, Vals.jpg"},
+  {"fileId": "1jSZTF9MQCVBVqRNb1aLKHi3w7IqHpBzo", "action": "rename", "newTitle": "Odeon, 4522 A, Sueño chino (R. Herrera Martínez), Orquesta Típica F. Canaro, Fox trot.jpg"},
+  {"fileId": "1IVxbKt4SJaGrnRk-G0beIeGs3QZDB7mf", "action": "rename", "newTitle": "Rob. Firpo, 493 A, La guitarrita (E. Arolas), Orquesta Roberto Firpo, Tango.jpg"},
+  {"fileId": "1acu0EpGH_pSSBxnc9O7xbFPWvHherJ9z", "action": "rename", "newTitle": "Victor, 79504 B, Biscochito (Discépolo - Saldías), C. Marambio Catán, Tango.jpg"},
+  {"fileId": "1Utk9zwN6T1gPOB7GlDg6PULABNXV9H_E", "action": "rename", "newTitle": "Victor, 79754 A, Chinita (Josefina Insa), Alfredo Pelaia, Cueca.jpg"},
+  {"fileId": "1nM44lPDLpEBv45hpf5KSBCrDam8u6hik", "action": "rename", "newTitle": "Odeon, 9913 A, Rosas de otoño (José Rial - Guillermo Barbieri), Rafael Rossi y su Conjunto, Canta Virginia Vera y los Hnos. Casadei, Vals.jpg"},
+  {"fileId": "1Q9gsL4OeHkG7h4eXpJBXo6ucOLtplRuM", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1nDrH5kjlbmMKLHVC4ZycdjzUf_3tppit", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ZE9wCAJN5ROcYJJ3wW70gOr2GJreGadk", "action": "rename", "newTitle": "Odeon, 4521 A, Allá en el monte (F. Canaro), Orquesta Típica F. Canaro, Vals.jpg"}
 ]
