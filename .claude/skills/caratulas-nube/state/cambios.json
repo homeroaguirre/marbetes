@@ -38,5 +38,15 @@
   {"fileId": "1hx99suZAEAunTeUagrD91PAWTmnG4FX8", "action": "rename", "newTitle": "Odeon, 16246 B, Malhaya, Charlo con acomp. de orquesta F. Canaro, Estilo.jpg"},
   {"fileId": "19ttROEJjWOlyTp-ulkQU9QbEgZCNMs9w", "action": "rename", "newTitle": "RCA Victor, 60-1517 B, El viento me cuenta cosas (M. Bucino), Juan D'Arienzo y su Orquesta Típica, Canta Armando Laborde y Alberto Echagüe, Milonga.jpg"},
   {"fileId": "17U4D-Ie2KFiEc1UmMgqaSnxiNxLJIIqj", "action": "rename", "newTitle": "Victor, 37094 A, Arroz con leche (Claudio Frollo - Francisco J. Lomuto), Alberto Gómez, Ranchera.jpg"},
-  {"fileId": "1vSHwC3OiLmWnVAFJmZMWpKwzNHvI0SOq", "action": "rename", "newTitle": "Pampa, PM 11031 A, Tabernero (Fausto Frontera - Miguel Cafre - Raúl Costa Oliveri), Jorge Vidal con acomp. de Jaime Vila y sus guitarras, Tango.jpg"}
+  {"fileId": "1vSHwC3OiLmWnVAFJmZMWpKwzNHvI0SOq", "action": "rename", "newTitle": "Pampa, PM 11031 A, Tabernero (Fausto Frontera - Miguel Cafre - Raúl Costa Oliveri), Jorge Vidal con acomp. de Jaime Vila y sus guitarras, Tango.jpg"},
+  {"fileId": "1sv-ps8q1KYr60L3LnLejWVfiR7Ewah9Z", "action": "rename", "newTitle": "Victor, 80988 B, Charmaine (M. del Olmo - E. Rapee), Alberto Vila, Vals.jpg"},
+  {"fileId": "1CPRHrKo8jpVBLAs-tXmgGgi6ETuHXBLS", "action": "rename", "newTitle": "Odeon, 30203 B, Rosa de otoño (G. Barbieri - José Rial), Fiorentino y su Orquesta Típica (Direc. Astor Piazzolla), Canta Fiorentino, Vals.jpg"},
+  {"fileId": "1ov_iZqdXKbDGTu0hvgt_5TYTwEZTqCh_", "action": "rename", "newTitle": "Nacional, 16240 B, Clemencia, Charlo con acomp. de guitarras, Tango.jpg"},
+  {"fileId": "1hdt_e83qEWNbUm0dQDJF_gaAhRiVEwXf", "action": "rename", "newTitle": "Brunswick, 40200 A, Medias de seda (Bohr - Caruso), Pilar Arcos con The Castilians, Tango.jpg"},
+  {"fileId": "1YdmnQX0O1fn4UGoQ7nnZH13fFAymgS_n", "action": "rename", "newTitle": "Columbia, 2302 X, Saxofón humano (arreglo de J. Alcocer), Juan Pulido, Fox trot.jpg"},
+  {"fileId": "1oPg7TjL52hF5o4DqOwOSbUn0NfhSjdwq", "action": "rename", "newTitle": "Nacional, 4104 A, Entrá nomás, Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1YhxrVZiOdk8NtWVFASMAPxXBuhVB30c8", "action": "rename", "newTitle": "Columbia, 2296 X, Talán talán (E. Delfino), Fortunio Bonanova, Tango.jpg"},
+  {"fileId": "1cO25hvzB636ErJ3kfsMwt3vWFz-UFFnZ", "action": "rename", "newTitle": "Gramófono, AE 2219, Adiós muchachos (C. Vedani - J. Sanders), Trío Irusta-Fugazot-Demare y su Orquesta Típica Argentina, Tango.jpg"},
+  {"fileId": "1RNLe7AbNtF88LBiyqBNaCHhf-ERgsRcW", "action": "rename", "newTitle": "Nacional, 4141 A, Changüí (H. Canaro), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1EkFweEq7yP2OpiwG44QRt9fjVWxSu9c2", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
