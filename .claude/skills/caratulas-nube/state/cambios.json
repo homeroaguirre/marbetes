@@ -1,1 +1,12 @@
-[]
+[
+  {"fileId": "1seoGCKfn6yOEz_wlHvVhx2tqObNFD7SQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1EK1o3KC_feKE8xg6XczMIpFM4ydFKkQC", "action": "rename", "newTitle": "Victor, 69593 A, Chacarita (V. Loduca), Orquesta Típica V. Loduca, Tango.jpg"},
+  {"fileId": "1xbqT9nCP2APDc_BRoCH-ir0kdubye3wv", "action": "rename", "newTitle": "Victor, 37215 A, Por culpa del cine (Juan Manuel Arizaga - Eduardo Ferri), Mercedes Simone, Tango.jpg"},
+  {"fileId": "1OhADiTmgc9giqlKtGW1P6Nci1m9YZsam", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1_eNJ_t8XKJ2S87o9FIEk4ZoPVVXXtiNL", "action": "rename", "newTitle": "Victor, 79502 A, Julián (Donato Parrizza), Rosa Quiroga, Tango.jpg"},
+  {"fileId": "1bAEDTpY3eF9YXdXZ8GiyInOJJqesgtJa", "action": "rename", "newTitle": "Victor, 37662 A, Juan Manuel (Homero Manzi - Sebastián Piana), Pedro Maffia y su Orquesta Típica, Milonga.jpg"},
+  {"fileId": "1lTNKKrSjc8Rdgx-A3nqTlAuOXyppmF5D", "action": "rename", "newTitle": "Victor, 79645 A, Cuando te miro (A. Pelaia), Alfredo Pelaia, Vals.jpg"},
+  {"fileId": "1PD1onHtIfJjY3z1OdKNUymGH74VuZSii", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "15blwrxATLJc4ifMZm_B05NFutK79ivsy", "action": "rename", "newTitle": "Odeon, 9937 B, Lo que vale una mujer (Eugenio Cárdenas - Rafael Rossi), Rafael Rossi y su Trío, Milonga.jpg"},
+  {"fileId": "1IqkhjzIt8C6pvnMmcApZmcyNVEB6JTZP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+]
