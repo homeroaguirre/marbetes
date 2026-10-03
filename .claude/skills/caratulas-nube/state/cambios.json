@@ -8,5 +8,15 @@
   {"fileId": "1lTNKKrSjc8Rdgx-A3nqTlAuOXyppmF5D", "action": "rename", "newTitle": "Victor, 79645 A, Cuando te miro (A. Pelaia), Alfredo Pelaia, Vals.jpg"},
   {"fileId": "1PD1onHtIfJjY3z1OdKNUymGH74VuZSii", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "15blwrxATLJc4ifMZm_B05NFutK79ivsy", "action": "rename", "newTitle": "Odeon, 9937 B, Lo que vale una mujer (Eugenio Cárdenas - Rafael Rossi), Rafael Rossi y su Trío, Milonga.jpg"},
-  {"fileId": "1IqkhjzIt8C6pvnMmcApZmcyNVEB6JTZP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1IqkhjzIt8C6pvnMmcApZmcyNVEB6JTZP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Ev9sFwxjLCA7S8IHUwsl2B7xGQsuYuqo", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1xoAeAWD9pdsLtMoh92OkH1PPvRjnH71E", "action": "rename", "newTitle": "Odeon, 503 A, Argañaraz (R. Firpo), Orquesta Roberto Firpo, Tango.jpg"},
+  {"fileId": "1jhDr6hYNkMUiVM1UR2viNjjfu9wj2fun", "action": "rename", "newTitle": "Columbia, A 6027 B, Dime que sí (Ernesto Russo), Orquesta Típica Maffia, Vals.jpg"},
+  {"fileId": "1GF5RoYLsw9I8Z53zTN9E0b-v1JsgvhoF", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1dmqb1bfXhMl2kIYk0SvkzlyWfeEeo0kW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "13Gogm5Xp9O7HA7QC6h6kvoLDlxiCB0ao", "action": "rename", "newTitle": "Nacional, 7873 A, Hay que aprender a bailar (F. Lomuto), Jazz-Band F. Lomuto, Fox trot.jpg"},
+  {"fileId": "1I8XulblytiRB9sOmqnk3QzJ2LqWxnvwl", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1t3yXk3vLKRFb4LbewjVJkUvAJrFtHRuh", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1yRpCpcHHQNaAIQANdX1EL2B5uFAPLscm", "action": "rename", "newTitle": "RCA Victor, 60-0408 A, Nada (H. Sanguinetti - J. Dames), Carlos Di Sarli y su Orquesta Típica, Canta Alberto Podestá, Tango.jpg"},
+  {"fileId": "1-iIMEqQQXLwNhKocibtWPfxZMWfr27V4", "action": "rename", "newTitle": "Victor, 37170 B, Rodadas del alma (Domingo C. Rocatti - Antonio De Benedetto), Mercedes Simone, Canción.jpg"}
 ]
