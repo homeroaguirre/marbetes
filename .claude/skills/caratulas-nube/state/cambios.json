@@ -18,5 +18,15 @@
   {"fileId": "1I8XulblytiRB9sOmqnk3QzJ2LqWxnvwl", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1t3yXk3vLKRFb4LbewjVJkUvAJrFtHRuh", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1yRpCpcHHQNaAIQANdX1EL2B5uFAPLscm", "action": "rename", "newTitle": "RCA Victor, 60-0408 A, Nada (H. Sanguinetti - J. Dames), Carlos Di Sarli y su Orquesta Típica, Canta Alberto Podestá, Tango.jpg"},
-  {"fileId": "1-iIMEqQQXLwNhKocibtWPfxZMWfr27V4", "action": "rename", "newTitle": "Victor, 37170 B, Rodadas del alma (Domingo C. Rocatti - Antonio De Benedetto), Mercedes Simone, Canción.jpg"}
+  {"fileId": "1-iIMEqQQXLwNhKocibtWPfxZMWfr27V4", "action": "rename", "newTitle": "Victor, 37170 B, Rodadas del alma (Domingo C. Rocatti - Antonio De Benedetto), Mercedes Simone, Canción.jpg"},
+  {"fileId": "1-3Xmx1j_ZDyYL9p6FHB89q8E8Pjdx5v4", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1hMRzjlQ3QucSRzBjx3zjD3rs_9Ekp20E", "action": "rename", "newTitle": "Victor, 80842 A, Si yo tuviera (Bartolomé Chapela), Mercedes Simone, Tango.jpg"},
+  {"fileId": "1dEfqXGmdHnrkHrnEdFrv9LcIZumPGBGx", "action": "rename", "newTitle": "Victor, 37077 B, Celosa (Pablo Rodríguez), Orquesta Típica Victor, Canta Dora Davis, Vals.jpg"},
+  {"fileId": "17vcB2IakJWY8Ijp9HHFObop6b9MSQSrL", "action": "rename", "newTitle": "Victor, 77563 A, Preludiando (R. Quiroga Rodríguez), Rosita Quiroga, Cifra.jpg"},
+  {"fileId": "1WAaFQV6cZW2SRp5MkrgjN0rhlUM8jwD-", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1kcdT2JcsrMvgipx7HHCm8C3bR1WK0vEG", "action": "rename", "newTitle": "RCA Victor, 60-0602 A, Color cielo (Montenieve - Bonavena), Juan D'Arienzo y su Orquesta Típica, Canta Armando Laborde, Tango.jpg"},
+  {"fileId": "1U5L_bRea3WHde7UX3Sr3EWAtdiV4Bhg1", "action": "rename", "newTitle": "Odeon, 54001 A, Zorro gris (Rafael Tuegols - Francisco García Jiménez), Carlos Gardel, Tango.jpg"},
+  {"fileId": "1eehvy6yBjGmupcK76tkDLOJyQz27o4z6", "action": "rename", "newTitle": "Odeon, 30504 A, Duelo criollo (Juan Rezzano), Roberto Firpo y su Nuevo Cuarteto, Tango.jpg"},
+  {"fileId": "17HDfNBtVItWeXkAsrsVMaHujQLJkIHzb", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1bIp6PtIMU556CnX1dkWZiawtJq-g2kUb", "action": "rename", "newTitle": "Odeon, 18105 A, Mía, Gardel-Razzano, Tango.jpg"}
 ]
