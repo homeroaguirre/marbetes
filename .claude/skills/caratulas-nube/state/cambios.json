@@ -1,12 +1,12 @@
 [
-  {"fileId": "1eBvo27qMXy-GNHK-2RAUT5d3zEYTSEh3", "action": "rename", "newTitle": "Brunswick, 1247 A, Derecho viejo (E. Arolas), Orquesta Típica Julio De Caro, Tango.jpg"},
-  {"fileId": "1Qqmg-fbm0IpD9HQ8bK2EeGz4G37MEHwG", "action": "rename", "newTitle": "RCA Victor, 68-0053 B, Ilusión de mi vida (F. Brunelli), Feliciano Brunelli y su Orquesta Característica, Vals.jpg"},
-  {"fileId": "1jSZTF9MQCVBVqRNb1aLKHi3w7IqHpBzo", "action": "rename", "newTitle": "Odeon, 4522 A, Sueño chino (R. Herrera Martínez), Orquesta Típica F. Canaro, Fox trot.jpg"},
-  {"fileId": "1IVxbKt4SJaGrnRk-G0beIeGs3QZDB7mf", "action": "rename", "newTitle": "Rob. Firpo, 493 A, La guitarrita (E. Arolas), Orquesta Roberto Firpo, Tango.jpg"},
-  {"fileId": "1acu0EpGH_pSSBxnc9O7xbFPWvHherJ9z", "action": "rename", "newTitle": "Victor, 79504 B, Biscochito (Discépolo - Saldías), C. Marambio Catán, Tango.jpg"},
-  {"fileId": "1Utk9zwN6T1gPOB7GlDg6PULABNXV9H_E", "action": "rename", "newTitle": "Victor, 79754 A, Chinita (Josefina Insa), Alfredo Pelaia, Cueca.jpg"},
-  {"fileId": "1nM44lPDLpEBv45hpf5KSBCrDam8u6hik", "action": "rename", "newTitle": "Odeon, 9913 A, Rosas de otoño (José Rial - Guillermo Barbieri), Rafael Rossi y su Conjunto, Canta Virginia Vera y los Hnos. Casadei, Vals.jpg"},
-  {"fileId": "1Q9gsL4OeHkG7h4eXpJBXo6ucOLtplRuM", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1nDrH5kjlbmMKLHVC4ZycdjzUf_3tppit", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1ZE9wCAJN5ROcYJJ3wW70gOr2GJreGadk", "action": "rename", "newTitle": "Odeon, 4521 A, Allá en el monte (F. Canaro), Orquesta Típica F. Canaro, Vals.jpg"}
+  {"fileId": "1rVP9dZvp5MKxKw47ltIdjsDbNWPQ3OVX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1wjfTuo8AROEdrU7KoEo_T3Fx4lmT-Ta3", "action": "rename", "newTitle": "Odeon, 19022 B, Allá en la ribera (C. Camba), Carlos Gardel, Tango.jpg"},
+  {"fileId": "13gtg8eQUhPkcq-0degmyB6zek_pMKvDF", "action": "rename", "newTitle": "Victor, 47533 A, El flete (Gerónimo Gradito - Vicente Greco), Orquesta Típica Porteña, Canta Ernesto Famá, Tango.jpg"},
+  {"fileId": "1DffaeQDZQUMg2RV6DQRoVJD3vpcDfhEf", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1WRSjnM-jleifPOQJZX-LnvP0HkX72h-J", "action": "rename", "newTitle": "Odeon, 13325 A, Garota (Mario G. Filho), Mario Gennari Filho, Baião.jpg"},
+  {"fileId": "18OMyOJB7hk2fWyX6a_IdQHmamLk4B53M", "action": "rename", "newTitle": "Odeon, 55161 A, Racing Club (Vicente Greco), Rodolfo A. Biagi y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1bcbQOPXLafGGtl0YA0HlMNryXqdHKSoN", "action": "rename", "newTitle": "Odeon, 25015 A, La chica del 17 (Trío Gedeón - Boxiador - Azagra), Trío Gedeón, Parodia.jpg"},
+  {"fileId": "19xESF_WKhfwFZvwjlv-aWcE8O7ctndmG", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1tqatWJli8vgNGDqHhboGE8CMoaCXEkfw", "action": "rename", "newTitle": "Odeon, 18843 B, Chinita (E. C. Sotelo - E. Iribarren), Carlos Gardel, Tango.jpg"},
+  {"fileId": "1xII-OKdn1lqcKnQQxlpEDxmUU-8PrUef", "action": "rename", "newTitle": "Music Hall, 15351 B, Cariño gaucho (J. Garabelli - G. Policastro), Agustín Magaldi, Tango.jpg"}
 ]
