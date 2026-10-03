@@ -28,5 +28,15 @@
   {"fileId": "1U5L_bRea3WHde7UX3Sr3EWAtdiV4Bhg1", "action": "rename", "newTitle": "Odeon, 54001 A, Zorro gris (Rafael Tuegols - Francisco García Jiménez), Carlos Gardel, Tango.jpg"},
   {"fileId": "1eehvy6yBjGmupcK76tkDLOJyQz27o4z6", "action": "rename", "newTitle": "Odeon, 30504 A, Duelo criollo (Juan Rezzano), Roberto Firpo y su Nuevo Cuarteto, Tango.jpg"},
   {"fileId": "17HDfNBtVItWeXkAsrsVMaHujQLJkIHzb", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1bIp6PtIMU556CnX1dkWZiawtJq-g2kUb", "action": "rename", "newTitle": "Odeon, 18105 A, Mía, Gardel-Razzano, Tango.jpg"}
+  {"fileId": "1bIp6PtIMU556CnX1dkWZiawtJq-g2kUb", "action": "rename", "newTitle": "Odeon, 18105 A, Mía, Gardel-Razzano, Tango.jpg"},
+  {"fileId": "14paTo0VeSRqcRnSz3GBKcovy4Ah4sUSr", "action": "rename", "newTitle": "Victor, 37135 A, Rodríguez Peña (Vicente Greco), Charles, Tango.jpg"},
+  {"fileId": "1EnqeRpddFTcBIb4RuTj0_OQaZn_bqvhn", "action": "rename", "newTitle": "Victor, 79901 A, Japonesita (A. Bonavena), Rosita Quiroga, Fox trot.jpg"},
+  {"fileId": "1Gs4sfWrug8DLiezFZ3YsWw6ecL_uK2vL", "action": "rename", "newTitle": "Odeon, DTOA 7030 A, El último café (Héctor Stamponi - Cátulo Castillo), Néstor Fabián y su Quinteto Rítmico, Tango.jpg"},
+  {"fileId": "1hzruz77VxMaImnc7YSxQgkDUotnk2uI2", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "12Ix_lUOLidEnkjCB-lZ5VMxPx61UEoz8", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1b-NgwWEYBCXJvteAZ9O-XhBDG-cU3V7l", "action": "rename", "newTitle": "Ansonia, 5123 A, Caminito (Juan De Dios Filiberto - Gabino Coria Peñaloza), Raúl Iriarte y su Orquesta Típica Argentina, Tango.jpg"},
+  {"fileId": "1hx99suZAEAunTeUagrD91PAWTmnG4FX8", "action": "rename", "newTitle": "Odeon, 16246 B, Malhaya, Charlo con acomp. de orquesta F. Canaro, Estilo.jpg"},
+  {"fileId": "19ttROEJjWOlyTp-ulkQU9QbEgZCNMs9w", "action": "rename", "newTitle": "RCA Victor, 60-1517 B, El viento me cuenta cosas (M. Bucino), Juan D'Arienzo y su Orquesta Típica, Canta Armando Laborde y Alberto Echagüe, Milonga.jpg"},
+  {"fileId": "17U4D-Ie2KFiEc1UmMgqaSnxiNxLJIIqj", "action": "rename", "newTitle": "Victor, 37094 A, Arroz con leche (Claudio Frollo - Francisco J. Lomuto), Alberto Gómez, Ranchera.jpg"},
+  {"fileId": "1vSHwC3OiLmWnVAFJmZMWpKwzNHvI0SOq", "action": "rename", "newTitle": "Pampa, PM 11031 A, Tabernero (Fausto Frontera - Miguel Cafre - Raúl Costa Oliveri), Jorge Vidal con acomp. de Jaime Vila y sus guitarras, Tango.jpg"}
 ]
