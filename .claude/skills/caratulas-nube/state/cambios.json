@@ -1,1 +1,12 @@
-[]
+[
+  {"fileId": "1hiByiorQMfpRervdw5CI6JmyIXOgyo8Z", "action": "rename", "newTitle": "Nacional, 4079 A, Hasta la vuelta (H. Canaro), Orquesta Típica Canaro, Tango.jpg"},
+  {"fileId": "1wIhlfK5AetiK1gPkVKnX7GYAJydB7MRr", "action": "rename", "newTitle": "Victor, 37129 A, Mi provinciana (J. Romero G. - H. Matos Rodríguez), Charlo, Tango.jpg"},
+  {"fileId": "1mtTRsboN3zCszCDDCDH23-tDW0bgLjbX", "action": "rename", "newTitle": "Odeon, 7507 A, Viejo ciego (S. Piana - C. Castillo), Juan Maglio (Pacho), Tango.jpg"},
+  {"fileId": "1S8RsM3SO8R536mr7KoVrkt6hyJXMOEEx", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1gnzkBfPd8F6nZMl-kdK2cqPCrOEeVXQz", "action": "rename", "newTitle": "Victor, 79676 A, Allá en el bajo (A. Magaldi - P. Noda - J. Aquilar - M. Massa), Agustín Magaldi, Tango.jpg"},
+  {"fileId": "17Rb-JWq8Z3RL-m9cgtYIuIh76GGTLwOq", "action": "rename", "newTitle": "Victor, 47144 B, No seas así (J. N. Vega - E. Dizeo), Libertad Lamarque, Tango.jpg"},
+  {"fileId": "1SDdMJky1Xym-81rU6-zZ6F2PgYRTWkqT", "action": "rename", "newTitle": "Brunswick, 2210 A, Soy tu esclavo (F. Pracánico - F. Blanco - V. Candeloro), Mercedes Carné con orquesta Carlos Di Sarli, Paso Doble.jpg"},
+  {"fileId": "1BVywnrOUaCRe7QviY-M5lCClB8PzG_VH", "action": "rename", "newTitle": "Brunswick, 1201 A, Yo me quiero divertir (Julio De Caro), Julio De Caro, Tango.jpg"},
+  {"fileId": "1sSU1rLBTU2E-s_VTYDzoGgKohJf8hhoM", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1iqxqUyqtMmKeGWCTqSartobn_e9AOXPe", "action": "rename", "newTitle": "Nacional, 4239 B, Que yunta (M. Canaro), Orquesta Típica Canaro, Tango.jpg"}
+]
