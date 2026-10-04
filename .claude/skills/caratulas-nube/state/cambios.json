@@ -48,5 +48,15 @@
 {"fileId": "1qR6HgqTsE4OitBeBLm01s-IXKwZlf3eB", "action": "rename", "newTitle": "Odeon, 55634 A, Levanta tu corazón (Juan V. Clausi), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.jpg"},
 {"fileId": "1CQZl90m-NmZu2YxKvQluzoPsQrckkEAm", "action": "rename", "newTitle": "Odeon, 55580 B, La china de la mazorca (Héctor Pedro Blomberg - Enrique Maciel), Ignacio Corsini, Canción.jpg"},
 {"fileId": "1d1jI5NAtIamWzeKnmtHYh_LjMhuVTla7", "action": "rename", "newTitle": "Nacional, 969 A, La cañada (Caldarella - Brancatti), Caldarella - Massobrio, Ranchera.jpg"},
-{"fileId": "1JuCcMfKKLsRHSTIi7hGY0vfwVhn8PpGd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+{"fileId": "1JuCcMfKKLsRHSTIi7hGY0vfwVhn8PpGd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1MxdrV6CcbgktYuh8IvWY9ZfCHWExnmR4", "action": "rename", "newTitle": "Victor, 80828 A, Esta noche me emborracho (E. Discépolo), Orquesta Típica Victor, Tango.jpg"},
+{"fileId": "1CXqRzHYsL5IC4eHRyUCPCXXU4i_upqFa", "action": "rename", "newTitle": "Nacional, 4755 A, Sueño de juventud (Enrique Santos Discépolo), Francisco Canaro y su Orquesta Típica, Vals.jpg"},
+{"fileId": "1eKzWot0cvEgoNTP0n9cV06GrXHCSq9_l", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1VrR28iPPYcXVoM8FuEcWhT_CF9K1BivB", "action": "rename", "newTitle": "Nacional, 4711 A, Yo no sé qué me han hecho tus ojos (F. Canaro), Orquesta Típica F. Canaro, Vals.jpg"},
+{"fileId": "121zqj9cMgQ-8Ht38M0amNCKUjaL8qEqs", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1Qz0gunc5wupFvmjp048a-xe43Tah3emc", "action": "rename", "newTitle": "Polydor, 200-188 A, Serenata para guitarras (Funk), Helmut Zacharias y sus Violines Mágicos, Tango.jpg"},
+{"fileId": "1ZlvioNHnzjCPpMCO9RQ6RscLn2rGShtx", "action": "rename", "newTitle": "Victor, 69584 B, El aeroplano (P. Datta), Francisco Bianco Pancho Cueva con Orquesta Típica E. Arolas, Vals.jpg"},
+{"fileId": "13gTtnS1Zw9L9AfJ5pIo6xu6kVDOkftig", "action": "rename", "newTitle": "Nacional, 3016 A, El rápido (Roberto Firpo), Roberto Firpo Orquesta Típica, Tango.jpg"},
+{"fileId": "1M-NO-TWi79hDxIV1VxYiYuz1wycJsiW2", "action": "rename", "newTitle": "Nacional, 18070 B, La chacarera (Maglio - Caruso), Carlos Gardel, Tango.jpg"},
+{"fileId": "10dpvHmUfMBdu2VRy0fKVRjDi9HRBKwAX", "action": "rename", "newTitle": "Victor, 77296 B, Espinas (Humberto Brignolo), Orquesta Típica Pereyra, Tango.jpg"}
 ]
