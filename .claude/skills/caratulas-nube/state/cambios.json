@@ -68,5 +68,15 @@
   {"fileId": "1_rn2qw8YL1DFKllaXXo2-bX2I6r0Gr6s", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1bDkARh680Kr43LcwMejsq1oKiyIz4nR5", "action": "rename", "newTitle": "Odeón, 836 B, Boca Juniors (Elías - Galán), Rondalla Cuavilla Prim, Paso Doble.jpg"},
   {"fileId": "1u_HRLnWHrARkfqPrVKa2wOr7DDIirJjq", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "12ddh-ui_jcMnIPksiDeQIyE0cgvz3zaz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "12ddh-ui_jcMnIPksiDeQIyE0cgvz3zaz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1bjuIaOnPCwmJDCeGCc9KTH14ST6YBgFf", "action": "rename", "newTitle": "Brunswick, 1019 A, Polilla (J. Mattos Rodríguez - P. Suero), Orquesta Típica Donato-Zerrillo, Tango.jpg"},
+  {"fileId": "1LxG0zfw6KyH2T-_CTgHwE7VfXgL-fy3J", "action": "rename", "newTitle": "Odeón, 3091 B, Qué Pasó Vecina (de los Hoyos), Orquesta Típica R. Firpo, Canta Enrique Rando, Tango.jpg"},
+  {"fileId": "1iCYqnxH8XgHTOuDSaTusaLmQvC3BKewD", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1dhtIbCB4L7gD7VH81kmEJ3euVRtcavPa", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "12s4DoOj1WaUkV-WEM-GxI6EVRa2kN_SI", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1jL7j-D39UcRetxM6kCCo-tLo01PSdIk-", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Z72TJ361qaLJGZsj5ctmRfmzKj58-_xD", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1CwPZ-7nJ_wHccOT9x1Gq5QNpHTsqdoK4", "action": "rename", "newTitle": "Odeón, 4326 A, Retirao (C. Posadas), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1_fyDxj-lbks1DFqdJDU-3gnK1rq2zgfd", "action": "rename", "newTitle": "RCA Victor, 37314 A, Petruschka (Retta - Dumont - Francisco Pracánico), Agustín Magaldi, Canción.jpg"},
+  {"fileId": "1YSHG255IYugX3HMwwJHsWRi-QRKKJNMj", "action": "rename", "newTitle": "Victor, 47088 A, Soy un Arlequín (Enrique Discépolo), Alberto Gómez, Tango.jpg"}
 ]
