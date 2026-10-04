@@ -58,5 +58,15 @@
   {"fileId": "1MSxRLqOtXZqLak6euLzsMfSjo4Z4Y3cH", "action": "rename", "newTitle": "Odeofono, 110-3179 B, El aguacero (J. González Castillo - Cátulo Castillo), Trío Argentino Irusta-Fugazot-Demare, Tango.jpg"},
   {"fileId": "1be2K1MIEvheQ8G4nFuTV4Lij9TxLPO9p", "action": "rename", "newTitle": "Victor, 47047 A, Cuento criollo (S. Granata - O. Romanelli), Orquesta Típica Victor, Tango.jpg"},
   {"fileId": "1elcsviKlJSQJpWYY5oQNUtOydM9MvCDA", "action": "rename", "newTitle": "Nacional, 6969 B, Cascabelito (J. Bohr), Orquesta Típica Francisco Canaro, Tango.jpg"},
-  {"fileId": "1ZvY8oGY_PtXvD1l172tgfoQE1u4cYcvG", "action": "rename", "newTitle": "Victor, 39319 A, Mariposita (Anselmo Aieta), Osvaldo Fresedo y su Gran Orquesta Argentina, Tango.jpg"}
+  {"fileId": "1ZvY8oGY_PtXvD1l172tgfoQE1u4cYcvG", "action": "rename", "newTitle": "Victor, 39319 A, Mariposita (Anselmo Aieta), Osvaldo Fresedo y su Gran Orquesta Argentina, Tango.jpg"},
+  {"fileId": "1sHwfblZNflMpAmv4rpl2FgavQ71qZzNF", "action": "rename", "newTitle": "Pathé, P6 11021 A, En la vía (Nicolás Vencano - Eduardo Oriana Méndez), Eduardo Del Piano y su Orquesta Típica, Canta Mario Bustos, Tango.jpg"},
+  {"fileId": "1J3tBnh5s4qxKeJ4zR6MzEqpZ_XA537ln", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1L8jb8udJtZ-ngh45jGBE9rYBu04JKbr9", "action": "rename", "newTitle": "RCA Victor, 60-1657 B, Así se baila el tango (Marvil - E. Randall), Ricardo Tanturi y su Orquesta Típica, Canta Alberto Castillo, Tango.jpg"},
+  {"fileId": "1VnU2VYasHLip51IS7XWs8lmE0Num_-D5", "action": "rename", "newTitle": "Nacional, 4107 A, Zorro gris (Rafael Tuegols), Orquesta Típica Francisco Canaro (Pirincho), Tango.jpg"},
+  {"fileId": "13VXxWLD7_jjmcgNFUvaJRsDfW1llR2Ko", "action": "rename", "newTitle": "Victor, 37979 A, La ribera (Manuel Romero - Alberto Soifer), Alberto Vila con la orquesta de Elvino Vardaro, Tango.jpg"},
+  {"fileId": "1MUbYX0yqOVy7k-mduc6-ianhfK9v38Ae", "action": "rename", "newTitle": "Victor, 77022 B, Mujer (G. González - J. C. Cobián), Orquesta Típica Cobián, Tango.jpg"},
+  {"fileId": "1h6XSy-I0SAbokF1svanfSvg6Gi8mFnX4", "action": "rename", "newTitle": "Victor, 77395 A, Aromas (Osvaldo Fresedo), Osvaldo Fresedo y su Orquesta, Tango.jpg"},
+  {"fileId": "1JOrBLSvXXfqX4iEifdVtZqVfsHIk2Kut", "action": "rename", "newTitle": "Nacional, 4107 A, Zorro gris (Rafael Tuegols), Orquesta Típica Francisco Canaro (Pirincho), Tango 2.jpg"},
+  {"fileId": "1ttVqqxWHWI8G1imqC-Z9AQhrwH8qGcBI", "action": "rename", "newTitle": "Nacional, 4848 B, Por esa mujer de carnaval (Francisco Lauro), Orquesta Típica Francisco Canaro, Tango.jpg"},
+  {"fileId": "1Pq1WDn1KCjn6eEqd1lRwTw0wuNoTWIn_", "action": "rename", "newTitle": "Victor, 80885 B, El taita (S. Grupillo), Julio De Caro y su Orquesta Típica, Tango.jpg"}
 ]
