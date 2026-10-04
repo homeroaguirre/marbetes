@@ -8,5 +8,15 @@
   {"fileId": "1M6jv14NpOnpP4gjl06lCm9NMsENL1Mu0", "action": "rename", "newTitle": "Victor, 39519 B, C.T.V. (Agustín Bardi), Aníbal Troilo y su Orquesta Típica, Tango.jpg"},
   {"fileId": "1sxVXMftlyBaa7hh3IkeEqcLdlRBqzu88", "action": "rename", "newTitle": "Victor, 79823 A, Rouge (O. Donato), Elio Rietti y su Jazz Band, Fox Trot.jpg"},
   {"fileId": "1u5su-9halh9TnO_ojeiFsuqT-eSuiAK3", "action": "rename", "newTitle": "Brunswick, 2501 B, La Pueblera, Trío de Guitarras Brunswick, Ranchera.jpg"},
-  {"fileId": "1vEKr3jc1NMJcaObLLjWH_ohpNl6YyVfX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1vEKr3jc1NMJcaObLLjWH_ohpNl6YyVfX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Aw4lR8OGKIb3ThJf5YSfQNM2vSsy0IsO", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1u6siPP2yvwAWqFg_VWPhu7oogR0GymOW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1uX30WYP14hQWWYvEkp2_IdG7bgMxozxJ", "action": "rename", "newTitle": "Odeón, 4540 B, Tu Retrato (E. Cadícamo), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1VdvX2SwnvHoB0WEYV-Dfel1AzhBxYqkE", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1fkKnJ1yvrQWemsrz8cjuO6beyA7NW9IT", "action": "rename", "newTitle": "Victor, 79706 A, Derecho Viejo (E. Arolás), Julio De Caro y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1J9TIx8J6i8ZUFBUZ0NJf5Vh0Hk6dHX9C", "action": "rename", "newTitle": "Victor, 73921 B, Cenizas (José M. Rizzuti), Orquesta Típica Fresedo, Tango.jpg"},
+  {"fileId": "1v2sYr0OJfgYKqX_0SXgQM8GXmQWOU8sh", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "19guxN1fqWP4PpqNP77FaAbeibOZ2Eb2v", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1vn1i8CAdQiXAm-f8w1MBOw1H2AMxMEwa", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1LhqnJbuOoMtT-syyqkuBi16cEittQndZ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
