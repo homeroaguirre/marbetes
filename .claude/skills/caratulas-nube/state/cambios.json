@@ -18,5 +18,15 @@
   {"fileId": "1v2sYr0OJfgYKqX_0SXgQM8GXmQWOU8sh", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "19guxN1fqWP4PpqNP77FaAbeibOZ2Eb2v", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1vn1i8CAdQiXAm-f8w1MBOw1H2AMxMEwa", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1LhqnJbuOoMtT-syyqkuBi16cEittQndZ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1LhqnJbuOoMtT-syyqkuBi16cEittQndZ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "13L3skXh_TV3tMYNfen2BU_TplD4Wqd8R", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1-3poEAUuFT3hPe775kFENQxtrZhX6ah6", "action": "rename", "newTitle": "Odeón, 213 A, El Beso de Muerte, Ignacio Corsini, Tango.jpg"},
+  {"fileId": "19TjkWNqATgxV5IqanXxO0iDuCKxTEi_0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "16hXJSJIP9h_VWfK7x33g57ByBLU6HK-0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "10wp38DJ0e7yNY5G4XinvpgLxziyAmNOT", "action": "rename", "newTitle": "Victor, 39319 A, Mariposita (Anselmo Aieta), Osvaldo Fresedo y su Gran Orquesta Argentina, Tango.jpg"},
+  {"fileId": "1zdaCZCQ59M4So5UTMmluvDtGin0EEw45", "action": "rename", "newTitle": "Odeón, 6722 B, Cartas Olvidadas (Alfonso Gagliano), Mario A. Pardo, Vals.jpg"},
+  {"fileId": "1IIp-AeW0CFwak2Pge0mRVTJm8291-odR", "action": "rename", "newTitle": "Victor, 79717 A, La Plegaria (E. De Caro), Julio De Caro y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1F5nQx1-qOtPGCFtrz4C9GEmLf0tlAl_m", "action": "rename", "newTitle": "Odeón, 8608 A, Anoche a las Dos (R. de los Hoyos), Orquesta Típica R. Firpo, Tango.jpg"},
+  {"fileId": "1InvoHeGMmUkjcLI2B0p8gGQ4hrldq53D", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1QfdejchdHC0N0SHPNOO5t8y6bzRKrc7B", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
