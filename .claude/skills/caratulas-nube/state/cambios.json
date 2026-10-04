@@ -1,12 +1,12 @@
 [
-  {"fileId": "1pKl5zH7DNxf4_hUSojDFsTEsJSugnw_O", "action": "rename", "newTitle": "Victor, 79778 B, Recuerdo (A. Pugliese), Julio De Caro y su Orquesta Típica, Tango.jpg"},
-  {"fileId": "1ZfhECH60MEQ1H6BriYqrs4mKbc_PKaTf", "action": "rename", "newTitle": "Victor, 79520 A, El 11 (O. N. Fresedo), Orquesta Típica Fresedo, Tango.jpg"},
-  {"fileId": "1qRAyC1mVTKrgQYqFIlzuIYcEgt0pJXqv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1xmezp8vyDcj9Vb_8UiqEQrxatHx7k8Vp", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1KKJQsWY2npOCCOxhl9kb6-d-qd40z9zq", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1CLGQHwLuEZoxJkWtpeGuXCjojLeh0v7N", "action": "rename", "newTitle": "Victor, 72690 B, La cumparsita (G. Matos Rodríguez), Maffia - Laurenz, Tango.jpg"},
-  {"fileId": "1KySMMWU3v6k61-6AZouYRdhTaIdofLJH", "action": "rename", "newTitle": "Victor, 35647 B, Tormenta (Enrique S. Discépolo), Tania, Tango.jpg"},
-  {"fileId": "1GUjCehKYh0Rm9LZAIMN0bD_78OkfG3_a", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1uf2JdpFgFcBX5bzSpaFaArBMqLqE7Nnd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1wIFDN6STRlVcmfAWv6RPSNBiL7aAq-r3", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1vwMDT_yx2uMVz1k1kreGP47auqe4cWCw", "action": "rename", "newTitle": "Odeón, 4082 B, Delice (Pedro Maffia), Francisco Canaro y su Jazz Band, Foxtrot.jpg"},
+  {"fileId": "13czztqHvheIKHqCsW13LBkULMj--_C4G", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1UjrjyRPeD6OMyl9dUqCMeHFSizhs8hTh", "action": "rename", "newTitle": "Brunswick, 2204 A, Perdonalo señor (J. Pérez Ruiz), Mercedes Carné con orquesta Carlos Di Sarli, Tango.jpg"},
+  {"fileId": "1eQULdVhji_Nmk-F_bZPlWJHJ0_P8n3az", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1g2ndgtdMjKF7EdlIZ62sw6SEHvbVj9zU", "action": "rename", "newTitle": "Odeón, 8677 A, Retoños (O. Pugliese), Orquesta Típica R. Firpo, Tango.jpg"},
+  {"fileId": "1eBSSdtwPWtzEaZoVdzB0AcftSziFt60A", "action": "rename", "newTitle": "Victor, 60-2018 B, La juguetona (Hnos. Abalos), Hermanos Abalos, Chacarera.jpg"},
+  {"fileId": "1i5o_8z1jyunMOX1W7O8g75Owmyl_KTaX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "10_vo6yYOUJc8h2nARyW9k3TR2koNiiHl", "action": "rename", "newTitle": "Victor, 60-1640 A, Buenos Aires (M. Romero - M. Joves), Trío Ciriaco Ortiz, Tango.jpg"},
+  {"fileId": "1asMRuACTDjqAaEhpiaStZYGbUeIzbVcK", "action": "rename", "newTitle": "Odeón, 4580 B, Piuma al vento (Ed. Ponzio), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1KFmjCjCFhLyqAkA_y20pb64ibICtcmjs", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
