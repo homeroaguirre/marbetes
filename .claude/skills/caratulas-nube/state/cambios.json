@@ -78,5 +78,15 @@
 {"fileId": "1F5akOAgA1My2Z_MB_yheZ7da6tMOyuWw", "action": "rename", "newTitle": "Pampa, 14060 A, Quién hubiera dicho (Rodolfo Sciammarella - Luis César Amadori), Orquesta Osmar Maderna, Canta Adolfo Rivas, Tango.jpg"},
 {"fileId": "1d5zahF7xhnTawzk5qOj0H9LgGWHUACVK", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
 {"fileId": "1_Z1eh_lpaXsIZdtvqoaiydBRhIyIiCIa", "action": "rename", "newTitle": "Record, 71085 B, Velay coche (Pedro y Raúl Contreras), Horacio Guarany, Bailecito.jpg"},
-{"fileId": "1Q080F10UcUoiDV5X12PzH9rlSiNKdX7-", "action": "rename", "newTitle": "Victor, 20443 A, Narcissus (Ethelbert Nevin), Florentine Quartet, Instrumental.jpg"}
+{"fileId": "1Q080F10UcUoiDV5X12PzH9rlSiNKdX7-", "action": "rename", "newTitle": "Victor, 20443 A, Narcissus (Ethelbert Nevin), Florentine Quartet, Instrumental.jpg"},
+{"fileId": "1jnjxsBHMnxxrtOOX60BpTKiqOw4LQy7s", "action": "rename", "newTitle": "Victor, 73513 B, No seas malita (Dorly), Linda Thelma, Tango.jpg"},
+{"fileId": "1y3E57-nEtvX2NvF7EZvtIC_w8DgKNS2l", "action": "rename", "newTitle": "Fonotipia, O-3509 B, El poncho del olvido (A. R. Avilés), Orquesta Típica Francisco Canaro, Tango.jpg"},
+{"fileId": "1zHEQJOhFsLxtbNOVVjT5UNsTuHJFVZtx", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1Q5vG3b1SMNBjvmETh1Um-dVakvYzEOVN", "action": "rename", "newTitle": "Nacional, 8656 B, Banderita (A. Frizziani), Jazz-Band R. Firpo, Paso doble.jpg"},
+{"fileId": "1Ti9KkYe6UpXcWOaZ_eMNDrxTMS2x366k", "action": "rename", "newTitle": "Nacional, 8656 A, El barquero del Volga (Arr. W. Webb), Jazz-Band R. Firpo, Fox-Trot.jpg"},
+{"fileId": "16lq7KKx04J_VWy9T2Q8slX5qjzXYZovO", "action": "rename", "newTitle": "Orfeo, 40001 A, Hacelo por la vieja (R. Sciammarella - C. Viván - H. Bonatti), Azucena Maizani, Tango.jpg"},
+{"fileId": "18_KDrzVJTJtcBrlAwXTLsE-FT0Yyu6n9", "action": "rename", "newTitle": "Victor, 38734 A, Bolita cachuza (Santiago H. Lonne - José Canet), Alberto Gómez, Tango.jpg"},
+{"fileId": "10z77YLcytiEsj2x1IMdjiLB4xLWR0PIX", "action": "rename", "newTitle": "Brunswick, 1256 A, Páginas muertas (F. De Caro), Orquesta Típica Julio De Caro, Tango.jpg"},
+{"fileId": "1J35F42gxoeqzYlpu4Rro9wqfAGlL4W2Q", "action": "rename", "newTitle": "Victor, 47227 A, Las madreselvas (José Aguilar), Gómez - Vila, Zamba.jpg"},
+{"fileId": "1q0ZTCbpGqbaSxQ1UQNovLJyNnXgnTz3h", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
