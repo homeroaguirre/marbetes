@@ -38,5 +38,15 @@
 {"fileId": "1p89bfdWdORk6YwtOZ-ukCp6bsL0jhxfS", "action": "rename", "newTitle": "Odeon, 18692 A, Mama vieja (Juan Larenza - Lito Bavardo), Ignacio Corsini, Zamba.jpg"},
 {"fileId": "1SVnt0TVxceV9xnij564QKYe80P6jcBOG", "action": "rename", "newTitle": "Victor, 79904 A, Mi barrio sud (C. Portela - L. Rubistein), Alfredo Pelaia, Tango.jpg"},
 {"fileId": "1d2ds1wGjCG9auCn314-IeQfWOz5fVQxl", "action": "rename", "newTitle": "Nacional, 14000 A, Piedad (C. Fercuocco), Enrique Delfino (Delfy) - Antonio Rodio, Tango.jpg"},
-{"fileId": "1aDbFjXGdHTXlcQsp5ycFCfFj0ByEpV3i", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+{"fileId": "1aDbFjXGdHTXlcQsp5ycFCfFj0ByEpV3i", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "120Yvyh1G0M4wSI18Uc7r-TBkCBT6sOfn", "action": "rename", "newTitle": "Victor, 38362 A, Condena (Enrique S. Discépolo - F. Pracánico), Tania, Tango.jpg"},
+{"fileId": "1Q9uU4EbLa83h0q8KMOYeLPP5SXkpqaD9", "action": "rename", "newTitle": "Brunswick, 1442 A, Dame un besito (M. Francia - M. Meaños), Osvaldo Fresedo y su Típica, Canta T. Ibáñez, Tango.jpg"},
+{"fileId": "1GETrRbfEZr77_FSRAlKDyTaawd9QdZzY", "action": "rename", "newTitle": "Nacional, 6473 A, Eche más caña patrón (J. Rodríguez), Orquesta Típica Roberto Firpo, Tango.jpg"},
+{"fileId": "1ig5eKC6-N6Aglpz6BHH17yAWlMf-Ca5Q", "action": "rename", "newTitle": "Brunswick, 3 A, Tierra adentro (Julio De Caro), Orquesta Típica Julio De Caro, Tango.jpg"},
+{"fileId": "1AD0duTpiwnqftxp7L6KfEPg0wV6W7BFp", "action": "rename", "newTitle": "Victor, 37707 A, Propina (Antonio Botta - Francisco J. Lomuto), Francisco J. Lomuto y su Orquesta Típica, Canta Fernando Díaz, Tango.jpg"},
+{"fileId": "1KlO6oonx8DwpF1Qt5upml4JuuqUxRAv7", "action": "rename", "newTitle": "Odeon, 74317 A, Julián (Edgardo Donato - José Fanizza), El 6 de Música en el Aire, Fox-Trot.jpg"},
+{"fileId": "1qR6HgqTsE4OitBeBLm01s-IXKwZlf3eB", "action": "rename", "newTitle": "Odeon, 55634 A, Levanta tu corazón (Juan V. Clausi), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.jpg"},
+{"fileId": "1CQZl90m-NmZu2YxKvQluzoPsQrckkEAm", "action": "rename", "newTitle": "Odeon, 55580 B, La china de la mazorca (Héctor Pedro Blomberg - Enrique Maciel), Ignacio Corsini, Canción.jpg"},
+{"fileId": "1d1jI5NAtIamWzeKnmtHYh_LjMhuVTla7", "action": "rename", "newTitle": "Nacional, 969 A, La cañada (Caldarella - Brancatti), Caldarella - Massobrio, Ranchera.jpg"},
+{"fileId": "1JuCcMfKKLsRHSTIi7hGY0vfwVhn8PpGd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
