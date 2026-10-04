@@ -1,12 +1,12 @@
 [
-  {"fileId": "17Ie7jThZHMiV_7X06TBoSloG_MWUHP6v", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "10zM6GlFLlJrqe1UbjFrakLb-W2xdvIs9", "action": "rename", "newTitle": "Odeón, 55093 B, Silencio (Horacio Pettorossi - Alfredo Le Pera - Carlos Gardel), Oscar Alonso con Orquesta Héctor M. Artola y Coro de Fanny Day, Tango.jpg"},
-  {"fileId": "1gCOSqsOjALlqVkUR8Z4Pw0WafoEhTZxM", "action": "rename", "newTitle": "Odeón, 4580 A, Misa de once (J. A. Guichandut), Orquesta Típica F. Canaro, Tango.jpg"},
-  {"fileId": "10Syc4t-NpE_ChHqMIe-2KjPneeKB3h8x", "action": "rename", "newTitle": "Odeón, 6047 A, Loca (M. Joves), Orquesta Típica Roberto Firpo, Tango.jpg"},
-  {"fileId": "1CnP6uyoAgpYrP_arDKJbca7JVBpc5Yxv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1wTJnYGoDutNFA0CLwOzX9XSWQcnEDJGo", "action": "rename", "newTitle": "Victor, 39512 B, Demasiado tarde (A. H. Delamónica - F. Tróppoli), Azucena Maizani, Tango.jpg"},
-  {"fileId": "1gy3RfF6BnTfgF2bkUuD61FQqMFu4rDHC", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "18fTPT2WUsRjYYtJukKJfs99_pg9NEVyP", "action": "rename", "newTitle": "Columbia, 15025 A, Como queres que te quiera (Héctor Marcó), José Sala y su Orquesta Típica, Canta Alfredo Beluschi, Tango.jpg"},
-  {"fileId": "1tuD5JUszt60lgEFuv_LX8ZKh_7uetX7q", "action": "rename", "newTitle": "Odeón, 6918 A, Tut-Ankh-Amon (J. Böhr), Francisco Canaro y su Jazz Band, Paso del camello.jpg"},
-  {"fileId": "1zQZtIDUxtwUqbV4Kcz6WEISbBsc7wu_G", "action": "rename", "newTitle": "Brunswick, 1447 B, Amo a usted tanto (H. Buby - E. Dofres), Osvaldo Fresedo y su Orquesta Típica, Canta T. Ibañez, Fox Trot.jpg"}
+  {"fileId": "166jkmx3rvtp0rRuHiwyGu7FKXLcla78h", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1XrWBHiDiAgfBA1Bgg3y4xxcdUwDrcs_I", "action": "rename", "newTitle": "Odeón, 18983 A, Aquel tapado de armiño (Manuel Romero - Enrique Delfino), Carlos Gardel, Tango.jpg"},
+  {"fileId": "1kYEjdEEOEfuJa4c5_fZ0Uj6dmqTwBZ-b", "action": "rename", "newTitle": "Odeón, 19003 B, Bati, qué hacés (M. Arco - J. F. Pollero), Olinda Bozán con Orquesta Francisco Canaro, Tango.jpg"},
+  {"fileId": "1jSxbK7xvRlpwug9VTGZqv3A4q9VKcI92", "action": "rename", "newTitle": "Odeón, 6327 B, Galleguita (H. G. Pettorossi), Orquesta Típica Roberto Firpo, Tango.jpg"},
+  {"fileId": "1A4jCfAXQJwwY2q-gCrd7BlCgukr5kEBa", "action": "rename", "newTitle": "Victor, 47385 B, Falta envido (Tito Rueda - Juan Carlos Rodríguez), Rosita Quiroga, Tango.jpg"},
+  {"fileId": "1ZHdqN_miTGmPJagOGe12Z7kyeO76W1yc", "action": "rename", "newTitle": "Odeón, 30514 A, La reina de Saba (Rosendo A. Mendizabal), Roberto Firpo y su Nuevo Cuarteto, Tango.jpg"},
+  {"fileId": "1sdva0smnRfNtsAovqRX1h1sjF3YNY1XZ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Lcyd1ZdvMzIuqmLSeHB38aS6wN-0Bq5K", "action": "rename", "newTitle": "Victor, 60-1728 A, Canto al trabajo (Oscar Ivanissevich - Cátulo Castillo), Hugo del Carril con Coro y Orquesta del Teatro Colón, Marcha.jpg"},
+  {"fileId": "1CJpmAfymxMvSv0xy2eZbFissLmG8qxaj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1_NDzv4KZsjJEgF8NnI5Wq1MuCKcMvpY0", "action": "rename", "newTitle": "Odeón, 4576 B, Hay que entrar (C. Marcucci), Orquesta Típica F. Canaro, Tango.jpg"}
 ]
