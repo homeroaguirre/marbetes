@@ -28,5 +28,15 @@
   {"fileId": "1h1E68q2OMYyjFWANWRyLHWHFkYqzocgq", "action": "rename", "newTitle": "Victor, 39771 B, El chupete, Aníbal Troilo y su Orquesta Típica, Tango.jpg"},
   {"fileId": "1Ou7GpZ-w-sluJinyiPyMxJj4SN3Sclac", "action": "rename", "newTitle": "Brunswick, 1264 A, A pan y agua (Juan Carlos Cobián), Orquesta Típica Julio De Caro, Tango.jpg"},
   {"fileId": "1skhgw3LSQufVGTx5swZnTxHjXIQDvDUV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "19stu_rqUt42vpyPAgvxlUOmLdc3zhLJx", "action": "rename", "newTitle": "Victor, 79859 A, Sueño azul (F. De Caro), Ferrazzano - Flores, Tango.jpg"}
+  {"fileId": "19stu_rqUt42vpyPAgvxlUOmLdc3zhLJx", "action": "rename", "newTitle": "Victor, 79859 A, Sueño azul (F. De Caro), Ferrazzano - Flores, Tango.jpg"},
+  {"fileId": "1f2WTqB-IbNU6EwalpXqOumqDBdZj-YXr", "action": "rename", "newTitle": "Victor, 79553 A, Buen amigo (José De Caro), Orquesta Típica De Caro, Tango.jpg"},
+  {"fileId": "1JRInFprtn3-cSFAKhv9tMmIcf3Z5OEca", "action": "rename", "newTitle": "Nacional, 7569 B, Milonguero viejo (C. Di Sarli), Orquesta Pacho (Juan Maglio), Tango.jpg"},
+  {"fileId": "1_3lV74eEnBeQAYhAluNJiwycWEOdTD1v", "action": "rename", "newTitle": "Nacional, 9828 B, La curandera (R. Rossi), Rafael Rossi y su Cuarteto Norteño, Ranchera.jpg"},
+  {"fileId": "1XT11x5t4UfShzzz8HsEWuqMjusJaZ8mS", "action": "rename", "newTitle": "Odeon, 18801 A, Claveles mendocinos (A. Pelaia), Gardel-Razzano, Zamba.jpg"},
+  {"fileId": "1vRDd9aZO_yB_K_QqFvRlMK_Edx5Kz5fW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1NWHD1ld9UB12_P90wiB8P9GNTeKJFeKH", "action": "rename", "newTitle": "Victor, 32456 B, Amor tropical (Alfredo Le Pera - Carlos Gardel), Carlos Gardel, Rumba.jpg"},
+  {"fileId": "11f8kdFChMV7ECeI9qI3LaNAJcgqghPvf", "action": "rename", "newTitle": "Victor, 80987 A, En voz baja (A. Mondino - C. O. Lenzi), Alberto Vila, Tango.jpg"},
+  {"fileId": "1YCwRfbOgK0_-8_M4CBxEmmvc8S0cMhuA", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "16M2neg0-5ki9jyL6-NplbaqoH9dwum18", "action": "rename", "newTitle": "Odeon, 7640 A, Esta noche al pasar (Héctor Graner - Ricardo Thompson), Pedro Laurenz y su Orquesta Típica, Canta Jorge Linares, Tango.jpg"},
+  {"fileId": "1dzN8Tsw4G_KzRgJpBv1P_sQ9exz6_3xa", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
