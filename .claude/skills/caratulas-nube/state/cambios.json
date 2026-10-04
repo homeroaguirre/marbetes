@@ -68,5 +68,15 @@
 {"fileId": "1UqA4ojlgRstzSR6SM826UqPo1pfNevuH", "action": "rename", "newTitle": "Nacional, 3019 B, Pensando en ti (Vicente Planells del Campo - Roberto Firpo), Roberto Firpo Orquesta Típica, Tango.jpg"},
 {"fileId": "1SGfETW32fKli9Tj1Bt2Q-IREaMpyxlWi", "action": "rename", "newTitle": "Victor, 1A-4030, La calle del pecado (Roberto Lambertucci - R. Rufino), Juan D'Arienzo - Antonio Prieto, Tango.jpg"},
 {"fileId": "14cU_MB4O2wiSjlqnQI0ctNBB17e5NaCw", "action": "rename", "newTitle": "Odeon, 194200 A, La cucaracha (Rumba), Harry Roy y su Orquesta, Rumba.jpg"},
-{"fileId": "1aafMt8vNs783noJOa6tWs9qFFdWuTM5Q", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+{"fileId": "1aafMt8vNs783noJOa6tWs9qFFdWuTM5Q", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "19_TUTepeVbrBLX8XoFKSgF3Cgm2tyB1Q", "action": "rename", "newTitle": "Odeon, 1160 A, Rodríguez Peña (Vicente Greco), Julio Perceval, Tango.jpg"},
+{"fileId": "1tPPNZ-gEGbSk1O9w4ZevIMNG2UFpiqh3", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1nz1eoFUtEn-1QTj9jMqt1DblkT0UsJ2a", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1CdHWCbF5JwnnlAmJe8DuJhmVqtYuLQfK", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1bbc3KKv2BnTm80h0PE8RhEa2zffEb33d", "action": "rename", "newTitle": "Columbia, 291587 A, La cumparsita (G. H. Matos Rodríguez), Victor Silvester y su Orquesta, Tango.jpg"},
+{"fileId": "1zkG1YUcZWBofsdH0t595Th8j41wUjHlq", "action": "rename", "newTitle": "Victor, 47360 B, La guitarra (J. C. Rodríguez - Tito Rueda), Alberto Vila, Tango.jpg"},
+{"fileId": "1F5akOAgA1My2Z_MB_yheZ7da6tMOyuWw", "action": "rename", "newTitle": "Pampa, 14060 A, Quién hubiera dicho (Rodolfo Sciammarella - Luis César Amadori), Orquesta Osmar Maderna, Canta Adolfo Rivas, Tango.jpg"},
+{"fileId": "1d5zahF7xhnTawzk5qOj0H9LgGWHUACVK", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1_Z1eh_lpaXsIZdtvqoaiydBRhIyIiCIa", "action": "rename", "newTitle": "Record, 71085 B, Velay coche (Pedro y Raúl Contreras), Horacio Guarany, Bailecito.jpg"},
+{"fileId": "1Q080F10UcUoiDV5X12PzH9rlSiNKdX7-", "action": "rename", "newTitle": "Victor, 20443 A, Narcissus (Ethelbert Nevin), Florentine Quartet, Instrumental.jpg"}
 ]
