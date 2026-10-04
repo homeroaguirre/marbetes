@@ -78,5 +78,15 @@
   {"fileId": "13FZF1ffh0peKJ1o88FJuJXKOP_AGzNfK", "action": "rename", "newTitle": "Victor, 39403 A, Total pa' qué sirvo (E. Dizeo - A. Troilo), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Tango.jpg"},
   {"fileId": "1mUP4ozc7fwpS76lhScSDJupJh1sQmyEZ", "action": "rename", "newTitle": "Nacional, 4237 B, Corazón de madre (F. Montoni), Orquesta Típica F. Canaro, Vals.jpg"},
   {"fileId": "1elNXez24p9J57_2EPG5LaUYOihvRabTW", "action": "rename", "newTitle": "Victor, 73516 B, Melenita de oro (V. G. Flores), Orquesta Típica Flores, Tango.jpg"},
-  {"fileId": "1QTELMZ4y7GuBfQYfHTbqwtQ_ZL0mG760", "action": "rename", "newTitle": "Nacional, 18482 B, Presumida (Rietti - Sanders), Ignacio Corsini con 3 guitarras, Tango.jpg"}
+  {"fileId": "1QTELMZ4y7GuBfQYfHTbqwtQ_ZL0mG760", "action": "rename", "newTitle": "Nacional, 18482 B, Presumida (Rietti - Sanders), Ignacio Corsini con 3 guitarras, Tango.jpg"},
+  {"fileId": "1MkBUbfccqptHEkPNyjBFV-rCLm8p_piX", "action": "rename", "newTitle": "Brunswick, 2133 A, Cafetín del barrio pobre (Ferraro - Sosa), Azucena Maizani, Tango.jpg"},
+  {"fileId": "1l4fPB6GPMKwhhmNdHzqoR7O9RVciykEf", "action": "rename", "newTitle": "Nacional, 18633 A, Vesubio, Ignacio Corsini con acomp. de 3 guitarras, Tango.jpg"},
+  {"fileId": "1i5UzvT17OO1J9L1JSpxrwHZMfcWllcPy", "action": "rename", "newTitle": "Brunswick, 2103 A, Pega pega (R. y A. Sánchez - E. Cadícamo), Azucena Maizani, Tango.jpg"},
+  {"fileId": "1F3ns9qZ7CY1vl4qMq7Xmo8TjDPu5T8FX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ZZPsnXPGXr32fsS7UDYwtrxbkAVSDb79", "action": "rename", "newTitle": "Nacional, 8725 B, Inglesita (J. C. Sanders), Orquesta Típica R. Firpo, Tango.jpg"},
+  {"fileId": "1D0uaDR10qZqH2cdlA9b4OKmF9K9rvpik", "action": "rename", "newTitle": "Victor, 47076 A, La cumparsita (G. Matos Rodríguez), Cayetano Puglisi y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1H4nvqE_jZbptb0RiN8cFzRqVwb8m3KKL", "action": "rename", "newTitle": "Nacional, 4497 A, Cachadora (F. Lomuto), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1o2FHKwqMvuihg13-yhb53qulN61_P2-b", "action": "rename", "newTitle": "RCA Victor, 63-0027 B, Desdén (M. Battistella - C. Gardel), Edmundo Rivero con Orquesta dirigida por Víctor M. Buchino, Tango.jpg"},
+  {"fileId": "1e3leuOPFk3StHgQJ7E7I4uVhPnoLPE0t", "action": "rename", "newTitle": "RCA Victor, 68-0500 A, Mala entraña (E. C. Flores - E. Maciel), Edmundo Rivero con acomp. de guitarras, Tango.jpg"},
+  {"fileId": "1lACRul8c7g-Svt23heL8-0xjYv7AKKlr", "action": "rename", "newTitle": "Victor, 47595 A, Las chicas del sandwich (A. J. Rodríguez Bustamante - Adrián Russo), Mercedes Simone, Fox trot.jpg"}
 ]
