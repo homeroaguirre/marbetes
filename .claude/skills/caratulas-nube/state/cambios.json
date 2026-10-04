@@ -48,5 +48,15 @@
   {"fileId": "1R0a0Mh1PGHvQERge9pINB2FXw9GG6uB_", "action": "rename", "newTitle": "Odeón, 52146 B, Allá en el Monte, Ignacio Corsini, Vals.jpg"},
   {"fileId": "1UOucYM4sIan09qmF-Sv9IYRqbOnnwBxB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1N7b_xKFSi3d1--Xe5TyVhkWeKSCMQ9PE", "action": "rename", "newTitle": "Odeón, 4034 A, Pero Hay una Melena (José Bohr), Francisco Canaro y su Orquesta Jazz-Band, Fox-Trot.jpg"},
-  {"fileId": "1SNGK3Tknmya1Exf-DHHt5Er1yJNraAZI", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1SNGK3Tknmya1Exf-DHHt5Er1yJNraAZI", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1kKNG9yoGVZ6otIeAwv3Jy4k52UClUWfM", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1umMebidIGZiq3elho-gwkmenLATOEWDY", "action": "rename", "newTitle": "Victor, 39316 A, Pocas Palabras (E. Cadícamo - R. Tanturi), Ricardo Tanturi y su Orquesta Típica Los Indios, Canta Alberto Castillo, Tango.jpg"},
+  {"fileId": "1HtKLgZbGyIQ68zcrl4DmNJpDf9OTie1u", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1s_ieWCr_G2kfa5Ap96C0ZTSYDIomwLyh", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1kV94czdwXDmvDLEWadekKwuO_qH7G63b", "action": "rename", "newTitle": "Odeón, 11303 A, Mi Amor Lloró (André Filho), Mercedes Simone, Samba.jpg"},
+  {"fileId": "16-aAi_h_pMsDMR-iSlvwD-Q23R_7_-tH", "action": "rename", "newTitle": "Odeón, 4702 A, El Rayador (Domenech), Orquesta Típica F. Canaro, Vals.jpg"},
+  {"fileId": "1eOXNBpbXCDjSdn5pnEiHWHZDpNglZ36Y", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1IsJmYGlSHBrRetF5LJDSWH-Mn3InO2fc", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1nGBzfvcexyuqeB6ugcem9KPStLXMhqt2", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Z7q4AeQ62Ep_yUuROPw8eJWQ1G-v33gk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
