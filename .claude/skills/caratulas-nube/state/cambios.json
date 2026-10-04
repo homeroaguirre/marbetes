@@ -68,5 +68,15 @@
   {"fileId": "1h6XSy-I0SAbokF1svanfSvg6Gi8mFnX4", "action": "rename", "newTitle": "Victor, 77395 A, Aromas (Osvaldo Fresedo), Osvaldo Fresedo y su Orquesta, Tango.jpg"},
   {"fileId": "1JOrBLSvXXfqX4iEifdVtZqVfsHIk2Kut", "action": "rename", "newTitle": "Nacional, 4107 A, Zorro gris (Rafael Tuegols), Orquesta Típica Francisco Canaro (Pirincho), Tango 2.jpg"},
   {"fileId": "1ttVqqxWHWI8G1imqC-Z9AQhrwH8qGcBI", "action": "rename", "newTitle": "Nacional, 4848 B, Por esa mujer de carnaval (Francisco Lauro), Orquesta Típica Francisco Canaro, Tango.jpg"},
-  {"fileId": "1Pq1WDn1KCjn6eEqd1lRwTw0wuNoTWIn_", "action": "rename", "newTitle": "Victor, 80885 B, El taita (S. Grupillo), Julio De Caro y su Orquesta Típica, Tango.jpg"}
+  {"fileId": "1Pq1WDn1KCjn6eEqd1lRwTw0wuNoTWIn_", "action": "rename", "newTitle": "Victor, 80885 B, El taita (S. Grupillo), Julio De Caro y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1XVq1pSHrdyepYCNToP1lqGMZqkiiC-sV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1QmeT0S8zldz3fHfkbJLIrgH3oBEV8DlI", "action": "rename", "newTitle": "RCA Victor, 26204 A, Bajo un castaño (Kennedy - Connor - Kennedy), Hal Kemp y su Orquesta, Fox trot.jpg"},
+  {"fileId": "18HyLcF09pGA0v5GvlCsDTC-Hizha8UgW", "action": "rename", "newTitle": "Nacional, 4246 A, Páginas de amor (L. Riccardi), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1sEBEU-3YdufrTs8S3GuWlZsHSPQIjeb_", "action": "rename", "newTitle": "Nacional, 4256 A, Broche de oro (M. Brugni), Orquesta Típica Francisco Canaro, Tango.jpg"},
+  {"fileId": "1PPtOIlhtg72ZpISRr0VoAX69KTXN8sX9", "action": "rename", "newTitle": "Nacional, 4706 A, Sueño de arrabal (C. De Pardo), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "13BT0lSkWmbmjudbNrpm0IlX_rZzAUiGD", "action": "rename", "newTitle": "Victor, 47126 A, Gato cordobés (A. Chazarreta), Andrés Chazarreta, Baile criollo.jpg"},
+  {"fileId": "13FZF1ffh0peKJ1o88FJuJXKOP_AGzNfK", "action": "rename", "newTitle": "Victor, 39403 A, Total pa' qué sirvo (E. Dizeo - A. Troilo), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Tango.jpg"},
+  {"fileId": "1mUP4ozc7fwpS76lhScSDJupJh1sQmyEZ", "action": "rename", "newTitle": "Nacional, 4237 B, Corazón de madre (F. Montoni), Orquesta Típica F. Canaro, Vals.jpg"},
+  {"fileId": "1elNXez24p9J57_2EPG5LaUYOihvRabTW", "action": "rename", "newTitle": "Victor, 73516 B, Melenita de oro (V. G. Flores), Orquesta Típica Flores, Tango.jpg"},
+  {"fileId": "1QTELMZ4y7GuBfQYfHTbqwtQ_ZL0mG760", "action": "rename", "newTitle": "Nacional, 18482 B, Presumida (Rietti - Sanders), Ignacio Corsini con 3 guitarras, Tango.jpg"}
 ]
