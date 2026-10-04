@@ -98,5 +98,11 @@
   {"fileId": "1rx_f1BboSBUneN7NCLCb6zWiNheP2j92", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1RiS5f4DI8sHtNNOduI3wvHm_s6XrRG9n", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1juZhfejUnTlFBWgaVlBtyrGS0gjcQjoH", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1WDAWswtrNdQTVp3Txp1f4BxvyUaluirX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1WDAWswtrNdQTVp3Txp1f4BxvyUaluirX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Yj-O7x0fUuch_RLDgGN9bqdFDvmzStcO", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "16vE9o8qRUbOwAdsX69iSCN7jkxUF-7lG", "action": "rename", "newTitle": "Victor, 77056 A, Aires Criollos No. 2, José Aguilar, Solo de Guitarra.jpg"},
+  {"fileId": "1isASY9XUnTD7BH7-eoy37q4CYNGgg5aq", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "19uJYMPBs2v_0p_Uga62ui-OyNO63F-hR", "action": "rename", "newTitle": "Victor, 37512 B, La Canción del Deporte (Antonio Botta - Francisco J. Lomuto), Alberto Gómez, Canción.jpg"},
+  {"fileId": "12r-pFFrkrYdN_mtJpCa5MFNy2XBXfpYx", "action": "rename", "newTitle": "RCA Victor, 37018 A, La Buenaventura (Pablo Silva - Ramón Montes), Ramón Montes, Paso Doble.jpg"},
+  {"fileId": "1UkpWM5H9rSoJXADEeV3Ab2VXkcXddYSq", "action": "rename", "newTitle": "Odeón, 5225 B, El Saleroso (Gerardo González), Francisco Canaro y su Orquesta Típica, Canta Carlos Roldán, Paso Doble.jpg"}
 ]
