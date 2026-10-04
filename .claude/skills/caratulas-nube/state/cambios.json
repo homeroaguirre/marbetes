@@ -88,5 +88,11 @@
   {"fileId": "1H4nvqE_jZbptb0RiN8cFzRqVwb8m3KKL", "action": "rename", "newTitle": "Nacional, 4497 A, Cachadora (F. Lomuto), Orquesta Típica F. Canaro, Tango.jpg"},
   {"fileId": "1o2FHKwqMvuihg13-yhb53qulN61_P2-b", "action": "rename", "newTitle": "RCA Victor, 63-0027 B, Desdén (M. Battistella - C. Gardel), Edmundo Rivero con Orquesta dirigida por Víctor M. Buchino, Tango.jpg"},
   {"fileId": "1e3leuOPFk3StHgQJ7E7I4uVhPnoLPE0t", "action": "rename", "newTitle": "RCA Victor, 68-0500 A, Mala entraña (E. C. Flores - E. Maciel), Edmundo Rivero con acomp. de guitarras, Tango.jpg"},
-  {"fileId": "1lACRul8c7g-Svt23heL8-0xjYv7AKKlr", "action": "rename", "newTitle": "Victor, 47595 A, Las chicas del sandwich (A. J. Rodríguez Bustamante - Adrián Russo), Mercedes Simone, Fox trot.jpg"}
+  {"fileId": "1lACRul8c7g-Svt23heL8-0xjYv7AKKlr", "action": "rename", "newTitle": "Victor, 47595 A, Las chicas del sandwich (A. J. Rodríguez Bustamante - Adrián Russo), Mercedes Simone, Fox trot.jpg"},
+  {"fileId": "1KYCo7qjBw-HSatqtURhkIQ0462SFGUCc", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1y7XuP6CkPzpiqZ2yP5t7ez0qSO3XRciD", "action": "rename", "newTitle": "Victor, 79572 A, Oro y seda (O. N. Fresedo - A. Canale), Ada Falcón con acomp. de Orquesta Fresedo, Tango.jpg"},
+  {"fileId": "14La7Nrzt68pJqIOTGNjmUHatyOgo1Mow", "action": "rename", "newTitle": "Nacional, 7786 A, Cachadora (F. Lomuto), Orquesta Típica F. Lomuto, Tango.jpg"},
+  {"fileId": "1ohoSay1CpXdJh1wmbIPqkzYb1jm22Eof", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1wyCXj5QifpOjazGvzSgX4eNEiB2JGUOo", "action": "rename", "newTitle": "Victor, 62769 A, El franchuto (Sesso), Banda del Pabellón de las Rosas (Dir. C. Sesso), Tango.jpg"},
+  {"fileId": "1FXdTrEPM8WU13E0dCsyWSEthcY625-AO", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
