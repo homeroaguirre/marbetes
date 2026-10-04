@@ -88,5 +88,15 @@
   {"fileId": "1XIAtZnEcxLD7JifGq5TsGKJw8xZLeD6m", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1_LHtuzu2zpes96EYV7IiItF5wExhx2dd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1uKtNbf18Dbsfd-E7qZt8uAgPWAe4G7Vx", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1mYy-4i35BxHMjZtxFybhnHmc7PSXkWlQ", "action": "rename", "newTitle": "Odeón, 7498 B, El Ciruja (E. De La Cruz), Juan Maglio Pacho, Tango.jpg"}
+  {"fileId": "1mYy-4i35BxHMjZtxFybhnHmc7PSXkWlQ", "action": "rename", "newTitle": "Odeón, 7498 B, El Ciruja (E. De La Cruz), Juan Maglio Pacho, Tango.jpg"},
+  {"fileId": "18Qkg2EZjheL6KsZ87mhDV_qvPqTATYOC", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1KunP1p8XCOzt6oM9JoxbpZggDQfc0ATk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1d3cjdAh6OdWF7a0cJ-NHuHpXB79MOJSC", "action": "rename", "newTitle": "Odeón, 200066 A, Dandy (Yrusta - Fugazot - Demare), Carlos Gardel, Tango.jpg"},
+  {"fileId": "1H5za2STWjsY-red9LckJJakymKH9LUkk", "action": "rename", "newTitle": "Victor, 47190 B, Hombrecito (L. A. Cevallos - R. Collazo), Alberto Vila, Tango.jpg"},
+  {"fileId": "1R0UreOmJ56Zw2kLwDSHTUWr6L9DpNZql", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1nMTqc3718lr_CoSdj2jjfPjouPUlHfV3", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1rx_f1BboSBUneN7NCLCb6zWiNheP2j92", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1RiS5f4DI8sHtNNOduI3wvHm_s6XrRG9n", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1juZhfejUnTlFBWgaVlBtyrGS0gjcQjoH", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1WDAWswtrNdQTVp3Txp1f4BxvyUaluirX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
