@@ -48,5 +48,15 @@
   {"fileId": "1BNVi_qdg66kLsNsqYQNnZBWCbh_BbSxk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "10P_r7pc-7G3HA2gCop8tZef2zNjJCneH", "action": "rename", "newTitle": "Nacional, 16223 B, Tus besos brujos (Pérez - Saraceno), Charlo con acomp. de guitarras, Tango.jpg"},
   {"fileId": "1xx-LVtRTBmzIzm0oSQbte2LwykKdB_41", "action": "rename", "newTitle": "Odeon, 7237 A, La hija de japonesita (Ramón Montes - Vicente de la Vega - Enrique P. Maroni), Enrique Rodríguez y su Orquesta Típica, Fox trot.jpg"},
-  {"fileId": "1eU-hviFd62uGeyxAjuIuFSY8ofLvg8Y3", "action": "rename", "newTitle": "Nacional, 5301 A, El criollo (Alberico - Spatola), Juan de Dios Filiberto y su Orquesta Porteña, Tango.jpg"}
+  {"fileId": "1eU-hviFd62uGeyxAjuIuFSY8ofLvg8Y3", "action": "rename", "newTitle": "Nacional, 5301 A, El criollo (Alberico - Spatola), Juan de Dios Filiberto y su Orquesta Porteña, Tango.jpg"},
+  {"fileId": "1X23JYcE9m1pL9nUVutxpljuEgRRCc7E1", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1oEZoEN39JTXON1KMWpbN9otyaJBUJxaK", "action": "rename", "newTitle": "Odeon, 18225 B, Te fuiste hermano (Cárdenas - Tavarozzi), Carlos Gardel, Tango.jpg"},
+  {"fileId": "1fq_eYGSYEJcRNxNXcOfBl-ykrGJmXPk9", "action": "rename", "newTitle": "Odeon, 8.773 A, Historia de un amor (Carlos Almarán), Gregorio Barrios con Coro y Orquesta de Héctor Lagna Fietta, Canción.jpg"},
+  {"fileId": "18vl8nCfdtMRxleKVnphh5eWsBFptQGxF", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1BGqNUrR9ZCFu5z6Vi8P-A4ofK2sXaUIP", "action": "rename", "newTitle": "Odeon, 4233 B, A media luz (Donato), Orquesta Francisco Canaro, Tango.jpg"},
+  {"fileId": "15YDR414WdUVDBk_OgieYH79BaFNQ1zdt", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1MSxRLqOtXZqLak6euLzsMfSjo4Z4Y3cH", "action": "rename", "newTitle": "Odeofono, 110-3179 B, El aguacero (J. González Castillo - Cátulo Castillo), Trío Argentino Irusta-Fugazot-Demare, Tango.jpg"},
+  {"fileId": "1be2K1MIEvheQ8G4nFuTV4Lij9TxLPO9p", "action": "rename", "newTitle": "Victor, 47047 A, Cuento criollo (S. Granata - O. Romanelli), Orquesta Típica Victor, Tango.jpg"},
+  {"fileId": "1elcsviKlJSQJpWYY5oQNUtOydM9MvCDA", "action": "rename", "newTitle": "Nacional, 6969 B, Cascabelito (J. Bohr), Orquesta Típica Francisco Canaro, Tango.jpg"},
+  {"fileId": "1ZvY8oGY_PtXvD1l172tgfoQE1u4cYcvG", "action": "rename", "newTitle": "Victor, 39319 A, Mariposita (Anselmo Aieta), Osvaldo Fresedo y su Gran Orquesta Argentina, Tango.jpg"}
 ]
