@@ -88,5 +88,7 @@
 {"fileId": "18_KDrzVJTJtcBrlAwXTLsE-FT0Yyu6n9", "action": "rename", "newTitle": "Victor, 38734 A, Bolita cachuza (Santiago H. Lonne - José Canet), Alberto Gómez, Tango.jpg"},
 {"fileId": "10z77YLcytiEsj2x1IMdjiLB4xLWR0PIX", "action": "rename", "newTitle": "Brunswick, 1256 A, Páginas muertas (F. De Caro), Orquesta Típica Julio De Caro, Tango.jpg"},
 {"fileId": "1J35F42gxoeqzYlpu4Rro9wqfAGlL4W2Q", "action": "rename", "newTitle": "Victor, 47227 A, Las madreselvas (José Aguilar), Gómez - Vila, Zamba.jpg"},
-{"fileId": "1q0ZTCbpGqbaSxQ1UQNovLJyNnXgnTz3h", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+{"fileId": "1q0ZTCbpGqbaSxQ1UQNovLJyNnXgnTz3h", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1g7Jjr7A3-If40NdGb2ezSEF7AAxXt7_n", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1hbeCsZhyJ3gLb6gXuKwK2wSZuKjUBK5r", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
