@@ -28,5 +28,15 @@
   {"fileId": "1IIp-AeW0CFwak2Pge0mRVTJm8291-odR", "action": "rename", "newTitle": "Victor, 79717 A, La Plegaria (E. De Caro), Julio De Caro y su Orquesta Típica, Tango.jpg"},
   {"fileId": "1F5nQx1-qOtPGCFtrz4C9GEmLf0tlAl_m", "action": "rename", "newTitle": "Odeón, 8608 A, Anoche a las Dos (R. de los Hoyos), Orquesta Típica R. Firpo, Tango.jpg"},
   {"fileId": "1InvoHeGMmUkjcLI2B0p8gGQ4hrldq53D", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1QfdejchdHC0N0SHPNOO5t8y6bzRKrc7B", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1QfdejchdHC0N0SHPNOO5t8y6bzRKrc7B", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "16OtxzPTT1JP8Bq5Sxz6MVCOw3IqGEskO", "action": "rename", "newTitle": "Victor, 37211 A, Zamba de Vargas (Domingo V. Lombardi - Andrés A. Chazarreta), Acuña-Díaz, Zamba.jpg"},
+  {"fileId": "1Oq2g-H14O2nBWznXJzIfclUx6YBBhVn0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1u0jriVaa8SldhtTWEknzKBaRwcauv0_Y", "action": "rename", "newTitle": "Odeón, 4736 A, Vos También Vas a Soñar (Antonio Polito), Francisco Canaro y su Orquesta Típica, Canta Juan Clausi, Tango.jpg"},
+  {"fileId": "16atbCvvC8o9K5LGGiGxSseYQ1iuOC0Fg", "action": "rename", "newTitle": "RCA Victor, 60-1083 B, La Revancha (Pedro Laurenz), Aníbal Troilo y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1kKNH0kqbXmC8zSznsJCOoHY1yL9C9vNl", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1-9uLu1yNyo46JTGgSDiVMhrqA3mb3ReV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1M_Nj8nnZMntrFsKvnD8icUK60A9WD22A", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1C7EBEWRXt6rIsSnId6tMUvqIBb3glr9_", "action": "rename", "newTitle": "Victor, 47595 B, El Loco del Tom Thumb Golf (Francisco Bohigas - Carlos Marcucci), Mercedes Simone, Tango.jpg"},
+  {"fileId": "1pgfE-9YSeP968EYJJJVse0K6-nb35GvM", "action": "rename", "newTitle": "Odeón, 4886 A, Ya Vendrán Tiempos Mejores (Francisco Canaro - Pelay), Francisco Canaro y su Orquesta Típica, Canta Ernesto Famá, Tango.jpg"},
+  {"fileId": "17an71XNQQcCiG0FymTSUNnFLv6SgTaa5", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
