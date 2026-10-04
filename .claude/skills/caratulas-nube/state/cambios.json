@@ -1,1 +1,12 @@
-[]
+[
+  {"fileId": "1tH8IE3QmifkIDYAsK_rQQUuhk-iQeyZG", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "18NUp_A8mTdodhSsx8c_1OMS2Vbg97yS-", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1qyDVWmBP_0-lI-qyw942LcCBja7B6ZPI", "action": "rename", "newTitle": "Odeon, 6890 B, Un sueño, Orquesta Osvaldo Fresedo, Vals.jpg"},
+  {"fileId": "1MHooFO18aI1-78jaNvty5wgEs6TTHSlp", "action": "rename", "newTitle": "Nacional, 647 B, El ahorcado (R. Firpo), Orquesta Típica Roberto Firpo, Tango.jpg"},
+  {"fileId": "1gqnGglfxts9-bf64D5D_Aawj3FZsIc0u", "action": "rename", "newTitle": "Columbia, 301022 B, Tierra negra (Juan F. Noli - Graciano De Leone), Quinteto Pirincho, Tango.jpg"},
+  {"fileId": "1htOVGitc54dPUKWn6cjKL7XURcQ2pP7E", "action": "rename", "newTitle": "Nacional, 220 A, Cachonguita (Sigal - Canaro), Ignacio Corsini con acomp. de guitarras Iriarte y Correa, Tango.jpg"},
+  {"fileId": "1szrdbMU6uNw1PA_iRioPccAVqe1lP-oh", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1sgoB0QZJDs3LPO89RefV7SNaZx0Sjune", "action": "rename", "newTitle": "RCA Victor, 60-2050 B, El simoqueño (Francisco Escaño), Trío Ciriaco Ortiz, Gato.jpg"},
+  {"fileId": "1OxQ2BfiKL9DFjU61AbD1P3If6GDHI1KN", "action": "rename", "newTitle": "Victor, 80967 A, El presumido (A. G. Villoldo), Trío Victor, Tango.jpg"},
+  {"fileId": "1FlwzzHgIK6Fpx_nV-VKs8TfnZLz12ObZ", "action": "rename", "newTitle": "Nacional, 4235 A, Pa' que más (José Ceglie), Orquesta Típica F. Canaro, Tango.jpg"}
+]
