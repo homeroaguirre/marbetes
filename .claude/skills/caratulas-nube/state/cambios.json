@@ -1,12 +1,12 @@
 [
-  {"fileId": "1vwMDT_yx2uMVz1k1kreGP47auqe4cWCw", "action": "rename", "newTitle": "Odeón, 4082 B, Delice (Pedro Maffia), Francisco Canaro y su Jazz Band, Foxtrot.jpg"},
-  {"fileId": "13czztqHvheIKHqCsW13LBkULMj--_C4G", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1UjrjyRPeD6OMyl9dUqCMeHFSizhs8hTh", "action": "rename", "newTitle": "Brunswick, 2204 A, Perdonalo señor (J. Pérez Ruiz), Mercedes Carné con orquesta Carlos Di Sarli, Tango.jpg"},
-  {"fileId": "1eQULdVhji_Nmk-F_bZPlWJHJ0_P8n3az", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1g2ndgtdMjKF7EdlIZ62sw6SEHvbVj9zU", "action": "rename", "newTitle": "Odeón, 8677 A, Retoños (O. Pugliese), Orquesta Típica R. Firpo, Tango.jpg"},
-  {"fileId": "1eBSSdtwPWtzEaZoVdzB0AcftSziFt60A", "action": "rename", "newTitle": "Victor, 60-2018 B, La juguetona (Hnos. Abalos), Hermanos Abalos, Chacarera.jpg"},
-  {"fileId": "1i5o_8z1jyunMOX1W7O8g75Owmyl_KTaX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "10_vo6yYOUJc8h2nARyW9k3TR2koNiiHl", "action": "rename", "newTitle": "Victor, 60-1640 A, Buenos Aires (M. Romero - M. Joves), Trío Ciriaco Ortiz, Tango.jpg"},
-  {"fileId": "1asMRuACTDjqAaEhpiaStZYGbUeIzbVcK", "action": "rename", "newTitle": "Odeón, 4580 B, Piuma al vento (Ed. Ponzio), Orquesta Típica F. Canaro, Tango.jpg"},
-  {"fileId": "1KFmjCjCFhLyqAkA_y20pb64ibICtcmjs", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "17Ie7jThZHMiV_7X06TBoSloG_MWUHP6v", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "10zM6GlFLlJrqe1UbjFrakLb-W2xdvIs9", "action": "rename", "newTitle": "Odeón, 55093 B, Silencio (Horacio Pettorossi - Alfredo Le Pera - Carlos Gardel), Oscar Alonso con Orquesta Héctor M. Artola y Coro de Fanny Day, Tango.jpg"},
+  {"fileId": "1gCOSqsOjALlqVkUR8Z4Pw0WafoEhTZxM", "action": "rename", "newTitle": "Odeón, 4580 A, Misa de once (J. A. Guichandut), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "10Syc4t-NpE_ChHqMIe-2KjPneeKB3h8x", "action": "rename", "newTitle": "Odeón, 6047 A, Loca (M. Joves), Orquesta Típica Roberto Firpo, Tango.jpg"},
+  {"fileId": "1CnP6uyoAgpYrP_arDKJbca7JVBpc5Yxv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1wTJnYGoDutNFA0CLwOzX9XSWQcnEDJGo", "action": "rename", "newTitle": "Victor, 39512 B, Demasiado tarde (A. H. Delamónica - F. Tróppoli), Azucena Maizani, Tango.jpg"},
+  {"fileId": "1gy3RfF6BnTfgF2bkUuD61FQqMFu4rDHC", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "18fTPT2WUsRjYYtJukKJfs99_pg9NEVyP", "action": "rename", "newTitle": "Columbia, 15025 A, Como queres que te quiera (Héctor Marcó), José Sala y su Orquesta Típica, Canta Alfredo Beluschi, Tango.jpg"},
+  {"fileId": "1tuD5JUszt60lgEFuv_LX8ZKh_7uetX7q", "action": "rename", "newTitle": "Odeón, 6918 A, Tut-Ankh-Amon (J. Böhr), Francisco Canaro y su Jazz Band, Paso del camello.jpg"},
+  {"fileId": "1zQZtIDUxtwUqbV4Kcz6WEISbBsc7wu_G", "action": "rename", "newTitle": "Brunswick, 1447 B, Amo a usted tanto (H. Buby - E. Dofres), Osvaldo Fresedo y su Orquesta Típica, Canta T. Ibañez, Fox Trot.jpg"}
 ]
