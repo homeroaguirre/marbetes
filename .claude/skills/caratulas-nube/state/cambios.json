@@ -18,5 +18,15 @@
   {"fileId": "110gV36Gv2p-7HhvMOkTSrVskSXwKSD7_", "action": "rename", "newTitle": "Victor, 39579 B, Papá Baltasar (H. Manzi - S. Piana), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Milonga.jpg"},
   {"fileId": "1K-QKOp9IK8AOEoSpBii4rh8ytsH6iNzU", "action": "rename", "newTitle": "RCA Victor, 68-0724 B, La procesión del santito (Ariel Ramírez), Ariel Ramírez, Misachico.jpg"},
   {"fileId": "1v_6Wg1lstK6cJ0QajKmYMRpTCPFJRAT_", "action": "rename", "newTitle": "Victor, 39295 A, Bien frappé (H. Marcó - C. Di Sarli), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Tango.jpg"},
-  {"fileId": "1d2iXZnI2NoSLNF7tbCYHhMT1JgjbFyYZ", "action": "rename", "newTitle": "Nacional, 8618 A, Diablito (Pedro Maffia), Orquesta Típica R. Firpo, Tango.jpg"}
+  {"fileId": "1d2iXZnI2NoSLNF7tbCYHhMT1JgjbFyYZ", "action": "rename", "newTitle": "Nacional, 8618 A, Diablito (Pedro Maffia), Orquesta Típica R. Firpo, Tango.jpg"},
+  {"fileId": "1Q2d9hlJdrcoY-A0iD2lHKKF6NIIAPhli", "action": "rename", "newTitle": "Nacional, 6043 B, El copete (F. Canaro), Orquesta Típica Roberto Firpo, Tango.jpg"},
+  {"fileId": "1GCDzI0dQeuZOV1AY7xw5-4dmPznpgXOw", "action": "rename", "newTitle": "Victor, 37973 A, El pillete (Graciano De Leone), Cuarteto del 900, Tango.jpg"},
+  {"fileId": "1bzrlsGvj9fej8vwH7nmcfHr3u6uMY0LS", "action": "rename", "newTitle": "Pampa, PM 11019 A, Ventanita de arrabal (Antonio Scatasso - Pascual Contursi), Ricardo Pedevilla y su Orquesta Típica, Canta Oscar Serpa, Tango.jpg"},
+  {"fileId": "1Eu8XR0XzUx93RAalPo9UhaOfJbypTTjZ", "action": "rename", "newTitle": "Odeon, 512 A, El bisturí, Orquesta Roberto Firpo, Tango.jpg"},
+  {"fileId": "1uD3Mle9xLWoaEW_EvObumL52U4v85aty", "action": "rename", "newTitle": "Victor, 79586 A, Recuerdos de arrabal (E. Fresedo - E. Pereyra), Oscar Rorra con acomp. de E. Pereyra, Tango.jpg"},
+  {"fileId": "1CVgdb3Adi0LFyThBNRO_BcQKRXaOd6C_", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1h1E68q2OMYyjFWANWRyLHWHFkYqzocgq", "action": "rename", "newTitle": "Victor, 39771 B, El chupete, Aníbal Troilo y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1Ou7GpZ-w-sluJinyiPyMxJj4SN3Sclac", "action": "rename", "newTitle": "Brunswick, 1264 A, A pan y agua (Juan Carlos Cobián), Orquesta Típica Julio De Caro, Tango.jpg"},
+  {"fileId": "1skhgw3LSQufVGTx5swZnTxHjXIQDvDUV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "19stu_rqUt42vpyPAgvxlUOmLdc3zhLJx", "action": "rename", "newTitle": "Victor, 79859 A, Sueño azul (F. De Caro), Ferrazzano - Flores, Tango.jpg"}
 ]
