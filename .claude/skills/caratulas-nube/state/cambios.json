@@ -58,5 +58,15 @@
   {"fileId": "1eOXNBpbXCDjSdn5pnEiHWHZDpNglZ36Y", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1IsJmYGlSHBrRetF5LJDSWH-Mn3InO2fc", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1nGBzfvcexyuqeB6ugcem9KPStLXMhqt2", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1Z7q4AeQ62Ep_yUuROPw8eJWQ1G-v33gk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1Z7q4AeQ62Ep_yUuROPw8eJWQ1G-v33gk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1KQFezIaoT5QDgdIyLkSb9u9GWtyEZUYo", "action": "rename", "newTitle": "Odeón, 11231 B, El Jardín del Amor (Ivo Pelay - Francisco Canaro), Ada Falcón, Vals.jpg"},
+  {"fileId": "1ubsOZ3s4x2W7dqPQlH8zKK_-3A-xZFw9", "action": "rename", "newTitle": "Brunswick, 2117 A, Pulpero Sirva Otra Vuelta, Azucena Maizani, Tango.jpg"},
+  {"fileId": "1JITxhyPQcTbrmBefIE_rfhuFnXaOIrnp", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1fnlAzWYB-bbartiB-BVNAAUjb5TmyuSd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1E1PwJKgk_fGuB7rJ9WtvWl4Hf4RO5T4D", "action": "rename", "newTitle": "Victor, 79761 A, Así Se Hace (A. Pizarro), Trío Los Nativos, Tango.jpg"},
+  {"fileId": "1x7CuEhJTFa_vexYw3qOnvxpzO0vv4rPY", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1_rn2qw8YL1DFKllaXXo2-bX2I6r0Gr6s", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1bDkARh680Kr43LcwMejsq1oKiyIz4nR5", "action": "rename", "newTitle": "Odeón, 836 B, Boca Juniors (Elías - Galán), Rondalla Cuavilla Prim, Paso Doble.jpg"},
+  {"fileId": "1u_HRLnWHrARkfqPrVKa2wOr7DDIirJjq", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "12ddh-ui_jcMnIPksiDeQIyE0cgvz3zaz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
