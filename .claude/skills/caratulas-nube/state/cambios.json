@@ -38,5 +38,15 @@
   {"fileId": "1M_Nj8nnZMntrFsKvnD8icUK60A9WD22A", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1C7EBEWRXt6rIsSnId6tMUvqIBb3glr9_", "action": "rename", "newTitle": "Victor, 47595 B, El Loco del Tom Thumb Golf (Francisco Bohigas - Carlos Marcucci), Mercedes Simone, Tango.jpg"},
   {"fileId": "1pgfE-9YSeP968EYJJJVse0K6-nb35GvM", "action": "rename", "newTitle": "Odeón, 4886 A, Ya Vendrán Tiempos Mejores (Francisco Canaro - Pelay), Francisco Canaro y su Orquesta Típica, Canta Ernesto Famá, Tango.jpg"},
-  {"fileId": "17an71XNQQcCiG0FymTSUNnFLv6SgTaa5", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "17an71XNQQcCiG0FymTSUNnFLv6SgTaa5", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1qcI3iNO7KpbI0QIyfg3OolsLXNpAyDmB", "action": "rename", "newTitle": "Victor, 79526 A, Piedad (Rizzuti - Bonnet), Roberto Díaz, Tango.jpg"},
+  {"fileId": "1wS6T787kp0JHYjjHR1N-usIB2yYK84Tu", "action": "rename", "newTitle": "Odeón, 6857 A, Il Piccolo Navío (L. Ricardi), Juan Maglio Trío Pacho, Tango.jpg"},
+  {"fileId": "1VvEuBgusOJ3u8PdXN86FSKBpuVbnu7Bf", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1eOklg-ZbKecZYTevvWa1jTDt9NIP8M_w", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1zUu1U7CSBoqMH13zprpYn-O4foSgFZbK", "action": "rename", "newTitle": "Odeón, 18114 B, Beso Ingrato, Carlos Gardel, Tango.jpg"},
+  {"fileId": "13bP_IqykzmOnmgblaiuddarE8sT1OVCJ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1R0a0Mh1PGHvQERge9pINB2FXw9GG6uB_", "action": "rename", "newTitle": "Odeón, 52146 B, Allá en el Monte, Ignacio Corsini, Vals.jpg"},
+  {"fileId": "1UOucYM4sIan09qmF-Sv9IYRqbOnnwBxB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1N7b_xKFSi3d1--Xe5TyVhkWeKSCMQ9PE", "action": "rename", "newTitle": "Odeón, 4034 A, Pero Hay una Melena (José Bohr), Francisco Canaro y su Orquesta Jazz-Band, Fox-Trot.jpg"},
+  {"fileId": "1SNGK3Tknmya1Exf-DHHt5Er1yJNraAZI", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
