@@ -1,1 +1,12 @@
-[]
+[
+{"fileId": "1Zbhw6EINqllLdYJiyfFEj438BRJQc4nI", "action": "rename", "newTitle": "Victor, 79850 B, No me olvides (Goyeche - Cadícamo), Pelaia - Italo, Vals.jpg"},
+{"fileId": "1DrXbxmfwxBByD8wAS4MjtSUBAJFhE0ES", "action": "rename", "newTitle": "Victor, 79645 B, Clavel de amor (A. Pelaia), Pelaia - Italo, Zamba.jpg"},
+{"fileId": "1jR7aGAC6bf1VGh4iVZkczLSw72LkkuUf", "action": "rename", "newTitle": "Victor, 73785 B, El biguá (José Aguilar), Quiroga - Del Carril, Zamba.jpg"},
+{"fileId": "1K495smb1rFkU8vFKpoYjOWRR9EjaObVG", "action": "rename", "newTitle": "Victor, 79994 A, Montecristo (Rosita Briganti), Pesoa - Iriarte, Vals.jpg"},
+{"fileId": "1gGvSjim73p_jv2EioLc1kGdgDOm4MFYO", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1hKDFLpSq8_VmGkgKOuPvRA2OKwNVFmSz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1L_lLF52v_tc0M5Yqdp4Cv2Ezp1vcdL2w", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1bInAca0foEJKRIDCTVmtWu4zrgSEGFtf", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1vClJHxgh3E6b0n43_aA_QjJ_ipNVzivx", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+{"fileId": "1QFiwczTXzSnw3AOiGzAoGzQgRYSafzvj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+]
