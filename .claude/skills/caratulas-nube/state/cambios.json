@@ -38,5 +38,15 @@
   {"fileId": "11f8kdFChMV7ECeI9qI3LaNAJcgqghPvf", "action": "rename", "newTitle": "Victor, 80987 A, En voz baja (A. Mondino - C. O. Lenzi), Alberto Vila, Tango.jpg"},
   {"fileId": "1YCwRfbOgK0_-8_M4CBxEmmvc8S0cMhuA", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "16M2neg0-5ki9jyL6-NplbaqoH9dwum18", "action": "rename", "newTitle": "Odeon, 7640 A, Esta noche al pasar (Héctor Graner - Ricardo Thompson), Pedro Laurenz y su Orquesta Típica, Canta Jorge Linares, Tango.jpg"},
-  {"fileId": "1dzN8Tsw4G_KzRgJpBv1P_sQ9exz6_3xa", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1dzN8Tsw4G_KzRgJpBv1P_sQ9exz6_3xa", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1KcF5vSXEblTlKG_c3aBmKOZvJrOZleZ-", "action": "rename", "newTitle": "Odeon, 18953 B, El poncho del amor (Alberto Vaccarezza - Antonio Scatasso), Carlos Gardel, Tango.jpg"},
+  {"fileId": "1CtN3T4q9787RYxdurYhmlNRFs2wKQXBo", "action": "rename", "newTitle": "Odeon, 18828 A, Viva la patria (F. García Giménez - A. A. Aieta), Carlos Gardel, Tango.jpg"},
+  {"fileId": "19CevWW9DwG6o-BiM2BhPeZNXeR5j1nd8", "action": "rename", "newTitle": "Odeon, 55456 B, Suena, guitarra querida (Carlos Gardel - José Razzano), Carlos Gardel, Estilo.jpg"},
+  {"fileId": "1jkzibgppvicF0rkpaTGy1o2aBWRDwW4q", "action": "rename", "newTitle": "Brunswick, 2109 A, Polilla (J. Mattos Rodríguez - P. Suero), Azucena Maizani, Tango.jpg"},
+  {"fileId": "1kOY1XsAmuBaOCGkt7YGyDcYbI-osSE4O", "action": "rename", "newTitle": "Victor, 47593 B, Academia de canto (Juan Sarcione hijo), Dealessi-Sarcione-Mutarelli, Comedia.jpg"},
+  {"fileId": "1wtuW7YDJUuDFh9MgNq9PPryBnUFv2ho6", "action": "rename", "newTitle": "Lola Membrives, 10413 A, Cara sucia (Castro - Caruso), Lola Membrives, Tango.jpg"},
+  {"fileId": "1BNVi_qdg66kLsNsqYQNnZBWCbh_BbSxk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "10P_r7pc-7G3HA2gCop8tZef2zNjJCneH", "action": "rename", "newTitle": "Nacional, 16223 B, Tus besos brujos (Pérez - Saraceno), Charlo con acomp. de guitarras, Tango.jpg"},
+  {"fileId": "1xx-LVtRTBmzIzm0oSQbte2LwykKdB_41", "action": "rename", "newTitle": "Odeon, 7237 A, La hija de japonesita (Ramón Montes - Vicente de la Vega - Enrique P. Maroni), Enrique Rodríguez y su Orquesta Típica, Fox trot.jpg"},
+  {"fileId": "1eU-hviFd62uGeyxAjuIuFSY8ofLvg8Y3", "action": "rename", "newTitle": "Nacional, 5301 A, El criollo (Alberico - Spatola), Juan de Dios Filiberto y su Orquesta Porteña, Tango.jpg"}
 ]
