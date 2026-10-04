@@ -78,5 +78,15 @@
   {"fileId": "1Z72TJ361qaLJGZsj5ctmRfmzKj58-_xD", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1CwPZ-7nJ_wHccOT9x1Gq5QNpHTsqdoK4", "action": "rename", "newTitle": "Odeón, 4326 A, Retirao (C. Posadas), Orquesta Típica F. Canaro, Tango.jpg"},
   {"fileId": "1_fyDxj-lbks1DFqdJDU-3gnK1rq2zgfd", "action": "rename", "newTitle": "RCA Victor, 37314 A, Petruschka (Retta - Dumont - Francisco Pracánico), Agustín Magaldi, Canción.jpg"},
-  {"fileId": "1YSHG255IYugX3HMwwJHsWRi-QRKKJNMj", "action": "rename", "newTitle": "Victor, 47088 A, Soy un Arlequín (Enrique Discépolo), Alberto Gómez, Tango.jpg"}
+  {"fileId": "1YSHG255IYugX3HMwwJHsWRi-QRKKJNMj", "action": "rename", "newTitle": "Victor, 47088 A, Soy un Arlequín (Enrique Discépolo), Alberto Gómez, Tango.jpg"},
+  {"fileId": "1XHZUFKdnl_rH47m9v6Ji7WicqpzEhjqP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Khf4XIGcyV0J3PQix5k1ABtaDTk35ZP9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1jGJfSy0G4Qz4kzRZfyo9WlDofu1OM0AL", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1J9-pYWsC00vtZdKNMxH1dEarHGO96_ki", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "18WnCzpTQ1S3_XOpmtvxhkeM05SLalnOz", "action": "rename", "newTitle": "Seeco, 7116 A, El Día Que Me Quieras (Gardel - Le Pera), Hugo del Carril, Canción.jpg"},
+  {"fileId": "1jsXboSZ4GY8hudtOg-K3AhXx_EJRXElO", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1XIAtZnEcxLD7JifGq5TsGKJw8xZLeD6m", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1_LHtuzu2zpes96EYV7IiItF5wExhx2dd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1uKtNbf18Dbsfd-E7qZt8uAgPWAe4G7Vx", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1mYy-4i35BxHMjZtxFybhnHmc7PSXkWlQ", "action": "rename", "newTitle": "Odeón, 7498 B, El Ciruja (E. De La Cruz), Juan Maglio Pacho, Tango.jpg"}
 ]
