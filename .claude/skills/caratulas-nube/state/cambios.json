@@ -8,5 +8,15 @@
   {"fileId": "1wmRagR8x70DsVj_g8y72bGhhJr5I4R8m", "action": "rename", "newTitle": "Victor, 79915 B, El Carretón (José Servidio), Rodolfo Biagi, Estilo.jpg"},
   {"fileId": "19fUbebI15vJGfKcnDt4z73_8xPQvC_bS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1ZJ-q_4By8frTn4dr86o5yhntrCijrDwy", "action": "rename", "newTitle": "RCA Victor, 60-1942 B, Nostalgia Cordobesa (L. A. Moyano - C. Allende), Trío Ciriaco Ortiz, Zamba.jpg"},
-  {"fileId": "1B7-DyDetEReijETNLy8M9EpD2jcY4eaX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1B7-DyDetEReijETNLy8M9EpD2jcY4eaX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1f5US2uO6n-2LR1NWfrTgaelMBU2STA_Z", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1rj91iZA4EhXiZSMN41j7Z8vIeCACrcjn", "action": "rename", "newTitle": "RCA Victor, 60-1310 B, La Racha (A. Bardi), Carlos Di Sarli y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1-CSoYHPcgHCPqHdEnj1QQROruecfsIdW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1K_FNfql3bXg72zN1Bs2IdVQpuXRcKSXq", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1yQM8W-vxeQb8niFQ-aDlxMMAkKwHjpV6", "action": "rename", "newTitle": "Victor, 79520 B, Triste (A. Maffia - José de Caro), Orquesta Típica De Caro, Tango.jpg"},
+  {"fileId": "1_eM_wayfB-lFw60zuqkY2QZRRO60eC_U", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1hjMG3bykzlyPx_4RR-i6gxHdAqy1Cfg9", "action": "rename", "newTitle": "RCA Victor, 68-2242 A, El Chango Julián (Alejandro Luna), Trío Ciriaco Ortiz, Zamba.jpg"},
+  {"fileId": "1kJ1YomMjY8lgjD9cruirAW3VQYdtNNiw", "action": "rename", "newTitle": "Odeón, 8608 B, La Violetera (A. A. Aieta), Orquesta Típica R. Firpo, Tango.jpg"},
+  {"fileId": "1opPJfxJphok4bJw3laKCzta0dDmMtlKr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "179vF5wYXlfKzIZMQaCDP7mvf9Ys_xmbt", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
