@@ -28,5 +28,15 @@
   {"fileId": "1nXa5REc6jpPqYLj0Bu4GhuMv5SzQEjpn", "action": "rename", "newTitle": "Victor, 69810 B, Meneguina (O. M. Fresedo), Orquesta Típica V. Loduca, Tango.jpg"},
   {"fileId": "1DLrlDccEh-RLpPj9fIWQDhkChRlpCSnd", "action": "rename", "newTitle": "Victor, 80957 A, Loca Bohemia (J. De Caro), Julio De Caro y su Orquesta Típica, Tango.jpg"},
   {"fileId": "1eoqurM8lyyoZvPjjvqb7lDSEc59tHA20", "action": "rename", "newTitle": "Odeón, 5012 B, Ave Cantora (R. Rossi), Orquesta Típica Fresedo, Tango.jpg"},
-  {"fileId": "161lOHk2TXEkr4KHCnCY9-G2IhmoE1xP3", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "161lOHk2TXEkr4KHCnCY9-G2IhmoE1xP3", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1m56wwaQWQ7U7UA9V9iRXaHw4-ZmHiBxP", "action": "rename", "newTitle": "Victor, 79654 B, La Revancha (P. Laurenz), Julio De Caro y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1XJal_8XONZFZ_xTM5b9X1G25GafhKl_6", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1FdOnAD8GvtmGcYGqTshRFmpHnXaPPDgv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1PQ-28AwZS0kcno5KvtpU8UA25VCyC3pp", "action": "rename", "newTitle": "Odeón, 11318 B, Yo Busco un Querer (Cristino Tapia), Mercedes Simone con su Trío Típico, Bailecito.jpg"},
+  {"fileId": "1wymO1MeYbiPILbNn6Tv1aZCea7aOc_t4", "action": "rename", "newTitle": "Victor, 37239 B, Pobre Novia (Pablo Rodríguez), Mercedes Simone, Vals.jpg"},
+  {"fileId": "1Tfzz5KlUdHZRqu_eGpAs79j-MAsIxT-s", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1RY7M5CxuBE1NZmqQyEQPZjQp3YlpPlfb", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Xb5y30Cv6UgFkggrudhB3jFlkB8q0jq1", "action": "rename", "newTitle": "Odeón, 6885 A, Diablito (P. M. Maffia), Maffia - De Franco, Tango.jpg"},
+  {"fileId": "12XHCe4ueA158PVsEyca9PSQ_Bki6ym1P", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "11KRCAsu697OjHtXqV9BoNcWHv9c-kU31", "action": "rename", "newTitle": "Odeón, 7704 A, ¡Y Siempre Igual! (Arturo Gallucci - Luis Caruso), Alberto Castillo y su Orquesta Típica, Canta Alberto Castillo, Tango.jpg"}
 ]
