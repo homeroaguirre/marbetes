@@ -28,5 +28,15 @@
   {"fileId": "1w9hQKeDIfhebTzJ6Q51pTHQjkB3XxTls", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1sHVJ-sj6cid0zv2ZRqAshJ2SZMjYBeHn", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1joBm7Je9SfjwmYDr7daLhtQLdDclkVCV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1vLiNw9-R0G5_iO1dzi--OR5lXNWv-Fql", "action": "rename", "newTitle": "Odeón, 18404 A, La Maleva (Buglione - Pardo), Ignacio Corsini con Orquesta Roberto Firpo, Tango.jpg"}
+  {"fileId": "1vLiNw9-R0G5_iO1dzi--OR5lXNWv-Fql", "action": "rename", "newTitle": "Odeón, 18404 A, La Maleva (Buglione - Pardo), Ignacio Corsini con Orquesta Roberto Firpo, Tango.jpg"},
+  {"fileId": "1EMBHOsngHJXdBk-V3iOCsHHjixQrApqp", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1BL4RBGRov4eQr077HYbd5U_B45TKeFEV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "17LLMDxWO_4fnTsNRk1hemG6j3BxvcMhJ", "action": "rename", "newTitle": "RCA Victor, 68-2076 B, Rosalinda (Lito Bayardo - Ciriaco Ortiz), Trío Ciriaco Ortiz, Ranchera.jpg"},
+  {"fileId": "1rA1bdfLOl-XrFgg7ZGmkKlklvsRWk2vZ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1d2nfve3p_GGiy19IzuI3a6RTrCWL8Efb", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1_DdVEp9UhfPMkP8q8WVd3-Izsa3xNTrn", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1RNf6gotK3Z-6W4aJvOQf8lp_BcS4IkIF", "action": "rename", "newTitle": "Odeón, 30356 A, El Rápido (Roberto Firpo), Astor Piazzolla y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1PynwNXysTcL4Ughqd4uicmefoTO4ZjDB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1_vFtyao7fJ-GNg9TeCgRNMiv5KoMxV4g", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ND9PZduPpbtY9j-URrCfLZKxuY_JVvFZ", "action": "rename", "newTitle": "RCA Victor, 60-0723 B, Con Alma y Vida (C. Di Sarli), Carlos Di Sarli y su Orquesta Típica, Canta Jorge Durán, Milonga.jpg"}
 ]
