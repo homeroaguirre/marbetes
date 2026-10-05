@@ -88,5 +88,15 @@
   {"fileId": "1nKvdgnIVt2hrDq_iNNkt_7_70UMd8iP9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1ZdG4mqkdgqQVNAwFOGQBYETmSJ-I9K8A", "action": "rename", "newTitle": "Victor, 80947 B, New York (José Padilla), Adolfo Carabelli y su Orquesta, Paso Doble.jpg"},
   {"fileId": "1RyV7gScMIlUsT2dHPx_hptU2FP0PgUWg", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1oF6t5TKa-eJjdXDIlwX9oAKOhW0C4RPJ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1oF6t5TKa-eJjdXDIlwX9oAKOhW0C4RPJ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1bVuzWEnhftfss4lo-JZNQKdXF3M8pDrq", "action": "rename", "newTitle": "Odeón, 4731 A, Última Copa (Francisco Canaro), Francisco Canaro y su Orquesta Típica, Canta Juan A. Caruso, Tango.jpg"},
+  {"fileId": "1MZ7rhE9Iiv_C8AYFqGx5M-onz6bZKm-k", "action": "rename", "newTitle": "Odeón, 18848 B, Viejo Jardín (Virgilio San Clemente - Antonio Cerazo), Carlos Gardel con Guitarras, Vals.jpg"},
+  {"fileId": "1UtdzAaR2lQp3RlhQIFt2F3tEO4sDzoRV", "action": "rename", "newTitle": "Odeón, 18274 B, Primero Yo (Rial - Rossi), Carlos Gardel con Guitarras Ricardo, Barbieri y Aguilar, Tango.jpg"},
+  {"fileId": "1Uy218i-j2jmUrA_fyPjYp9e92KcaE001", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1DBvmm0Ch4951sX55WV8ww6EJgzoJjLDH", "action": "rename", "newTitle": "Odeón, 18906 B, Madame Ivonne (Enrique Cadícamo - Eduardo Pereyra), Carlos Gardel con Guitarras, Tango.jpg"},
+  {"fileId": "1BATlFTN_jETSkg7ZhNic9Oe_njN-IuaV", "action": "rename", "newTitle": "RCA Victor, 1A-1174 A, Y Todavía Te Quiero (Abel Aznar - Luciano Leocata), Libertad Lamarque y Juan D'Arienzo y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1S7bE_5nwEH1vNNPIYmbjofu6fu2Has0a", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "10GzNWAhIqneutCWY_GNf_wlSO3Lt-mHw", "action": "rename", "newTitle": "Odeón, 18269 A, Como Todas (A. Cheriff - J. Trelles), Carlos Gardel con Guitarras Barbieri y Aguilar, Vals.jpg"},
+  {"fileId": "1Z-nMtewGnuc3tf_OjGCg-qt9CR5cR1Mm", "action": "rename", "newTitle": "Odeón, 10413 A, Cara Sucia (Canaro), Lola Membrives con Orquesta, Tango.jpg"},
+  {"fileId": "1NLjkMtLEAjif5oGTQHYqE9jHCdD1gp5l", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
