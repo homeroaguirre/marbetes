@@ -18,5 +18,15 @@
   {"fileId": "1ka8ebd19W-OTYWvfxOfIt__rJmYUFLuu", "action": "rename", "newTitle": "Odeón, 18417 B, Melancólica Casita (Dizeo - Flores), Ignacio Corsini con 3 Guitarras, Tango.jpg"},
   {"fileId": "1OVIE_G0G3L7lcO3R3nK_Bxp2GgW5AUnV", "action": "rename", "newTitle": "Odeón, 6944 B, La Ratonera (José Bohr), Francisco Canaro y su Orquesta Típica, Tango.jpg"},
   {"fileId": "12DYuY4MoqBUoYveG1-S1_QbzH9wxpD39", "action": "rename", "newTitle": "Odeón, 4147 A, El Circo Se Vá... (Catulo Castillo), Francisco Canaro y su Orquesta Típica, Tango.jpg"},
-  {"fileId": "1m8hT6TYgXBIIQHYmx_BFXYeDQa1IzFLr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1m8hT6TYgXBIIQHYmx_BFXYeDQa1IzFLr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ZxRlEJJfg8GiVfsY1MZSqbjsimS2MjTr", "action": "rename", "newTitle": "Odeón, 5634 A, La Cumparsita (Gerardo Matos Rodríguez), Rodolfo Biagi y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1ggxHoCUX2ahBVyntI86m60wk9j8A6bwT", "action": "rename", "newTitle": "Victor, 77022 A, Los Picazos (B. Solari Parravicini), Orquesta Típica Cobián, Tango.jpg"},
+  {"fileId": "1Q3DqyHRlJdpK4XnbF06mZmmUepUluS9I", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1xdfA2dro5J09cz4MBLb9cDQCQw0V4jdb", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1iC4RTuDj8kvmz23aGAANtMBMJh815mKO", "action": "rename", "newTitle": "Odeón, 4375 B, La Mina del Ford (A. Scattaso), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "16mhWAj0saIcurIezhNX-nrAQN-wDOjOx", "action": "rename", "newTitle": "Odeón, 7836 A, Rancho Embrujao, Orquesta Típica F. Lomuto, Tango.jpg"},
+  {"fileId": "1w9hQKeDIfhebTzJ6Q51pTHQjkB3XxTls", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1sHVJ-sj6cid0zv2ZRqAshJ2SZMjYBeHn", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1joBm7Je9SfjwmYDr7daLhtQLdDclkVCV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1vLiNw9-R0G5_iO1dzi--OR5lXNWv-Fql", "action": "rename", "newTitle": "Odeón, 18404 A, La Maleva (Buglione - Pardo), Ignacio Corsini con Orquesta Roberto Firpo, Tango.jpg"}
 ]
