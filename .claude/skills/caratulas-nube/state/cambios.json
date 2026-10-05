@@ -78,5 +78,15 @@
   {"fileId": "140O_ASC7xcDXFEgWqzuDOj2m4lHEAntQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1ykAqV0HNoF7QWYyz1p6m0gM4PsSfGx18", "action": "rename", "newTitle": "Victor, 80945 A, Fanfarrón (E. Cadícamo - L. N. Visca), Rosita Quiroga, Tango.jpg"},
   {"fileId": "1BOKu0S787Ft9iMWGM_C7st1xhZSgLGUz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1Gk2fpenkbfwUEtdCyHTV7P-M05MHnS4H", "action": "rename", "newTitle": "Odeón, 18996 B, Bailarín Compadrito (Miguel Bucino), Carlos Gardel con Guitarras, Tango.jpg"}
+  {"fileId": "1Gk2fpenkbfwUEtdCyHTV7P-M05MHnS4H", "action": "rename", "newTitle": "Odeón, 18996 B, Bailarín Compadrito (Miguel Bucino), Carlos Gardel con Guitarras, Tango.jpg"},
+  {"fileId": "1L9-iO2e-nHXskw8rcQn5rwrAbMBNZyhh", "action": "rename", "newTitle": "RCA Victor, 37314 B, Cien Años (Enrique Cadícamo - Magaldi - Noda), Magaldi-Noda, Canción.jpg"},
+  {"fileId": "1_6s9p6D6biFE1uRx5dDl9FO4lS3mv2wC", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "15ytZU1MmL5ALlh3v9GBLBxbEhlrQjrtj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "10UIWSWuD8NW4pUh-LNnjXnr-EmN8sOiI", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1A8rJrsRAqN7PsAooM5UwmLqS_kCFUiPc", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "15FcP_MiJz7qn57-peERGg53d0rmbsCy4", "action": "rename", "newTitle": "Victor, 37018 B, Tus Divinos Ojos (Marcelo Güiraldes), Ramón Montes, Vals.jpg"},
+  {"fileId": "1nKvdgnIVt2hrDq_iNNkt_7_70UMd8iP9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ZdG4mqkdgqQVNAwFOGQBYETmSJ-I9K8A", "action": "rename", "newTitle": "Victor, 80947 B, New York (José Padilla), Adolfo Carabelli y su Orquesta, Paso Doble.jpg"},
+  {"fileId": "1RyV7gScMIlUsT2dHPx_hptU2FP0PgUWg", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1oF6t5TKa-eJjdXDIlwX9oAKOhW0C4RPJ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
