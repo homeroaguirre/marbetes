@@ -58,5 +58,15 @@
   {"fileId": "16nH-ihsCUA3ggYwqOLSKQzaAyV4b7mFS", "action": "rename", "newTitle": "Odeón, 8929 B, Ternuras (R. Tuégols), Orquesta Típica R. Firpo, Vals.jpg"},
   {"fileId": "1uQSRH7ou4ZU_yfeRjGZkAI8IrFVJvJeu", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1HdgwJO8YlaY9F1kjTCvgzJdc78S1lgh6", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1fK89stVp9OfeRiRVqINqkuGv_B9LYTsw", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1fK89stVp9OfeRiRVqINqkuGv_B9LYTsw", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1eyqD4gCeQH7PY4BTLO4_4dZUm8m5ajB2", "action": "rename", "newTitle": "Victor, 79703 A, Pura Maña (A. Maffia - C. E. Flores), Elena Piana, Tango.jpg"},
+  {"fileId": "1Fb-IY8NMa8FMqW90wpNvb7fAMaXsvNgv", "action": "rename", "newTitle": "Odeón, 18821 B, Un Año Más (A. Casciani - J. Barreiro), Carlos Gardel con Guitarras Barbieri-Aguilar-Riverol, Tango.jpg"},
+  {"fileId": "1WlgGgnh4LbatKPYKJ7jj5Ik2oItEOZBQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1NCdfGCDiClQLMJPqGLDu1ij779PgtyfF", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1eFQvXFbIv8MEs3Pa4kRN_rg8cwU10kp_", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1J1ZnW40Fg-E0YMWbty9AOIyVnS_1Okz9", "action": "rename", "newTitle": "Victor, 47109 A, Huella Buey (Alberto N. Laporte), Orquesta Típica Victor, Canta Díaz-Delson, Tango.jpg"},
+  {"fileId": "1h1yCqjnzrBJ3_WqwCFkc9tHuPpjAQ2Ff", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Fbb2Xs7fRWPlTJDKHb2cTda1yNZFiWSP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1c4JOpQtftSWwf1CeHCkdmHr18vUZfufV", "action": "rename", "newTitle": "Odeón, 21161 A, Claveles Mendocinos (Alfredo A. Pelaja), Los Trovadores de Cuyo, Zamba Canción.jpg"},
+  {"fileId": "1GgF1EiTfTkmgXj6NSuryI8fzxrDK_Wa6", "action": "rename", "newTitle": "Odeón, 18857 A, Viejo Rincón (Roberto Cayol - Raúl de los Hoyos), Carlos Gardel con Orquesta Francisco Canaro, Tango.jpg"}
 ]
