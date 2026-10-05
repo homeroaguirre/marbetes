@@ -18,5 +18,15 @@
   {"fileId": "1hjMG3bykzlyPx_4RR-i6gxHdAqy1Cfg9", "action": "rename", "newTitle": "RCA Victor, 68-2242 A, El Chango Julián (Alejandro Luna), Trío Ciriaco Ortiz, Zamba.jpg"},
   {"fileId": "1kJ1YomMjY8lgjD9cruirAW3VQYdtNNiw", "action": "rename", "newTitle": "Odeón, 8608 B, La Violetera (A. A. Aieta), Orquesta Típica R. Firpo, Tango.jpg"},
   {"fileId": "1opPJfxJphok4bJw3laKCzta0dDmMtlKr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "179vF5wYXlfKzIZMQaCDP7mvf9Ys_xmbt", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "179vF5wYXlfKzIZMQaCDP7mvf9Ys_xmbt", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1F7N4NU31A7KLeHoxJcUPu0UzQ1kyy37B", "action": "rename", "newTitle": "Odeón, 5219 B, Derecho Viejo (E. Arolás), Orquesta Típica O. Fresedo, Tango.jpg"},
+  {"fileId": "1eotsyf-yQH0v6mpV123Piji3t_vyxP5o", "action": "rename", "newTitle": "Odeón, 219 A, Cap Polonio (Caruso - Rosquellas), Ignacio Corsini con Guitarras Iriarte y Correa, Tango.jpg"},
+  {"fileId": "1EV9v_AZ4f0KBow_gU_8lrkwDsfs9mu34", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1stQCZDfYlVtYY6y5hjO1t8bRLy_y4ok3", "action": "rename", "newTitle": "Victor, 37934 B, La Huella (M. A. Villanueva), Cuarteto Victor de la Guardia Vieja, Tango.jpg"},
+  {"fileId": "1n64L950A_wRlPSOFnUcxABvMxUxC0kRw", "action": "rename", "newTitle": "Victor, 38008 A, La Cumparsita (Gerardo H. Matos Rodríguez), Francisco Lomuto y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1IxuHtsjo2yEnhHoGUiPKUuc2oTE8_Qru", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1nXa5REc6jpPqYLj0Bu4GhuMv5SzQEjpn", "action": "rename", "newTitle": "Victor, 69810 B, Meneguina (O. M. Fresedo), Orquesta Típica V. Loduca, Tango.jpg"},
+  {"fileId": "1DLrlDccEh-RLpPj9fIWQDhkChRlpCSnd", "action": "rename", "newTitle": "Victor, 80957 A, Loca Bohemia (J. De Caro), Julio De Caro y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1eoqurM8lyyoZvPjjvqb7lDSEc59tHA20", "action": "rename", "newTitle": "Odeón, 5012 B, Ave Cantora (R. Rossi), Orquesta Típica Fresedo, Tango.jpg"},
+  {"fileId": "161lOHk2TXEkr4KHCnCY9-G2IhmoE1xP3", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
