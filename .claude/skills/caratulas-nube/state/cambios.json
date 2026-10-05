@@ -68,5 +68,15 @@
   {"fileId": "1DhFxwxd9lZRsLCbRngwzIRfDxqdP8xDt", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1CMJ37z1oNNIuBI_VqKMMCtCAmJl-30Ip", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1hZtJDWVfH81nqliDdK_j8zxG1AHjr6XC", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "18A8dQxnJ1EItw9evNw0UYBLj13gha1Ip", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "18A8dQxnJ1EItw9evNw0UYBLj13gha1Ip", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ELgVXC9iDmIRq4qwvVOswqIMRfcIRtub", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1yFTQJ8ZP3YTKCErbi6bO9xr2D9L2XzO0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1TQ4Qz07bNbbZ62lWawHPSuUFK-B9PBSv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1I1b6eiVLsvJ2Vc2Blc8DMw1kUOYPUVz4", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1dXhl3Qf9u88xW5L3QYTrK6LSvoskmkOx", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1R5JWrKwR_iytveMTuhvDsmONgyHG_O90", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1qUmnuwvOeHNdWB_JtriZlN-VZP2SOqVc", "action": "rename", "newTitle": "Odeón, 18962 B, Calecita Negra (Atilio Supparo - Agustín Bardi), Carlos Gardel con Guitarras, Tango.jpg"},
+  {"fileId": "1TjbtfuuT0tWFF5w7tVwUOVfeCimrleh9", "action": "rename", "newTitle": "RCA Victor, 60-2091 A, Te Aconsejo que me Olvides (J. Curi - P. M. Maffia), Alberto Mancione y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1woNDDGxv4EJdAD6mytfQS7ietWKaW_mc", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1HRLXtf2Pp3i20jFKxQkhTbA_XObhkifx", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
