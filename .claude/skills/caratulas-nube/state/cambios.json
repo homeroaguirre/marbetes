@@ -68,5 +68,15 @@
   {"fileId": "1MNRgaNqRa9jSDJUuNLnZ2nYtJgjHGsYD", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1U0nMZlDrU_loCLqgk4KyEp1Au7lB5br1", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1wbPxIm8tn23w13OJkD-CJEHxtqCI1TvI", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1oqL-fApAEZX8K5zZogOBmSZ3Hod4ETAX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1oqL-fApAEZX8K5zZogOBmSZ3Hod4ETAX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1aKDO2aPt29VP2_MXmcEA3J8RR_yU0Lra", "action": "rename", "newTitle": "Odeón, 55421 B, Serrana Impía (Salvador Del Valle), Gardel-Razzano, Zamba.jpg"},
+  {"fileId": "18bBizmiCWMtdTecibuztZinnRKskc2VV", "action": "rename", "newTitle": "Odeón, 16114 B, Yo Tenía un Amorcito (Parravicini - Caruso - Canaro), José Bohr con Orquesta Jazz Band F. Canaro, Fox Trot.jpg"},
+  {"fileId": "1Gs-NEdwp4zNbG9H7nrotDZQH5SQ4unOm", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1aTRK3qczkOAwm_YAGJBbEetYa5cvt37v", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1s4uJ-US2bL-9fcKs6I3IZ3_zafDaQ67R", "action": "rename", "newTitle": "Odeón, 61002 A, Al Choclo (Ángel Villoldo), Tita Merello con Francisco Canaro y su Orquesta, Tango.jpg"},
+  {"fileId": "1UN0WL_vmIcCNwkFZsAZSitPRJ85LWzNC", "action": "rename", "newTitle": "Odeón, 11022 B, Por Ella (Caruso - Teisseire), Azucena Maizani con Orquesta Típica Canaro, Tango.jpg"},
+  {"fileId": "1L-TyCjuKYmdlvp7o8_TjCMMsidCGwWl7", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1mjPf-PEVgzMRbJ-cXeQHnqINFUV8GTvq", "action": "rename", "newTitle": "RCA Victor, 60-1631 B, Deshojando Margaritas (H. Sanguinetti - J. J. Guichandut), Feliciano Brunelli y su Orquesta Característica, Canta Roberto Lescur, Vals.jpg"},
+  {"fileId": "1fKUaYZRJXgczQdyWVRMxGdKTJrn4XJOT", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1mwfyPOKeawmEY3MZfnrD48aK1SDZf0HY", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
