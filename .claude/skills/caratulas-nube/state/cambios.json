@@ -58,5 +58,15 @@
   {"fileId": "1Djg-j-4ErzcB884QjZK0It6YSbOq6eT9", "action": "rename", "newTitle": "Brunswick, 1220 A, Corazón, Coime un Poco (A. Beliatti - G. Ginzo), Julio De Caro y su Orquesta Típica, Tango.jpg"},
   {"fileId": "1KjrKQ4zBMBH3rZ1VNoNQhBBlaeP5iphz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "15VN5Wmc10IgG6nst-Lj5T_GbiC-PcnrB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1ZITj_F5TaluHh2H7UmgilUwHOGlCGG8b", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1ZITj_F5TaluHh2H7UmgilUwHOGlCGG8b", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "136jrtO8XYgxO1nEkP9PzqhWizejS6UdW", "action": "rename", "newTitle": "Odeón, 7706 B, Lecherito del Abasto, Alberto Castillo y su Orquesta Típica, Canta Alberto Castillo.jpg"},
+  {"fileId": "13_XFBTMgk5m9ctAdgEhk6LcbUwkvbwH5", "action": "rename", "newTitle": "Odeón, 16213 A, Luna de Honolulu (F. Lawrence - C. A. Sánchez - L. J. Bates), Charlo con Orquesta Francisco Canaro, Vals.jpg"},
+  {"fileId": "1gPh0IU62Dum4VrAoy8ANsiSZenrQCr5o", "action": "rename", "newTitle": "Odeón, 18903 A, Quimera (A. Barbosa - J. González - L. Viappiano), Carlos Gardel con Guitarras, Tango.jpg"},
+  {"fileId": "1MtyEDCnmqNrg_ttNS47kmw3UJSBnDUow", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1NBWe1hnV170FCqQFo9WymOVLXWsNtAq2", "action": "rename", "newTitle": "Odeón, 18070 A, El Huérfano (Giménez - Aieta), Carlos Gardel con Guitarras Ricardo y Barbieri, Tango.jpg"},
+  {"fileId": "1xzd69kEZPH0xQkuWhFFRAi0gY6fA7r31", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1MNRgaNqRa9jSDJUuNLnZ2nYtJgjHGsYD", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1U0nMZlDrU_loCLqgk4KyEp1Au7lB5br1", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1wbPxIm8tn23w13OJkD-CJEHxtqCI1TvI", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1oqL-fApAEZX8K5zZogOBmSZ3Hod4ETAX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
