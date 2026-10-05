@@ -68,5 +68,15 @@
   {"fileId": "1h1yCqjnzrBJ3_WqwCFkc9tHuPpjAQ2Ff", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1Fbb2Xs7fRWPlTJDKHb2cTda1yNZFiWSP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1c4JOpQtftSWwf1CeHCkdmHr18vUZfufV", "action": "rename", "newTitle": "Odeón, 21161 A, Claveles Mendocinos (Alfredo A. Pelaja), Los Trovadores de Cuyo, Zamba Canción.jpg"},
-  {"fileId": "1GgF1EiTfTkmgXj6NSuryI8fzxrDK_Wa6", "action": "rename", "newTitle": "Odeón, 18857 A, Viejo Rincón (Roberto Cayol - Raúl de los Hoyos), Carlos Gardel con Orquesta Francisco Canaro, Tango.jpg"}
+  {"fileId": "1GgF1EiTfTkmgXj6NSuryI8fzxrDK_Wa6", "action": "rename", "newTitle": "Odeón, 18857 A, Viejo Rincón (Roberto Cayol - Raúl de los Hoyos), Carlos Gardel con Orquesta Francisco Canaro, Tango.jpg"},
+  {"fileId": "1Gm5AmXCJM00axnRaaBu23WLxBV4PJIcD", "action": "rename", "newTitle": "Victor, 80938 A, Recostao en un Farol (J. Aguilar - L. Mottolesse), Mercedes Simone, Tango.jpg"},
+  {"fileId": "1q3EJXUyKy7ut_j8Ia2ablj0vIswNd7rh", "action": "rename", "newTitle": "Odeón, 3028 A, Dolor de Preso (Anselmo Aieta), Roberto Firpo y su Orquesta Típica, Canta Francisco Laino, Tango.jpg"},
+  {"fileId": "123rYJPogbh_TVcwg6qdSsZUzLs1HhQVx", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Ynnpzh00BM7JRe_I3FAaXYEdR-pouM9l", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ZDp-ilmV2HHPV37mxS1NxR5RIKG_R_h4", "action": "rename", "newTitle": "Odeón, 18444 B, Llora tu Propio Dolor (Curi - Scatasso), Ignacio Corsini con 3 Guitarras, Tango.jpg"},
+  {"fileId": "1uOYMXoPF8NBOt_8wN0kd6-OiliZZSTib", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "140O_ASC7xcDXFEgWqzuDOj2m4lHEAntQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ykAqV0HNoF7QWYyz1p6m0gM4PsSfGx18", "action": "rename", "newTitle": "Victor, 80945 A, Fanfarrón (E. Cadícamo - L. N. Visca), Rosita Quiroga, Tango.jpg"},
+  {"fileId": "1BOKu0S787Ft9iMWGM_C7st1xhZSgLGUz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Gk2fpenkbfwUEtdCyHTV7P-M05MHnS4H", "action": "rename", "newTitle": "Odeón, 18996 B, Bailarín Compadrito (Miguel Bucino), Carlos Gardel con Guitarras, Tango.jpg"}
 ]
