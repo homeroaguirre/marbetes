@@ -48,5 +48,15 @@
   {"fileId": "1ZH5fpCTfnNuyH3GRLHnzJ6IOSjNbAX9R", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1qCbV94kMiMW6m6hOJBfURmHALS2ZCVT0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1yyY0yFpgWGGaMan6VXILJOaS2ZddizZV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1UHmkS_xzRBBxxSIiXkC_-VOLQTWQyhMv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1UHmkS_xzRBBxxSIiXkC_-VOLQTWQyhMv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1XJijT0kwG3WrHrdrRMD4TZJk43mVC2Z5", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1t6xxxy0WD34Yas1UY_-tjmT-uZBNJPY9", "action": "rename", "newTitle": "Odeón, 4547 B, No Me Olvides (Charlo), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1i2qEkm35_CLhFkpWhh2xHiRQis2bH-7J", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1MbiayUJhiYzdgf-fUa7WDj9NznpbSgse", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ITNJj_MeJNyIsxN94UE02nSghkloTWUC", "action": "rename", "newTitle": "Victor, 47256 B, No Te Fíes Nunca de las Rubias (L. Mas - A. Schujer), Adolfo Carabelli y su Orquesta, Canta E. Famá, Fox Trot.jpg"},
+  {"fileId": "1d3iIcoXfYmsmiKp_bTyCqSqNuKLwxpa5", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Djg-j-4ErzcB884QjZK0It6YSbOq6eT9", "action": "rename", "newTitle": "Brunswick, 1220 A, Corazón, Coime un Poco (A. Beliatti - G. Ginzo), Julio De Caro y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1KjrKQ4zBMBH3rZ1VNoNQhBBlaeP5iphz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "15VN5Wmc10IgG6nst-Lj5T_GbiC-PcnrB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ZITj_F5TaluHh2H7UmgilUwHOGlCGG8b", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
