@@ -38,5 +38,15 @@
   {"fileId": "1RNf6gotK3Z-6W4aJvOQf8lp_BcS4IkIF", "action": "rename", "newTitle": "Odeón, 30356 A, El Rápido (Roberto Firpo), Astor Piazzolla y su Orquesta Típica, Tango.jpg"},
   {"fileId": "1PynwNXysTcL4Ughqd4uicmefoTO4ZjDB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1_vFtyao7fJ-GNg9TeCgRNMiv5KoMxV4g", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1ND9PZduPpbtY9j-URrCfLZKxuY_JVvFZ", "action": "rename", "newTitle": "RCA Victor, 60-0723 B, Con Alma y Vida (C. Di Sarli), Carlos Di Sarli y su Orquesta Típica, Canta Jorge Durán, Milonga.jpg"}
+  {"fileId": "1ND9PZduPpbtY9j-URrCfLZKxuY_JVvFZ", "action": "rename", "newTitle": "RCA Victor, 60-0723 B, Con Alma y Vida (C. Di Sarli), Carlos Di Sarli y su Orquesta Típica, Canta Jorge Durán, Milonga.jpg"},
+  {"fileId": "105q5YbznTst6PwrIdta0BYfrJ2OL4GHd", "action": "rename", "newTitle": "Victor, 79632 A, La Musa Mistonga (A. Polito - C. Flores), Rosita Quiroga, Tango.jpg"},
+  {"fileId": "1LgTDHk_w_yYACYEizu_4VBn5bOPfaV4K", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1iqwdIoLBYd2RvlS5HKahnpH5WGL_iUAz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "15NSlZfNti8cEaIgOkzJnRha-A0Sh4dkX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1B1ee5VsvXIHfgIE6soGxM3ozTequiSj3", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1uuFJoqNDd4LEkdekScss6e9gLdgAC0z7", "action": "rename", "newTitle": "Victor, 38326 A, La Cumparsita (Gerardo H. Matos Rodríguez), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1ZH5fpCTfnNuyH3GRLHnzJ6IOSjNbAX9R", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1qCbV94kMiMW6m6hOJBfURmHALS2ZCVT0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1yyY0yFpgWGGaMan6VXILJOaS2ZddizZV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1UHmkS_xzRBBxxSIiXkC_-VOLQTWQyhMv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
