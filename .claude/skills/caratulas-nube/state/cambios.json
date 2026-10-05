@@ -38,5 +38,15 @@
   {"fileId": "1RY7M5CxuBE1NZmqQyEQPZjQp3YlpPlfb", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1Xb5y30Cv6UgFkggrudhB3jFlkB8q0jq1", "action": "rename", "newTitle": "Odeón, 6885 A, Diablito (P. M. Maffia), Maffia - De Franco, Tango.jpg"},
   {"fileId": "12XHCe4ueA158PVsEyca9PSQ_Bki6ym1P", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "11KRCAsu697OjHtXqV9BoNcWHv9c-kU31", "action": "rename", "newTitle": "Odeón, 7704 A, ¡Y Siempre Igual! (Arturo Gallucci - Luis Caruso), Alberto Castillo y su Orquesta Típica, Canta Alberto Castillo, Tango.jpg"}
+  {"fileId": "11KRCAsu697OjHtXqV9BoNcWHv9c-kU31", "action": "rename", "newTitle": "Odeón, 7704 A, ¡Y Siempre Igual! (Arturo Gallucci - Luis Caruso), Alberto Castillo y su Orquesta Típica, Canta Alberto Castillo, Tango.jpg"},
+  {"fileId": "1dIA89llQLCxunzj8Oi0Jsd3UlRIip6o0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1QPNpYwfIeCB4hySlrJXj5RsDRuDXtlTp", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1XKbdLm9rygnIy7HDO7OIzNE_OUKjGixQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1YAhb8ybnV5j_eZebq9uqvG17mPRWAhkO", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1CyBizXucunHABWwEhN_onPKJJmjcdDdm", "action": "rename", "newTitle": "Odeón, 6980 A, La Cabeza del Italiano (A. Scatasso), Francisco Canaro y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "197UBP3uTS5wDYPcYGEGnd4B8j8UE5Gie", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1dG9r_LduM0TG-ZRMjvThaDOXWw83Smor", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "12FnIXGv7-ewQw_zXl0-1lAcqYCEMF96K", "action": "rename", "newTitle": "Victor, 47034 A, Angela Mía (Erno Rapee - José Nadal), Alberto Vila, Canción.jpg"},
+  {"fileId": "1YLf6hgF8P49zmGfP40EuQTSyPloDmmo0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1dnGMD2HqIiCER62mXcuL2lgm5nGK1vt9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
