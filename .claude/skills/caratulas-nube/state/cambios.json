@@ -38,5 +38,15 @@
   {"fileId": "1QMfgGMOTW0WPxocLzyS7LZKWoIioe9D5", "action": "rename", "newTitle": "Odeón, 11704 B, Malele de Antaño (M. Romero - E. Delfino), Sofía Bozán con Trío Enrique Delfino, Tango.jpg"},
   {"fileId": "1rj5p_SPVrDmJEkZGROhlXN_chdbUhuav", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1ENwOQu7f2E4ovHJ6bHu3DKNOGwsmKzK6", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1BsYy8QRvsQfoCeOMPlNViwj8JPZwSU24", "action": "rename", "newTitle": "RCA Victor, 60-0822 A, Leguisamo Solo (Modesto Papavero), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Tango.jpg"}
+  {"fileId": "1BsYy8QRvsQfoCeOMPlNViwj8JPZwSU24", "action": "rename", "newTitle": "RCA Victor, 60-0822 A, Leguisamo Solo (Modesto Papavero), Juan D'Arienzo y su Orquesta Típica, Canta Alberto Echagüe, Tango.jpg"},
+  {"fileId": "1xr2SW0JuYFj_l4mz04mBbIZsojOXEXlP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1zv5r9uNuRFmX_l-tmbvL8rDdaJtnyrx_", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "165h6rHdIY87aMogiJU8Xzn8L568N6QoR", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1x_hd-8S7r3r5h6fMt0Sn703s5CUrbW19", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1BcOvjdRWqab09T2Ax3MW0L0VTEKSXJaU", "action": "rename", "newTitle": "Victor, 77970 B, Traviesa (C. Pérez - M. Batistella), Rosita Quiroga, Tango.jpg"},
+  {"fileId": "1nzKdDAqNT4jjwOUgECFhRL3vSqsdtJxQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1fKqIq1EBYX0OYUCODbqrghA8e9Ze-34C", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1lO4j3nuC1UhC8Nn1v92lSNheb6Q1E2Wd", "action": "rename", "newTitle": "Odeón, 3080 A, La Bordadora (Roberto Firpo - Juan Clauso), Roberto Firpo y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1nyCRWiSzTRjG56QFPhlVUlL9rDfTcZda", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1e0-TYj95OlOynFPknP9-Fx3Hfl7bH-_W", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
