@@ -1,12 +1,12 @@
 [
-  {"fileId": "1xla76AYPIQFwWEBSrTJecVHovB5Ermm9", "action": "rename", "newTitle": "Victor, 30908 B, Alfredo (A. Polata), Pelaia-Besada-Urruspuru, Vals.jpg"},
-  {"fileId": "1e9_2NedXN3vvxESly8jNzCJniEq2dJod", "action": "rename", "newTitle": "TK, S-5041 A, Milonguita (Esthercita) (Samuel Linnig - Enrique P. Delfino), Mercedes Simone acomp. Orquesta Emilio Brameri, Tango.jpg"},
-  {"fileId": "1ZVaWsxJwTD9PdxOGTY7mgvQv1JSJSATd", "action": "rename", "newTitle": "Disco Nacional, 4624 A, Vos También Tenés Tu Historia (F. Canaro), Orquesta Típica F. Canaro, Tango.jpg"},
-  {"fileId": "1gzXe_ueQQsHLu0Gi7JhX5T88rJ_rwNSd", "action": "rename", "newTitle": "Disco Nacional, 4089 A, Silbando (Castillo-Piana), Orquesta Típica Francisco Canaro, Tango.jpg"},
-  {"fileId": "1-_96Q2KKEC4LWlAlkl4FBpONFqIgvm3j", "action": "rename", "newTitle": "Brunswick, 1204 A, Gaucha, Julio De Caro y su Orquesta Típica, Tango.jpg"},
-  {"fileId": "11deAe3RIE5xpDkl5Y_-sVjTKyEqY_LdW", "action": "rename", "newTitle": "Victor, 47185 B, Atenti Pebeta (E. Flores - C. Ortiz), Orquesta Típica Victor, Canta R. Díaz, Tango.jpg"},
-  {"fileId": "1MZ2h7ZSZYKRJzUjObHkt-FnBcmdregqK", "action": "rename", "newTitle": "Disco Nacional, 6310 B, El Sabio (J. Canaro), Orquesta Típica, Tango.jpg"},
-  {"fileId": "1vrJHnszT7UfIIpXOpf9-vRDUJAi1wk8G", "action": "rename", "newTitle": "Disco Rob. Firpo, 548 B, 9 de Julio (Padula), Orquesta Roberto Firpo, Tango.jpg"},
-  {"fileId": "1xFYX7hYdQ4MXmKyVPOe6bAqCkMgGMoZa", "action": "rename", "newTitle": "Victor, 79736 A, Guardia Vieja (Julio De Caro), Julio De Caro y su Orquesta Típica, Tango.jpg"},
-  {"fileId": "1_n6yqEQfXoD2L-D5-LaYcXFUy30ffxkZ", "action": "rename", "newTitle": "RCA Victor, P-1457 B, Es el Pueblo (A. Helú), Nelly Omar y Coro de Fanny Day con Orquesta de Domingo Marafiotti, Marcha Canción.jpg"}
+  {"fileId": "119SJRn9slUTcEsFD8iCDz3u53HXRi5oV", "action": "rename", "newTitle": "Victor, 80807 A, La Movediza (M. Cabral - F. Lauro), Trío Los Nativos, Ranchera.jpg"},
+  {"fileId": "1O8X6NoiBon-ePfHzjPVoRTWGR308Bs7z", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1SdXTPxxoybkiQRP8Qa2Ph4ZA8CgiyNoJ", "action": "rename", "newTitle": "Victor, 79600 B, Canillita (Tomás de Bassi), Orquesta Típica De Caro, Tango.jpg"},
+  {"fileId": "1-ZuBKQxttZPEUps806d7rclyJLZ3XflU", "action": "rename", "newTitle": "Victor, 69813 A, El Garrón (de Alfredo y Juanita) (P. Ferrer), Enrique Delfino, Tango.jpg"},
+  {"fileId": "1eNHVNJZUZ3w34aT8L72pxvbPP-zF2ZvB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1-XLYHEvvX9-isfEFBKCCqwYIvRt77I-p", "action": "rename", "newTitle": "Brunswick, 1506 B, Asao y Mate pa' Tuitos (M. Parada), Manuel Parada, Ranchera.jpg"},
+  {"fileId": "1Klhl13a_jq8ayXs8VLrjGolO0mbOBJAr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "11rN8ZLqWUAC00yYcJLI9spD0yli9e_au", "action": "rename", "newTitle": "Odeón, 8492 B, Canción Escolar (Athos Palma - Raúl Vila), Coro y Orquesta Sinfónica Odeón - Dir. A. Gutiérrez del Barrio, Canción Escolar.jpg"},
+  {"fileId": "1YgCBc7pEl4-0JC4FNxF75GzUaJZ1DnNk", "action": "rename", "newTitle": "Disco Nacional, 16246 B, Malhaya, Charlo con Orquesta F. Canaro, Estilo.jpg"},
+  {"fileId": "1iY913olbdyFNJ4oTskBv7e-bmnAJIZKf", "action": "rename", "newTitle": "Pampa, PM 11019 A, Ventanita de Arrabal (Antonio Scatasso - Pascual Contursi), Ricardo Pedevilla y su Orquesta Típica, Canta Oscar Serpa, Tango.jpg"}
 ]
