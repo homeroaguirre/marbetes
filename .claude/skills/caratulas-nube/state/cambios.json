@@ -1,12 +1,12 @@
 [
-  {"fileId": "12RcQbdpZjpWGKSmromsvLh5HOEpexKs6", "action": "rename", "newTitle": "Disco Nacional, 6432 B, Yo También Tuve un Amor (J. Duval), Roberto Firpo Jazz Band, Shimmy.jpg"},
-  {"fileId": "1bv0tOBcHV3WBb-X21SGDvg9FqsHKVpTt", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "104Vce3vJ8mtmKGn6jiOONJ7WA1lBOtiF", "action": "rename", "newTitle": "Victor, 39322 A, Yo También (L. Rubistein - L. Visca), Hugo del Carril, Tango.jpg"},
-  {"fileId": "1L5CFisQgULGPqk1HOCRrlLz6bI5SiGrr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1yY0SKI6x3OTS2pi3tAcO6wG2oex13nue", "action": "rename", "newTitle": "RCA Victor, 60-1906 B, El Soldado (Reinaldo Yiso - Roberto Chanel), Florindo Sassone y su Orquesta Típica, Canta Roberto Chanel, Tango.jpg"},
-  {"fileId": "1K7KUi5Jtg0yHEUsVw3As6PjQCNOIj_X3", "action": "rename", "newTitle": "Disco Nacional, 18232 B, Cuando Volverás (Maffia-Staffolani), Carlos Gardel con Guitarras Ricardo-Barbieri, Tango.jpg"},
-  {"fileId": "1_Pk9vhpgrFzr0OF6ECLd3ZTcMXiSWBGm", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1nkXwEQv4ct34hioJ8_LCLUj0OaD_ftdl", "action": "rename", "newTitle": "Victor, 80847 A, Noche de Primavera (Juan Caldarella), Trío Los Nativos, Vals.jpg"},
-  {"fileId": "1roZckevF7WMlZvcJwVg0QpLM8-s8Ui_v", "action": "rename", "newTitle": "Disco Nacional, 10479 B, Luis Miguel (Molina - Quirós), Raquel Meller, Canción.jpg"},
-  {"fileId": "1de6GMN5w3ed7sXkgXqXA6kUWpnU_DBxr", "action": "rename", "newTitle": "Pathe, PG 11003 A, Araca Corazón (Enrique Delfino - Alberto Vaccarezza), Alfredo Attadía y su Orquesta Típica, Canta Armando Moreno, Tango.jpg"}
+  {"fileId": "1kAjR2erZzxfpeIQXp2biOMBg4zrQshE4", "action": "rename", "newTitle": "Disco Nacional, 5894 A, Los Gauchos de Madariaga, Mario A. Pardo, Estilo.jpg"},
+  {"fileId": "1RF8GS2HxubRGxdvYHpueLi4rzVhWRQPf", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "11OGrc46TrtMG39BhnW1Xm8sH3omiuZ5A", "action": "rename", "newTitle": "Disco Nacional, 18203 B, Abuelo, Carlos Gardel con Guitarras, Tango.jpg"},
+  {"fileId": "11R26KLEXJswIG0U9O_qEQGztQCzLSUAK", "action": "rename", "newTitle": "Victor, 47152 A, Vieja Guitarra (Omar Menvielle), Rosita Quiroga, Tango.jpg"},
+  {"fileId": "1BJc4k8oc8nvE-NdZjEQX0R7o__AENq2z", "action": "rename", "newTitle": "Odeón, 30551 A, La Muchacha del Circo (Gerardo H. Matos Rodríguez - Manuel Romero), Alberto Marino y su Orquesta Típica - Dir. Emilio Balcarce, Tango.jpg"},
+  {"fileId": "13118WRsMl8V3pdg-hDAPdnopWpH5sciB", "action": "rename", "newTitle": "Odeón, 30371 A, Selecciones de Gardel (Carlos Gardel - Alfredo Le Pera - Mario Battistella), Julio De Caro y su Orquesta Típica, Canta Roberto Medina, Tango.jpg"},
+  {"fileId": "1gsNqYKCtQqFm01HHQu2oJueS0pQSFli2", "action": "rename", "newTitle": "RCA Victor, 1A-1348 A, El Reloj (Roberto Cantoral), Juan D'Arienzo y su Orquesta Típica, Canta Jorge Valdez, Tango.jpg"},
+  {"fileId": "14UYjP1zlYp_rYo4gR_ong2oSCnYqzC7K", "action": "rename", "newTitle": "TK, S-5118 A, Las Carretas (Rodolfo B. Arrigorriaga - Néstor Feria), Rogelio Araya y su Conjunto de Guitarras, Milonga.jpg"},
+  {"fileId": "1ASxxbCJF2nOmCJ8BLzr_SLyJv1sifhQf", "action": "rename", "newTitle": "RCA Victor, 1A-0614 B, Historia de un Amor (Carlos Almarán), Libertad Lamarque con Chucho Zarzosa y su Orquesta, Bolero.jpg"},
+  {"fileId": "1epsMFwT_HyKVa0-aaO-Vy2yPow7ImdAm", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
