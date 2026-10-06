@@ -1,12 +1,12 @@
 [
-  {"fileId": "1mDpk0IYaqJbunCLAv_5dGlYf6lNY97ML", "action": "rename", "newTitle": "Odeón, 18807 A, Palomita Blanca (García Jiménez - A. Aieta), Carlos Gardel con Guitarras Barbieri-Aguilar, Vals.jpg"},
-  {"fileId": "1oY1JgXlienIe4AmQ21XpCqXgoGXB5pIN", "action": "rename", "newTitle": "Disco Nacional, 6861 A, Lluvia de Penas (Gabriel Clausi), Juan Maglio (Pacho), Vals.jpg"},
-  {"fileId": "1tYYtEZBFBBBXLcZZHKsBbfKlHA0y3NsQ", "action": "rename", "newTitle": "Disco Nacional, 4947 B, Los Patinadores (Emile Waldteufel), Francisco Canaro y su Orquesta Típica, Vals.jpg"},
-  {"fileId": "1uFxBUSltnA7_d_livVygcE1w4pBA9Eb0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1qM0d1PZhqldBI8SXIt1dsXOdjDccVRSh", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1osNjOLRMrOn9hqq4PwKDi9M97pscxToL", "action": "rename", "newTitle": "Victor, 79629 A, Fuiste (La Rocca - Roldán), Rosita Quiroga, Tango.jpg"},
-  {"fileId": "1F-q1YsfsIm_W4I7OUORLDFkYOQzfocLS", "action": "rename", "newTitle": "Disco Nacional, 6043 A, Sufra...! (E. Canaro), Roberto Firpo y su Orquesta Típica, Tango.jpg"},
-  {"fileId": "1XF8-J_8G5mjCRxlLealMSBdzzZwPPidZ", "action": "rename", "newTitle": "Victor, 72225 B, A Buen Tiempo (E. Delfino), Orquesta Típica Argentina Celestino, Tango.jpg"},
-  {"fileId": "1x3L9pg77MXem-Zah41GHppk5GauvJJq4", "action": "rename", "newTitle": "Disco Nacional, 9502 B, Tierra Hermana (G. Barbieri), Trío de Guitarras Ricardo Barbieri-Aguilar, Tango.jpg"},
-  {"fileId": "1kcVCO-Ewl0dd5WLUeE6aOGbbCT6jYrgu", "action": "rename", "newTitle": "Victor, 47159 A, El Choclo (A. G. Villoldo), Orquesta Típica Victor, Tango.jpg"}
+  {"fileId": "1B9qWPTOWtGez_UHFNVLKvPCgLAv7xchS", "action": "rename", "newTitle": "Victor, 37229 B, Bajo las Estrellas (Manuel Romero - Adolfo Carabelli), Adolfo Carabelli y su Orquesta, Canta Nico, Fox Trot.jpg"},
+  {"fileId": "1oE0u998Eik0XrtaizV-uIEYAArFJLHD_", "action": "rename", "newTitle": "Victor, 37476 B, El Pibe (Vicente Greco), Orquesta Típica Victor, Tango.jpg"},
+  {"fileId": "1NYo3cCsLTx0UXf2mqgBSnE9LjjalHBEd", "action": "rename", "newTitle": "Odeón, 18139 B, Cicatrices (Maroni - Avilés), Carlos Gardel con Guitarras Ricardo y Barbieri, Tango.jpg"},
+  {"fileId": "1ESO1kGDCgAl43sxRVT5X4XWuV7L0CzaV", "action": "rename", "newTitle": "RCA Victor, 60-1485 A, Adoración (Argüello - Pidoto), Alfredo Gobbi y su Orquesta Típica, Canta C. Heredia - H. Soler, Vals.jpg"},
+  {"fileId": "1n7c0MlMD7dv7VBmpXTwFaPsvaf7fUfGc", "action": "rename", "newTitle": "Victor, 79871 B, Aguita de la Vertiente (H. Ruiz Díaz - L. Viapiana), Dúo Pelaia-Italo, Zamba.jpg"},
+  {"fileId": "1bR3eoTMXYqghjzFdsIW2wbzZAwpBCCyK", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Fo57betlBhe-k1cG4QNzT0sGSFe5wnNp", "action": "rename", "newTitle": "Victor, 37078 A, A Su Memoria (Homero Manzi - Antonio Sureda), Francisco J. Lomuto y su Orquesta Típica Sinfónica, Canta Acuña - Díaz, Vals.jpg"},
+  {"fileId": "1B_YICWu4PBOFczgpUTnVdfL-AgAdtwcF", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1eYJQaHcLZANElkDtlfRRkvLt9titjXwH", "action": "rename", "newTitle": "Disco Rob. Firpo, 568 B, La Carcajada (R. Firpo), Orquesta Roberto Firpo, Tango.jpg"},
+  {"fileId": "1cJNHKHlHhULubRX3yk9mjVMb2_xr6_ML", "action": "rename", "newTitle": "RCA Victor, 60-1658 A, Concierto en la Luna (Osmar Maderna), Osmar Maderna y su Orquesta Típica, Tango Fantasía.jpg"}
 ]
