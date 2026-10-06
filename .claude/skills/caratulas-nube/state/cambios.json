@@ -1,12 +1,13 @@
 [
-  {"fileId": "1NOIvjbWvrD-NsoZM3KQpjVUUQ-JU8wRY", "action": "rename", "newTitle": "Disco Nacional, 7861 B, Amor y Celo (M. Padula), Orquesta Típica F. Lomuto, Vals.jpg"},
-  {"fileId": "1ws1CC4ymeoOQ_Bp7eYXtVxQAR2X1OWI1", "action": "rename", "newTitle": "Disco Nacional, 6490 A, Mi Diosa (Francisco De Caro), Orquesta Típica R. Firpo, Tango.jpg"},
-  {"fileId": "1KHX7JKy0vOq3I86HskLG_q2BSR-IabDs", "action": "rename", "newTitle": "Victor, 37481 A, La Enana (Feliciano Brunelli), Cuarteto Criollo Brunelli, Ranchera.jpg"},
-  {"fileId": "1n-rhh8v0sK1Itsd4Bqdr6ASg5ogRgqaI", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1aXRTforxClPjhHzPDI_vXC7jjjjggvpd", "action": "rename", "newTitle": "Odeón, 16118 B, Quiero Verte Una Vez Más (Contursi hijo - Mario Canaro), Charlo con Guitarras, Tango.jpg"},
-  {"fileId": "1LWwN-drT3-CYKq6MwoYQt9lEfkIb4_NQ", "action": "rename", "newTitle": "RCA Victor, 39579 A, Pa' Que Bailen los Muchachos (E. Cadícamo - A. Troilo), Aníbal Troilo y su Orquesta Típica, Canta Fiorentino, Tango.jpg"},
-  {"fileId": "1MwYF5LLZn03DyX4wQJJWNU3lZUmg02rM", "action": "rename", "newTitle": "Victor, 79833 B, Corazón Herido (F. De Caro), Julio De Caro y su Orquesta Típica, Tango.jpg"},
-  {"fileId": "1gngGxAAQGAGvnKVGxOfLQnq_Sa1fe2Gw", "action": "rename", "newTitle": "RCA Victor, 37168 A, Cuando Miran Tus Ojos (Enrique Cadícamo - José Aguilar), Charlo con Guitarras, Vals Criollo.jpg"},
-  {"fileId": "1llmSBNqZ547zqJrts8yJm-vDl8JG-Z0E", "action": "rename", "newTitle": "Victor, 47082 A, Aires Españoles (C. Marcucci), Carlos Marcucci, Instrumental.jpg"},
-  {"fileId": "15z8J672OVELzcbxr88_enEiGC6xzVu3Z", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1KHX7JKy0vOq3I86HskLG_q2BSR-IabDs", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1sGol3XjQOwiVgDnQmigBKtGJL56m5CBF", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "16eUMSFhDFQlBR3GZ2suAB9bPzCQ_ZiN3", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1G_PPZpfLFx94zyDunNXY-2zH401XtiUT", "action": "rename", "newTitle": "Disco Nacional, 7716 A, La Mascarita (J. V. Bosio), Orquesta Típica F. Lomuto, Tango.jpg"},
+  {"fileId": "1EGzJk63kEkUhvATtwSNLClIq-OOiq-Cl", "action": "rename", "newTitle": "Disco Nacional, 4107 B, Juguete de Placer (C. Castillo), Orquesta Típica Francisco Canaro, Tango.jpg"},
+  {"fileId": "1NGy_g1zxo0HC1_dADladxfCWqEQQY7qv", "action": "rename", "newTitle": "Odeón, 30359 B, De Mi Bandoneón (Roberto Pérez Prechi), Astor Piazzolla y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1KwQuDBbRrOgHwaAd94t_7-BRVBJtCy3J", "action": "rename", "newTitle": "Victor, 38265 B, El Marne (Eduardo Arolas), Trío Ciriaco Ortiz, Tango.jpg"},
+  {"fileId": "1DFCv0xpGu3YxvbDwVeQUO0jWCX8yMFYm", "action": "rename", "newTitle": "RCA Victor, 82-5079 A, Después (Homero Manzi - H. Gutiérrez), Libertad Lamarque con Orquesta, Tango.jpg"},
+  {"fileId": "1zEqWdIh9NCMoN1O4hABx2v5RXBc4sNx8", "action": "rename", "newTitle": "RCA Victor, 60-1591 A, El Choclo (A. Villoldo), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1W3ld4FfIFbduQMOUAYpgai9A5sjJ5y_s", "action": "rename", "newTitle": "Disco Nacional, 4547 A, La Pulpera de Santa Lucía (E. Maciel), Orquesta Típica F. Canaro, Vals.jpg"},
+  {"fileId": "1EZlMFE7Pngn4qKshLkq5d56sP6lkbwjF", "action": "rename", "newTitle": "Victor, 37672 A, La Cumparsita (Gerardo H. Matos Rodríguez), Trío Ciriaco Ortiz, Tango.jpg"}
 ]
