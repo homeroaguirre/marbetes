@@ -1,12 +1,10 @@
 [
-  {"fileId": "14JzbBnlbeesN2OyguvPHuxaTRRHnO_Kw", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1f6FGmb3pDJgcs8ZlUQWZYCqvlD0WMin6", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1zZnjyNpBkdi74RQkCnkwIPVdkSbd86ci", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1wqGExQITsqX8e2vNNNljQa8WlWPG-EGu", "action": "rename", "newTitle": "Victor, 79632 A, La Musa Mistonga (A. Polito - C. Flores), Rosita Quiroga, Tango.jpg"},
-  {"fileId": "14BTuMSEF-IA4b90R_KudiOoXWKa5X9vA", "action": "rename", "newTitle": "Philips, P-42068 B, Japonesita (Amor Japonés) (Álvaro Retana - Agustín Bódalo), Jacinto W. y sus Tururu Serenaders, Shimmy.jpg"},
-  {"fileId": "1V7QVjEaH48VO4p2E1Um0_j7wAnk1RW41", "action": "rename", "newTitle": "Victor, 37175 A, Coplas y Toros (De Boixadeu - Zapata - De Torre), Libertad Lamarque, Paso Doble.jpg"},
-  {"fileId": "1ubeHlLgFJgaPSfKvQM8Z4JzMJZW385t_", "action": "rename", "newTitle": "Victor, 80809 B, Berretín (Pedro B. Laurenz), Julio De Caro y su Orquesta Típica, Tango.jpg"},
-  {"fileId": "1Q4jFSZyuMn70O8Ri9hZG7SKzhjsthifl", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1q3PrcTuCTE9f2oI15QWv59GqPRL8I2LN", "action": "rename", "newTitle": "Victor, 47035 B, Te Fuiste Ja... Ja... (G. Matos Rodríguez), Orquesta Típica Victor, Tango.jpg"},
-  {"fileId": "1rPHe8UUxJ1TuBQFZV0Dn0AJF9kqGSRyE", "action": "rename", "newTitle": "Brunswick, 2111 A, Severino (L. de Senti), Azucena Maizani, Tango.jpg"}
+  {"fileId": "14AXcwaL8vjKFRtYX03CMOI6DlEmsQoO5", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1m7nJC9PN_VVs_BwgTdU4m_KfUgybqKyz", "action": "rename", "newTitle": "Victor, 37204 A, Queja Gaucha (Juan B. Viscio - Enrique Saborido), Orquesta Típica Los Provincianos, Canta Luis Díaz, Tango.jpg"},
+  {"fileId": "1LxoiK7H0Hw67FSaKL3F7JCfrrM-kQPqT", "action": "rename", "newTitle": "Victor, 37553 B, A Tu Memoria Madrecita (Alberto Cosentino), Orquesta Típica Los Provincianos, Canta Luis Díaz, Vals.jpg"},
+  {"fileId": "1knX23eK44u4k_M_MCv0U-ZNnerIwm5ro", "action": "rename", "newTitle": "Victor, 37248 B, Samaritana (Luis Rubistein - Nélida Marchese), Orquesta Típica Los Provincianos, Canta Nico, Vals.jpg"},
+  {"fileId": "1w8YnlB8SW7u4TbcursvHiQPUfRJLs1Fp", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1-rlxy26VSWJtVRb_1tgyqXHA3vpNBGxJ", "action": "rename", "newTitle": "Victor, 37553 A, Canto (Mario Battistella), Orquesta Típica Los Provincianos, Canta Luis Díaz, Tango.jpg"},
+  {"fileId": "1ZomorCB2LesOpVGLm9kjhFEfOkWuTZz-", "action": "rename", "newTitle": "Victor, 37204 B, Junto al Mar (V. P. del Campo - Lucio D'Agostino), Orquesta Típica Los Provincianos, Canta Luis Díaz, Vals.jpg"},
+  {"fileId": "1gIB7lgcfQbecBw7F-ovyBfffCjStkM5o", "action": "rename", "newTitle": "Victor, 37361 A, Mi (Me) (Irving Berlin), Orquesta Típica Los Provincianos, Fox Trot.jpg"}
 ]
