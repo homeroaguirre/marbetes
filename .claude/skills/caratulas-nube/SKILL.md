@@ -110,6 +110,17 @@ No es necesario preguntarle al usuario por cada caso dudoso: se mueve a
    movimiento único de creación de la carpeta `DUDAS_REVISAR` — eso es lo que le
    genera al usuario los diálogos de permiso que quiere evitar.
 
+   **Regla dura: nunca escribir un `fileId` en `cambios.json` sin haberlo obtenido
+   en ese mismo turno** de un resultado real de `search_files` / `download_file_content`
+   / `read_file_content` sobre el archivo que se está procesando. No copiar, adivinar
+   ni reconstruir un `fileId` de memoria o de un turno anterior. Esto existió como
+   problema real: una tanda entera (~100 fotos) quedó con `fileId` que no correspondían
+   a ningún archivo de Drive (ver `state/fileIds_no_encontrados.json`), y nadie lo
+   notó hasta que el script intentó aplicarlos. Si alguna duda sobre si el ID es el
+   correcto, volver a llamar `get_file_metadata` con ese ID antes de escribir la
+   entrada, y si no resuelve, no agregar la entrada (tratar el archivo como pendiente,
+   no como dudas).
+
    `cambios.json` es puramente un archivo de trabajo efímero (la cola de cambios
    que el script del usuario todavía no aplicó): no es un registro histórico de lo
    procesado. No se mantiene ningún otro archivo de estado (nada de
