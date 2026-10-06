@@ -1,11 +1,7 @@
 [
-  {"fileId": "145Q4LHCBeLWOdzhTHz-63TgcZsfp77Ks", "action": "rename", "newTitle": "Philips, P-42070 A, Islas Canarias (José M. Torregrosa - Juan Picot), Gasparín y su Conjunto, Paso Doble.jpg"},
-  {"fileId": "1BVXZrBAJbnyuBO5eqEd4a-uDb9-ujPPT", "action": "rename", "newTitle": "TK, SA-20038 A, Milonga Triste (Homero Manzi - Sebastián Piana), Ranko Fujisawa, Milonga.jpg"},
-  {"fileId": "1EAfIARXl6USXU54lPJDIqRLzwzDNIsKL", "action": "rename", "newTitle": "Odeón, 5215 A, Los Harapos de Mis Sueños (Mario Canaro - Francisco García Jiménez), Francisco Canaro y su Orquesta Típica, Canta Eduardo Adrián, Tango.jpg"},
-  {"fileId": "1E_1KBpYtaj4eZmSnqyqHMDO7O6ZCnASZ", "action": "rename", "newTitle": "Odeón, 7704 A, ¡Y Siempre Igual! (Arturo Gallucci - Luis Caruso), Alberto Castillo y su Orquesta Típica, Canta Alberto Castillo, Tango.jpg"},
-  {"fileId": "1GxpWOVo-o8TJtrAOfgVgh9mZt8ODV_AV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1PmImA0_wKyRE537DNWm4FyKKOctuvRRC", "action": "rename", "newTitle": "Victor, 78515 A, Oh, Paris! (J. Böhr), Orquesta Internacional, Fox Trot.jpg"},
-  {"fileId": "1REEiOf6Mo25fa7o5kpGFZUE3BOA5rWil", "action": "rename", "newTitle": "RCA Victor, 63-0112 B, La Número Cinco (Reinaldo Yiso), Alfredo Gobbi y su Orquesta Típica, Canta Jorge Maciel, Tango.jpg"},
-  {"fileId": "1Xod6Ohf5IKEJpeim3qrcnU-DD1ABxeQz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1tspW2HeRdB-NaNpJurHOad7ESGeewpBP", "action": "rename", "newTitle": "Odeón, 18250 A, ¡Piedad! (G. Pelay), Carlos Gardel con Guitarras Ricardo Barbieri y Aguilar, Tango.jpg"}
+  {"fileId": "1sQzK1vw_3ZmG8t3y9re1h9t-CSamvwcy", "action": "rename", "newTitle": "RCA Victor, 60-0790 A, Betinoti (Homero Manzi - Sebastián Piana), Trío Ciriaco Ortiz, Milonga.jpg"},
+  {"fileId": "1DAB2X4tSmLB99RGn62u5xA6l6K8GCtjR", "action": "rename", "newTitle": "Victor, 79942 B, Tradición (Fausto Frontera), Orquesta Típica Victor, Tango.jpg"},
+  {"fileId": "10QQoeOQt-j1zZCHOXqH5ydPwAlvVcoak", "action": "rename", "newTitle": "Victor, 73517 B, Beso de Muerte (Osman Pérez Freire), Orquesta Típica Fresedo, Tango.jpg"},
+  {"fileId": "1bVaOrTqoyH-_cg0l5GlLJrEpdqBknd5C", "action": "rename", "newTitle": "Victor, 79523 A, La Rosarina (J. Aguilar), Aguilar-Iriarte, Zamba.jpg"},
+  {"fileId": "1B2emYjWh1mjd9NZzHEw175b-WKJjU7pg", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
