@@ -1,12 +1,12 @@
 [
-  {"fileId": "119SJRn9slUTcEsFD8iCDz3u53HXRi5oV", "action": "rename", "newTitle": "Victor, 80807 A, La Movediza (M. Cabral - F. Lauro), Trío Los Nativos, Ranchera.jpg"},
-  {"fileId": "1O8X6NoiBon-ePfHzjPVoRTWGR308Bs7z", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1SdXTPxxoybkiQRP8Qa2Ph4ZA8CgiyNoJ", "action": "rename", "newTitle": "Victor, 79600 B, Canillita (Tomás de Bassi), Orquesta Típica De Caro, Tango.jpg"},
-  {"fileId": "1-ZuBKQxttZPEUps806d7rclyJLZ3XflU", "action": "rename", "newTitle": "Victor, 69813 A, El Garrón (de Alfredo y Juanita) (P. Ferrer), Enrique Delfino, Tango.jpg"},
-  {"fileId": "1eNHVNJZUZ3w34aT8L72pxvbPP-zF2ZvB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1-XLYHEvvX9-isfEFBKCCqwYIvRt77I-p", "action": "rename", "newTitle": "Brunswick, 1506 B, Asao y Mate pa' Tuitos (M. Parada), Manuel Parada, Ranchera.jpg"},
-  {"fileId": "1Klhl13a_jq8ayXs8VLrjGolO0mbOBJAr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "11rN8ZLqWUAC00yYcJLI9spD0yli9e_au", "action": "rename", "newTitle": "Odeón, 8492 B, Canción Escolar (Athos Palma - Raúl Vila), Coro y Orquesta Sinfónica Odeón - Dir. A. Gutiérrez del Barrio, Canción Escolar.jpg"},
-  {"fileId": "1YgCBc7pEl4-0JC4FNxF75GzUaJZ1DnNk", "action": "rename", "newTitle": "Disco Nacional, 16246 B, Malhaya, Charlo con Orquesta F. Canaro, Estilo.jpg"},
-  {"fileId": "1iY913olbdyFNJ4oTskBv7e-bmnAJIZKf", "action": "rename", "newTitle": "Pampa, PM 11019 A, Ventanita de Arrabal (Antonio Scatasso - Pascual Contursi), Ricardo Pedevilla y su Orquesta Típica, Canta Oscar Serpa, Tango.jpg"}
+  {"fileId": "1LurWZkpUsT-5QEOUTFqdChqGvaRdV0Ch", "action": "rename", "newTitle": "Odeón, 18998 A, Queja Indiana (Juan M. Ilich - Juan Rodríguez), Carlos Gardel con Guitarras, Tango.jpg"},
+  {"fileId": "1EvM4jpV4NF3pK64X1FrbmOxnqJPpRGU7", "action": "rename", "newTitle": "Odeón, 18851 B, Hasta que Ardan los Candiles (D. Novia Quiroga - F. Pracánico), Carlos Gardel con Guitarras, Ranchera.jpg"},
+  {"fileId": "1ELV8Mpihw-yvEyxV8MXSH4ao0qdtga_v", "action": "rename", "newTitle": "Continental, 16955 A, Louca (M. Jovés - A. Viergol), Juanita Cavalcanti com Antônio Sérgio, Tango.jpg"},
+  {"fileId": "1GmbHdJ-ISRgHRvKCyCRo9LWyrsgXJ3Hv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1KriwvRL43DMdWTrgNRNkMKqE36EHu1eW", "action": "rename", "newTitle": "Victor, 79647 B, El Automóvil (E. Barrios), Evaristo Barrios, Relato Criollo.jpg"},
+  {"fileId": "1Me0LjvFnyVTBus-64LFSR2oSquTi9_A9", "action": "rename", "newTitle": "Disco Nacional, 4186 A, Mocosita (Matos Rodríguez), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "13Vfk5d8aAi7fFi8wNtEw6097IpQBIVJO", "action": "rename", "newTitle": "Odeón, 4984 B, Como las Flores (Mario Canaro - Luis César Amadori), Francisco Canaro y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1KajTPK9neB-OoXtBEP9WYunkzpd-2Udy", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1zAcpsthLfM0O3J5AWmQqjOHT6jpxmzNK", "action": "rename", "newTitle": "Odeón, 5649 A, Copas, Amigas y Besos (Mariano Mores - Enrique Cadícamo), Rodolfo Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.jpg"},
+  {"fileId": "1hE4aL5uD61uKK9ZtYUCWchPRqeh1wCA6", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
