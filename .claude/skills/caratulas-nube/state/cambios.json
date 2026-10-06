@@ -1,10 +1,9 @@
 [
-  {"fileId": "14AXcwaL8vjKFRtYX03CMOI6DlEmsQoO5", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1m7nJC9PN_VVs_BwgTdU4m_KfUgybqKyz", "action": "rename", "newTitle": "Victor, 37204 A, Queja Gaucha (Juan B. Viscio - Enrique Saborido), Orquesta Típica Los Provincianos, Canta Luis Díaz, Tango.jpg"},
-  {"fileId": "1LxoiK7H0Hw67FSaKL3F7JCfrrM-kQPqT", "action": "rename", "newTitle": "Victor, 37553 B, A Tu Memoria Madrecita (Alberto Cosentino), Orquesta Típica Los Provincianos, Canta Luis Díaz, Vals.jpg"},
-  {"fileId": "1knX23eK44u4k_M_MCv0U-ZNnerIwm5ro", "action": "rename", "newTitle": "Victor, 37248 B, Samaritana (Luis Rubistein - Nélida Marchese), Orquesta Típica Los Provincianos, Canta Nico, Vals.jpg"},
-  {"fileId": "1w8YnlB8SW7u4TbcursvHiQPUfRJLs1Fp", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1-rlxy26VSWJtVRb_1tgyqXHA3vpNBGxJ", "action": "rename", "newTitle": "Victor, 37553 A, Canto (Mario Battistella), Orquesta Típica Los Provincianos, Canta Luis Díaz, Tango.jpg"},
-  {"fileId": "1ZomorCB2LesOpVGLm9kjhFEfOkWuTZz-", "action": "rename", "newTitle": "Victor, 37204 B, Junto al Mar (V. P. del Campo - Lucio D'Agostino), Orquesta Típica Los Provincianos, Canta Luis Díaz, Vals.jpg"},
-  {"fileId": "1gIB7lgcfQbecBw7F-ovyBfffCjStkM5o", "action": "rename", "newTitle": "Victor, 37361 A, Mi (Me) (Irving Berlin), Orquesta Típica Los Provincianos, Fox Trot.jpg"}
+  {"fileId": "1wb8wcqqiU4nPikdPpA2BlEOUZ1GQMVZf", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Kez5WppAJWitnXbIc_I37APqYCJsRv1p", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1FwrZHcM3KurRwyC1BCUIFqSbWQZZgQ1P", "action": "rename", "newTitle": "Victor, 37174 B, Lazos de Amores (Nicolás A. Trimani - P. H. Martínez), Orquesta Típica Los Provincianos, Canta Nico, Ranchera.jpg"},
+  {"fileId": "1EPf2J_trSFQM1auIErqcUlNco7LGhK_w", "action": "rename", "newTitle": "Victor, 37361 B, Guitarra Española (José Vázquez Vigo - Hugo Zamora), Orquesta Típica Los Provincianos, Canta Alberto Gómez, Paso Doble.jpg"},
+  {"fileId": "1Xmer2b2UCc_evTWKL_JZereHiOVo9Djz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "10jUZilM3rujQ-WccgqlKb_-urzfFm3wd", "action": "rename", "newTitle": "Victor, 37248 A, El Distinguido Ciudadano (Peregrino Paulos (h)), Orquesta Típica Los Provincianos, Tango.jpg"},
+  {"fileId": "1EmpNqU-shmpbA5slKkWqE4HfJ0QivWsC", "action": "rename", "newTitle": "Victor, 37174 A, Volvió la Princesita (Gerónimo Sureda - Antonio Sureda), Orquesta Típica Los Provincianos, Canta Luis Díaz, Vals.jpg"}
 ]
