@@ -1,7 +1,11 @@
 [
-  {"fileId": "1iG0KWHpAufLn4oiro-PJ-2zhlXaL5WCR", "action": "rename", "newTitle": "Disco Nacional, 4620 B, Un Sueño (Alfredo Ambrosio), Orquesta Típica F. Canaro, Tango.jpg"},
-  {"fileId": "15ZWhYTcaP5SeeE-eUnsJ4eUS7YL4w_Qv", "action": "rename", "newTitle": "Disco Nacional, 4355 B, Yo También Era Dichoso, Orquesta Típica F. Canaro, Tango.jpg"},
-  {"fileId": "1-A9n7m5lCrSvHpBkGdRWMbunXDIaCVPk", "action": "rename", "newTitle": "Victor, 37170 A, Reina Gitana (Hugo Gutiérrez - Hugo Zamora), Mercedes Simone, Paso Doble.jpg"},
-  {"fileId": "1YpDWPmc8JUJ1mmbPXLYupeoO-7H_ab3j", "action": "rename", "newTitle": "Disco Nacional, 4415 B, Viejo Ciego (S. Piana - C. Castillo - H. Manzi), Orquesta Típica F. Canaro, Tango.jpg"},
-  {"fileId": "18WXuACFwpcCkJ2X_HuIwOvnPuM1sNzR2", "action": "rename", "newTitle": "RCA Victor, 39245 A, Amor en Budapest (Erdélyi Mihály - Alberto Novarro), Francisco J. Lomuto y su Orquesta Típica, Canta Jorge Omar, Fox Trot.jpg"}
+  {"fileId": "145Q4LHCBeLWOdzhTHz-63TgcZsfp77Ks", "action": "rename", "newTitle": "Philips, P-42070 A, Islas Canarias (José M. Torregrosa - Juan Picot), Gasparín y su Conjunto, Paso Doble.jpg"},
+  {"fileId": "1BVXZrBAJbnyuBO5eqEd4a-uDb9-ujPPT", "action": "rename", "newTitle": "TK, SA-20038 A, Milonga Triste (Homero Manzi - Sebastián Piana), Ranko Fujisawa, Milonga.jpg"},
+  {"fileId": "1EAfIARXl6USXU54lPJDIqRLzwzDNIsKL", "action": "rename", "newTitle": "Odeón, 5215 A, Los Harapos de Mis Sueños (Mario Canaro - Francisco García Jiménez), Francisco Canaro y su Orquesta Típica, Canta Eduardo Adrián, Tango.jpg"},
+  {"fileId": "1E_1KBpYtaj4eZmSnqyqHMDO7O6ZCnASZ", "action": "rename", "newTitle": "Odeón, 7704 A, ¡Y Siempre Igual! (Arturo Gallucci - Luis Caruso), Alberto Castillo y su Orquesta Típica, Canta Alberto Castillo, Tango.jpg"},
+  {"fileId": "1GxpWOVo-o8TJtrAOfgVgh9mZt8ODV_AV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1PmImA0_wKyRE537DNWm4FyKKOctuvRRC", "action": "rename", "newTitle": "Victor, 78515 A, Oh, Paris! (J. Böhr), Orquesta Internacional, Fox Trot.jpg"},
+  {"fileId": "1REEiOf6Mo25fa7o5kpGFZUE3BOA5rWil", "action": "rename", "newTitle": "RCA Victor, 63-0112 B, La Número Cinco (Reinaldo Yiso), Alfredo Gobbi y su Orquesta Típica, Canta Jorge Maciel, Tango.jpg"},
+  {"fileId": "1Xod6Ohf5IKEJpeim3qrcnU-DD1ABxeQz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1tspW2HeRdB-NaNpJurHOad7ESGeewpBP", "action": "rename", "newTitle": "Odeón, 18250 A, ¡Piedad! (G. Pelay), Carlos Gardel con Guitarras Ricardo Barbieri y Aguilar, Tango.jpg"}
 ]
