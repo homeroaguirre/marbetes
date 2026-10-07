@@ -868,5 +868,55 @@
     "fileId": "16A6n6WnW_UMFPRo8iJIHvUSHH_B6N4rj",
     "action": "rename",
     "newTitle": "Disco Nacional, 5224 A, Che papusa oí (G. H. Matos Rodríguez), Orquesta Típica O. Fresedo, Tango.jpg"
+  },
+  {
+    "fileId": "1SqBUXPbV3lEkKHuMjgasGoTLaza7Cn7k",
+    "action": "rename",
+    "newTitle": "Odeón, 19024 B, Estampilla (M. Romero - E. Delfino), Carlos Gardel con acomp. de Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1l9hc6LK_EXbcIiAresbcS51TiwMPJxhO",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1D5u5fbVVSgldyWwvZOwVOx2XV8nsfwYL",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1IpPf1XesvJxo2FQeUkjPKrovMfekHOLS",
+    "action": "rename",
+    "newTitle": "Victor, 47068 B, Viejo patio (E. Cadícamo - J. C. Sanders), Rosita Quiroga con Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1-3H8y5NztLdzhxdeUFjlnNtPbLCtRYEk",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 638 A, Desde el alma (Rosita Melo), Roberto Firpo y su Orquesta Típica, Vals.jpg"
+  },
+  {
+    "fileId": "1G6icgWFQzHcjsNYGfqCEJvKudgV0Ncyj",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1fyvyvRV05x4jwnsdoXlODWpebSPgKAp1",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1PVgrfuJt-gCv5DkpkwP_yNjSQn4sUqVZ",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 6429 A, La chica de Mar del Plata (S. Lombardo), Roberto Firpo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1BsAKXhOpD-a0sDqAGjmSOGdEv2_GBlfE",
+    "action": "rename",
+    "newTitle": "Odeón, 55408 A, Cuando se ha querido mucho (Federico Leone - Enrique Dizeo), Rodolfo Biagi y su Orquesta Típica, Canta Jorge Ortiz, Tango.jpg"
+  },
+  {
+    "fileId": "1sHUOyDX1nXNSUOYc1o5rBwRnq7yxA3dX",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
