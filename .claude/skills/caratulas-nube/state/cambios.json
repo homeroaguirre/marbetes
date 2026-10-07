@@ -818,5 +818,55 @@
     "fileId": "1x1YH_yGPUhWTE5eRK4D0Jp18nJfAXEV1",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1F9HvKTei6xK-9hPNA53WqSRsD4hGi8rK",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Q2bXmJYQBAoFMoWIDCwKaQEnrdcxjgyL",
+    "action": "rename",
+    "newTitle": "Victor, 63-0114 B, Larga noche (Carlos Canapale - Roberto C. Vallejos), Alberto Mancione y su Orquesta Típica, Canta Jorge Ledesma, Tango.jpg"
+  },
+  {
+    "fileId": "1hpRdhG22HeQrtOu9fqPjQjFM2KOAGYfB",
+    "action": "rename",
+    "newTitle": "Odeón, 30365 B, República Argentina (Santos Discépolo - Reinaldo Ghisio), Astor Piazzolla y su Orquesta Típica, Canta Alberto Fontán Luna, Vals.jpg"
+  },
+  {
+    "fileId": "1q9lRSzHi-jvILdxgvuEmO0_2jiXoTX5t",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1dvf1bs0XeLyxGWfbl5FkvHpFZ_UIwjq9",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4262 B, La cumparsita (G. H. Matos Rodríguez), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1Nl-SLlsZ7X23iFCihV-oA9RVI3EhnUHU",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1CsKscAtG0s_E-X6L__dt_f82hXX-wVOw",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1DSmGVGftmIaKE4LQGhLJhcoRyXYgrBr-",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1s8ZjlBgKhfFVoYW1x3sj4_jIf8lR1eau",
+    "action": "rename",
+    "newTitle": "Pampa, PM 11001 A, Huracán (Edgardo y Osvaldo Donato - Nolo López), Edgardo Donato y su Orquesta Típica, Canta Carlos Almada, Tango.jpg"
+  },
+  {
+    "fileId": "16A6n6WnW_UMFPRo8iJIHvUSHH_B6N4rj",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 5224 A, Che papusa oí (G. H. Matos Rodríguez), Orquesta Típica O. Fresedo, Tango.jpg"
   }
 ]
