@@ -718,5 +718,55 @@
     "fileId": "1rYYQe_gwatMz6Z6_QLqpbxJyNjzl8IGH",
     "action": "rename",
     "newTitle": "Odeón, 30516 B, Diez de mayo (Juan Carlos Caccaviello), Roberto Firpo y su Nuevo Cuarteto, Milonga.jpg"
+  },
+  {
+    "fileId": "1Ac6dhHYMCcSVo-uLxpwdUXGsuYK3EjxO",
+    "action": "rename",
+    "newTitle": "Odeón, 30308 A, Rumor (Arr. Félix Villa), Adolfo A. Pérez \"Pocholo\" y su Orquesta Típica de la Guardia Vieja, Vals.jpg"
+  },
+  {
+    "fileId": "1Ek77nGqMX9C3FkXvYV_GJBHleitfYr3y",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18088 A, Triste entrerriano, Carlos Gardel con acomp. de Guitarras, Triste.jpg"
+  },
+  {
+    "fileId": "1XXYIsxpnSwMfRBPkx1Lw6pzLBz38t1Tj",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 11411 B, Linda santiagueña (Luis Mario Zadi Rima), Patrocinia Díaz con 3 Guitarras Freyre - Dávila, Zamba.jpg"
+  },
+  {
+    "fileId": "1CAsBWCNpVPk5d2UuXFpE7UYOsUsR6Yqo",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1N6UBXK2s3ZBM2WtjexUeIWHa9wbjrYHM",
+    "action": "rename",
+    "newTitle": "Odeón, 18963 B, Gaucho gris (Alejandro Sarni - Juan Carlos Barthe), Carlos Gardel con acomp. de Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1DVQZkRpZQ7eZAp0ZA96othk8Hl9vHlmT",
+    "action": "rename",
+    "newTitle": "Odeón, 19028 A, Gotas de veneno (Juan Carlos Welker - Alberto Tavarozzi), Carlos Gardel con acomp. de Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1grY4OMQ3Fo5DvFqUF283z0kXA5zwSHjn",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 7856 A, Muñeco al suelo (M. Papávero), Orquesta Típica F. Lomuto, Tango.jpg"
+  },
+  {
+    "fileId": "1Xw9fIdOqkZ1m4Sth9SZMWMdbQYl5CmIa",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1IviKHmjM7uwai4IVVGoqOD_I6cI_jYmT",
+    "action": "rename",
+    "newTitle": "Victor, 60-1199 B, Al pie de tu reja (E. Cárdenas - R. Rossi - G. Barbieri), Antonio Tormo y su Conjunto, Canta Antonio Tormo, Vals.jpg"
+  },
+  {
+    "fileId": "1KHS2KLYIRzoS043csytcXDDdeZeUPFHy",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
