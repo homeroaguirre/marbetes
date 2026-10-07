@@ -968,5 +968,55 @@
     "fileId": "13uuj-dvdlMRnBaBbEm1USvIRfADvKkRz",
     "action": "rename",
     "newTitle": "Disco Nacional, 4760 A, Taconeando (Pedro M. Maffia), Francisco Canaro y su Orquesta Típica, Canta José H. Staffolani, Tango.jpg"
+  },
+  {
+    "fileId": "1UVRu2PGvCYxbH2ZVugx3WOFWiRppfhB6",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1CLGjIsPaNiNz_zQLXSe2CnHteCpdHGqc",
+    "action": "rename",
+    "newTitle": "Victor, 79502 A, Julián (Donato - Parrizza), Rosita Quiroga con Guitarra E. Pereyra, Tango.jpg"
+  },
+  {
+    "fileId": "1Uqd5k-2XK5w1GI_wzIjk3drlEGsgC1jc",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "126dBs73tq26zNcdN6pCG1m90bTPmO3ry",
+    "action": "rename",
+    "newTitle": "Victor, 1488 A, La cumparsita (Gerardo H. Matos Rodríguez), Tito Schipa con Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1hJm91K7PiG5wizHV3cC1dXaYtQvLbzTy",
+    "action": "rename",
+    "newTitle": "Victor, 60-1373 A, La pastora (Saúl Salinas), Antonio Tormo y su Conjunto, Arpa Prudencio Giménez, Tonada.jpg"
+  },
+  {
+    "fileId": "1ZVGmQIAQsxdKkwp_ALm74srZnXjWmpQG",
+    "action": "rename",
+    "newTitle": "Brunswick, 1622 A, Sangre bohemia (A. Trípoli - F. Brancatti), Agustín Magaldi con Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "191XEBwNXDmuucjwSxiSRCLV6TYXW7Pro",
+    "action": "rename",
+    "newTitle": "Victor, 37901 B, Un placer (Andrés V. Alietti - Vicente Romeo), Juan D'Arienzo y su Orquesta Típica, Canta Walter Cabral, Vals.jpg"
+  },
+  {
+    "fileId": "1EVL2KTAZHHm7kaBsLYnncwex_ory49Wo",
+    "action": "rename",
+    "newTitle": "Odeón, 74318 B, Confesión (Enrique Santos Discépolo - Luis César Amadori), Francisco Canaro y Dalva de Oliveira, Tango.jpg"
+  },
+  {
+    "fileId": "1MadmCVizoGJgk5UA-G-jh8eTvShd1bgh",
+    "action": "rename",
+    "newTitle": "Disco Criollo, 4910 B, Venganza (Luis Rubistein), Francisco Canaro y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1IL1p3pcRrwRFwbTSKM3nLxo1smS-7CBj",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
