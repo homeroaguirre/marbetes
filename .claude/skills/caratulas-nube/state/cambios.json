@@ -568,5 +568,55 @@
     "fileId": "1YBDv8kqUOPL-cb7yaNSVZgqwkZJyTb-f",
     "action": "rename",
     "newTitle": "Odeón, 56555 A, El choco (Angel Villoldo - Enrique Santos Discépolo - Carlos Marambio Catán), Fernando Albuerne con Claudio Forbac y su Orquesta, Tango.jpg"
+  },
+  {
+    "fileId": "17KvtEogeSJ6cORxWIiZ5342cj-Gh5RWl",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1HIILPrNDmF5EOtFeTNUNq8nH47EmyG5V",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1u8DWdsLl3vCRSPOE7z9Pm6locG_W9i4y",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1qwh0o2yj6vIw160hKGzlCC9eI1Mgu6nK",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1dosmxccjoTnlSCSbFIHix9kcl8g0EXev",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1mDrOsul3-B2erdfZT47pALsstBjZxcHr",
+    "action": "rename",
+    "newTitle": "Odeón, 19002 A, Garabatos de mujer (Rodolfo Sastre), Carlos Gardel con acomp. de Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1WVDY0hPTtUFzIYVHBzSR6kS1Ksunx7ip",
+    "action": "rename",
+    "newTitle": "Victor, 47088 B, Adiós, adiós (A. Pelaia), Gómez-Vila, Vals.jpg"
+  },
+  {
+    "fileId": "1XQpWhYdcDGGqL603VdEavTNlonRXM_Lc",
+    "action": "rename",
+    "newTitle": "Trío, T-052 A, Casi caminando (Cristóbal Ramos - Herminio V. Bernasconi - Francisco Yofre), Alberto Podestá y su Orquesta, Canta Alberto Podestá, Tango.jpg"
+  },
+  {
+    "fileId": "13KK0OPbP4u6HO1tmVMZHZ3nNNuN1YGxX",
+    "action": "rename",
+    "newTitle": "Victor, 25739 A, Para mí eres divina (Jacob Jacobs - Sholom Secunda - Sammy Cahn - Saul Chaplin), Guy Lombardo y su Orquesta, Canta Trío Masculino, Fox Trot.jpg"
+  },
+  {
+    "fileId": "1nOu8qc6d1tbgvJA3-x1_SzuFFfSk0w-f",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
