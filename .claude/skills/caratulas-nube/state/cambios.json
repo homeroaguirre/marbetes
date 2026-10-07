@@ -1523,5 +1523,55 @@
     "fileId": "1v7bCQ8IaTca4OP-yO6G-P_8_a4Lyl2uW",
     "action": "rename",
     "newTitle": "Odeon, 18896 B, Promesa (Pablo Cavaldo Valle - Eddie Kay), Carlos Gardel.jpg"
+  },
+  {
+    "fileId": "1_YcKT9o4EAZi4y08iYCUggM9GqAHroJ6",
+    "action": "rename",
+    "newTitle": "Odeon, 52477 B, Ensueño (Antonio Sureda - Homero Manzi), Víctor De Paz y su Conjunto del 900, Vals.jpg"
+  },
+  {
+    "fileId": "1Npgi3IDWcJks5k0vDLoCHOemNPUNawfg",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Elv01ZC1GYwgz2iIhK0hhgAahDYagXDU",
+    "action": "rename",
+    "newTitle": "Odeon, 30703 B, Las cuerdas de mi guitarra (José Razzano - Esteban Celedonio Flores), Alfredo Attadía y su Orquesta Típica (Canta Jorge Beiró), Milonga.jpg"
+  },
+  {
+    "fileId": "10crVvupTqDOHNK4q9nu6L_N8IiaQzfnU",
+    "action": "rename",
+    "newTitle": "RCA Victor, 22729 A, Aquellos ojos verdes (Nilo Menéndez), Don Azpiazú y su Orquesta del Casino de la Habana (Canta Chick Bullock), Son-Fox Trot.jpg"
+  },
+  {
+    "fileId": "1WYUIdVtYlB_PFT4iw2tBxyMqjRqQ0T5H",
+    "action": "rename",
+    "newTitle": "Nacional, 18858 A, Madreselva (L. C. Amadori - Francisco Canaro), Carlos Gardel con Orquesta Francisco Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1x92_52o8tvk3pg9Im-uDWR0fXnsldnjY",
+    "action": "rename",
+    "newTitle": "Odeon, 194888 A, La cumparsita (Gerardo Matos Rodríguez), Harry Roy y su Orquesta, Rumba.jpg"
+  },
+  {
+    "fileId": "1rL7KisQLdBOazrxEN7cosxK-fezW2jIm",
+    "action": "rename",
+    "newTitle": "Trío, T-052 B, Quiero verte una vez más (Mario Canaro - José María Contursi), Alberto Podestá y su Orquesta (Dirige Cristóbal Ramos), Tango.jpg"
+  },
+  {
+    "fileId": "1rn6hjw-VGx0T4qkD-Kj9AWAXUBouUvEb",
+    "action": "rename",
+    "newTitle": "Nacional, 18257 A, Barra querida (Sánchez - C. Vedani), Carlos Gardel, Tango.jpg"
+  },
+  {
+    "fileId": "1lvFHP-rhySUi4GKtttQ3H7a47ydXHF9U",
+    "action": "rename",
+    "newTitle": "Odeon, 18967 B, Vieja recoba (Enrique Cadícamo - Rodolfo Sciammarella), Carlos Gardel.jpg"
+  },
+  {
+    "fileId": "1tFVIfxCjsBtK7Xs3WIPHQgtwoVYcDyY5",
+    "action": "rename",
+    "newTitle": "Nacional, 18594 A, Mucamita (A. Rodríguez Bustamante - R. Sciammarella), Ignacio Corsini.jpg"
   }
 ]
