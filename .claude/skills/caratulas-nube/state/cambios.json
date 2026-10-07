@@ -1068,5 +1068,55 @@
     "fileId": "1sm5HhKK4wDq1o5POGmMHupu3oPxNV_nG",
     "action": "rename",
     "newTitle": "Odeón, 19003 A, Medianoche (Eduardo Méndez - Alberto Tavarozzi), Carlos Gardel con acomp. de Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1tuC1qqYHtuA6vE7w60G-FlYEOj5nm4Q7",
+    "action": "rename",
+    "newTitle": "Odeón, 5309 A, Estampa (Ramón Gutiérrez del Barrio), Juan de Dios Filiberto y su Orquesta Porteña, Tango.jpg"
+  },
+  {
+    "fileId": "1U0hUZZgjvczvXiNyT9cezF-ID3l8_2y6",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 8715 B, Trátala con cariño (R. Tuegols), Roberto Firpo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "17k3a77W49EfNxN_hCFlNlkLc0fR0YjwB",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1_FOhrs65L2TaMchvvXIQiKDOAuFhskBi",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1c7eMYkA4WLqqOK1B4fzMqDrPSlWeNU6P",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 6915 B, Paramount (F. Canaro), Francisco Canaro y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1CGA5QxwQ98n3Wj8kq0ojs6u54ib2Vzr6",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1OZ81KgU2Uxy5JgSmTvIlwiaDKZVjzUOm",
+    "action": "rename",
+    "newTitle": "Victor, 79893 A, Cancionero (J. Aguilar - M. Buzón), Agustín Magaldi con Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1h1VjhEBRBH-bTiJGJnEVQ1caKH6InpkF",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1nohymn815ZRbDk3OUFRAHC6OWyQGv4_S",
+    "action": "rename",
+    "newTitle": "Victor, 60-1978 B, Cachadora (Francisco J. Lomuto), Francisco J. Lomuto y su Orquesta Típica, Canta Alberto Rivera, Tango.jpg"
+  },
+  {
+    "fileId": "1kWVRC-9iqRgxq2KbRLiMNyLR_MRa9Bvc",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
