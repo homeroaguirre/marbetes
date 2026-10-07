@@ -518,5 +518,55 @@
     "fileId": "1gEGYL-fwaFEpk4B93Tq-x6JT4NE5RfoW",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1W1mW8h154dG_iybgl8TBb0mP1y8RfITT",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "12YxNUNicF3oRdoFgTUIu49XdWKJUfBgN",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1W9xnfo24tAZV_jDKxytY1mKhENL0yhzS",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 8021 A, De cita en cita (J. Santiago Montoni), Roberto Firpo y su Orquesta Típica, Canta José Montoni, Tango.jpg"
+  },
+  {
+    "fileId": "1f2BcBvMQL7cF6evdZc9XAP7xxrQVb6H1",
+    "action": "rename",
+    "newTitle": "Victor, 37608 B, Ensalada mixta (Máximo Orsi - Edgardo Donato), Edgardo Donato y sus Muchachos, Canta Antonio Maida, Ranchera.jpg"
+  },
+  {
+    "fileId": "1lmZaY5AYX6p6jb75zpPa4hWfsV1S1BHJ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "180wzvrjU358l7Rg-o89DT3qePCwtAGbk",
+    "action": "rename",
+    "newTitle": "Odeón, 55878 A, Que nadie sepa mi sufrir (Cabral - Enrique Dizeo), Alfredo De Angelis y su Orquesta Típica, Canta Carlos Dante, Vals.jpg"
+  },
+  {
+    "fileId": "1zeXR4L9IrI--bHLME32CLfVt7Q7GBB4B",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 11233 A, Guitarra española (José Vázquez Vigo - Hugo Zamora), Ada Falcón con Orquesta Francisco Canaro, Pasodoble.jpg"
+  },
+  {
+    "fileId": "1I_uPDCJWO5gH2-JZ72lmcEzrrFsOaabi",
+    "action": "rename",
+    "newTitle": "Odeón, 6589 A, Mamá vieja (Juan Arenza - Lito Bayardo), José Luis Padula y su Orquesta, Zamba.jpg"
+  },
+  {
+    "fileId": "1xcT_nkM6ucDBdpCLaMPREVv0UD-xwH48",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1YBDv8kqUOPL-cb7yaNSVZgqwkZJyTb-f",
+    "action": "rename",
+    "newTitle": "Odeón, 56555 A, El choco (Angel Villoldo - Enrique Santos Discépolo - Carlos Marambio Catán), Fernando Albuerne con Claudio Forbac y su Orquesta, Tango.jpg"
   }
 ]
