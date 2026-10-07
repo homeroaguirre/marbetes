@@ -1623,5 +1623,55 @@
     "fileId": "1CkWvcPjAKR0y8CWiWWo5AEzxZ2lQG6Xb",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Z_Hup-PvLLTWtvmxYqSp1r5DoM0tJ61N",
+    "action": "rename",
+    "newTitle": "Victor, 73981 B, Negrita (A. P. Berto - Y. Duarte), Orquesta Típica Berto, Tango.jpg"
+  },
+  {
+    "fileId": "1KGERHZl_JYhPvLfTPM6d8f6GNJNGlH02",
+    "action": "rename",
+    "newTitle": "Nacional, 11703 B, Yira yira (Discépolo), Sofía Bozán con Trío Enrique Delfino, Tango.jpg"
+  },
+  {
+    "fileId": "1ySqBWWvZRQPOMJ_kiPX4I8kE1_fqMznn",
+    "action": "rename",
+    "newTitle": "Columbia, TX790, Ánfora de amores (G. Grossi), Orquesta Típica Pacho (J. Maglio), Vals.jpg"
+  },
+  {
+    "fileId": "1ZnqTYjGRXyHn7xUyNQKRH74ax49ZDjfG",
+    "action": "rename",
+    "newTitle": "Victor, 47199 A, La chica del 17 (Durán - Vila Boixador - Azagra), Libertad Lamarque, Paso doble.jpg"
+  },
+  {
+    "fileId": "1D-akvze4TnRgDvf5lFFxcakeEBKjxntr",
+    "action": "rename",
+    "newTitle": "Odeon, 7726 B, Chinita (Eleuterio Iribarren - E. Carrera Sotelo), Alberto Castillo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1C4j4BPhG2VzD7tNF3ldsFiLbiGXDSeiz",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1iY73i1PVtpDoXvas3nFkRFJpaaHMQTUJ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1FFEnvl6Up_1wNbClFgwyixmSAiXHpKCr",
+    "action": "rename",
+    "newTitle": "Odeon, 31807 A, La limosna (Juan J. Guichandut - Horacio Basterra), Alberto Marcal, Tango.jpg"
+  },
+  {
+    "fileId": "1_vcVhH2wCkyOAFcmnS4eiRCrvxvW0-G_",
+    "action": "rename",
+    "newTitle": "Victor, 47116 A, Cuando nada te debía (A. Chazarreta), Andrés Chazarreta y su Orquesta Típica de Arte Nativo, Bailecito Boliviano.jpg"
+  },
+  {
+    "fileId": "1vBhyHeMbu_3W5mKRKdQSrXohBBcfsZi4",
+    "action": "rename",
+    "newTitle": "Columbia, TX764, El alero (J. Maglio), Orquesta Típica Pacho (J. Maglio), Tango.jpg"
   }
 ]
