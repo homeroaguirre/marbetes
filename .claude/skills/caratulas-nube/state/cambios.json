@@ -1273,5 +1273,55 @@
     "fileId": "11rLSdlr7AD_UW9AttjXJvF7Vw8it-UbU",
     "action": "rename",
     "newTitle": "Nacional, 8885 A, Prisionero (A. Aieta), Orquesta Típica Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1PovApH3IzTpFacRW96zj3iN4CR26vM3M",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1So3d4Yf53B6O04GO7SG0ngk59caxcn7J",
+    "action": "rename",
+    "newTitle": "Columbia, C 15016 A, Bill Pecos (Johnny Lange - Eliot Daniel), Trío Hermanos Herrera, Corrido.jpg"
+  },
+  {
+    "fileId": "1EoEjRvScFbtqw2-p1aaWVcKlm6-85Gza",
+    "action": "rename",
+    "newTitle": "Victor, 47057 A, Portuguesa (V. Soliño - R. Collazo), Troupe Oxford, Fado.jpg"
+  },
+  {
+    "fileId": "1hOEwGIEUpeqqM_YCzLNqOTVVjzh21oRD",
+    "action": "rename",
+    "newTitle": "Columbia, 20677 A, Y no me digas no (Héctor Varela - Carlos Waiss), Héctor Varela y su Orquesta Típica (Canta Raúl Lavié), Tango.jpg"
+  },
+  {
+    "fileId": "1oxCwgpwjuTDTBpFgv88XNQjxFellz-9g",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1uG_gh2YQRW9Mq3Hs6LxHnf0rLd-d5_Aq",
+    "action": "rename",
+    "newTitle": "Odeon, 18997 B, Colorao colorao (C. Esteban Flores - Alberto H. Acuña), Carlos Gardel, Tango.jpg"
+  },
+  {
+    "fileId": "1-oD35eznLqkgf8oEICWu-8MeuiflQGI-",
+    "action": "rename",
+    "newTitle": "Brunswick, 1612 B, Las papas queman (C. Allende), Dúo Magaldi-Noda, Gato.jpg"
+  },
+  {
+    "fileId": "1bRCxGKW7ILPtI8T7rrGdbYEpKLZU8qBy",
+    "action": "rename",
+    "newTitle": "Victor, 80928 B, Te lo juro (V. Soliño - G. A. Zuasti), Libertad Lamarque, Paso doble.jpg"
+  },
+  {
+    "fileId": "1Tah87OSmq2HcnDFVA8GVemUgffz-dq62",
+    "action": "rename",
+    "newTitle": "HMV, B.6125 B, Mona Lisa (Sullivan), Ambrose and His Orchestra, Fox-trot.jpg"
+  },
+  {
+    "fileId": "1NaDqqAE_ba8NG16zC7rMdBmmzg2znt_W",
+    "action": "rename",
+    "newTitle": "Odeon, 3702 A, Jazmín Simón (Sebastián Piana - Cátulo Castillo), Manuel Buzón y su Orquesta Típica (Estribillo A. Mandarino), Milonga Negra.jpg"
   }
 ]
