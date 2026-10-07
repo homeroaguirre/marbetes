@@ -1118,5 +1118,55 @@
     "fileId": "1kWVRC-9iqRgxq2KbRLiMNyLR_MRa9Bvc",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1IIRhAYf7no8GMfaPj-s2obhH7aFSN6TN",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1LbfWR2jnZl5AEisFSXSKqjzbwEHNYqjR",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1g15yci0_Iv-aZO2XHvQfLojxYQsxq2ow",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1grG4RBLid9bcGNh9CszaY8zOdUFOoGxc",
+    "action": "rename",
+    "newTitle": "Victor, 79660 A, Populacha (A. Romano - A. Celenza), Julio De Caro y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1GTChANtKP1sbBrE118jeFxiWLMwf135w",
+    "action": "rename",
+    "newTitle": "Victor, 77392 A, Relato criollo (Manuel Pérez), Vega - Díaz, Estilo vidalita.jpg"
+  },
+  {
+    "fileId": "14N_dk3AZJQuAckkid-CVo_Kui_DXWu5Z",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1idcJrWH5YuyN0Tqz-TD5TMo6T7jcz9Gb",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1C0IlU1WK02ZExuTT-b5lA3opueL-oW57",
+    "action": "rename",
+    "newTitle": "Pampa, PS 5002 B, La cumparsita (Gerardo H. Matos Rodríguez), Juan Cambareri y su Cuarteto Típico, Tango.jpg"
+  },
+  {
+    "fileId": "1jR5T-t8bluuqwEnfI7gmvQBxCeJWf69K",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Gbee74YdXvwqGPTi-X7Js6i-Nf_7Y8e1",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
