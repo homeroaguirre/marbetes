@@ -1573,5 +1573,55 @@
     "fileId": "1tFVIfxCjsBtK7Xs3WIPHQgtwoVYcDyY5",
     "action": "rename",
     "newTitle": "Nacional, 18594 A, Mucamita (A. Rodríguez Bustamante - R. Sciammarella), Ignacio Corsini.jpg"
+  },
+  {
+    "fileId": "1UdpJ7t-PCoLTL_DTJb1Yhb4xb4fTUYsc",
+    "action": "rename",
+    "newTitle": "Brunswick, 1612 A, Aquel Don Juan (R. Sánchez - F. Brancatti), Agustín Magaldi, Tango.jpg"
+  },
+  {
+    "fileId": "15cPOEYqEGmD41gHTv-d54SPHbPex2eix",
+    "action": "rename",
+    "newTitle": "Homokord, 70202, El esquinazo (A. G. Villoldo), Orquesta Internacional, Tango Criollo.jpg"
+  },
+  {
+    "fileId": "1KaKyPyVyx10094ZXmdaMMS-Edho7Nw4T",
+    "action": "rename",
+    "newTitle": "Victor, 79533 B, Desilusión (J. M. Ruzzuti), Orquesta Típica Fresedo, Tango.jpg"
+  },
+  {
+    "fileId": "15jquZKrlhsIbaSM130T3vWSwSdEw4nQ5",
+    "action": "rename",
+    "newTitle": "Nacional, 18594 B, Hojarasca (E. Cadícamo - R. Pesoa), Ignacio Corsini, Tango.jpg"
+  },
+  {
+    "fileId": "184e1lVq7ghbEkpiH72c9o0xbLokXUGrS",
+    "action": "rename",
+    "newTitle": "Odeon, 19013 A, Uno y uno (L. Traverso - J. F. Pollero), Carlos Gardel, Tango.jpg"
+  },
+  {
+    "fileId": "1MGuo8nq5Sri4XTebg6aajo61IR6wLWh0",
+    "action": "rename",
+    "newTitle": "Nacional, 11207 A, Consuelo (A. Mondino), Ada Falcón con Orquesta Francisco Canaro, Paso doble.jpg"
+  },
+  {
+    "fileId": "1LO3gdGGz99WtC7VOMg1JE1noM7T9CbVL",
+    "action": "rename",
+    "newTitle": "Odeon, 196583 A, La bien paga (Perelló - Metazo), Miguel de Molina, Zambra.jpg"
+  },
+  {
+    "fileId": "1BtnXTWIjapofiGfby6-bpEVbmbgNmNLk",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1VmCCu9cJHEf8MTED1EEdDxlxcn1nQRmQ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1CkWvcPjAKR0y8CWiWWo5AEzxZ2lQG6Xb",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
