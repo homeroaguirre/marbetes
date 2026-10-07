@@ -768,5 +768,55 @@
     "fileId": "1KHS2KLYIRzoS043csytcXDDdeZeUPFHy",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1OoOA8vwQk2pf7N7wnVn7mfW_Qq3tc8FQ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1kGtnDQlvv_Ao0J26_RTlarWpkBabq8tx",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4450 A, Ramona (Mabel Wayne), Orquesta Típica F. Canaro, Vals.jpg"
+  },
+  {
+    "fileId": "1Wgu2huX20F9WBrtJP0X0xqqPufIzDrIf",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1fTJV0ia_fynGsX6QO668PrZT-TZahUfm",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1avOEuqSJWcDTxt5phRRBARyQYuSTLOtu",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Ll0elzb9cOODBZkvGE9whiWWRmUi5rX0",
+    "action": "rename",
+    "newTitle": "Victor, 79609 A, Sonsa (R. de los Hoyos), Maffia - Laurenz, Tango.jpg"
+  },
+  {
+    "fileId": "1RUBG9hJ6CTzHR3KjXSdVmmaJAC9w_-T6",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ZTpr4H7eD5SR92uBEQXN72fparuyzwbH",
+    "action": "rename",
+    "newTitle": "Brunswick, 1626 A, Ausencia (Magaldi - Noda - N. Quiroga), Agustín Magaldi con Guitarra, Triste campero.jpg"
+  },
+  {
+    "fileId": "12kJfIrGSSQJkEr9Nb6hqiAK9GAJNhEBm",
+    "action": "rename",
+    "newTitle": "Pampa, PS 5005 B, Presumido (Armando Baliotti - Martín Castro), Carlos Demaría y su Orquesta Típica, Canta Roberto Cortés, Milonga.jpg"
+  },
+  {
+    "fileId": "1x1YH_yGPUhWTE5eRK4D0Jp18nJfAXEV1",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
