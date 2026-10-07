@@ -1173,5 +1173,55 @@
     "fileId": "16msMhWtxHs3kUSoL54bR9r77KqLMWBuR",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1RuM1NAzizoJ0PoH7Gmfqf5nhmxo_LTd7",
+    "action": "rename",
+    "newTitle": "Nacional, 4450 B, Mis besos (M. Canaro), Orquesta Típica Francisco Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1G6yJE8W3ehgmvnqhsIVu8DaopfOoO2kM",
+    "action": "rename",
+    "newTitle": "Odeon, 194888 B, Sentimiento gaucho (Francisco Canaro), Harry Roy y su Orquesta, Swing.jpg"
+  },
+  {
+    "fileId": "1gm9VBhKPtIhbEM-eDdT1bgepX0IlN58e",
+    "action": "rename",
+    "newTitle": "Odeon, 1267 A, Se acabaron los otarios (F. Canaro), Orquesta Típica Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1EOajaU8aIFASDoreh0d9NIGqx96DvzSJ",
+    "action": "rename",
+    "newTitle": "TK, S-5056 A, Amarroto (Miguel Bucino - Juan Cao), Tito Martín (Canta Osvaldo Barbe), Tango.jpg"
+  },
+  {
+    "fileId": "1vrih6Gpo9N0YFywk6BTS-qglCmJtjXh4",
+    "action": "rename",
+    "newTitle": "Odeon, 18214 B, Gimiendo (Mortet - Perez), Carlos Gardel, Tango.jpg"
+  },
+  {
+    "fileId": "11Gl9iVSBYQcOOYI4gtAaJ5v0CpHZvsar",
+    "action": "rename",
+    "newTitle": "Victor, 327 B, Si tú supieras (Antonio Botta - Francisco J. Lomuto), Charlo, Ranchera.jpg"
+  },
+  {
+    "fileId": "1IQZnXRzWKxX0r7RuVRQXGuCRbe__IIYX",
+    "action": "rename",
+    "newTitle": "Nacional, 18179 A, A media luz (E. Donato - C. Lenzi), Carlos Gardel, Tango.jpg"
+  },
+  {
+    "fileId": "1UGtTqeWcj8iTLJBxsGKmGv13PBLqKuKD",
+    "action": "rename",
+    "newTitle": "Victor, 79703 B, Lobo de mar (S. Piana - F. Alvarez), Elena Piana, Tango.jpg"
+  },
+  {
+    "fileId": "1LclmkAGkw5jiAGFUojj7-wPXfFO3WXSK",
+    "action": "rename",
+    "newTitle": "Nacional, 7856 B, Corazón de oro (F. Matino), Orquesta Típica Francisco Lomuto, Tango.jpg"
+  },
+  {
+    "fileId": "1aRYNVUIgF6Jh9jf5SyOCd9Kolelwthlb",
+    "action": "rename",
+    "newTitle": "Victor, 47328 B, Yo tuve una novia (D. Silva Valdés - H. Matos Rodríguez), Alberto Vila, Canción.jpg"
   }
 ]
