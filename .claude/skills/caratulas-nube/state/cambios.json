@@ -1323,5 +1323,55 @@
     "fileId": "1NaDqqAE_ba8NG16zC7rMdBmmzg2znt_W",
     "action": "rename",
     "newTitle": "Odeon, 3702 A, Jazmín Simón (Sebastián Piana - Cátulo Castillo), Manuel Buzón y su Orquesta Típica (Estribillo A. Mandarino), Milonga Negra.jpg"
+  },
+  {
+    "fileId": "17RfmL13Ezctlc3iOKS-pw6ogdS8stntz",
+    "action": "rename",
+    "newTitle": "Royal Jazz, R.J. 730, Portrait of the Duke (Willie The Lion Smith), Willie The Lion Smith (acc. Wallace Bishop), Jazz.jpg"
+  },
+  {
+    "fileId": "1vVXkW_TXvbhQABTwUkLzzbP1dqrv5Goq",
+    "action": "rename",
+    "newTitle": "Victor, 7642 B, Muchachita lusa (C. Esteban Flores - Jorge Laupie), Mercedes Simone, Tango.jpg"
+  },
+  {
+    "fileId": "1EMo_liFYXmE6URySV75WDc8v0TSwa4vo",
+    "action": "rename",
+    "newTitle": "Nacional, 18924 A, La cumparsita (Contursi - Matos Rodríguez), Carlos Gardel, Tango.jpg"
+  },
+  {
+    "fileId": "1uuG3Z5afFBQ7aQ5uLFTiwDDp_g_TDTcd",
+    "action": "rename",
+    "newTitle": "Victor, 87001, Di quella pira (Verdi), Enrico Caruso, Ópera.jpg"
+  },
+  {
+    "fileId": "1RK8Xq1679vetH4TBVJUheAqMohZAobRp",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1j0KoHPYtk8NbRZZHSrpsNBK454_d_lgL",
+    "action": "rename",
+    "newTitle": "Columbia, TX761, La chitita (J. Maglio), Orquesta Típica Pacho (J. Maglio), Tango.jpg"
+  },
+  {
+    "fileId": "1xU6V2QpDs3vvZFwtvcQ0MuRtIqEjOwlh",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1vBDpIY5khBOjbzne_b5n2y4n3XE_2dFt",
+    "action": "rename",
+    "newTitle": "Nacional, 4408 A, No las que quiero (Delfino), Orquesta Típica Francisco Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1_rXqrcEZsQ5bzoiaZNgTXNt5hbrruEFv",
+    "action": "rename",
+    "newTitle": "Odeon, 11306 B, Náufrago (Luis Rubistein - Fidel Pinto), Mercedes Simone, Vals.jpg"
+  },
+  {
+    "fileId": "1AiY1uvwxsjAP-YkvfBwdi18TL9-yTOzv",
+    "action": "rename",
+    "newTitle": "Brunswick, 3064 A, Charleston Ball (Heywood), The Six Jumping Jacks, Fox Trot.jpg"
   }
 ]
