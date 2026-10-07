@@ -1423,5 +1423,55 @@
     "fileId": "1k5lRbgSFecvuYzC40HvGaYNnQKQqf0_o",
     "action": "rename",
     "newTitle": "Nacional, 11021 A, Callecita de mi barrio (Maroni Laporte - Gasparini), Azucena Maizani con Orquesta Típica Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1dgP_WguLVNppsYn1-LIFmBqBVpNzkmds",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1EOm1DD2Xbf9RDtWoDLPGoU3byEivzigq",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Gly6DqLMIowiD185qEWhEt505aEVdF5l",
+    "action": "rename",
+    "newTitle": "Brunswick, 1923 B, Amor celo (M. Padula - A. Roldán), Orquesta Típica Ricardo L. Brignolo (Estribillo L. Díaz), Vals.jpg"
+  },
+  {
+    "fileId": "1ZfsNxM_ie3lsEOReLU0oXqYrwzguCxPu",
+    "action": "rename",
+    "newTitle": "Odeon, 3523 B, Germaine (Alberto López Buchardo), Roberto Firpo y su Cuarteto, Tango.jpg"
+  },
+  {
+    "fileId": "1PQ5Ue1e-_GWm2XMzeyfgqXF-vtw_93au",
+    "action": "rename",
+    "newTitle": "Victor, 47152 B, Petrona (P. Ferreyra - P. Moreno - V. Spina), Rosita Quiroga, Tango.jpg"
+  },
+  {
+    "fileId": "1MHalF4UkP28RCbpXkl37TcvFpa0f4QNm",
+    "action": "rename",
+    "newTitle": "Victor, 77563 B, No sé qué tienen tus ojos (Rosa Pérez), Dúo Quiroga-Del Carril, Zamba.jpg"
+  },
+  {
+    "fileId": "11vYHbzEg6jpaQsnI2NN6AKBrElNK_A8S",
+    "action": "rename",
+    "newTitle": "Ansonia, 5001 B, Padre nuestro (E. Delfino - A. Vacarezza), Carlos Spaventa y sus Tres Guitarras, Tango Canción.jpg"
+  },
+  {
+    "fileId": "1d2z7pgjPitJsaYZnDwxouHvagJmE844h",
+    "action": "rename",
+    "newTitle": "Nacional, 18521 A, Julián Navarro (Vacarezza - Canaro), Ignacio Corsini (guitarras Aguilar-Pesce), Tango.jpg"
+  },
+  {
+    "fileId": "1s1mHx4Qsh5CnWdF86rfWFXzoGvlxMFWf",
+    "action": "rename",
+    "newTitle": "Odeon, 30411 B, Magaldi (Carlos Dante - Pedro Noda - Juan B. Tiggi), Alfredo De Angelis y su Orquesta Típica (Cantan Carlos Dante y Julio Martel), Vals.jpg"
+  },
+  {
+    "fileId": "1n5POLO_C61Ce62Ld6pwsPDDU4Dtqz6JP",
+    "action": "rename",
+    "newTitle": "Nacional, 4172 A, Caminito (J. De Dios Filiberto), Orquesta Típica Francisco Canaro, Tango.jpg"
   }
 ]
