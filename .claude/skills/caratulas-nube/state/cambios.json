@@ -918,5 +918,55 @@
     "fileId": "1sHUOyDX1nXNSUOYc1o5rBwRnq7yxA3dX",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1yirfHbFKEwLtMAhq6LLSodjJFcWqVhzV",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18866 B, Fondín de Pedro Mendoza (Luis César Amadori - Raúl de los Hoyos), Carlos Gardel con acomp. de Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1ExOCZTWBJjg1Ggi2zJIcAZb28Jpyta6s",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1X638idhw_shr4vuSWd77pP6GkXVCydrd",
+    "action": "rename",
+    "newTitle": "Odeón, 30503 B, Chamberguito de los gauchos (Pascual Carabillo), Roberto Firpo y su Nuevo Cuarteto, Milonga.jpg"
+  },
+  {
+    "fileId": "1KD77Vcdhfq24HD7i7-sEgHICR7_mLNRL",
+    "action": "rename",
+    "newTitle": "Victor, 68-0068 A, Caminito (Gabino Coria Peñaloza - J. de Dios Filiberto), Libertad Lamarque, Orquesta dirigida por Mario Maurano, Tango.jpg"
+  },
+  {
+    "fileId": "1hnfp3a6Jx6ZkepOQXfUiRXXYzKVy9V2N",
+    "action": "rename",
+    "newTitle": "Victor, 39193 B, Tres recuerdos (M. Romero - R. Sciammarella), Sabina Olmos con Orquesta, Vals.jpg"
+  },
+  {
+    "fileId": "1EzGcy2niJT7H30NBCv8q0j7-KLLxCpOz",
+    "action": "rename",
+    "newTitle": "Victor, 47132 B, Tengo miedo (C. E. Flores - J. Aguilar), Alberto Vila con Orquesta, Tango.jpg"
+  },
+  {
+    "fileId": "1M1m_JMr4ZumhM2xxCkPOKzKpOVWR0Sj7",
+    "action": "rename",
+    "newTitle": "Victor, 79750 A, Botellero (A. Sureda - Pomar Rivero), Libertad Lamarque con Orquesta, Tango.jpg"
+  },
+  {
+    "fileId": "1ywLZJY_ZjD656YdfGtiqul9e7jXQNSHl",
+    "action": "rename",
+    "newTitle": "Odeón, 3551 A, El amanecer (Roberto Firpo), Dúo de Pianos Roberto Firpo (Padre e hijo), Tango.jpg"
+  },
+  {
+    "fileId": "18b5-Mrjs5ZALgIJ35TVqWy6OKQA3k6qj",
+    "action": "rename",
+    "newTitle": "Odeón, 18937 A, Como se canta en Nápoles (E. A. Mario), Carlos Gardel con acomp. de Guitarras, Canción napolitana.jpg"
+  },
+  {
+    "fileId": "13uuj-dvdlMRnBaBbEm1USvIRfADvKkRz",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4760 A, Taconeando (Pedro M. Maffia), Francisco Canaro y su Orquesta Típica, Canta José H. Staffolani, Tango.jpg"
   }
 ]
