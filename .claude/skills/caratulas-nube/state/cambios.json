@@ -668,5 +668,55 @@
     "fileId": "1WPckljOCqo2jGGq7bdKwaN2hZQYTFsFP",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1pUUGtjet0w0JK1MpBtQSLXnRy5x1Auha",
+    "action": "rename",
+    "newTitle": "Odeón, 18815 A, Rosal de amor (E. P. Maroni - D. Riverol), Carlos Gardel con acomp. de Guitarras, Vals.jpg"
+  },
+  {
+    "fileId": "1rEUd4P3yfuEduAB-Ijwkb8zCiqJUDVAy",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1RIkzFJTL5h5E-q-oihKqsA6cYT1h_AXy",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18186 B, Calavera, viejo (Gardel - Razzano), Carlos Gardel con 4 Guitarras Ricardo y Barbieri, Tango.jpg"
+  },
+  {
+    "fileId": "1mu19byzmDOQwG-wruhneBurSA_RDUdN6",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18225 B, Te fuiste hermano (Cárdenas - Tavarozzi), Carlos Gardel con 4 Guitarras Ricardo y Barbieri, Tango.jpg"
+  },
+  {
+    "fileId": "1o_KEJ3ByfAKe6pC2tRxNBdOtj_MrgOaH",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18110 B, Tucumana (Navarrine - Delfino), Carlos Gardel con 4 Guitarras Ricardo y Barbieri, Zamba.jpg"
+  },
+  {
+    "fileId": "15TkyBWQuYBXDhwyIts0440IAMNcbg0_u",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1PvGfhxsgdRaxHYrxosUGep3f53chHegi",
+    "action": "rename",
+    "newTitle": "Victor, 80982 A, Paso la mina (E. Magaldi - B. del Mar), Agustín Magaldi con Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1RDbBRH0Rxq-kaOTqFPH3dYunjvc1mEDp",
+    "action": "rename",
+    "newTitle": "Odeón, 55580 B, La china de la mazorca (Héctor Pedro Blomberg - Enrique Maciel), Ignacio Corsini con acomp. de Guitarras, Canción.jpg"
+  },
+  {
+    "fileId": "1XqCXqm7joyomcKHLb3BnSdEaRiMcJxlH",
+    "action": "rename",
+    "newTitle": "Victor, 47366 A, Dónde estás corazón (L. M. Serrano - A. P. Berto), Alberto Gómez con Orquesta, Tango.jpg"
+  },
+  {
+    "fileId": "1rYYQe_gwatMz6Z6_QLqpbxJyNjzl8IGH",
+    "action": "rename",
+    "newTitle": "Odeón, 30516 B, Diez de mayo (Juan Carlos Caccaviello), Roberto Firpo y su Nuevo Cuarteto, Milonga.jpg"
   }
 ]
