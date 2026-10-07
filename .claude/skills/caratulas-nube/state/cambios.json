@@ -618,5 +618,55 @@
     "fileId": "1nOu8qc6d1tbgvJA3-x1_SzuFFfSk0w-f",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1VC2BLqCoD-YKQ7kP4ubNf3plMdwCYMFQ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1eeQ1OITDmU_sjOrwlFiyxxZC-DVLT5vd",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1EK_TagyYUoc4RjodWv9dNzrr-BQqRmGS",
+    "action": "rename",
+    "newTitle": "Victor, 37608 A, Riachuelo (Máximo Orsi - Edgardo Donato), Edgardo Donato y sus Muchachos, Canta Antonio Maida, Tango.jpg"
+  },
+  {
+    "fileId": "15r9oBjcT7p-1FkLFy7T3f5mhm35t7rSV",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1p8944xs2Lowok5bJ9Dj2iLK2wXvh-Xnt",
+    "action": "rename",
+    "newTitle": "Victor, 80013 A, Himno Nacional Chileno (Carnicer), Banda de la Marina de Chile, Himno.jpg"
+  },
+  {
+    "fileId": "1v-A4MG2Ce47Pmb5ipzG5iyFFxSpdxLL_",
+    "action": "rename",
+    "newTitle": "Pampa, PM 11039 A, El vinacho (José Razzano - Julio Navarrine), Edgardo Donato y su Orquesta Típica, Canta Carlos Almada, Milonga.jpg"
+  },
+  {
+    "fileId": "1qqElamTxJB8I0uHJYTBUCklDh3dLT_bR",
+    "action": "rename",
+    "newTitle": "Odeón, 55410 B, Viejo cochero (Eduardo Bonessi - Horacio Sanguinetti), Alberto Marino y su Orquesta Típica, Violín Hugo Baralis, Tango.jpg"
+  },
+  {
+    "fileId": "1lDaQJhIgL3L_EP8KgG039QdiF9etXrFe",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 6249 A, Mascarita (J. De Caro), Roberto Firpo y su Orquesta Típica, Tango con serrucho.jpg"
+  },
+  {
+    "fileId": "1m6TPBfS265XFOdFz8RhouJwicqWd_idF",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1WPckljOCqo2jGGq7bdKwaN2hZQYTFsFP",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
