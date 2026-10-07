@@ -1018,5 +1018,55 @@
     "fileId": "1IL1p3pcRrwRFwbTSKM3nLxo1smS-7CBj",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1_F_sdbPXZWk-GEgVuBHDgn-LEtlUXFID",
+    "action": "rename",
+    "newTitle": "Odeón, 30606 A, La cieguita (Kepler - Lais Ramucho), Osvaldo Pugliese y su Orquesta Típica, Canta Jorge Vidal, Tango.jpg"
+  },
+  {
+    "fileId": "1SZ2C7z82d2RdR_fmu9e_ofEaGIg27bqN",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1MYMXq7e9xJvUS65LqIieGIkwfYg5nXzC",
+    "action": "rename",
+    "newTitle": "Odeón, 1405 A, La cumparsita (Gerardo Matos Rodríguez), Félix Pérez Cardozo y su Trío de Arpa y Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1F78yCLjQ8X7NQ-70M7mwSdPEeZp2PDLW",
+    "action": "rename",
+    "newTitle": "Odeón, 55180 B, Amigazo (Francisco Brancato - Juan M. Velich - Juan de Dios Filiberto), Carlos Gardel con acomp. de Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1dBGRYP7O-WBtClS3la1zKe_5mjVAF1Is",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18866 A, Quién tuviera 18 años (Guillermo D. Barbieri), Carlos Gardel con acomp. de Guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1McoNwpXOAXwZselPqgqfuVfcmQKH3sjy",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1u7Xppr6-65Ktm6lhF9lA6oJWykK0tqly",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1M3FZXlgkbJr6CNEoZWei3ey81R4z6L6X",
+    "action": "rename",
+    "newTitle": "Odeón, 18919 A, La mariposa (Gardel - Razzano), Carlos Gardel con Guitarras Barbieri - Aguilar - Riverol, Estilo.jpg"
+  },
+  {
+    "fileId": "1qA0roi9kp2GEDJ38Yq05QC_xbK7HPpBO",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1sm5HhKK4wDq1o5POGmMHupu3oPxNV_nG",
+    "action": "rename",
+    "newTitle": "Odeón, 19003 A, Medianoche (Eduardo Méndez - Alberto Tavarozzi), Carlos Gardel con acomp. de Guitarras, Tango.jpg"
   }
 ]
