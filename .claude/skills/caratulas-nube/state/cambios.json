@@ -1373,5 +1373,55 @@
     "fileId": "1AiY1uvwxsjAP-YkvfBwdi18TL9-yTOzv",
     "action": "rename",
     "newTitle": "Brunswick, 3064 A, Charleston Ball (Heywood), The Six Jumping Jacks, Fox Trot.jpg"
+  },
+  {
+    "fileId": "1nfVhaGZo773yrretsIi0eJ9Y68v6Ezlx",
+    "action": "rename",
+    "newTitle": "Disco Gardel-Razzano, 18002 A, Brisas (Gardel - Razzano), Gardel-Razzano.jpg"
+  },
+  {
+    "fileId": "1mtJEUa_vic-k19RN5cVTmukqaDUTUONN",
+    "action": "rename",
+    "newTitle": "Nacional, 3094 B, Bichito de San Antonio (Daniel López Barreto - Emilio Morosini), Orquesta Típica Roberto Firpo, Ranchera.jpg"
+  },
+  {
+    "fileId": "10qQo5dcd1D0RWmHBkPUg7waMq4Lbu1g7",
+    "action": "rename",
+    "newTitle": "Victor, 37327 A, Rencor (Luis C. Amadori - Charlo), Charlo, Tango.jpg"
+  },
+  {
+    "fileId": "1nynZ7FCEYD3GJ-6T9n3O7f87E6HFY3iN",
+    "action": "rename",
+    "newTitle": "Nacional, 18067 B, Mano a mano (Flores - Gardel - Razzano), Carlos Gardel, Tango.jpg"
+  },
+  {
+    "fileId": "1wUDGg3hY5uks8l4jvulfzkc8h-hGYeyj",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ggOfRM6XudkXj3B6HOqZQ1Pi9Zc9sNga",
+    "action": "rename",
+    "newTitle": "Brunswick, 2102 A, Comadre (J. De Dios Filiberto - C. E. Flores), Azucena Maizani, Tango.jpg"
+  },
+  {
+    "fileId": "1kLRnQNmxuo_BcgXeLsVKXBF3M5iUYhPd",
+    "action": "rename",
+    "newTitle": "Nacional, 6311 A, Pa' que te acordés (F. Lomuto), Orquesta Típica Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1ykxjfJ0GgnM6fumWsWDZ1QM76j_8f_rn",
+    "action": "rename",
+    "newTitle": "Brunswick, 1611 B, Confesión (Magaldi - Noda - A. Lorusso), Dúo Magaldi-Noda, Tonada.jpg"
+  },
+  {
+    "fileId": "1ecwSXY7amJfZkxTXbPXvygAdXAyQle98",
+    "action": "rename",
+    "newTitle": "Nacional, 8949 A, Flor de pajonal (E. Maciel), Orquesta Típica Roberto Firpo, Ranchera.jpg"
+  },
+  {
+    "fileId": "1k5lRbgSFecvuYzC40HvGaYNnQKQqf0_o",
+    "action": "rename",
+    "newTitle": "Nacional, 11021 A, Callecita de mi barrio (Maroni Laporte - Gasparini), Azucena Maizani con Orquesta Típica Canaro, Tango.jpg"
   }
 ]
