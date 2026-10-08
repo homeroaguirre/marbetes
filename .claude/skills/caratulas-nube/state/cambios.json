@@ -2498,5 +2498,55 @@
     "fileId": "1ez8Np1Sq-usVwAD6S_SxhIYZqXHuyuqV",
     "action": "rename",
     "newTitle": "Victor, 79644 B, Por el Camino (Tagle Lara - C. Flores), Pelaia - Ítalo, Zamba.jpg"
+  },
+  {
+    "fileId": "1reue24HPbW-dFS7oZ9DbaVW2xw9hMdvC",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1mAsp1XgJJzVZqb55iBpeauoDTcVPv8b5",
+    "action": "rename",
+    "newTitle": "Roberto Firpo, 447 A, Flor de Fango (Gentile), Orquesta Roberto Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1FPNbj9-4xpsJ2Utb7z3OzCkwb1lybi_4",
+    "action": "rename",
+    "newTitle": "Victor, 80887 B, Mi Prenda sobre el Bagual (M. García Quiroga), Pelaia-Catán, Zamba.jpg"
+  },
+  {
+    "fileId": "1wrInKd8aogsck96OCNDmmC2kKYH2qdXK",
+    "action": "rename",
+    "newTitle": "Nacional, 4795 B, Vito Dumas (R. A. Domenech - J. F. Blanco), Francisco Canaro y su Orquesta Típica, Marcha.jpg"
+  },
+  {
+    "fileId": "1kShGfuN2bmOmvyUuc66z1aZDHV34mPCm",
+    "action": "rename",
+    "newTitle": "Nacional, 40020 B, Corazón de Oro (Francisco Canaro), Orquesta Típica F. Canaro, Vals con Variación.jpg"
+  },
+  {
+    "fileId": "1P7MfIm7rF17MUNZMsUPF60vydeU_ZHvo",
+    "action": "rename",
+    "newTitle": "Victor, 37270 A, Hamacándose (Seymour - O'Flynn - Wendling), Adolfo Carabelli y su Orquesta, Fox Trot.jpg"
+  },
+  {
+    "fileId": "1DXxNd6gBJ0MkwbFyJ16_otffsjF0URFV",
+    "action": "rename",
+    "newTitle": "Nacional, 6315 A, Organito de la Tarde (C. Castillo), Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1-M9toFBy-hv1QkhGlNnm2bZbsePt1sy3",
+    "action": "rename",
+    "newTitle": "Nacional, 4372 A, Tengo Apuro (A. Scatasso), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1pl_mDXMt_i96Du1FyphAUBkLUheXK0Qs",
+    "action": "rename",
+    "newTitle": "Brunswick, 2200 A, Tango Mío (O. Fresedo - E. Fresedo), Mercedes Carné con Orquesta Carlos Di Sarli, Tango.jpg"
+  },
+  {
+    "fileId": "1kzMN0ENjnL79TB08cbC9Kn_WZcoYDxQM",
+    "action": "rename",
+    "newTitle": "Nacional, 6277 B, Mi Ensueño (L. Petroccelli), Roberto Firpo Orquesta Típica, Tango.jpg"
   }
 ]
