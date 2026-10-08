@@ -2048,5 +2048,55 @@
     "fileId": "1rUoI-sL9EuJNHLVP1kwJy_kM2Dd5AjVC",
     "action": "rename",
     "newTitle": "Odeon, 18553 A, Organito (Juan Carlos Graviz), Ignacio Corsini.jpg"
+  },
+  {
+    "fileId": "1QrnBl0wPhZdQfmL5Q3YVJ6kracEwx0ZO",
+    "action": "rename",
+    "newTitle": "Columbia, A 6009 B, Crepúsculo (José Rebolini), Orquesta Típica Maffia, Vals.jpg"
+  },
+  {
+    "fileId": "15N4ILWcc8LKkyxSPzg89w1jUO179lBzL",
+    "action": "rename",
+    "newTitle": "Nacional, 4267 B, Clavelito (F. Canaro), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1ad_oh8TgW-SRdZSmVgVu4Dlv_sa5oNVG",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1-O1Rs1LWb_S6rwzTnnSLFsa9glGTVqZJ",
+    "action": "rename",
+    "newTitle": "Odeon, A 86067, Mefistófeles, Orquesta Típica Criolla (dir. Eduardo Arolas).jpg"
+  },
+  {
+    "fileId": "17d2qbqLEsBI4qeB1QIwRZaJclAR4XsSy",
+    "action": "rename",
+    "newTitle": "Odeon, 6429 A, La Chica de Mar del Plata (S. Lombardo), Orquesta Típica R. Firpo, Tango.jpg"
+  },
+  {
+    "fileId": "1uzAD7_gLTbu3QIzuEgcdiqY10dbgLaun",
+    "action": "rename",
+    "newTitle": "Nacional, 10469 A, Milonguita (Linnig - Delfino), Raquel Meller, Tango.jpg"
+  },
+  {
+    "fileId": "1nApgBeAAxUzqCFA9OlMBemRLUiNUMzy0",
+    "action": "rename",
+    "newTitle": "Nacional, 9611 A, La Cumparsita (G. H. Matos Rodríguez), Dúo de Guitarras Iriarte-Pesoa, Tango.jpg"
+  },
+  {
+    "fileId": "1udy4r98aa5JF4cmdPknYWRa6mCvt5PD_",
+    "action": "rename",
+    "newTitle": "Atlanta, 177, La Flor del Pago (F. Canaro), Quinteto Criollo Garrote, Tango.jpg"
+  },
+  {
+    "fileId": "1Jx73-UkHIPhGViJ7lZEpsmiAwYCF3JHH",
+    "action": "rename",
+    "newTitle": "Victor, 77056 B, Aires Criollos No. 3 (José Aguilar), José Aguilar.jpg"
+  },
+  {
+    "fileId": "1iu4awAS3jy1w18u5D20GrCkWv0GFJww5",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
