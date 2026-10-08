@@ -2198,5 +2198,55 @@
     "fileId": "11STbTW0DB-hq4DeJDeeprekGpBODhELD",
     "action": "rename",
     "newTitle": "Odeon, 16105 A, Nostalgia (Enrique Cadícamo - Juan Carlos Cobián), Charlo, Tango.jpg"
+  },
+  {
+    "fileId": "1fBAufxHQ_-I-KaFStri1MSsISphVz7Fa",
+    "action": "rename",
+    "newTitle": "Odeon, 11312 B, Milonga Triste (Sebastián Piana - Homero Manzi), Mercedes Simone, Milonga.jpg"
+  },
+  {
+    "fileId": "1yAhVuhPfRVw1qoUWUlbUSONQ9NB86AXQ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1dPP2kpkaATlbmrVeYbw_W8jdu6YI76Xo",
+    "action": "rename",
+    "newTitle": "Nacional, 4754 B, Pipermint (Eduardo Ponzio), Francisco Canaro y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1sZRv_BMedu-n1k7S9Wv3EJtASt8kLJ0X",
+    "action": "rename",
+    "newTitle": "Nacional, 4591 B, La Madrugada (Emilio Iribarne), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1h_EvkFrYgniPaToyu2Mhukyf2Pu18IZF",
+    "action": "rename",
+    "newTitle": "Odeon, 5043 B, Invierno (Enrique Cadícamo - Horacio Pettorossi), Francisco Canaro y su Orquesta Típica, Tango con estribillo.jpg"
+  },
+  {
+    "fileId": "1eXbzeDOdEeLCx-aFlIJ4PE0wDlPmEfHz",
+    "action": "rename",
+    "newTitle": "Nacional, 6863 B, En Capilla (G. Clausi), Juan Maglio (Pacho) y su Trío, Tango.jpg"
+  },
+  {
+    "fileId": "1EAEN2lKzjElVRc9Q88EGis6O2YUJl8x9",
+    "action": "rename",
+    "newTitle": "Nacional, 7890 B, Vincha Bruja (Antonio Sureda), Santiago Devín con el Trío de Antonio Sureda, Zamba.jpg"
+  },
+  {
+    "fileId": "1D5y5EihKAPr-HGckKxHBtPVk2oUsWk6B",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1USRfviinT0PVz_nqxGLCJZ06XP-ue3M6",
+    "action": "rename",
+    "newTitle": "Victor, 80908 A, Clavel de Amor (A. Pelaia), Pelaia-Besada-Urruspuru, Zamba.jpg"
+  },
+  {
+    "fileId": "1ovckWc4JUV_50mxgbqgn2ljkyyQ0A7h6",
+    "action": "rename",
+    "newTitle": "Nacional, 4780 B, Punto Bravo (Francisco Canaro), Francisco Canaro y su Orquesta Típica, Tango.jpg"
   }
 ]
