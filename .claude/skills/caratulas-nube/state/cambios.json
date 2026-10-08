@@ -2098,5 +2098,55 @@
     "fileId": "1iu4awAS3jy1w18u5D20GrCkWv0GFJww5",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1d20gKE-Dnrew6_0O2-4HIVrAnSxGPLhs",
+    "action": "rename",
+    "newTitle": "Odeon, 7160 A, Comme il faut (Eduardo Arolas), Aníbal Troilo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "17se03_hOnXPOyzgHXzwlTyd4PhxAx5A6",
+    "action": "rename",
+    "newTitle": "Odeon, 5210 A, Tradición (F. Frontera), Orquesta Típica O. Fresedo, Tango.jpg"
+  },
+  {
+    "fileId": "1hAetpYNQ9ZT-7YjC73Nzu276dl_lgMQN",
+    "action": "rename",
+    "newTitle": "Victor, 77261 A, La Confesión (J. de Caro), Orquesta Típica Cobián, Tango.jpg"
+  },
+  {
+    "fileId": "1m6t_MxDpEn7qyXkSFRcqCERx-AkrQQ-l",
+    "action": "rename",
+    "newTitle": "Victor, 73641 B, Un Lagrimón (Alberto M. Rossi), Orquesta Típica Flores, Tango.jpg"
+  },
+  {
+    "fileId": "1Up4A8HG1nkRcCjgPc-hyLlOEaVrOYo5r",
+    "action": "rename",
+    "newTitle": "Victor, 39086 B, El Pollo Ricardo (Luis A. Fernández), Carlos Di Sarli y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1BjD5zNofdoIa_1wgKfJXiCo50JbTbn36",
+    "action": "rename",
+    "newTitle": "Nacional, 6971 B, La Garçonnière (F. Canaro), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1jWVTrIfm-eoFFzdjfMnEiVr3oIKpRMI0",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1H0uiXpIlIERARsRdW4DyfgVTpD6hRvB3",
+    "action": "rename",
+    "newTitle": "Nacional, 4756 A, Madreselva (Francisco Canaro), Francisco Canaro y su Orquesta Típica, Canta Luis César Amador, Tango.jpg"
+  },
+  {
+    "fileId": "1baD19_n5csPzYgkaQiaW_dG3Q72hr6NT",
+    "action": "rename",
+    "newTitle": "Victor, 47202 A, En Mendoza (Alfredo Pelaia), Dúo de Bandoneones Ortiz-Scorticati, Cueca.jpg"
+  },
+  {
+    "fileId": "1fapotQ21Zv4G3jRRUAHdz-NuL4_o4dgV",
+    "action": "rename",
+    "newTitle": "Victor, 79670 A, Retintín (Eduardo Arolas), Orquesta Típica Victor, Tango.jpg"
   }
 ]
