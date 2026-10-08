@@ -2448,5 +2448,55 @@
     "fileId": "1a1qX8mWLjWjXp3ri-2h0tWVb9RE7FB3M",
     "action": "rename",
     "newTitle": "Nacional, 3509 A, Lo que Está Bien... Está Bien (Roberto Firpo), Roberto Firpo y su Cuarteto, Tango.jpg"
+  },
+  {
+    "fileId": "1W2Lm1SmNkTpBKfLHzn_MZOW6cHObwB5Q",
+    "action": "rename",
+    "newTitle": "Victor, 68-1204 A, Tú, el Cielo y Tú (H. Marcó - M. Canaro), Carlos Di Sarli y su Orquesta Típica, Canta Alberto Podestá, Tango.jpg"
+  },
+  {
+    "fileId": "1-ghUyBECSjO9HNSeUjNYx0M24GgBLX5i",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "11cp5z4XKdHvZImUQq92Yz2w9T8fUwJol",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1-1TiSCGJzOEX-evcLnupG9xOeFKe6SdU",
+    "action": "rename",
+    "newTitle": "Victor, 68-1366 A, Taquito Militar (Mariano Mores), E. Francini - A. Pontier y su Orquesta Típica, Milonga.jpg"
+  },
+  {
+    "fileId": "1uB5q-5-v99r3WpsgmES83xrr80nBZJFQ",
+    "action": "rename",
+    "newTitle": "Odeon, 3550 B, Reflejos de Luna (Roberto Firpo), Dúo de Pianos Roberto Firpo (Padre e Hijo), Vals.jpg"
+  },
+  {
+    "fileId": "1LS-T8VZNjb8BE3l4YBBVUxLb7ZwrjENE",
+    "action": "rename",
+    "newTitle": "Victor, 79577 A, Blanquita (D. Lancelloti), Julio De Caro y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1nRwy4uymCEfLBnOWOQlKz5cCAd2Q9QRP",
+    "action": "rename",
+    "newTitle": "Victor, 79677 B, Morondanga (E. Pataro - Conte), Julio De Caro y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1ifZcWvsJ9-yY6rYie4jGCnVR2w8cxE-I",
+    "action": "rename",
+    "newTitle": "Nacional, 18878 B, Ventarrón (J. H. Staffolani - Pedro M. Maffia), Carlos Gardel con acomp. de 4 guitarras (Pettorossi - Barbieri - Riverol - Vivas), Tango.jpg"
+  },
+  {
+    "fileId": "1E82CqeLiJiPn8ibcuuNZLOTYdzAaJLP6",
+    "action": "rename",
+    "newTitle": "Victor, 79580 A, Muchachita de Montmartre (O. N. Fresedo), Orquesta Típica Fresedo, Tango.jpg"
+  },
+  {
+    "fileId": "1ez8Np1Sq-usVwAD6S_SxhIYZqXHuyuqV",
+    "action": "rename",
+    "newTitle": "Victor, 79644 B, Por el Camino (Tagle Lara - C. Flores), Pelaia - Ítalo, Zamba.jpg"
   }
 ]
