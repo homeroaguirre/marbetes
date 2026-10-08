@@ -1798,5 +1798,55 @@
     "fileId": "1U2JD6E0PsItVq6-FE06GgjOLWfd67vbg",
     "action": "rename",
     "newTitle": "Victor, 73785 A, El Pañuelo de Seda (Saldías - Aguilar), Rosa Del Carril, Estilo.jpg"
+  },
+  {
+    "fileId": "1QnQ0ZKl0oUjLdEEZTzckMgKBnprXS-n3",
+    "action": "rename",
+    "newTitle": "Nacional, 647 B, El Ahorcado (R. Firpo), Orquesta Típica Roberto Firpo, Tango dialogado.jpg"
+  },
+  {
+    "fileId": "1AEl-0Sh2USpv6TGCUdTI3P4iyGu1P528",
+    "action": "rename",
+    "newTitle": "Odeon, 6965 B, Sobre el pucho (S. Piana), Orquesta Típica Francisco Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1roP7J8gkAgBai0aNLi5K18o-cYN-etdG",
+    "action": "rename",
+    "newTitle": "Columbia, 301022 A, Los Indios (Francisco Canaro), Quinteto Pirincho, Tango.jpg"
+  },
+  {
+    "fileId": "1Qt0UAC2HXfGjl3pTSzMRxfUSh0ViUe3R",
+    "action": "rename",
+    "newTitle": "Nacional, 4643 B, Adiós juventud (Juan Canaro), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1Lzr_-MXng72wpDvbqFzEa5WutrPgQPX8",
+    "action": "rename",
+    "newTitle": "Victor, 60-0987 B, La Tristecita (Ariel Ramírez), Ariel Ramírez, Zamba.jpg"
+  },
+  {
+    "fileId": "1GvVUr5PlrRugU9RdFaJpL5wUhRJGC4z1",
+    "action": "rename",
+    "newTitle": "Nacional, 4364 A, Zorro gris (R. Tuegols), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1fJkfXnzOFPellWposAdQNzrImsOuRbqG",
+    "action": "rename",
+    "newTitle": "Nacional, 7721 B, Zorro gris (R. Tuegols), Orquesta Típica F. Lomuto, Tango.jpg"
+  },
+  {
+    "fileId": "1SyguI_QhmqKTL8PqghCcoD-C1hMCFKRx",
+    "action": "rename",
+    "newTitle": "Odeon, 16275 A, Juan Manuel (Homero Manzi - Sebastián Piana), Charlo, Milonga.jpg"
+  },
+  {
+    "fileId": "1uLif5hJMCZDXHgdz9dzwpEzqUC79_S-N",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ksXYOOAblxCejqdISQUBxVv4l1g-QDOu",
+    "action": "rename",
+    "newTitle": "Odeon, 9613 B, Vamos pa'l rancho (Pesoa - Iriarte), Dúo de Guitarras Iriarte-Pesoa, Ranchera.jpg"
   }
 ]
