@@ -2398,5 +2398,55 @@
     "fileId": "1Sprerxj7ICm0MtGVebSV001xIVwRSPQe",
     "action": "rename",
     "newTitle": "Odeon, 5618 B, Re-Fa-Si (Enrique Delfino), Rodolfo A. Biagi y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "17lWdw4LJpp0ce1ExZVj9PYo1wT455vYo",
+    "action": "rename",
+    "newTitle": "Victor, 79679 B, Los Naranjos Tucumanos (A. Pelaia), Pelaia-Catán, Tonada.jpg"
+  },
+  {
+    "fileId": "1BDUiIAoHfvNcLCZYtF2wOo98oh4kjqTp",
+    "action": "rename",
+    "newTitle": "Nacional, 646 B, El Pañuelito (Filiberto), Roberto Firpo Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1FrY2ObvQXbtxa8t0qoPteevPgYvFhz8f",
+    "action": "rename",
+    "newTitle": "Victor, 69594 B, El Pangaré (J. Canaro), Orquesta Típica V. Loduca, Tango.jpg"
+  },
+  {
+    "fileId": "17nOPUnPz3oATtpknEKmFFCeRRwCgyvUw",
+    "action": "rename",
+    "newTitle": "Nacional, 18200 B, La Garçonnière (Caruso - Canaro), Carlos Gardel con acomp. de orquesta Francisco Canaro, Tango Canción.jpg"
+  },
+  {
+    "fileId": "1F63ZFUG2MPtazpbj3V3EKNMR-r523j0r",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "10dXIHF5uxMniG1S2Uy6xO8-djjk0qzFs",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1IZRHdAQb6smi4v5GmLzKeRBecvKG8Zat",
+    "action": "rename",
+    "newTitle": "Nacional, 7629 B, La Cumparsita (G. Matos Rodríguez), Francisco Lomuto Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "17pCHY-Ad9b94wG20utUUd8gR88GrEKEI",
+    "action": "rename",
+    "newTitle": "Victor, 69813 B, El Aeroplano (P. Datta), Enrique Delfino, Vals.jpg"
+  },
+  {
+    "fileId": "1oiwG5rr47K1jsGiH789Qn4eCjgbAvZB8",
+    "action": "rename",
+    "newTitle": "Nacional, 1150 A, Caminito (J. de Dios Filiberto), Julio Perceval en el Gran Órgano del Cine Florida, Tango.jpg"
+  },
+  {
+    "fileId": "1a1qX8mWLjWjXp3ri-2h0tWVb9RE7FB3M",
+    "action": "rename",
+    "newTitle": "Nacional, 3509 A, Lo que Está Bien... Está Bien (Roberto Firpo), Roberto Firpo y su Cuarteto, Tango.jpg"
   }
 ]
