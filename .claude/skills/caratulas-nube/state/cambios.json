@@ -1998,5 +1998,55 @@
     "fileId": "1tMP3JIOpgxSDnECZByyw1msY-ZWvH37i",
     "action": "rename",
     "newTitle": "Odeon, 3524 B, El Choclo (Ángel Villoldo), Roberto Firpo y su Cuarteto, Tango.jpg"
+  },
+  {
+    "fileId": "1_0Eaxg2e87cR9QVFOL3tKhzmd8_qVSk_",
+    "action": "rename",
+    "newTitle": "Nacional, 4054 A, Amigazo (J. de Dios Filiberto), Orquesta Típica Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1gltINnbQaL-HUm7ARxw_dMukHM22z2tc",
+    "action": "rename",
+    "newTitle": "Victor, 68-9431 A, Amor en Budapest (Navarro - E. Miftaly), Feliciano Brunelli y su Orquesta Característica, Canta Oscar Valeta, Fox Trot.jpg"
+  },
+  {
+    "fileId": "1is70FOe-qsj9L05AVlqPlvRGMXHPWj2e",
+    "action": "rename",
+    "newTitle": "Nacional, 18460 A, Pum... ¡Garibaldi! (Velich - Brancatti - Andreoni), Ignacio Corsini, Shimmy.jpg"
+  },
+  {
+    "fileId": "171vFPvQT8OQ2Wg8EasF5dP4PX94Vp-el",
+    "action": "rename",
+    "newTitle": "t.k, S-10353 B, El Marne (Eduardo Arolas), Orquesta Típica Maffia-Gómez, Tango.jpg"
+  },
+  {
+    "fileId": "1h4RRBePbpvKJ6vq857vcMNrFYJBE58fm",
+    "action": "rename",
+    "newTitle": "Odeon, 16114 B, No Hay Tierra Como La Mía (Enrique Cadícamo - Charlo), Charlo, Milonga.jpg"
+  },
+  {
+    "fileId": "1B5MhEivcdO8FHgfLbbf1Z2gEpY0pBzRl",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "15-gGMAkAWZZKY_YfEchmOjlC0MXODUJQ",
+    "action": "rename",
+    "newTitle": "Nacional, 4299 B, Canaro en Paris (Caldarella - Scarpino), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1RAxUMotq5exAocN7AUyHNVofEp5dYwhB",
+    "action": "rename",
+    "newTitle": "Columbia, T220, El Otario, Orquesta Greco, Tango.jpg"
+  },
+  {
+    "fileId": "1kupcavCBGLfDiaIWVZU5s9s_9psK-U09",
+    "action": "rename",
+    "newTitle": "Odeon, 4314 B, Se Fue Taborda (A. Aieta), Francisco Canaro y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1rUoI-sL9EuJNHLVP1kwJy_kM2Dd5AjVC",
+    "action": "rename",
+    "newTitle": "Odeon, 18553 A, Organito (Juan Carlos Graviz), Ignacio Corsini.jpg"
   }
 ]
