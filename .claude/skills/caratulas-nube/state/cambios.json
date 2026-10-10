@@ -48,5 +48,15 @@
   {"fileId": "1MU8dqrToj0YFgpqxdmWRAAoZkf7IetAR", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1k1Un83Jwgs4CPLaYgSBKJSsFOkjVYsZp", "action": "rename", "newTitle": "Brunswick, 1248 A, El penado 14 (Magaldi - Noda), Orquesta Típica Julio De Caro, Tango.jpg"},
   {"fileId": "1PKOBE0vpO39Z1NwZaOk3WTsqLMYTpWTi", "action": "rename", "newTitle": "Nacional, 4421 A, A contramano (L. Teisseire), Orquesta Típica F. Canaro, Tango.jpg"},
-  {"fileId": "1AeBm78whvyb2BKPKq2fs8-bMQXkQL3U9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1AeBm78whvyb2BKPKq2fs8-bMQXkQL3U9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Ufck2ZESLDfjB0YsOr56Ub3WIiXjUAtr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ycsvHGoILAM4fAiCfYh0_Hq_x-0D-Jep", "action": "rename", "newTitle": "Nacional, 7553 A, La quema, Juan Maglio (Pacho), Tango.jpg"},
+  {"fileId": "1q5z07nI-Ci1IEckJ76dTSaQO_3CXiio2", "action": "rename", "newTitle": "Victor, 47505 B, Las chicas del sandwich (A. J. Rodríguez Bustamante - Adrián Russo), Adolfo Carabelli y su Orquesta, Canta Carlos Lafuente, Fox Trot.jpg"},
+  {"fileId": "1KOVzfHjb1GyXsXWacWYJ9sTzVK3ikRwN", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1yv-p343IZfEbwwQLp9O4jOX9okilL5y0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "17et_odbLEChdItcNcbjCqp2Q53FC-orE", "action": "rename", "newTitle": "Victor, 80889 A, Berretín (E. Cadícamo - P. Laurenz), Agustín Magaldi, Tango.jpg"},
+  {"fileId": "1nlW3rWBq1m5GcWpDA-xF7MDuiKcojQOH", "action": "rename", "newTitle": "Nacional, 18078 A, Padre nuestro (Delfino - Vaccarezza), Carlos Gardel con 4 guitarras Ricardo y Barbieri, Tango.jpg"},
+  {"fileId": "1LtzglSCKqvWyfLqs5xZJ885NNW4pxySC", "action": "rename", "newTitle": "Nacional, 5015 A, Yo te bendigo (J. De Dios Filiberto), Orquesta Típica Osvaldo Fresedo, Tango.jpg"},
+  {"fileId": "1FAMRDfqAStzU0NSObxodnpmKYdD9j4xd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1qsK1n7dlKmdEB80_SwH_MMa1TkjMHoAk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
