@@ -275,5 +275,15 @@
   {"fileId": "1Q66Y6JMYdoCembq6Ihkegd2ZuDeNX6Ma", "action": "rename", "newTitle": "Nacional, 4764 A, Otario que andás penando (E. Delfino), Francisco Canaro y su orquesta típica, Tango.jpg"},
   {"fileId": "1A7KS8rqz7TvIcQAMshmHVEhr_P5EMWKf", "action": "rename", "newTitle": "Victor, 47662 A, Juan Moreira (José A. Zatzkin - Alfredo R. Marengo), Orquesta Víctor Popular, Canta Roberto Díaz, Ranchera.jpg"},
   {"fileId": "13S7B0wOhSriZjsx7bh0ATlWzK6HsfPfx", "action": "rename", "newTitle": "Sondor, SU-749 B, Matecito de plata (Luis Martínez Serrano), Los Baqueanos con Silvia Infantas, Tango.jpg"},
-  {"fileId": "1ZDk3MrHXY_i8eh8F0ryviap_uyodlbIP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1ZDk3MrHXY_i8eh8F0ryviap_uyodlbIP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1NCCnsD2IElQ7f_Vd8jXx8phNwYK4yl1F", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1xdGkhz3cC96G33QDcqKEJ_w3udwTD9ak", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1NSdmoNsEUQB3d2l_jDBsdS-PnNUgMDR1", "action": "rename", "newTitle": "Victor, 47385 A, Las intenciones (Francisco Bastardi), Rosita Quiroga, Ranchera.jpg"},
+  {"fileId": "1VoU94L3huAXatSJqDlpth-mL8seTwOUx", "action": "rename", "newTitle": "Victor, 47478 B, Bajo las sombras de un naranjal (Enrique Carrera Sotelo - Arturo de Nava), Mercedes Simone, Vals.jpg"},
+  {"fileId": "1jSui8p_IV85W23sn25N3X5g-kJG_eO3G", "action": "rename", "newTitle": "Nacional, 2000 A, Amor y sacrificio (Antonio Sureda - Esteban Flores), Trío Los Nativos, Vals.jpg"},
+  {"fileId": "1-KfpxNh8RhUwd731jY_pG1QURIEJHftO", "action": "rename", "newTitle": "Victor, 47014 A, Tengo celos (E. Rietti), Les Loups, Tango.jpg"},
+  {"fileId": "1_BAMgK07W7W-1BQDnhr2VZaEuX8KQYpb", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1xMGZ3dYr05wliDRE3YuhktRtdOI19nPm", "action": "rename", "newTitle": "Victor, 79657 A, Valencia (José Padilla), Orquesta Internacional, Paso Doble.jpg"},
+  {"fileId": "1mUFmBEb1Qhihfg41iTZkR9_V2IMiGHOr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1mlEnvPiLwt02LUIT62-25XU1dzAVteTV", "action": "rename", "newTitle": "Victor, 68-1822 B, Mi barrio tenía cosas (J. B. Tiggi - P. H. Noda), Dante Ressia y su conjunto, Tango.jpg"}
 ]
