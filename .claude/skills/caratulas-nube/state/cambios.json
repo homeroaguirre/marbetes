@@ -118,5 +118,15 @@
   {"fileId": "1XdOSQdkOeovuBLMMR87K5EdEkyNIzJDX", "action": "rename", "newTitle": "Nacional, 9014 A, Tendrás que rabiar (J. Maglio), Juan Maglio (Pacho), Tango.jpg"},
   {"fileId": "1579p5e_vITn0XDftIjUdcTKfk8BrBnNu", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1eH7BhQCSqxDJXilm_Mu5JmAiZirZqNEa", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1_Ryw899h7IX6JUF_bAz4HqdvpfkJ_94W", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1_Ryw899h7IX6JUF_bAz4HqdvpfkJ_94W", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1JyE_Bcf2uK0zo3A9E76xdoSbUnYB3qhm", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1A0PkbTgTxfzOiuZIOrl87BJNG9OkMoG8", "action": "rename", "newTitle": "Nacional Odeón, 4034 A, Pero hay una melena (José Bohr), Francisco Canaro y su Orquesta Jazz-Band, Foxtrot.jpg"},
+  {"fileId": "1woEixvsxGu1PcHG0RA-5Jrt7bwOfjpK4", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1zAcKu-G2QccqBtfLb7oGI7tOShAxJ1F_", "action": "rename", "newTitle": "Nacional, 4035 A, Sentimiento gaucho (R. Canaro), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1lawfFOMY7BQdEo7Luoj9B1UgbGmYDy_k", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1aJ5FuBLS9ppC17oresO_L5fvfgSvuWWz", "action": "rename", "newTitle": "Victor, 78498 A, Es un golfo (C. Primelles - E. Lecuona), Juan Pulido, Tango.jpg"},
+  {"fileId": "1eMY-VEsZ2roYLNmJ_PqW-iimeOGkl9Ul", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1NFAvhDjlB1dRnh1KkWQAW2aQQfZw_7_I", "action": "rename", "newTitle": "Victor, 79522 B, Beba (Donato - Flores), Rosa Quiroga, Tango.jpg"},
+  {"fileId": "1fGnxsdq2-qhPF6l1X66OOw1G0k0dAo_q", "action": "rename", "newTitle": "Nacional, 6657 B, Malevaje (J. De Dios Filiberto - E. Discépolo), Mario A. Pardo, Tango.jpg"},
+  {"fileId": "1xepviaYy4XNXCMTB2FA7PZ6TBhsaLBuL", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
