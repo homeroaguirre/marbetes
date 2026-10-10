@@ -58,5 +58,15 @@
   {"fileId": "17q9M8fMTuCNeCIlhOwEttkwrNyl6WRoT", "action": "rename", "newTitle": "Nacional Odeón, 4281 B, La última copa (F. Canaro), Orquesta Típica F. Canaro, Tango.jpg"},
   {"fileId": "1AWd6Ia0EZIjy06vqTABTvN2a2D83zRpI", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1gWTcUN6MBQBCenZ-DxEoPYglS1lvTfgy", "action": "rename", "newTitle": "Victor, 79579 A, Ay... no... (C. Petrone), Carabelli Jazz Band, Shimmy.jpg"},
-  {"fileId": "1OCT7IVVWbgJs6G47y_Jx7lLLgIWk0pK5", "action": "rename", "newTitle": "Brunswick, 1019 A, Polilla (J. Matos Rodríguez), Orquesta Típica Donato-Zerrillo, Tango.jpg"}
+  {"fileId": "1OCT7IVVWbgJs6G47y_Jx7lLLgIWk0pK5", "action": "rename", "newTitle": "Brunswick, 1019 A, Polilla (J. Matos Rodríguez), Orquesta Típica Donato-Zerrillo, Tango.jpg"},
+  {"fileId": "10A9-ru17hP-kPMsmMfbJmhzXiHMnOseH", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "14JIkKJtbebwEZp2WqkuIO0npVSLmDl38", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1TwTtr9ERwSJT7Q8LdKYxc0ATAjgomYl8", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1tGioZT3HoKOytn38qSghS2BuMUubVoWi", "action": "rename", "newTitle": "Victor, 47191 A, El pañuelito (C. Peñaloza - J. de Dios Filiberto), Libertad Lamarque y coro, Tango.jpg"},
+  {"fileId": "1h0khNW3XA61DUDoyAKMR9QNL2PZs_WRe", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "13R4Y7lGWxI7QdVnEouyE75Ck5mTOYidV", "action": "rename", "newTitle": "Brunswick, 1669 A, Acquaforte (H. Pettorossi - M. Cátan), Agustín Magaldi, Tango.jpg"},
+  {"fileId": "1gzzziQW_Xj_QbWHox4YtMjfiHJ5dJBFa", "action": "rename", "newTitle": "Victor, 68-1285 A, Naranjo en flor (Virgilio y Homero Expósito), Aníbal Troilo y su orquesta típica, Canta Floreal Ruiz, Tango.jpg"},
+  {"fileId": "1Y3YFkVNTUAdLMUSBVEB4F8YWgNW8oO0l", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1CSh0eb8mKXXFougn0PnKJrZ_ak2G40zZ", "action": "rename", "newTitle": "Victor, 39744 A, No te apures carablanca (C. Bahr - R. Garza), Aníbal Troilo y su orquesta típica, Canta Fiorentino, Tango.jpg"},
+  {"fileId": "17wrjEfr3y_ZfBfGxGh1iDsddaTIfVOuq", "action": "rename", "newTitle": "Victor, 79628 A, Flor de noche (E. De Caro - P. Laurenz), Orquesta Típica De Caro, Tango.jpg"}
 ]
