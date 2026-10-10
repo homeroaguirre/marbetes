@@ -2873,5 +2873,55 @@
     "fileId": "1BXDu2u6DEogGSi5QyX1aSuuDk0r1bhKA",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1cxTbiSwMajV8scqXLj6_xA5YbMW_eGre",
+    "action": "rename",
+    "newTitle": "Victor, 65934 A, El Gaitero (M. Vidal), Orquesta Típica Argentina Loduca, Tango.jpg"
+  },
+  {
+    "fileId": "1QQoUDKaHI-B5FhkW8xtO0lcEMkMsCk0l",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "194vmryg_bwzPBz0funWzFB1NMPph2N_c",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1fyHkHZ0pReFtDF3gPYf0STKFztBJQ3I2",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "16HIqRvdIDMtQpAntBJtKT5ff5EH5xK9R",
+    "action": "rename",
+    "newTitle": "Columbia, 5620 A, El Americano (José Luis Roncallo), Banda Española, Tango Criollo.jpg"
+  },
+  {
+    "fileId": "171_S-qLk4YZKC8eau4APtuPoDr9Zikr_",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1t1MxHXcbe2rgwtimap0yVKHMYNeYBqNk",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "10qQZNWkGkT2xtOjic6QfFCXlAy-KcenE",
+    "action": "rename",
+    "newTitle": "Victor, 77561 A, Alma de milonga (F. Álvarez), Rosita Quiroga, Tango canción.jpg"
+  },
+  {
+    "fileId": "1ClvBl-NhbYIQDKSs3khk0XggBKvpoj6g",
+    "action": "rename",
+    "newTitle": "Odeón, 5135 B, Te pintaste los ojos (O. Fresedo), Orquesta Típica O. Fresedo, Tango.jpg"
+  },
+  {
+    "fileId": "1DCO6EyCu2n61v-7ETKyT_HIV6_uX3vGy",
+    "action": "rename",
+    "newTitle": "Odeón, 515 B, Una partida (R. Firpo), Orquesta Típica Roberto Firpo, Tango.jpg"
   }
 ]
