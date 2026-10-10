@@ -285,5 +285,14 @@
   {"fileId": "1_BAMgK07W7W-1BQDnhr2VZaEuX8KQYpb", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1xMGZ3dYr05wliDRE3YuhktRtdOI19nPm", "action": "rename", "newTitle": "Victor, 79657 A, Valencia (José Padilla), Orquesta Internacional, Paso Doble.jpg"},
   {"fileId": "1mUFmBEb1Qhihfg41iTZkR9_V2IMiGHOr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1mlEnvPiLwt02LUIT62-25XU1dzAVteTV", "action": "rename", "newTitle": "Victor, 68-1822 B, Mi barrio tenía cosas (J. B. Tiggi - P. H. Noda), Dante Ressia y su conjunto, Tango.jpg"}
+  {"fileId": "1mlEnvPiLwt02LUIT62-25XU1dzAVteTV", "action": "rename", "newTitle": "Victor, 68-1822 B, Mi barrio tenía cosas (J. B. Tiggi - P. H. Noda), Dante Ressia y su conjunto, Tango.jpg"},
+  {"fileId": "1NFo-Yl7VKBWKyZICpGnBTNulgQd7jxq-", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Cu369pBU4TgcgNaLOQ7px7QbMXckThLc", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1z2bQf7iTbK2ePSMc04wJyiI0oOYSfkKq", "action": "rename", "newTitle": "Nacional, 4054 A, Amigas (J. De Dios Filiberto), Orquesta Típica Francisco Canaro, Tango.jpg"},
+  {"fileId": "1-7ZdC8ew66J8OM8sc5WlVV3lb9Q-tdce", "action": "rename", "newTitle": "Victor, 38326 B, El africano (Eduardo Pereyra), Juan D'Arienzo y su orquesta típica, Tango.jpg"},
+  {"fileId": "1tqhpOTMh2_SQHReYtxbQ7zls0Pp70S14", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1cC4XLLr_zywnvoM-thDrnLrldc0NOfWx", "action": "rename", "newTitle": "Nacional, 18044 A, El sapo y la comadreja (Tapia), Gardel-Razzano, Tonada.jpg"},
+  {"fileId": "1DuE4Ugt_kAfR3dW_URUTVXCNUsChLtUM", "action": "rename", "newTitle": "Nacional, 4609 A, La rancherita de Santa Lucía (L. C. Rivarola - H. Sordelli), Orquesta Típica F. Canaro, Ranchera.jpg"},
+  {"fileId": "1yERTRIrUcn0-wtBQXSLZJ_SnbGWSy-6h", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1a_lWBPQPoZ2dn01ygrCDJeoxdgGMiH8m", "action": "rename", "newTitle": "Victor, 47606 A, ¡Desencanto a volar! (José T. Trelles - Rosita Quiroga), Rosita Quiroga, Cifra Gaucha.jpg"}
 ]
