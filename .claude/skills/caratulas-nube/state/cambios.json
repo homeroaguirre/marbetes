@@ -225,5 +225,15 @@
   {"fileId": "1tRfX8dsSzsKGK9UksE7Ydl6WsdtAX5el", "action": "rename", "newTitle": "Nacional, 18874 B, Mentiras (B. A. Reyes), Carlos Gardel, Tonada Salteña.jpg"},
   {"fileId": "11sGqLW1yqBNv4L9g5y8yf1_lLQXbT1wP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "11q_Ix6ynFd7_sAtHpzXlJ2r_tjLkQzhc", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "196tbDWb07r-GN1ushz1oHefPKchUpp0U", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "196tbDWb07r-GN1ushz1oHefPKchUpp0U", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1OeL5LqXf3v_4GUC_xCXJPkfTVg--b1NO", "action": "rename", "newTitle": "Victor, 80955 B, Rosas porteñas (E. Carrere - A. Pelaia), Pelaia-Pizarro, Zamba.jpg"},
+  {"fileId": "1AbmAc70RWp-_2gAaY4JpmDgRJetT2LZS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1y5CgZgXI6mEGH49az_rdmMrGZJseqzqH", "action": "rename", "newTitle": "Victor, 69810 A, Amoníaco (O. M. Fresedo), Orquesta Típica V. Loduca, Tango.jpg"},
+  {"fileId": "14Ev7w1Uha_k4bDaorq9UALuEjJcv1xRB", "action": "rename", "newTitle": "Victor, 39579 B, Papá Baltasar (H. Manzi - S. Piana), Aníbal Troilo y su orquesta típica, Canta Fiorentino, Milonga.jpg"},
+  {"fileId": "17F8NaVpHXUMocy7i-z70f0uAeso34lIh", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1TdkE22YdzjY8CODeIrqe2jKMPvi300SV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1R9h8TggEVQEpuQRnFNDJx-9xzqQdzlZd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1HnKNxszJ98fsbtm-7eaLEEJifQuYeY0t", "action": "rename", "newTitle": "Nacional, 11013 A, Organito de la tarde (Cátulo Castillo), Azucena Maizani, Tango.jpg"},
+  {"fileId": "1X-JujubkwoDiULYf8DehhPiSmT1tnSwu", "action": "rename", "newTitle": "Victor, 39360 A, Zorro gris (F. García Jiménez - R. Tuegols), Francisco J. Lomuto y su orquesta típica, Tango.jpg"},
+  {"fileId": "1RpSF0OhCmTlu4dfC5P8Z5b9LaaoEJSmZ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
