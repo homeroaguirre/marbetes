@@ -18,5 +18,15 @@
   {"fileId": "1KQLPnp7luCzCZAWy2Lsea2-J7-0LGmgY", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1hP-PV3GCdJfl2yuyc1uNeGRIBJrXXGuS", "action": "rename", "newTitle": "Victor, 32858 A, Allá en el rancho grande (Arr. Tito Guizar), Tito Guizar, Ranchera.jpg"},
   {"fileId": "1BGd4BD2gF7gvXwBhZEA5rBSRakl5_B2-", "action": "rename", "newTitle": "Nacional, 18540 A, Deja que la gente diga (Bayón Herrera - De los Hoyos), Ignacio Corsini con 3 guitarras Aguilar, Tango.jpg"},
-  {"fileId": "1u8XP6EE5tUJJBFdsyLUDociM9Yuo419n", "action": "rename", "newTitle": "Columbia, 266575 B, Es por eso (Monnot - Contet), Edith Piaf y Les Compagnons de la Chanson, Canción.jpg"}
+  {"fileId": "1u8XP6EE5tUJJBFdsyLUDociM9Yuo419n", "action": "rename", "newTitle": "Columbia, 266575 B, Es por eso (Monnot - Contet), Edith Piaf y Les Compagnons de la Chanson, Canción.jpg"},
+  {"fileId": "19hOYKU4gBYBM3oj2aE_JzAQ9QcNoLhJj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1nnSpb3N2ADL5Ufjkn9owA2_ppyPwFTam", "action": "rename", "newTitle": "Odeón, 19001 A, ¡Qué fenómeno! (Enrique Dizeo - Anselmo A. Aieta), Carlos Gardel, Tango.jpg"},
+  {"fileId": "1VXG2MZH74xFO6mkmwY0KzEO5nXEr8Uqo", "action": "rename", "newTitle": "Columbia, A7019 B, Maldita (Antonio Rodio - Estela C. Flores), Orquesta Castellano, Tango.jpg"},
+  {"fileId": "1i78ZjyndIU-meq7aDbo_ocsYJTGLZIOw", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "10CosdhtW9yWLpQ6KPlgrUSs4xwiIbzZd", "action": "rename", "newTitle": "Nacional, 4473 A, El haragán (E. Delfino), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "19Oq9TS2djM71ASSQ1duGWNfhSFyEPjbQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "120yueKWy-7xXQxoAWsNIMKEnMRsQCTek", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1J16YG-YJYp8Ngx3kjJWw5cnpxAAMPGS3", "action": "rename", "newTitle": "Nacional, 3016 B, Al gran bonete (Roberto Firpo), Orquesta Típica Roberto Firpo, Tango humorístico.jpg"},
+  {"fileId": "1jSfr10GoBwu1YYBxb9CPvATJ-GtTNtPu", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1KafLBFJYWG_gRDipz4EOHcreOjj8NzeQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
