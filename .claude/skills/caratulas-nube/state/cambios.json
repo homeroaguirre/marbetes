@@ -348,5 +348,55 @@
     "fileId": "10UKIzmySY2MgIKYnDkHXQCz8XlA8-zBo",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1CIdCti4J74DS4Jd51uUZyTubTUco58X3",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "11WUYNEKABuzq6KVO8xVi0PwP6uinAkMT",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1f9l17Ks5mBQLj2Q9OcW_uean0cIKqVll",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1rknuSWu-64kbvs7aM36SlEwtLVnEhUpn",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1g8hvlv8J-D4TBTqor2BL4FTPfwgLvcAY",
+    "action": "rename",
+    "newTitle": "RCA Victor, 68-1300 B, Ansina es la madre mía (Víctor Galleri), Agustín Magaldi, Estilo.jpg"
+  },
+  {
+    "fileId": "1c5saaQHFoRrWAMZH1CGB2yw-TPjmAun1",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ErF8xLasexHwHrt-TlYtn0KtOM4ZznzS",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1opgIemG83z6ZVgF_u3KCW57jcXnJDrdr",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "158mC9_Tr3yHEfb4riPQaDlKZSdS8N2ct",
+    "action": "rename",
+    "newTitle": "Victor, 79949 A, Pericón nacional (G. Grasso), Adolfo Carabelli y su Orquesta, Pericón.jpg"
+  },
+  {
+    "fileId": "10172cOMRFwyKHcncUewjTw0ZJL8t1J79",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
