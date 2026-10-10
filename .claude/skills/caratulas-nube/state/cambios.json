@@ -298,5 +298,55 @@
     "fileId": "1apFJ-efAcUHOzdpOxF0BEoI_pymYywh-",
     "action": "rename",
     "newTitle": "Victor, 80982 B, Deja nomás (A. Magaldi), Magaldi - Noda, Tonada.jpg"
+  },
+  {
+    "fileId": "1gW1yxw8vg8lxTD9CDegmxbGt4hUc9n7c",
+    "action": "rename",
+    "newTitle": "Odeón, 55264 B, Ja, ja, ja (Julio De Caro - Enrique Cadícamo), Julio De Caro y su Orquesta Típica, Canta Orlando Verri, Tango.jpg"
+  },
+  {
+    "fileId": "1EjeKfz3qR0tncZm98U7yeEW45XucX_NR",
+    "action": "rename",
+    "newTitle": "RCA Victor, 37077 A, Vos no engrupís más (L. Bayón Herrera - R. Sciammarella), Orquesta Típica Victor, Canta Príncipe Azul, Tango.jpg"
+  },
+  {
+    "fileId": "1xnQZzbVs4TzHV5z13OGUByYkGtj4xchX",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1QO_s4tWMK2fexms7vvJktH0hFJi0MQMd",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4678 A, Te llegó tu San Martín (Juan Canaro), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1TeyiS3iKZIR27-EjO8GL0f7DAI6UZgL3",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18545 A, Malandrín (Caruso - F. Canaro - L. Riccardi), Ignacio Corsini con 3 Guitarras (Aguilar - Pesoa), Tango.jpg"
+  },
+  {
+    "fileId": "1imyLg8zdP-XDZJV65a8xU98Y6sgGadxr",
+    "action": "rename",
+    "newTitle": "Odeón, 8078 A, El aguacero (Catulo Castillo - José González Castillo), Lucio Demare y su Orquesta Típica, Canta Horacio Quintana, Tango.jpg"
+  },
+  {
+    "fileId": "1H30oMsNr0Zdfx3L7oFnHsoiZahs473vm",
+    "action": "rename",
+    "newTitle": "RCA Victor, 37173 A, Volvió la princesita (Gerónimo Sureda - Antonio Sureda), Alberto Gómez, Vals.jpg"
+  },
+  {
+    "fileId": "17WzSrBFJpFq5OShccNlFRP_LGS0lTmrG",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1jIpTZPwD0LcHUcGeq3Xb6pkpovIy25Vf",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4809 B, El jardín del amor (Francisco Canaro - Ivo Pelay), Francisco Canaro y su Orquesta Típica Sinfónica, Vals.jpg"
+  },
+  {
+    "fileId": "10UKIzmySY2MgIKYnDkHXQCz8XlA8-zBo",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
   }
 ]
