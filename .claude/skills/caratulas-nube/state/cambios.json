@@ -255,5 +255,15 @@
   {"fileId": "1P-SjVj6n0MliosFV2yPSk1XRSVF8eN2Z", "action": "rename", "newTitle": "Odeón, 51843 B, Olga (Francisco Peña), Rafael Rossi y su conjunto, Canta Hnos. Casadei, Vals.jpg"},
   {"fileId": "1yLhPhYwuQSIAhoo95A5zNTUBUWf3jZ7l", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1zNE02oJwUQFgCofOkE-fR8TJlNB3ED4l", "action": "rename", "newTitle": "Victor, 60-0194 B, Ensueños (Luis Brighenti), Carlos Di Sarli y su orquesta típica, Tango.jpg"},
-  {"fileId": "1m53uNgFwd2Rnoep5h-BzwyzcAwyw5tAr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1m53uNgFwd2Rnoep5h-BzwyzcAwyw5tAr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "13SGfzcph4rWU9fB3I_-hGL_6XLoS1EV_", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1874JK5vaId44gmTxz0mgzc8lJUESnktM", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1GkJmJSYdX4IzvNWJS2N6MzKX3FBeXSf1", "action": "rename", "newTitle": "Nacional Odeón, 18639 A, Carrillón de la Merced (Enrique Santos Discépolo - Alfredo Le Pera), Ignacio Corsini, Tango.jpg"},
+  {"fileId": "1kwqrqmHojYwBnRCcG-nT8eWIuAmjEDmZ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "11WV2VZ7-jlLACe3yR3K0BNVAYMgditxQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "17NYCEVcK8_Zn0cmDTElnbHwJ8B2S_606", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1zflnI0c2wYWmicdwqXY_yvxyJR-EqXGV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "18pG0O9-0XvgCb5KEpPUcDkFMFMpRTI2c", "action": "rename", "newTitle": "Columbia, 20846 1, En el lago azul (Roberto Rufino - Alejandro Romay), Rodolfo Biagi y su orquesta típica, Canta Hugo Duval, Tango.jpg"},
+  {"fileId": "17Aes2mZvDqOYRX5RWElLfmCknV9rV4Fa", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1_0lfojp0mChZ3155lKQLXS3OnfvMu-lB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
