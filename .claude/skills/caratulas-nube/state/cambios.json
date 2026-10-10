@@ -205,5 +205,15 @@
   {"fileId": "1S5GiaYoy21lKi-ji2fZy_wokQ3uKcQZf", "action": "rename", "newTitle": "Nacional, 4141 A, Changüí (H. Canaro), Orquesta Típica F. Canaro, Tango.jpg"},
   {"fileId": "1tHpON4tf1WYBl49izWpwloADQS-C7sCl", "action": "rename", "newTitle": "Nacional Odeón, 4356 A, Lagrimeando (A. Scatasso), Orquesta Típica F. Canaro, Tango.jpg"},
   {"fileId": "1A3LIvGy3wqQu2rjUVVzhViI7JLxqF00n", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1JCMwGjQ0U8ie5sZyPvmuTBfeeUchtrQA", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1JCMwGjQ0U8ie5sZyPvmuTBfeeUchtrQA", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "13Od1hQnUGmzk3cnp56H83YFqCDqjIgmB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1oQD-QorT3ba2KE4jykLxGIoE4HxEslsO", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1zGJL2clY9ApTC_g1icKDT0pYRIQe0jZ9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1261wCg46d2kQuupzDDEnQD2z5qlglVAP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1O5bhNzQtO26yVIXBEcGO-e4EsSBIXefP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1BId3m3IQ_88a5Xdm7pVOTactfxKVAvVi", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1kYQf5RvRko5xch0vBrzoT1f_SRDLUBIc", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1i0-2SeMQv2-68XSzK6IOiAQ_1LTvs8Cn", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1fyzwNOb0FAw5Q34fN0gIocpGzyFT15Up", "action": "rename", "newTitle": "Victor, 38878 A, Corazón (Héctor Marcó - Carlos Di Sarli), Carlos Di Sarli y su orquesta típica, Canta Roberto Rufino, Tango.jpg"},
+  {"fileId": "1eOpZbhuKoSvkvrvIgY9EyT4GcbGpodfh", "action": "rename", "newTitle": "Victor, 37066 A, Patoruzú (J. Ramón Pontón - Baldomero Suárez), Orquesta Víctor Popular, Canta Carlos Lafuente, Ranchera.jpg"}
 ]
