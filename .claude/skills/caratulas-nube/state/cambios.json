@@ -168,5 +168,15 @@
   {"fileId": "1rInY9ZAgyukosB6FlYUHlT7ivfmLDbvQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1IV0pPGwHrmSSNItwb5uNsJvJgDFX2sLf", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1NeMS2YZYo74Hf9mfk06iPhAv1zbesPQj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "12fBkW5AmzjmwujzOYPfnPGiTTwbsGMsW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "12fBkW5AmzjmwujzOYPfnPGiTTwbsGMsW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1mOESYuK3918EI2P566U_-lKi9eJd2r77", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1IGOwwEzRbTOPLvGFkklLUpFJcKm12b2y", "action": "rename", "newTitle": "Victor, 72809 A, Qué noche (Bardi), Orquesta Típica Select, Tango.jpg"},
+  {"fileId": "11HraXJrp9WKRMSZ8hjZVwdzasfP4BfwE", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1c7rxLgENIJvitOT0Za_tMrkMiV6AKwnq", "action": "rename", "newTitle": "Nacional Odeón, 18107 B, Macachín flor de los llanos (Obligado - Aranáz), Carlos Gardel con 4 guitarras Ricardo y Barbieri, Tango canción.jpg"},
+  {"fileId": "1HyfsAWOAZIeNU4kspeMK8Ezx6YgrWDAh", "action": "rename", "newTitle": "Victor, 37466 A, Juera guay (Santiago Hipólito Rocca), Charlo, Canción campera.jpg"},
+  {"fileId": "14j4rGz6xzoSC2cs-uqUhU3UTjXV43Qqf", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1my5CJXJI07KiSUoY4S-BvxoGFTFsMyHq", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1bvk-W3TseqYqL6NumGR40dH4XOmeeV57", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1bKhv3xOv3eEZBGDrOeJT9khr0AwfZBxm", "action": "rename", "newTitle": "Victor, 37018 A, La buenaventura (Pablo Silva - Ramón Montes), Ramón Montes, Paso Doble.jpg"},
+  {"fileId": "180Lvf8H5jXbGTAurJpYua_gdRKLo_uVi", "action": "rename", "newTitle": "RCA Victor, 68-1402 A, La artillera, Los Chalchaleros (Dir. J. A. Saravia Toledo), Zamba.jpg"}
 ]
