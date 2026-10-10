@@ -195,5 +195,15 @@
   {"fileId": "1Lk9kEcFo0LtgoLVeAkEUlvu3S-KryRim", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1DN7p7aJbblX83Mvrt2ce3MvKY9NinHv9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1V5f223-5Lxu9UnoCnEgrYC8Xkx2t5hVr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1nKy1FyfOKJlRBESRlzvo7Vyk6Ufc6H0X", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1nKy1FyfOKJlRBESRlzvo7Vyk6Ufc6H0X", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ENRj8JOHE7wrFOBIIXBqvGfzDEyquabR", "action": "rename", "newTitle": "Nacional Odeón, 6886 B, Cotorrita de la suerte (Alfredo De Franco), Maffia-De Franco, Dúo de Bandoneones, Tango.jpg"},
+  {"fileId": "18IIh0Sj5gDnDSpG-6RdDy5Lh9NGzT3gk", "action": "rename", "newTitle": "Nacional, 6907 A, Cachonguita (P. Canaro), Orquesta Típica Francisco Canaro, Tango.jpg"},
+  {"fileId": "11nr28YxUD4Ltha4F-J-aLUqT_wcXNWob", "action": "rename", "newTitle": "Nacional, 18247 A, En un pueblito de España (R. Pereyra), Carlos Gardel, acomp. guitarras Barbieri y Aguilar, Vals.jpg"},
+  {"fileId": "1SU60Nog4ccmQwmjNWa3xn0nulzsVVhc7", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "16uSC1bY7gTwM27dpvdaLHHdG44RV-iYm", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1H3nh_0_nSuBmHDY0uMeWcsVdVI9W7lqv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "11r2jdxuUJenEZ0cmIiLg5_nTtSl3XGwv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1tqMMy9dY1mPJbqrs7utAT7wfy99-e_jT", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1k6HeRug0Nb9UY2CDbfUO0xgus4GE72ZW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "16wsyKNaKAVD7LkDutUV8YBHYjjxtDzdS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
