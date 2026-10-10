@@ -138,5 +138,15 @@
   {"fileId": "11x73b11Smh9PY6XZcz2Ma9wTXUPkCacH", "action": "rename", "newTitle": "Nacional Odeón, 4087 A, Medias de seda (José Bohr), Orquesta Típica Francisco Canaro, Tango.jpg"},
   {"fileId": "1xIKTCFuRIP0VTBjq0sFHNWNb4l67TTdF", "action": "rename", "newTitle": "RCA Victor, 30355 A, Tus ojos azules (Ernesto Lecuona), Trío Argentino Irusta-Fugazot-Demare, Canción.jpg"},
   {"fileId": "10cJxL1CvbQWLw0-JTCFetk4FKZUo6lk7", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "16b1iAHASEGJNsosDMkpRHT6Zrb-B0TDi", "action": "rename", "newTitle": "Nacional Odeón, 4210 A, El poncho del olvido (A. R. Avilés), Orquesta Típica F. Canaro, Tango.jpg"}
+  {"fileId": "16b1iAHASEGJNsosDMkpRHT6Zrb-B0TDi", "action": "rename", "newTitle": "Nacional Odeón, 4210 A, El poncho del olvido (A. R. Avilés), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1P5NrJYqCT_IjB-5FcMFsVhS4fpUuMqo2", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1q8IuvcTboVl0s5971Ou7saOMvIteVVz0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1rmetc6N7N3WqIllz0sJgPxnHTlCirL8D", "action": "rename", "newTitle": "General Phono, 16194 A, Galleguita (E. G. Pettorossi), Fortunio Bonanova, Tango.jpg"},
+  {"fileId": "1muPElObFi1_MjEWLjTv7IuqMkmjBk2ef", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1EtwzNTFe6GSwAfaQ7EjUU69ppwn3uZFO", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "15KlpGthnISqvoZj61URyDm9atlNbknsf", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1LyG8BCw40rtShWAEVz_a-Z2x2u7q5Sl-", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1gUOpcqHdA8MMpvjFbjtm6hpoNSMpzbvE", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1XWqjoxfWebyRkl0WzPVPET5SZ0j8EY65", "action": "rename", "newTitle": "Odeón, 3534 B, La trilla (Eduardo Arolas), Roberto Firpo y su Cuarteto, Tango.jpg"},
+  {"fileId": "1xF2c7c9pOYrXFwDa003luZ_wdQb7Ci-3", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
