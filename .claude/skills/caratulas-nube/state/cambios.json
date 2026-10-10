@@ -215,5 +215,15 @@
   {"fileId": "1kYQf5RvRko5xch0vBrzoT1f_SRDLUBIc", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1i0-2SeMQv2-68XSzK6IOiAQ_1LTvs8Cn", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1fyzwNOb0FAw5Q34fN0gIocpGzyFT15Up", "action": "rename", "newTitle": "Victor, 38878 A, Corazón (Héctor Marcó - Carlos Di Sarli), Carlos Di Sarli y su orquesta típica, Canta Roberto Rufino, Tango.jpg"},
-  {"fileId": "1eOpZbhuKoSvkvrvIgY9EyT4GcbGpodfh", "action": "rename", "newTitle": "Victor, 37066 A, Patoruzú (J. Ramón Pontón - Baldomero Suárez), Orquesta Víctor Popular, Canta Carlos Lafuente, Ranchera.jpg"}
+  {"fileId": "1eOpZbhuKoSvkvrvIgY9EyT4GcbGpodfh", "action": "rename", "newTitle": "Victor, 37066 A, Patoruzú (J. Ramón Pontón - Baldomero Suárez), Orquesta Víctor Popular, Canta Carlos Lafuente, Ranchera.jpg"},
+  {"fileId": "17fMPbi1zv1fotyfI-_mQJwvD1c4eriIB", "action": "rename", "newTitle": "Victor, 79772 B, Soñando el charleston (A. Pugliese), Carabelli Jazz Band, Fox Trot.jpg"},
+  {"fileId": "1vu8tnF-iTEk3mQU_--zHaos9AM3q_93c", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1mrcR5uDozqvY50fDNJhv2pqxmaWcBqNy", "action": "rename", "newTitle": "Victor, 79736 B, Mala jugada (L. D'Andrea), Julio De Caro y su orquesta típica, Tango.jpg"},
+  {"fileId": "1L2b5P0DltUvEktcN-bdVugbxy2jZT6AB", "action": "rename", "newTitle": "Nacional, 4268 B, Lo comprendí en tu mirada (E. Delfino), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1ZZ8c4ks7upNvs5Qtj2mLiIH9iG1LlYnx", "action": "rename", "newTitle": "Nacional, 4089 B, Les garçonnes (L. Riccardi), Orquesta Canaro Jazz-Band, Fox Trot.jpg"},
+  {"fileId": "1mQd_IGKr35KpokhU-yZbx5f5Fb1TP_pJ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1tRfX8dsSzsKGK9UksE7Ydl6WsdtAX5el", "action": "rename", "newTitle": "Nacional, 18874 B, Mentiras (B. A. Reyes), Carlos Gardel, Tonada Salteña.jpg"},
+  {"fileId": "11sGqLW1yqBNv4L9g5y8yf1_lLQXbT1wP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "11q_Ix6ynFd7_sAtHpzXlJ2r_tjLkQzhc", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "196tbDWb07r-GN1ushz1oHefPKchUpp0U", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
