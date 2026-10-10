@@ -128,5 +128,15 @@
   {"fileId": "1eMY-VEsZ2roYLNmJ_PqW-iimeOGkl9Ul", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1NFAvhDjlB1dRnh1KkWQAW2aQQfZw_7_I", "action": "rename", "newTitle": "Victor, 79522 B, Beba (Donato - Flores), Rosa Quiroga, Tango.jpg"},
   {"fileId": "1fGnxsdq2-qhPF6l1X66OOw1G0k0dAo_q", "action": "rename", "newTitle": "Nacional, 6657 B, Malevaje (J. De Dios Filiberto - E. Discépolo), Mario A. Pardo, Tango.jpg"},
-  {"fileId": "1xepviaYy4XNXCMTB2FA7PZ6TBhsaLBuL", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1xepviaYy4XNXCMTB2FA7PZ6TBhsaLBuL", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1jjQ75cnIr02_fIaO7wyFtIEkOqsXjKUv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1wpDWzGC8i6aYJie2huqcrbOX6EenhHQv", "action": "rename", "newTitle": "Odeón, 55580 A, Ventanita florida (Enrique Delfino - Luis César Amadori), Ignacio Corsini, Tango.jpg"},
+  {"fileId": "144Qc2YqG90by4WUHF4OalYPdfbD23UBu", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1-dveqgRTWvSJMqykfRzEjGWBnQ8dkFsn", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "10dphCWGzlAno3ienC8RAbREHLcWf53rW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1YrxttxaMq798wdawkNvVCJeGA7ns_oy3", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "11x73b11Smh9PY6XZcz2Ma9wTXUPkCacH", "action": "rename", "newTitle": "Nacional Odeón, 4087 A, Medias de seda (José Bohr), Orquesta Típica Francisco Canaro, Tango.jpg"},
+  {"fileId": "1xIKTCFuRIP0VTBjq0sFHNWNb4l67TTdF", "action": "rename", "newTitle": "RCA Victor, 30355 A, Tus ojos azules (Ernesto Lecuona), Trío Argentino Irusta-Fugazot-Demare, Canción.jpg"},
+  {"fileId": "10cJxL1CvbQWLw0-JTCFetk4FKZUo6lk7", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "16b1iAHASEGJNsosDMkpRHT6Zrb-B0TDi", "action": "rename", "newTitle": "Nacional Odeón, 4210 A, El poncho del olvido (A. R. Avilés), Orquesta Típica F. Canaro, Tango.jpg"}
 ]
