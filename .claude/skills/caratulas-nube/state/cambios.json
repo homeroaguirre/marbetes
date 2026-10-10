@@ -158,5 +158,15 @@
   {"fileId": "1YHawSucwkuZe3wzGLiPB14F3gVw1J5pI", "action": "rename", "newTitle": "Victor, 79644 B, Por el Canigó (Tagle Lara - C. Flores), Pelaia-Italo, Zamba.jpg"},
   {"fileId": "1n8zICfOVOn8l1Gf0WvovRGk6Y_XHeTqO", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1-gAqYXERbcHbJmqv6FDo84bOZ68sJukT", "action": "rename", "newTitle": "Pathé, PG 11031 A, Cualquier cosa (Herminia Vesh de Rossano - Juan M. Velich), Alfredo Attadía y su Orquesta Típica, Canta Enzo Valentino, Tango.jpg"},
-  {"fileId": "1Ag135dHOl6-Y5yyaj8O2b5tyfi5tNugL", "action": "rename", "newTitle": "Nacional, 4934 A, Soledad (Carlos Gardel - Alfredo Le Pera), Francisco Canaro y su Orquesta Típica, Tango.jpg"}
+  {"fileId": "1Ag135dHOl6-Y5yyaj8O2b5tyfi5tNugL", "action": "rename", "newTitle": "Nacional, 4934 A, Soledad (Carlos Gardel - Alfredo Le Pera), Francisco Canaro y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1HbKbC-PH0kSIYRFIYqkxgix4gN_mJaTN", "action": "rename", "newTitle": "Brunswick, 1628 A, El penado 14 (Magaldi - Noda - A. Pesce), Agustín Magaldi, Canción.jpg"},
+  {"fileId": "1Wdb2kzXIXoVEFTQTkdwPXbmZ-pAKKAcE", "action": "rename", "newTitle": "Odeón, 55634 B, Camino del Tucumán (José Razzano - Cátulo Castillo), Rodolfo A. Biagi y su Orquesta Típica, Canta Alberto Amor, Tango.jpg"},
+  {"fileId": "1Gq9k0seava-c5DGlDGoUpyhFmP2uUdsX", "action": "rename", "newTitle": "Victor, 37094 B, La casita, Gómez-Vila, Canción.jpg"},
+  {"fileId": "1cJ0q6I6JsHy4SxxSu69aZlHIyRDT1s1O", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1_ZOWQn433eQIShhIOQDjXlLZ716LZqDE", "action": "rename", "newTitle": "Odeón, 55279 B, Patrona (Juan Larenza - Cátulo Castillo), Alfredo De Angelis y su Orquesta Típica, Canta Carlos Dante, Milonga.jpg"},
+  {"fileId": "1TpBxm3OoCN3SyDJQPcxyIT63Imp5kYEy", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1rInY9ZAgyukosB6FlYUHlT7ivfmLDbvQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1IV0pPGwHrmSSNItwb5uNsJvJgDFX2sLf", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1NeMS2YZYo74Hf9mfk06iPhAv1zbesPQj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "12fBkW5AmzjmwujzOYPfnPGiTTwbsGMsW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
