@@ -48,5 +48,55 @@
     "fileId": "1byU3GSi1WG7Xo6QYEzBF_vG29liC7mes",
     "action": "rename",
     "newTitle": "Disco Nacional, 646 A, Quejas de bandoneón (J. de Dios Filiberto), Roberto Firpo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1AhVeDsBNMZzQ8ZFCUU8rOrR_NZSkkSt7",
+    "action": "rename",
+    "newTitle": "Odeón, 30221 B, A quien le gano (Enrique Maciel - Ricardo Raúl Garavano), Enrique Rodríguez y su Orquesta Típica, Canta Ricardo Herrera, Tango.jpg"
+  },
+  {
+    "fileId": "10ZXqSiec_CyWkQQh8mBoyirm3UX_KoC1",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1KD_h8IiSRvBfERWOsT7tJMnYfOId_zZW",
+    "action": "rename",
+    "newTitle": "RCA Victor, 60-1892 A, Nube gris (Eduardo Márquez Talledo), Osmar Maderna y su Orquesta Típica, Canta Pedro Dátila, Vals peruano.jpg"
+  },
+  {
+    "fileId": "1glWK_saBvJUkF-gn_w8Qy25ganQ0LHeE",
+    "action": "rename",
+    "newTitle": "RCA Victor, 37360 B, Contigo siempre (J. M. Carnini), Adolfo Carabelli y su Orquesta Típica, Canta Alberto Gómez, Vals.jpg"
+  },
+  {
+    "fileId": "1klhTZY3wtLcVXbszaFC28xmX6YPaEjAj",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1FmRdkHybiUVHSvJ3mQR22t6DUdE3dqc9",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1OWCoDHlDiZ7zTRWnBb9iX16wCM0Rqc9r",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18147 B, Deja el conventillo (Ruiz Paris - Scatasso), Carlos Gardel con 4 guitarras (Ricardo - Barbieri), Tango.jpg"
+  },
+  {
+    "fileId": "1REm3YgocqpR_NtgwGK1S_bM5clBxRqeS",
+    "action": "rename",
+    "newTitle": "Odeón, 496 B, Boca Juniors Club (J. Quevedo), Roberto Firpo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1lrmi7rCWFpPlM60OMSXeC8DMATgIDVr3",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1tvBeou-zdfgY7Km5GsiAf8453QfB2rOY",
+    "action": "rename",
+    "newTitle": "RCA Victor, 39139 A, El huracán (N. López - E. y O. Donato), Edgardo Donato y sus Muchachos, Canta Félix Gutiérrez, Tango.jpg"
   }
 ]
