@@ -98,5 +98,55 @@
     "fileId": "1tvBeou-zdfgY7Km5GsiAf8453QfB2rOY",
     "action": "rename",
     "newTitle": "RCA Victor, 39139 A, El huracán (N. López - E. y O. Donato), Edgardo Donato y sus Muchachos, Canta Félix Gutiérrez, Tango.jpg"
+  },
+  {
+    "fileId": "1JfSo1HgEE8M47r0q1O0SKlKNMmbx5Isz",
+    "action": "rename",
+    "newTitle": "Victor, 80911 A, Vecinita gentil (A. Mondino - V. Soliño), Alberto Vila, Vals.jpg"
+  },
+  {
+    "fileId": "1dh_9zKLVRjp4cpW3qETlrZigNAseoFfg",
+    "action": "rename",
+    "newTitle": "Victor, 79641 A, Horas tristes (V. Spina - Cárdenas), Rosita Quiroga, Tango.jpg"
+  },
+  {
+    "fileId": "1Fc5H6kWXPqAUPPNF_WRoP5y6TTT8sp7G",
+    "action": "rename",
+    "newTitle": "Odeón, 52036 A, Adiós, adiós, amor (Enrique Rodríguez - Roberto Escalada), Enrique Rodríguez y su Orquesta Típica, Canta Oscar Galán, Tango.jpg"
+  },
+  {
+    "fileId": "1Rogc8A0SqRgeew1ZbtDCELQo4hISuhF8",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4432 B, Qué achaché (E. S. Discépolo), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1P1u4zNe4N9sfOfc5i4fZlgVcd_YE-Arl",
+    "action": "rename",
+    "newTitle": "Victor, 67783 B, El aeroplano (Pedro Datta), Orquesta Argentina de Ferrer, Vals.jpg"
+  },
+  {
+    "fileId": "1trselcJ2K_1etQ-RwhRpmKacdYeulLZi",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ewmn2gIOLW0AJ10zdlK9lHs5WANYwQw3",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1nhxepLywJuavS6MhVEgFcpwixqSRN6pW",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "18GM5YvTv1QUZFsLQvly1chlAvEVgnQHF",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1ZmKJym3VCMmIz9hfjCzugpoFc5N-DDRC",
+    "action": "rename",
+    "newTitle": "Odeón, 30581 B, La rodada (Eduardo Bonessi - Eduardo Escaris Méndez), Alberto Marino con acompañamiento de guitarras, Canción.jpg"
   }
 ]
