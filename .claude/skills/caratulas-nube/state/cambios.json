@@ -18,5 +18,15 @@
   {"fileId": "1GJp416gNjCHnfzH6ZnXrB3TtieP18RId", "action": "rename", "newTitle": "Brunswick, 1270 B, La sufrida (P. Giménez), Orquesta Típica Julio De Caro, Chacarera.jpg"},
   {"fileId": "1Vo52WaVpIDZCqnppFjupDm810wBmO5y3", "action": "rename", "newTitle": "Nacional, 9825 B, Corazoncito (R. Rossi), Rafael Rossi, Tango.jpg"},
   {"fileId": "1geWiaAs-3-_BqSpqSO9vCztNNb-b5Bgm", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1IbTk0d3rAUINDvPm0Ni7AIX9N-i1GCsj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1IbTk0d3rAUINDvPm0Ni7AIX9N-i1GCsj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1IjyHJd2PJ7FDS0W7HifcvB9aYqA6wSb9", "action": "rename", "newTitle": "Victor, 47191 B, Gaucho lindo (G. Aguilar), Libertad Lamarque-Roberto Díaz, Gato.jpg"},
+  {"fileId": "1E3w6vrp60G83jbEhWhTotcD_ZTERh88D", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1zlwAzppZDk0mkgccVlEoUaqzjjv_XjrJ", "action": "rename", "newTitle": "Nacional Odeón, 4281 A, Tanita de la proa (S. Merico), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1tdnwVW-FmrjAc983YxFPZLINs1Km1TQO", "action": "rename", "newTitle": "Victor, 79613 B, Tesorito (J. Santa Cruz), Orquesta Típica Victor, Tango.jpg"},
+  {"fileId": "1R_mT5H3IygWZPPKR53wfIq_yxKOmib0t", "action": "rename", "newTitle": "Victor, 37330 B, No le quiero mirar (Pablo Rodríguez), Mercedes Simone, Vals.jpg"},
+  {"fileId": "1_XHUMGDM1AVrkqTjWV-OGAV4c2q21JmV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1QvE7YWnJytD7gMoUrDndjpEn4oagKWEd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1p_Dc5ubDyhvPjkQZOyczV3_2yTVHkxgG", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "14zJGCAbtteq7NbsS6T9eikyAIx5l2IDl", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "13nPP--0norqO-7wzzOsDx9ttPofA91GA", "action": "rename", "newTitle": "Nacional, 6042 A, Cap Polonio (A. Rosquellas), Orquesta Típica Roberto Firpo, Tango.jpg"}
 ]
