@@ -1,1 +1,12 @@
-[]
+[
+  {"fileId": "107kVj00rkutEvt2FzOSE_COkCAx1HDvd", "action": "rename", "newTitle": "Victor, 47686 A, El último adiós (E. Cárdenas - José Tarantino), J. Guido y su Orquesta Típica, Canta Juan Lauga, Vals.jpg"},
+  {"fileId": "196o8B085fsl3kof4lJDZAFEtkBPHkGaO", "action": "rename", "newTitle": "Nacional, 18128 B, Reyes del aire (Canale - Bohr), Carlos Gardel con 4 guitarras Ricardo y Barbieri, Shimmy.jpg"},
+  {"fileId": "1rFmRQnH8YrAs6gVkO5CfDwKmdCOlPDpV", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1YNOid0fEOM_G0TiC5WS183n8LHt2MKnr", "action": "rename", "newTitle": "Nacional, 4689 A, Ilusión marina, Orquesta Típica F. Canaro, Vals.jpg"},
+  {"fileId": "1dKrcvPBz--USDxI8PhcVptI1LVczHf8E", "action": "rename", "newTitle": "Nacional, 19003 A, Sos más loca que un bagual, Olinda Bozán con orquesta Francisco Canaro, Ranchera.jpg"},
+  {"fileId": "1GgUrjtpxgtVCuQb7ZwBaHClHnQ0iEpcY", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "17Xz5O1zzq3ES2_mg8BKj_wci_bxZlLDK", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1t4VHpIqPXx_J8LDeO-dDrxu9esQq2_hy", "action": "rename", "newTitle": "Nacional, 18909 A, Cuesta abajo (Alfredo Le Pera - Carlos Gardel), Carlos Gardel, Tango.jpg"},
+  {"fileId": "1ijjfWKaIhQAw7cN3WNkQo0kud2slxMw6", "action": "rename", "newTitle": "Victor, 73921 A, Ídolos (Oswaldo Fresedo), Orquesta Típica Fresedo, Tango.jpg"},
+  {"fileId": "15UsTCZhCwJdVnvxslUr9zIXgjuBw51DR", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+]
