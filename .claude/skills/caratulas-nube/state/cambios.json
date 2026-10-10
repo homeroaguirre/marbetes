@@ -107,5 +107,15 @@
   {"fileId": "1BWLnRExTfps1pAWOLPcvo-m2DltghK2j", "action": "rename", "newTitle": "Victor, 79677 A, Allá en el bajo (A. Magaldi - P. Noda), Julio De Caro y su Orquesta Típica, Tango.jpg"},
   {"fileId": "1vH0gr33d3qigZhEWqMDAju3Xtt097vwV", "action": "rename", "newTitle": "Victor, 60-0371 B, El elegante (Chiqué!) (Ricardo L. Brignolo), Aníbal Troilo (Pichuco) y su Orquesta Típica, Tango.jpg"},
   {"fileId": "1mcqX2emYf1mq2LwcE0k30P_lwDYVBM2x", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "16JiOU5vgdnLlRWMBoQwINScQCS7Bgamc", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "16JiOU5vgdnLlRWMBoQwINScQCS7Bgamc", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1I0_CUSD_X1USQ7xOrLVUY8c44Ot-mKjd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ydonOGhs3i3GwfktAtzz47QkBjOZDVHT", "action": "rename", "newTitle": "Victor, 60-1741 A, Claveles blancos (J. M. Contursi - A. Pontieri), E. Francini - A. Pontier y su Orquesta Típica, Canta Roberto Rufino, Tango.jpg"},
+  {"fileId": "1jCSKR7X9ATe7yNVEs-LzHGAGPX1l325g", "action": "rename", "newTitle": "Victor, 60-0980 B, Malambo (Ariel Ramírez), Ariel Ramírez, Malambo.jpg"},
+  {"fileId": "1NlE7PYoFTW4ZYmknAtGrr0yDkpBziHqn", "action": "rename", "newTitle": "Sondor, 31562 A, Asunción (Federico Riera), Félix Pérez Cardozo y su Conjunto de Arpa y Guitarras, Galopa paraguaya.jpg"},
+  {"fileId": "1B2UJUY_x3syMe7-Cy2kA-_0rmtjTSg2j", "action": "rename", "newTitle": "Nacional, 6905 B, La última cita (Agustín Bardi), Francisco Canaro Trío, Tango.jpg"},
+  {"fileId": "1-POpYp-up5H3fsgzsGs4iGrGdL2kXzAv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1FnaOWL0b6h6SNsC6aQiLdt4COtG0fqPx", "action": "rename", "newTitle": "Nacional, 4036 A, Griseta (E. Delfino), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "15tRuUxDp1Ka56ZhSk4BIGYmzaE9uCgdZ", "action": "rename", "newTitle": "Victor, 60-1917 B, Cielo de mi tierra (Lito Bayardo - Ciriaco Ortiz), Trío Ciriaco Ortiz, Zamba.jpg"},
+  {"fileId": "15vgfogcPE6qEcCcoE8ZUsLs5LhOAvdzM", "action": "rename", "newTitle": "Nacional, 4474 A, ¡Buenos Aires es una papa! (E. Delfino), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1k1xNRWtmhz-6YTLY3HN-ZvwYJ-TtEC-w", "action": "rename", "newTitle": "Victor, 73471 A, Fruto prohibido (Enrique Delfino), Orquesta Típica Minotto, Tango.jpg"}
 ]
