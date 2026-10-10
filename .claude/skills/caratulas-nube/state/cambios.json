@@ -177,5 +177,13 @@
   {"fileId": "1JUmonJHYwPoapNyjoZ9dVHiEdVlqmWMA", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1GEeKHWtxJhFc0tXZ-8zaTKVzRAp5Y_rh", "action": "rename", "newTitle": "Victor, 79915 A, Cruz Diablo (R. Biagi), Rodolfo Biagi, Solo de piano.jpg"},
   {"fileId": "1Csxp-eySmiz98oFStIT241Pd88ciTeqi", "action": "trash"},
-  {"fileId": "1HUWcyV3rddhxPzKi-Bu7Mhj3CyFA7Vg0", "action": "rename", "newTitle": "Victor, 77443 A, Cenizas (Rizzuti - Fresedo), Roberto Díaz, acomp. Orquesta E. Pereyra, Tango.jpg"}
+  {"fileId": "1HUWcyV3rddhxPzKi-Bu7Mhj3CyFA7Vg0", "action": "rename", "newTitle": "Victor, 77443 A, Cenizas (Rizzuti - Fresedo), Roberto Díaz, acomp. Orquesta E. Pereyra, Tango.jpg"},
+  {"fileId": "1hONGmT7D8ME6jEPe3m4AalBMhEjyO0zH", "action": "rename", "newTitle": "Victor, 47209 A, Huella buey (Alberto N. Laporte), Marcucci-Grupillo, Dúo de Bandoneones, Tango.jpg"},
+  {"fileId": "1wsgHZR9D4z0xpljrC1FtceXb7GgG9ycM", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1DfpYhy_fWJpk0wf90iJv9QRXd1DqY8N0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1aSC8H9VVa5sBQqQBaLG5cMXvVfiaMqyj", "action": "rename", "newTitle": "Victor, 60-0300 B, Boedo y San Juan (E. Cadícamo - R. Luna), Carlos Di Sarli y su Orquesta Típica, Canta Roberto Rufino, Tango.jpg"},
+  {"fileId": "1J9jhYNlAASbu0obGE073Wjwlhvxz7h66", "action": "rename", "newTitle": "Nacional, 9610 B, Libertad (Iriarte - Pesoa), Dúo de Guitarras, Pericón.jpg"},
+  {"fileId": "1WNXUgjFSigGB-qchA5BPhfDhzLezQWjA", "action": "rename", "newTitle": "Victor, 39506 B, Criolla linda (L. Rubistein - V. Gorressi - B. Germino), Francisco J. Lomuto y su Orquesta, Tango.jpg"},
+  {"fileId": "1J5dy12019hNwqRlwxNyg-n163PkHQDHD", "action": "rename", "newTitle": "Nacional, 4266 B, Glorias (H. Canaro), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1m_zCdSjAKsK65yMUTbqHNsDxyyDxLcoE", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
