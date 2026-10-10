@@ -235,5 +235,15 @@
   {"fileId": "1R9h8TggEVQEpuQRnFNDJx-9xzqQdzlZd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1HnKNxszJ98fsbtm-7eaLEEJifQuYeY0t", "action": "rename", "newTitle": "Nacional, 11013 A, Organito de la tarde (Cátulo Castillo), Azucena Maizani, Tango.jpg"},
   {"fileId": "1X-JujubkwoDiULYf8DehhPiSmT1tnSwu", "action": "rename", "newTitle": "Victor, 39360 A, Zorro gris (F. García Jiménez - R. Tuegols), Francisco J. Lomuto y su orquesta típica, Tango.jpg"},
-  {"fileId": "1RpSF0OhCmTlu4dfC5P8Z5b9LaaoEJSmZ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1RpSF0OhCmTlu4dfC5P8Z5b9LaaoEJSmZ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "18ny4G-2D8QjIkRN0dgkV7Jl6mrZVNP_o", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ufvI7bw9aR_EhpN_yFAxfpYO83QHSAdB", "action": "rename", "newTitle": "Victor, 79519 A, Mis lágrimas (P. Maffia), Orquesta Típica De Caro, Tango.jpg"},
+  {"fileId": "1VwqCAqyLPUopFhR1vAnHTnd20XsS1hF7", "action": "rename", "newTitle": "Brunswick, 1669 B, Al pasar de las carretas (E. Pereyra), Magaldi-Noda, Zamba.jpg"},
+  {"fileId": "1R7wkPg5s79iwqbosbQHClleDgPANj1SE", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1h1hQzlIabBt-gM00IjZ1vi9x_DbrI676", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1UFXbI2PmSHcXFgAXPv4Bqz7HdQ4kBubv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "149JfLyfVcuQNjFo30VYiu4C4mjKBLTLR", "action": "rename", "newTitle": "Victor, 38878 B, El retirao (Carlos Posadas), Carlos Di Sarli y su orquesta típica, Tango.jpg"},
+  {"fileId": "1Dw3nQPcq3fy7lChFtYusKOmD8WOT22S9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ep_exxPiHE9DHQk9iGxJ8xHYGxsJ-U6j", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1k-xcBCCmXmk3MPHAnVyRrXrT3Mbm3NrS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
