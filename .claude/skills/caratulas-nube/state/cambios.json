@@ -137,5 +137,15 @@
   {"fileId": "1sxOIyPN78ytxK8-sG0pZiwt4uUDvC9TD", "action": "rename", "newTitle": "Victor, 77056 A, Aires criollos N° 2 (José Aguilar), José Aguilar, acomp. guitarra E. Maciel, Solo de guitarra.jpg"},
   {"fileId": "1COKtZ_KTA8f90UbAonEF4k6uk4Y9YMwP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1C9pASs-VF00DJWyW5KuGi5Q3dGzUUWxx", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1eGVh5Ct-th0p-a2cb6hMzKH3PGC_FE45", "action": "rename", "newTitle": "Victor, 47461 A, Mi dolor (M. A. Meaños - Carlos Marcucci), Alberto Gómez, Tango.jpg"}
+  {"fileId": "1eGVh5Ct-th0p-a2cb6hMzKH3PGC_FE45", "action": "rename", "newTitle": "Victor, 47461 A, Mi dolor (M. A. Meaños - Carlos Marcucci), Alberto Gómez, Tango.jpg"},
+  {"fileId": "1TzYo11Z_mUabW38OY9s9Ps60z8YhoQtK", "action": "rename", "newTitle": "Brunswick, 2210 B, ¡Que lo larguen! (A. Aista - F. García Giménez), Mercedes Carné con orquesta Carlos Di Sarli, Tango.jpg"},
+  {"fileId": "10_q6i9DX1x_cdEq0J-lTVnz7hoDjqVHe", "action": "rename", "newTitle": "Nacional Odeón, 4321 B, Meditación (Carlos Di Sarli), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1Q7CEnreIh5nNtq6mcEI9yi8ATjW0eVwi", "action": "rename", "newTitle": "Victor, 47363 A, Mi dolor (Manuel A. Meaños - Carlos Marcucci), Carlos Marcucci y su Orquesta Típica, Canta Roberto Díaz, Tango.jpg"},
+  {"fileId": "1uNEMuLFTEH7vJU5qRbYMc-u4BRb-PyPL", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1RdBxE3r9DwASCGetnwPUpEajCvPetbRD", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1FBiocl1UVteksh8ZqkRIbmWjLSM5uuId", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1GMYPdkJgA0lyqzfjZLnG4Z-hRSFcAuWP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1VZqDvCkv0IIuyLHF0Z3YB5OYFyOtkdvo", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "195SMO8Xy64wmK0wfzAVuGdblqL0APgBD", "action": "rename", "newTitle": "Victor, 79914 A, Pinta brava (Charlo - Battistella), Agustín Irusta, Tango.jpg"},
+  {"fileId": "1AdBTzeLxj4cb39Dx41Pu_Y-EnZZ-wJH8", "action": "rename", "newTitle": "Victor, 37290 B, La dicha jamás lograda (Ismael R. Moreno), Trío Ciriaco Ortiz, Vals.jpg"}
 ]
