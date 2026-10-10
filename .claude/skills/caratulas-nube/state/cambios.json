@@ -48,5 +48,15 @@
   {"fileId": "1elQ7AWtKlcMukg-Qo4OQK3p6PahGRAH0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "13_W8AW7lqQenA17S22josqtppbpQdbEb", "action": "rename", "newTitle": "Odeón, 55345 B, Mesón de fierro (Tránsito Cocomarola - Armando Correa - Luis Mendoza), Trío Cocomarola, Chamamé.jpg"},
   {"fileId": "1F29hjXNj9PdtMokz44AXsBHfQVkHk7Tm", "action": "rename", "newTitle": "Victor, 60-0016 A, Cornetín (H. Manzi - C. Castillo - P. Maffia), Carlos Di Sarli y su orquesta típica, Canta Roberto Rufino, Tango.jpg"},
-  {"fileId": "12Aa4d8R_6JJduFgHLdoTZFQoTBPQP85W", "action": "rename", "newTitle": "Victor, 47212 B, Gaucho lindo (Gma. Aguilar), Spina-Baudino, Gato.jpg"}
+  {"fileId": "12Aa4d8R_6JJduFgHLdoTZFQoTBPQP85W", "action": "rename", "newTitle": "Victor, 47212 B, Gaucho lindo (Gma. Aguilar), Spina-Baudino, Gato.jpg"},
+  {"fileId": "1wLgnHGXOVWSKvucYRbbiwcAG7hU9s8ib", "action": "rename", "newTitle": "Victor, 79832 B, Horas que pasan (Nicolás Blois), A. Ferrazzano y su orquesta típica, Vals.jpg"},
+  {"fileId": "1kkCbbHJXDuTX03q9yc-QeiYASkzYdXlQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1rcLIeuaNt7wRulYaK8SWcb7RLD5Khhnw", "action": "rename", "newTitle": "Nacional, 6522 A, Porotita (E. Delfino), Enrique Delfino, Tango.jpg"},
+  {"fileId": "1t0M0iOF8WWmFQA_ve02HGctLM5B-yn_B", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1fBRG1PJoCsmdj23PggSB5bRAJuERbap4", "action": "rename", "newTitle": "Victor, 79670 A, Retintín (Eduardo Arolas), Orquesta Típica Victor, Tango.jpg"},
+  {"fileId": "1F3EPIyILAyqj2NgmZMG3Q793_iMvYUdn", "action": "rename", "newTitle": "Victor, 37597 B, Mate amargo (F. Brancatti - C. F. Bravo), Trío Ciriaco Ortiz, Ranchera.jpg"},
+  {"fileId": "17q9M8fMTuCNeCIlhOwEttkwrNyl6WRoT", "action": "rename", "newTitle": "Nacional Odeón, 4281 B, La última copa (F. Canaro), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1AWd6Ia0EZIjy06vqTABTvN2a2D83zRpI", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1gWTcUN6MBQBCenZ-DxEoPYglS1lvTfgy", "action": "rename", "newTitle": "Victor, 79579 A, Ay... no... (C. Petrone), Carabelli Jazz Band, Shimmy.jpg"},
+  {"fileId": "1OCT7IVVWbgJs6G47y_Jx7lLLgIWk0pK5", "action": "rename", "newTitle": "Brunswick, 1019 A, Polilla (J. Matos Rodríguez), Orquesta Típica Donato-Zerrillo, Tango.jpg"}
 ]
