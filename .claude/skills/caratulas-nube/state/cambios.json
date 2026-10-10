@@ -157,5 +157,15 @@
   {"fileId": "1xnv6Vk0LkewkRm3EIpd8vlaC-QgmHn4g", "action": "rename", "newTitle": "Nacional, 8672 B, Hojarasca (R. Pesoa), Orquesta Típica R. Firpo, Tango.jpg"},
   {"fileId": "1_ixn2_gegIrHSsFGp9kaBL5MKuxVjTWU", "action": "rename", "newTitle": "Victor, 79608 A, Olvido (A. D'Agostino), Orquesta Típica Victor, Tango.jpg"},
   {"fileId": "1UG6i-1Q2gb4Gzo3NHQ0iTNk0CO6HL2az", "action": "rename", "newTitle": "Victor, 73788 B, Polola (Hugo B. Rizzi), Orquesta Típica Cobián, Tango.jpg"},
-  {"fileId": "1HGa14d2T4N8Fs69wntIAqLiiPfs4JaCs", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1HGa14d2T4N8Fs69wntIAqLiiPfs4JaCs", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1BcxYwiXpjdTEbzGSLvWgROv9Hw4Dz68W", "action": "rename", "newTitle": "Nacional, 4626 B, No hables... que me estás secando (I. Teisseire), Orquesta Típica F. Canaro, Canta J. A. Caruso, Tango.jpg"},
+  {"fileId": "1zMzdshZkrYQEYtkgLLcF_mQvv7scVXnX", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "11-krrQpHxqmEAk5kfGlsYW9LSDg11w9M", "action": "rename", "newTitle": "Nacional, 4425 A, El carrerito (R. de los Hoyos), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1W2XHxZocj33ZlXHoljsFJyqwRhB6f5WP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Td4JqTgYPj3DsNmtXa4VK2GDrE-ueGG6", "action": "rename", "newTitle": "Victor, 37359 A, Ventarrón (Horacio Staffelani - Pedro Maffia), Orquesta Típica Victor, Tango.jpg"},
+  {"fileId": "1_NbYPeOMINq3JJuZwz9Q5yX4RtZnAzmj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "137RwfzW02nMPl2dKSLUk1ANkOHJyZD76", "action": "rename", "newTitle": "Victor, 37473 B, Capullito de alelí (Rafael Hernández), Adolfo Carabelli y su Orquesta, Canta Carlos Lafuente, Rumba.jpg"},
+  {"fileId": "1u1SulTSoyEFrR9f0Z9uK48b08pdfge4n", "action": "rename", "newTitle": "Victor, 79613 A, La pueblera (J. M. Rizzuti), Orquesta Típica Victor, Tango.jpg"},
+  {"fileId": "1-0s8cQaul7ewPjSHZvQS0AB0zJAuoe9C", "action": "rename", "newTitle": "Nacional Odeón, 4233 A, A media luz (E. Donato), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1LTOQBeiwfJoPmJAy2VDdplgfxMltpwfy", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
