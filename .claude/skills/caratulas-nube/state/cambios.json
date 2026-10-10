@@ -88,5 +88,15 @@
   {"fileId": "1ESxlxWOhqV54b9ohHEjh3b_0LiryUNwL", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1MbuSBsiBZ4Y_90mAc2l2lWar3Bsh8yA-", "action": "rename", "newTitle": "Victor, 80987 B, Garufa (V. Soliño - R. Fontaina - J. Collazo), Alberto Vila, Tango.jpg"},
   {"fileId": "1gMxEyG4AyLoNY9PrNc-jP6Rfx-yS38Tw", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1tfJ3b-oiAPTSVgcAlEH4CAngSSra-rPW", "action": "rename", "newTitle": "Standard, 19015 B, Bailongo (Gardel - Razzano), Carlos Gardel, Milonga.jpg"}
+  {"fileId": "1tfJ3b-oiAPTSVgcAlEH4CAngSSra-rPW", "action": "rename", "newTitle": "Standard, 19015 B, Bailongo (Gardel - Razzano), Carlos Gardel, Milonga.jpg"},
+  {"fileId": "13oYOyv7jrThUElB37oX4rDc6dcFkaK5e", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1J5WxC5FeVpaE57vex7ULzNpfZPrZEDGB", "action": "rename", "newTitle": "Nacional, 4581 A, El barrio, Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1Dpp1ec3eBdVF6SuADLYLH-KUxaaEA7Za", "action": "rename", "newTitle": "Brunswick, 2126 B, Mentiras (J. B. A. Reyes), Azucena Maizani, Tonada salteña.jpg"},
+  {"fileId": "1e15qrwkNYS3mGp_MoDH9FeO_QYEV2NJD", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1wGjau0a-GQooA8uUfXKwyknP9hoLlTOa", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1CvaBATS08dCLI9eG0c1JQFqIsxetmCKH", "action": "rename", "newTitle": "Nacional, 4468 A, Te aconsejo que me olvides, Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1faNe4EPh2MuhPQMFB4mf3bZtx0_00qSf", "action": "rename", "newTitle": "Nacional, 25001 B, Serpentina doble (H. S. Graziano - J. Rezzano), Caprara con 3 guitarras, Tango.jpg"},
+  {"fileId": "1pkMMSHH2RCZ9pzmK-12FcxVnvZvc7G2o", "action": "rename", "newTitle": "Pathé, PG 11008 A, Margot (Carlos Gardel - José Razzano - Esteban Celedón), Eduardo Del Piano y su Orquesta Típica, Canta Mario Bustos, Tango.jpg"},
+  {"fileId": "1JUBFJNv2_gF8cDtgjsIolX_BveeEn_c8", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1GX_GjamcnqhnSmmjdJQwYmb4nuAqpqwj", "action": "rename", "newTitle": "Nacional, 4518 A, Primer auxilio (L. Teisseire), Orquesta Típica F. Canaro, Tango.jpg"}
 ]
