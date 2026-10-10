@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "fileId": "1mzuHSQ8_RP3RwnzGmtPU_7-NAUSrJdHd",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4547 A, La pulpera de Santa Lucía (E. Maciel), Orquesta Típica F. Canaro, Vals.jpg"
+  },
+  {
+    "fileId": "1HASS7zKO3lpIx5N6PNA-uaqzQ103k4hn",
+    "action": "rename",
+    "newTitle": "Victor, 47088 A, Soy un arlequín (Enrique Discépolo), Alberto Gómez, Tango.jpg"
+  },
+  {
+    "fileId": "1-FoWdnJou1KFE_6v1BML7P29e5F4PtHx",
+    "action": "rename",
+    "newTitle": "RCA Victor, 37314 A, Petruschka (Retta - Dumont - Francisco Pracánico), Agustín Magaldi, Canción rusa.jpg"
+  },
+  {
+    "fileId": "1TnMUWayCoHhjvFTUzHnfWotmw-sRIMY5",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4482 B, Maleva (J. de Dios Filiberto), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1vfl5EYUlQ_MTPn_Nv3pLawSga8i3puoy",
+    "action": "rename",
+    "newTitle": "Victor, 80964 B, Mujercita morochita (A. García - A. V. Salaverry), Alberto Vila, Tango.jpg"
+  },
+  {
+    "fileId": "1OYqVIn9uiu0TljeECcMMoXDpoEG1O0__",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1UJaIPoW7GlkZZDekkmkMl7nsVeGcbTXE",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4266 A, Federación (F. Canaro - L. Riccardi), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1lAmVLIhOYvx1u7EVwFSrS1Ju87jTGe8T",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18215 A, Amurado (J. Grandis - Maffia - Laurenz), Carlos Gardel con 4 guitarras (Ricardo - Barbieri), Tango.jpg"
+  },
+  {
+    "fileId": "1fNpC5J5cGmycX2Bj79kC-vSNm23UlM2F",
+    "action": "rename",
+    "newTitle": "RCA Victor, 47592 A, Confesión (Enrique S. Discépolo - Luis C. Amadori), Orquesta Típica Porteña, Canta Teófilo Ibáñez, Tango.jpg"
+  },
+  {
+    "fileId": "1byU3GSi1WG7Xo6QYEzBF_vG29liC7mes",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 646 A, Quejas de bandoneón (J. de Dios Filiberto), Roberto Firpo y su Orquesta Típica, Tango.jpg"
+  }
+]
