@@ -78,5 +78,14 @@
   {"fileId": "1HCLc25suG67R-bDhfShzYMkc9hleb-JH", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "133FPdvYVNqwO5vRZE5BhQbMyxSlpar3J", "action": "rename", "newTitle": "Victor, 79805 A, Pericón (A. Podestá), Iriarte-Pesoa, Pericón.jpg"},
   {"fileId": "1fc4dlvHyz_MZZcNopIGTdSUiQTPdVEdB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1_Zgp3x5j_WlZUcXtlLtjRNo794_tviIn", "action": "rename", "newTitle": "Victor, 67689 A, Clínicas (A. López Buchardo), Orquesta Argentina de Ferrer, Tango.jpg"}
+  {"fileId": "1_Zgp3x5j_WlZUcXtlLtjRNo794_tviIn", "action": "rename", "newTitle": "Victor, 67689 A, Clínicas (A. López Buchardo), Orquesta Argentina de Ferrer, Tango.jpg"},
+  {"fileId": "1E8jf64ZCmrD3A3BzwOah6A4AnrBOulDU", "action": "rename", "newTitle": "Nacional Odeón, 4534 A, Juanita (Gilbert - Shilkret), Orquesta Típica F. Canaro, Vals.jpg"},
+  {"fileId": "16_a5UmjYTT0VaKJXI8M1VpZaKBQ0QFvE", "action": "rename", "newTitle": "Victor, 77296 B, Espinas (Humberto Brignolo), Orquesta Típica Pereyra, Tango.jpg"},
+  {"fileId": "19DkfguALO0d1I0IcDS36Esah9bQsPwYK", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1tVtz8HHDkCDiN6S883cZQKrqgf1xkFSe", "action": "rename", "newTitle": "Victor, 60-0487 B, Milonguero viejo (Carlos Di Sarli), Carlos Di Sarli y su orquesta típica, Tango.jpg"},
+  {"fileId": "1RvsomAqg2Pcw8T0yuf4BgoUU0P7cs8Rf", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1n-eFg2YLK0Y1-iipPi4Za2es_wbHwdyu", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1kv6SfI-34kjjfs-_XeXkU5DMd2Vry4JR", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1vrpokb9XAiVubdOhlT4d_KRDuoD9h3N3", "action": "rename", "newTitle": "Victor, 79531 B, Tráiga un veneno, garçón (F. Payá), C. Marambio Catán, Tango.jpg"},
+  {"fileId": "1ob7eXGhcsx4zEVCI52r83_Gpnc9KCK7g", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
