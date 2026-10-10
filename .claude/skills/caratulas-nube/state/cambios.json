@@ -1,1 +1,12 @@
-[]
+[
+  {"fileId": "1uCBZmVHOfLSsq-AK6nDv8_UvNZyN4D4W", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ElAynLBdfOchptHJ0yTE3xDTJPLaX2ue", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1mzqeYmmWBnjhn8wC9WvpHqXIuo-kjrf2", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1EdIBMW1qwjArQFjcd9J0aakerCS5Edm1", "action": "rename", "newTitle": "Victor, 47081 A, La querendona (Alfredo Pelaia - Jesús Fernández Blanco), Alfredo Pelaia, Polka Criolla.jpg"},
+  {"fileId": "1G61WKkhtOfKGrzfzwFlKqGmLS3Nkcrud", "action": "rename", "newTitle": "Victor, 79699 B, Chilena mía (A. Scarpino - J. Caldarella - J. Scarpino), Pelaia-Italo, Zamba.jpg"},
+  {"fileId": "1hKfj5T9fgOjD5CEtHKl9SZ2btM6WwOsB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1e3tlueHI4PN-Aat3kHtfjTNr_CWusCzW", "action": "rename", "newTitle": "Victor, 68-1360 B, Cordón de oro (C. Posadas), Aníbal Troilo y su orquesta típica, Tango.jpg"},
+  {"fileId": "1iYZtUd6qE2N_VEVNK5RDSywHoFsMfIrk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "14Bat1U8krzYwrs8-oNWoESVQ0ZRSCqVj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1fQ2i4FB3XkTQPlcDAz3ihiATEIhoYO09", "action": "rename", "newTitle": "Nacional, 4391 A, Perfumes (O. Bramano), Orquesta Típica F. Canaro, Tango.jpg"}
+]
