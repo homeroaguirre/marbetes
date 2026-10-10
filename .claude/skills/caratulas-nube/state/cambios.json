@@ -294,5 +294,6 @@
   {"fileId": "1cC4XLLr_zywnvoM-thDrnLrldc0NOfWx", "action": "rename", "newTitle": "Nacional, 18044 A, El sapo y la comadreja (Tapia), Gardel-Razzano, Tonada.jpg"},
   {"fileId": "1DuE4Ugt_kAfR3dW_URUTVXCNUsChLtUM", "action": "rename", "newTitle": "Nacional, 4609 A, La rancherita de Santa Lucía (L. C. Rivarola - H. Sordelli), Orquesta Típica F. Canaro, Ranchera.jpg"},
   {"fileId": "1yERTRIrUcn0-wtBQXSLZJ_SnbGWSy-6h", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1a_lWBPQPoZ2dn01ygrCDJeoxdgGMiH8m", "action": "rename", "newTitle": "Victor, 47606 A, ¡Desencanto a volar! (José T. Trelles - Rosita Quiroga), Rosita Quiroga, Cifra Gaucha.jpg"}
+  {"fileId": "1a_lWBPQPoZ2dn01ygrCDJeoxdgGMiH8m", "action": "rename", "newTitle": "Victor, 47606 A, ¡Desencanto a volar! (José T. Trelles - Rosita Quiroga), Rosita Quiroga, Cifra Gaucha.jpg"},
+  {"fileId": "1gxh4wS0aGfX25xC_Rqmpu5ZI73YOgOSf", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
