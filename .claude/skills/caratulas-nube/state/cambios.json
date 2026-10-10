@@ -108,5 +108,15 @@
   {"fileId": "1v8XujNixh-ZPAUk1JuKQYhgA07QcA6Dj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1nEewsMjgsSfZ7-hgX2hBUgKO7hTQxHA-", "action": "rename", "newTitle": "Brunswick, 2110 A, Como se planta la vida (C. Vivan), Azucena Maizani, Tango.jpg"},
   {"fileId": "13fk-1VB4hpUU1dT_OVuzN9EJXHRHl_rO", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1LXwUFfvsVBACbO1edPYB3ibUliN5u9B_", "action": "rename", "newTitle": "Victor, 38001 A, Me besó y se fue (José Canet), Hugo del Carril, Vals.jpg"}
+  {"fileId": "1LXwUFfvsVBACbO1edPYB3ibUliN5u9B_", "action": "rename", "newTitle": "Victor, 38001 A, Me besó y se fue (José Canet), Hugo del Carril, Vals.jpg"},
+  {"fileId": "1EzCMBW2SmUrIkvS8tyrYf6Cfds02rwZj", "action": "rename", "newTitle": "RCA Victor, 63-0158 A, Maula (Adolfo A. Mondino - Víctor Soliño), Rosita Quiroga, Tango.jpg"},
+  {"fileId": "1tjZWzhH5jz-P0EhQEmKRXnk4v8oqNCkq", "action": "rename", "newTitle": "Nacional Odeón, 6890 A, Milonga con variación (F. Canaro), Osvaldo Fresedo (Dúo de Bandoneón), Tango.jpg"},
+  {"fileId": "1x4q9pxNL69zYSGBg0xz1l-jOTc3hiOcc", "action": "rename", "newTitle": "Victor, 79819 B, Maula (A. Mondino), Rosita Quiroga, Tango.jpg"},
+  {"fileId": "19NC3Nn1B574ANtlO9y_dX62z4qSmYRb4", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1MRZz86PFpuyVQd49bKb8pzTy8roYZQek", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1hhWCFFKLa_ET2sg-KXyNvPC8w1zITEpT", "action": "rename", "newTitle": "Victor, 39085 A, Martirio (Enrique S. Discépolo), Francisco Lomuto y su Orquesta Típica, Canta Fernando Díaz, Tango.jpg"},
+  {"fileId": "1XdOSQdkOeovuBLMMR87K5EdEkyNIzJDX", "action": "rename", "newTitle": "Nacional, 9014 A, Tendrás que rabiar (J. Maglio), Juan Maglio (Pacho), Tango.jpg"},
+  {"fileId": "1579p5e_vITn0XDftIjUdcTKfk8BrBnNu", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1eH7BhQCSqxDJXilm_Mu5JmAiZirZqNEa", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1_Ryw899h7IX6JUF_bAz4HqdvpfkJ_94W", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
