@@ -215,5 +215,15 @@
   {"fileId": "1QrAHxRv0qKAqbEqAEGmCG3i4P3j-tm4D", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1w-j0KYazWPzfFn2_06vkHPRUIUrTw_Rn", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "11cdmWnBb2OYTspeeADJVCyir9HZ7YfxL", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1783hyxZCEjkBvgYS6BQBQszjeNR3TWyz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1783hyxZCEjkBvgYS6BQBQszjeNR3TWyz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "14Geo9NZ3hUqr-Im8mryR-YOXwuVwfZ_H", "action": "rename", "newTitle": "Victor, 79644 A, Justicia criolla (F. Brancatti - R. Iriarte), Italo Goyeche, Tango.jpg"},
+  {"fileId": "1_C0ynLUGCUAVSYu6EeRHWBEx2J9SGotB", "action": "rename", "newTitle": "Nacional, 4276 A, La entrerriana (A. Gobbi), Orquesta Típica F. Canaro, Vals criollo.jpg"},
+  {"fileId": "1JEbYaFUZkYLTApL9a9YIMF5ysxqn0Zqm", "action": "rename", "newTitle": "Victor, 79884 A, Manos brujas (José Aguilar), Aguilar-Pagés, Fox Trot.jpg"},
+  {"fileId": "1IJRAj8TivSEwBjW_XniEY1LLFg81cW9X", "action": "rename", "newTitle": "Victor, 37451 B, Lo que vieron mis ojos (U. Fernández Blanco - Juan Canaro), Charlo, Vals.jpg"},
+  {"fileId": "1EJWupah6_rx4Lws5IVlfwEwFp1V2q_qj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1mTI9CNhyCwz2GVEygX67-xKN2l3uxTDB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1HNhpvGKBvQqTPyt5YThEieMxjlOXT6DS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1qhJskRlzwCzir1A0qkQgP-eOBmL8prZ1", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1R8IKLBwSTOFsfdq6UTT4HW4qsJPhdkYI", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ckD0uUx8jU0KXqofF_w6nZwe7BqFVs34", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
