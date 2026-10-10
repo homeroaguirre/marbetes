@@ -235,5 +235,15 @@
   {"fileId": "1HggkcDUZCIolLV6W0Jdlp_I-kQr0NGrh", "action": "rename", "newTitle": "Nacional, 4030 A, La piba del Ta-Ba-Rís (F. y J. Canaro), Orquesta Típica Francisco Canaro, Tango.jpg"},
   {"fileId": "18Je0qHEKSvPVNqIfsCAQhCaoWwTu34Ni", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1kaqehpRbNIcyfmsnMty6o4EMWFCn8MNB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1WskuVJY4eIG2J14H-rsPj6kEL41zbEfr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1WskuVJY4eIG2J14H-rsPj6kEL41zbEfr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1XhVjZMqvrzwWF1Uz3Q_Hk2L93sPJR9x3", "action": "rename", "newTitle": "Nacional Odeón, 7518 B, A mi madre (Francisco Peña), Juan Maglio (Pacho), Vals.jpg"},
+  {"fileId": "1eIounpxNSBP8xVUsA2mk9S56b3v_gdoR", "action": "rename", "newTitle": "Odeón, 55663 B, Zamba del grillo (Atahualpa Yupanqui), Atahualpa Yupanqui, Solo de guitarra.jpg"},
+  {"fileId": "1jFTwVU9Nj1I3JrhOYEZYc1qeJ0LAIORK", "action": "rename", "newTitle": "Victor, 77022 B, Mujer (G. González - J. C. Cobián), Orquesta Típica Cobián, Tango.jpg"},
+  {"fileId": "12l9ZxGGFcRGQhZeXBP0HjqjT7P_6KHCm", "action": "rename", "newTitle": "Victor, 47082 B, Mama yo quiero un novio (Ramón Collazo), Marcucci-Grupillo, Dúo de Bandoneones, Tango.jpg"},
+  {"fileId": "1m26Rp3KbuBSnrZAInmDsyTs6XyY-6oM4", "action": "rename", "newTitle": "Nacional Odeón, 4384 A, Tradición (F. Frontera), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1_EOKVF2ajVUbS2mv6Or-7CE8kEuJN9mb", "action": "rename", "newTitle": "Nacional, 16273 A, El aguacero (J. González Castillo - C. Castillo), Charlo, con acomp. de guitarras, Tango.jpg"},
+  {"fileId": "11HQn48CTENa5_BIDhyMlzi_DTJlKmkkw", "action": "rename", "newTitle": "Victor, 37973 B, Amelia (Feliciano Brunelli - Elvino Vardaro), Cuarteto del 900, Mazurca.jpg"},
+  {"fileId": "14tWt1gLE-bkUsZ_sGBS35wZ32xwnjV1f", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1N2dFbO6at9leo58JsAZpVjyW4YugzVuN", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Ah3_ByQpgviL_brxnBq2oGsPPzewvP07", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
