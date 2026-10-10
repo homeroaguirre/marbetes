@@ -8,5 +8,15 @@
   {"fileId": "1e3tlueHI4PN-Aat3kHtfjTNr_CWusCzW", "action": "rename", "newTitle": "Victor, 68-1360 B, Cordón de oro (C. Posadas), Aníbal Troilo y su orquesta típica, Tango.jpg"},
   {"fileId": "1iYZtUd6qE2N_VEVNK5RDSywHoFsMfIrk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "14Bat1U8krzYwrs8-oNWoESVQ0ZRSCqVj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1fQ2i4FB3XkTQPlcDAz3ihiATEIhoYO09", "action": "rename", "newTitle": "Nacional, 4391 A, Perfumes (O. Bramano), Orquesta Típica F. Canaro, Tango.jpg"}
+  {"fileId": "1fQ2i4FB3XkTQPlcDAz3ihiATEIhoYO09", "action": "rename", "newTitle": "Nacional, 4391 A, Perfumes (O. Bramano), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1nVqEIW9QCDJumyHskdB9xGiiaYGAOKaL", "action": "rename", "newTitle": "Nacional, 4553 B, Farolito de papel (T. y M. Lespés), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1H7GZxzCWwOTpR43-Hb-Upichhb5BzF-5", "action": "rename", "newTitle": "Victor, 47357 A, Recuerdo (Adolfo Pugliese - E. Moreno), Orquesta Típica Victor, Canta Roberto Díaz, Tango.jpg"},
+  {"fileId": "1TxUqcRSxcTOXf-92BWk2wUK3DPbgfFhP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "11DC71l5B2xtkifJkdD-2P1b8BKADvl9u", "action": "rename", "newTitle": "Victor, 72966 B, Tango argentino (Oswaldo Fresedo), Oswaldo Fresedo, Tango.jpg"},
+  {"fileId": "1I5Hlem_OLTmixVW-AbUNPtW2-93AE3ta", "action": "rename", "newTitle": "Victor, 69712 A, El nocturno (J. Maglio), Orquesta Típica Maglio, Tango.jpg"},
+  {"fileId": "1hCisB1UdHCp_0VfFNzeVEP3SQW-6PApg", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1GJp416gNjCHnfzH6ZnXrB3TtieP18RId", "action": "rename", "newTitle": "Brunswick, 1270 B, La sufrida (P. Giménez), Orquesta Típica Julio De Caro, Chacarera.jpg"},
+  {"fileId": "1Vo52WaVpIDZCqnppFjupDm810wBmO5y3", "action": "rename", "newTitle": "Nacional, 9825 B, Corazoncito (R. Rossi), Rafael Rossi, Tango.jpg"},
+  {"fileId": "1geWiaAs-3-_BqSpqSO9vCztNNb-b5Bgm", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1IbTk0d3rAUINDvPm0Ni7AIX9N-i1GCsj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
