@@ -148,5 +148,15 @@
   {"fileId": "1LyG8BCw40rtShWAEVz_a-Z2x2u7q5Sl-", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1gUOpcqHdA8MMpvjFbjtm6hpoNSMpzbvE", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1XWqjoxfWebyRkl0WzPVPET5SZ0j8EY65", "action": "rename", "newTitle": "Odeón, 3534 B, La trilla (Eduardo Arolas), Roberto Firpo y su Cuarteto, Tango.jpg"},
-  {"fileId": "1xF2c7c9pOYrXFwDa003luZ_wdQb7Ci-3", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1xF2c7c9pOYrXFwDa003luZ_wdQb7Ci-3", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1u3DfkCbnni_3oCEkLB4fgvDfN9CqjcSD", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Q-gWew41L3Yv7rOZuM-coiHqjOSVhZIr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ZOqI21s47SVu9cNFw52N1neKrYLDLmmK", "action": "rename", "newTitle": "Brunswick, 1042 A, Uruguay - Himno Olímpico (R. Marotti), Orquesta Típica Edgardo Donato, Himno.jpg"},
+  {"fileId": "1ij5l8cubx8wfmG9NTZRyyEn-WDON6KA0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1EUVL7X_RriXBg_fNK_oTFeAVFcqnDMTG", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1mLSfeCMTT-ODpHDNl6ncM_bZgF0M0woc", "action": "rename", "newTitle": "Nacional, 4731 B, Vieja carreta, Francisco Canaro y su Orquesta Típica, Canta Nicolás A. Trimani, Rancho.jpg"},
+  {"fileId": "1YHawSucwkuZe3wzGLiPB14F3gVw1J5pI", "action": "rename", "newTitle": "Victor, 79644 B, Por el Canigó (Tagle Lara - C. Flores), Pelaia-Italo, Zamba.jpg"},
+  {"fileId": "1n8zICfOVOn8l1Gf0WvovRGk6Y_XHeTqO", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1-gAqYXERbcHbJmqv6FDo84bOZ68sJukT", "action": "rename", "newTitle": "Pathé, PG 11031 A, Cualquier cosa (Herminia Vesh de Rossano - Juan M. Velich), Alfredo Attadía y su Orquesta Típica, Canta Enzo Valentino, Tango.jpg"},
+  {"fileId": "1Ag135dHOl6-Y5yyaj8O2b5tyfi5tNugL", "action": "rename", "newTitle": "Nacional, 4934 A, Soledad (Carlos Gardel - Alfredo Le Pera), Francisco Canaro y su Orquesta Típica, Tango.jpg"}
 ]
