@@ -38,5 +38,15 @@
   {"fileId": "1n_7AFS6jhMEzdH3TrVOjkoSO64Nsd1IL", "action": "rename", "newTitle": "Victor, 37239 B, Pobre novia (Pablo Rodríguez), Mercedes Simone, Vals.jpg"},
   {"fileId": "1kCQm7BO-qq2QsbINjkqHSJJowB9KIyxa", "action": "rename", "newTitle": "Nacional Odeón, 18067 A, Mi manta pampa (G. Barbieri), Carlos Gardel con 4 guitarras Ricardo y Barbieri, Zamba.jpg"},
   {"fileId": "1RvmOsy_J1DDX_uGZVCnk0HQZMphSFCCB", "action": "rename", "newTitle": "Victor, 47005 A, Dejate de pavadas (Soliño - R. Fontaina - C. Lussich), Alberto Vila, Tango.jpg"},
-  {"fileId": "1bq8Ub3UbVpj5an8Fegu5tjs-11N7g8Z1", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1bq8Ub3UbVpj5an8Fegu5tjs-11N7g8Z1", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1p8zwr7m1MuP8Dc4-ZILRfM5-CPLgoS8H", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Uwymmgj86YsG0zDHc1XH29r-72486yqk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1uoxBg-Dz_1ZBjyIV38c_zDCrla6Wy0sA", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1QmzWEIz4T5NAXhpdUYtMfP0Zsqbex1I9", "action": "rename", "newTitle": "Nacional, 18044 B, El taita del arrabal (Herrera - Romero - Padilla), Carlos Gardel con guitarra José Ricardo, Tango.jpg"},
+  {"fileId": "1ZxRUm65pI_V_swOTl3HwgaZzNWpn7Y9F", "action": "rename", "newTitle": "Standard, 30701 B, Senda florida (Rafael Rossi - Eugenio Cárdenas), Alfredo Attadía y su Orquesta Típica, Canta Jorge Beiró, Tango.jpg"},
+  {"fileId": "14HfvbG4-Rf4wc0tZ7eJuS7XBQ2l0C8BF", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1MU8dqrToj0YFgpqxdmWRAAoZkf7IetAR", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1k1Un83Jwgs4CPLaYgSBKJSsFOkjVYsZp", "action": "rename", "newTitle": "Brunswick, 1248 A, El penado 14 (Magaldi - Noda), Orquesta Típica Julio De Caro, Tango.jpg"},
+  {"fileId": "1PKOBE0vpO39Z1NwZaOk3WTsqLMYTpWTi", "action": "rename", "newTitle": "Nacional, 4421 A, A contramano (L. Teisseire), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1AeBm78whvyb2BKPKq2fs8-bMQXkQL3U9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
