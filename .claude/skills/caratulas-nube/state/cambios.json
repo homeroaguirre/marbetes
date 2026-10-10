@@ -28,5 +28,15 @@
   {"fileId": "1QvE7YWnJytD7gMoUrDndjpEn4oagKWEd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1p_Dc5ubDyhvPjkQZOyczV3_2yTVHkxgG", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "14zJGCAbtteq7NbsS6T9eikyAIx5l2IDl", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "13nPP--0norqO-7wzzOsDx9ttPofA91GA", "action": "rename", "newTitle": "Nacional, 6042 A, Cap Polonio (A. Rosquellas), Orquesta Típica Roberto Firpo, Tango.jpg"}
+  {"fileId": "13nPP--0norqO-7wzzOsDx9ttPofA91GA", "action": "rename", "newTitle": "Nacional, 6042 A, Cap Polonio (A. Rosquellas), Orquesta Típica Roberto Firpo, Tango.jpg"},
+  {"fileId": "1gI_KmXLClbtPiXpUvSxRD3y2klYUPJ9o", "action": "rename", "newTitle": "Nacional, 40020 A, Pájaro azul (Francisco Canaro), Orquesta Típica F. Canaro, Tango Fantasía.jpg"},
+  {"fileId": "1_o_5XTTMJMTJyZ0wjvrTwDITzIQAtTWj", "action": "rename", "newTitle": "Victor, 47042 B, Marabú (S. Granata), Adolfo Carabelli y su orquesta, Fox Trot.jpg"},
+  {"fileId": "1ALn52Abt5yMhNTK-0q2HjDRQviKKJjUz", "action": "rename", "newTitle": "Nacional, 4812 A, La muchachada del centro (Francisco Canaro - Ivo Pelay), Francisco Canaro y su orquesta típica, Tango.jpg"},
+  {"fileId": "19Bp-G_VKO5SN8YTsSFaPFaDVGF5Z4oMW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1I1YOjWVaFshVp2MWzOtHTHP6L_RWXmzR", "action": "rename", "newTitle": "Nacional Odeón, 3550 A, Alma de bohemio (Roberto Firpo), Dúo de Pianos Roberto Firpo, Tango.jpg"},
+  {"fileId": "1qqB3zwS1mEvjdbm6TvBI0aUFmf07w-Bj", "action": "rename", "newTitle": "Nacional Odeón, 6532 B, Arrabalero (O. Fresedo), Enrique Delfino, Tango.jpg"},
+  {"fileId": "12VJwJk2uiUm8oxgSivbPn4O9jRZDDIgn", "action": "rename", "newTitle": "Victor, 72896 B, Corrientes y Esmeralda (E. Delfino), Orquesta Típica Select, Tango.jpg"},
+  {"fileId": "17Duu6d7Vf20x1Zt5sIf6MGSQjPQtbOjD", "action": "rename", "newTitle": "Victor, 60-1657 A, El moro (Carlos Gardel - José Razzano), Ricardo Tanturi y su orquesta típica, Canta Alberto Castillo, Tango.jpg"},
+  {"fileId": "1l9QOYKWPLYjs4c5ZFbjcKvyvbfS46oxE", "action": "rename", "newTitle": "Nacional, 4110 B, Acuarelita del arrabal (Cátulo Castillo), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1xqI6BDnfAx5-nzvok2ql_gx6z8pP4mau", "action": "rename", "newTitle": "Victor, P-1457 A, La descamisada (A. Helú - E. P. Maroni), Nelly Omar, Milonga.jpg"}
 ]
