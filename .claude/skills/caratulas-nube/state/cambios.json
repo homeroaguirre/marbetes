@@ -68,5 +68,15 @@
   {"fileId": "1gzzziQW_Xj_QbWHox4YtMjfiHJ5dJBFa", "action": "rename", "newTitle": "Victor, 68-1285 A, Naranjo en flor (Virgilio y Homero Expósito), Aníbal Troilo y su orquesta típica, Canta Floreal Ruiz, Tango.jpg"},
   {"fileId": "1Y3YFkVNTUAdLMUSBVEB4F8YWgNW8oO0l", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1CSh0eb8mKXXFougn0PnKJrZ_ak2G40zZ", "action": "rename", "newTitle": "Victor, 39744 A, No te apures carablanca (C. Bahr - R. Garza), Aníbal Troilo y su orquesta típica, Canta Fiorentino, Tango.jpg"},
-  {"fileId": "17wrjEfr3y_ZfBfGxGh1iDsddaTIfVOuq", "action": "rename", "newTitle": "Victor, 79628 A, Flor de noche (E. De Caro - P. Laurenz), Orquesta Típica De Caro, Tango.jpg"}
+  {"fileId": "17wrjEfr3y_ZfBfGxGh1iDsddaTIfVOuq", "action": "rename", "newTitle": "Victor, 79628 A, Flor de noche (E. De Caro - P. Laurenz), Orquesta Típica De Caro, Tango.jpg"},
+  {"fileId": "1K578CfVa87hm8C1EQLOW3yMCSqqjpUuk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1L-VFrGPzs0DQadjSq829NdwT7FeN1AMi", "action": "rename", "newTitle": "Nacional, 4359 B, Fumando espero (J. Viladomat Masanas), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1CxSS7xKl2C-xcWFNIcQ_isb_hdE-ZFI9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1DC8L7LkDMuGpH-mUvUr4E0__pV_ZzkBw", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1OsY0srnV-br3A8XJBz5Own75cDzvVRNI", "action": "rename", "newTitle": "Victor, 68-2076 A, Hay fiesta en el pueblo (Pablo A. Hechim - A. Huser), Trío Ciriaco Ortiz, Vals.jpg"},
+  {"fileId": "1SFPe5gR0F1VzMFBB0ua4UBhj7aC3XB0Q", "action": "rename", "newTitle": "Odeón, 1408 A, Mi dicha lejana (Emigdio Ayala Páez), Félix Pérez Cardozo y su Conjunto, Canción Paraguaya.jpg"},
+  {"fileId": "1HCLc25suG67R-bDhfShzYMkc9hleb-JH", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "133FPdvYVNqwO5vRZE5BhQbMyxSlpar3J", "action": "rename", "newTitle": "Victor, 79805 A, Pericón (A. Podestá), Iriarte-Pesoa, Pericón.jpg"},
+  {"fileId": "1fc4dlvHyz_MZZcNopIGTdSUiQTPdVEdB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1_Zgp3x5j_WlZUcXtlLtjRNo794_tviIn", "action": "rename", "newTitle": "Victor, 67689 A, Clínicas (A. López Buchardo), Orquesta Argentina de Ferrer, Tango.jpg"}
 ]
