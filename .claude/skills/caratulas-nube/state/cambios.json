@@ -8,5 +8,15 @@
   {"fileId": "17Xz5O1zzq3ES2_mg8BKj_wci_bxZlLDK", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1t4VHpIqPXx_J8LDeO-dDrxu9esQq2_hy", "action": "rename", "newTitle": "Nacional, 18909 A, Cuesta abajo (Alfredo Le Pera - Carlos Gardel), Carlos Gardel, Tango.jpg"},
   {"fileId": "1ijjfWKaIhQAw7cN3WNkQo0kud2slxMw6", "action": "rename", "newTitle": "Victor, 73921 A, Ídolos (Oswaldo Fresedo), Orquesta Típica Fresedo, Tango.jpg"},
-  {"fileId": "15UsTCZhCwJdVnvxslUr9zIXgjuBw51DR", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "15UsTCZhCwJdVnvxslUr9zIXgjuBw51DR", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1BsYxD8REtIPECXcYeVKVslts63fW-XPv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "10SfBRdHoyvmqL23OgLGtKJlOKHO_Qna2", "action": "trash"},
+  {"fileId": "1JRIgCeNgyjB2zER9Bpy8vhzHZAZI9xnw", "action": "rename", "newTitle": "Nacional Odeón, 18164 B, Copen la banca, Carlos Gardel con 4 guitarras Ricardo-Barbieri, Tango.jpg"},
+  {"fileId": "1AmrcaGwV7SGvKRAtUd05MAElDkh-zppE", "action": "rename", "newTitle": "Nacional, 18292 B, La virgen del perdón (Viale Retta - C. V. G. Flores), Carlos Gardel con guitarras Barbieri-Aguilar, Vals.jpg"},
+  {"fileId": "1TFqr0GZOV3qdxjBbppXpT563hjPLygHf", "action": "rename", "newTitle": "Brunswick, 1647 B, Cerquita del corazón (Magaldi - Noda - E. Cadícamo), Magaldi - Noda, Tonada.jpg"},
+  {"fileId": "1UA_5EZo_0Mw5jPraoiIIyIKqSvCPo_ad", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1KQLPnp7luCzCZAWy2Lsea2-J7-0LGmgY", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1hP-PV3GCdJfl2yuyc1uNeGRIBJrXXGuS", "action": "rename", "newTitle": "Victor, 32858 A, Allá en el rancho grande (Arr. Tito Guizar), Tito Guizar, Ranchera.jpg"},
+  {"fileId": "1BGd4BD2gF7gvXwBhZEA5rBSRakl5_B2-", "action": "rename", "newTitle": "Nacional, 18540 A, Deja que la gente diga (Bayón Herrera - De los Hoyos), Ignacio Corsini con 3 guitarras Aguilar, Tango.jpg"},
+  {"fileId": "1u8XP6EE5tUJJBFdsyLUDociM9Yuo419n", "action": "rename", "newTitle": "Columbia, 266575 B, Es por eso (Monnot - Contet), Edith Piaf y Les Compagnons de la Chanson, Canción.jpg"}
 ]
