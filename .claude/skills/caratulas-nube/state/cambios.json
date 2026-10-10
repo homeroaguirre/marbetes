@@ -245,5 +245,15 @@
   {"fileId": "11HQn48CTENa5_BIDhyMlzi_DTJlKmkkw", "action": "rename", "newTitle": "Victor, 37973 B, Amelia (Feliciano Brunelli - Elvino Vardaro), Cuarteto del 900, Mazurca.jpg"},
   {"fileId": "14tWt1gLE-bkUsZ_sGBS35wZ32xwnjV1f", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1N2dFbO6at9leo58JsAZpVjyW4YugzVuN", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1Ah3_ByQpgviL_brxnBq2oGsPPzewvP07", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1Ah3_ByQpgviL_brxnBq2oGsPPzewvP07", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1zFFxn8P5-YUeZKN-AK9gxKxjtPjbZjrQ", "action": "rename", "newTitle": "Sondor, 31552 A, La añera (Nabor - Mario Córdoba), Félix Pérez Cardozo y su Conjunto de Arpa y Guitarras, Zamba tucumana.jpg"},
+  {"fileId": "1HfPEjJYFnlnBQf2PK9ERfCuN7Ga1h1PX", "action": "rename", "newTitle": "Nacional, 18176 A, Intimas (Brignolo - Lacueva), Carlos Gardel, acomp. guitarras Barbieri, Tango.jpg"},
+  {"fileId": "1-NmMZPuc-XImNFKHmWAGpPTfGfwthAnt", "action": "rename", "newTitle": "Nacional, 5031 A, Bésame en la boca (J. M. Rizzuti), Orquesta Típica Fresedo, Tango.jpg"},
+  {"fileId": "1R5zz-ySEufl1nnfJgaYPgVyzlyXsW6Vg", "action": "rename", "newTitle": "Victor, 37803 A, En el jardín de mis pagos (Edmundo Riva), Trío Ciriaco Ortiz, Ranchera.jpg"},
+  {"fileId": "1j_lgjsKLeJUTjRUW8y3_-Qt7XfcBBHcw", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1tIHpZmSfpzO4KA8p9d1fWwRkL_oCS0mA", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1BwqjihngebFa7aRdyRg1-vUoONOQ0hw6", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "13BnBXLqRLNfU22Y8cw0SlZR-v4PGU2iY", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1p46S9S9C1fIJYxLB-xYfg2PWfQ6dmcnW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1AynRi2fkeSwA67i_R2fjrUdnp1aoa1Fh", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
