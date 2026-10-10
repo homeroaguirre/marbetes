@@ -98,5 +98,15 @@
   {"fileId": "1faNe4EPh2MuhPQMFB4mf3bZtx0_00qSf", "action": "rename", "newTitle": "Nacional, 25001 B, Serpentina doble (H. S. Graziano - J. Rezzano), Caprara con 3 guitarras, Tango.jpg"},
   {"fileId": "1pkMMSHH2RCZ9pzmK-12FcxVnvZvc7G2o", "action": "rename", "newTitle": "Pathé, PG 11008 A, Margot (Carlos Gardel - José Razzano - Esteban Celedón), Eduardo Del Piano y su Orquesta Típica, Canta Mario Bustos, Tango.jpg"},
   {"fileId": "1JUBFJNv2_gF8cDtgjsIolX_BveeEn_c8", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1GX_GjamcnqhnSmmjdJQwYmb4nuAqpqwj", "action": "rename", "newTitle": "Nacional, 4518 A, Primer auxilio (L. Teisseire), Orquesta Típica F. Canaro, Tango.jpg"}
+  {"fileId": "1GX_GjamcnqhnSmmjdJQwYmb4nuAqpqwj", "action": "rename", "newTitle": "Nacional, 4518 A, Primer auxilio (L. Teisseire), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "13itvSaBvXQNh3MmIZIk_bJqw0YSojckP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Ew890C9600aslqSZxEruqG_aaLvIvBRF", "action": "rename", "newTitle": "Odeón, 55422 A, Morocha triste (Horacio Sanguinetti - Enrique Maciel), Ignacio Corsini, Canción criolla.jpg"},
+  {"fileId": "1wfMk7_iPz6s_Xs0TocOPmNL-aDmymkN5", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "13YVPZ7TStHB6waI132GYEB9F-tljVNkW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1fuVrH-yqewSaxE7TUn5dlFS1wJJkp0W_", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1xJH6v7Lh6HLtFu7BIG-XswI7HUdI9oXU", "action": "rename", "newTitle": "Victor, 79608 A, Olvido (A. D'Agostino), Orquesta Típica Victor, Tango.jpg"},
+  {"fileId": "1v8XujNixh-ZPAUk1JuKQYhgA07QcA6Dj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1nEewsMjgsSfZ7-hgX2hBUgKO7hTQxHA-", "action": "rename", "newTitle": "Brunswick, 2110 A, Como se planta la vida (C. Vivan), Azucena Maizani, Tango.jpg"},
+  {"fileId": "13fk-1VB4hpUU1dT_OVuzN9EJXHRHl_rO", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1LXwUFfvsVBACbO1edPYB3ibUliN5u9B_", "action": "rename", "newTitle": "Victor, 38001 A, Me besó y se fue (José Canet), Hugo del Carril, Vals.jpg"}
 ]
