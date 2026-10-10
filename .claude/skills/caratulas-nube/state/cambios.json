@@ -248,5 +248,55 @@
     "fileId": "1oWDtmOqt58WxwWAebtutmD2OOpW3S-V6",
     "action": "rename",
     "newTitle": "Disco Nacional, 554 B, La campana (S. Almeyda), Roberto Firpo y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1QkR50XoE_ofM_kTi5USs2qf76kzwu4UJ",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "12k3GFg4Bh0YAHmZj9Bdg3f0qaYVs0Tuh",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4563 A, La virgen del perdón (C. V. G. Flores), Orquesta Típica F. Canaro, Canción.jpg"
+  },
+  {
+    "fileId": "1E-CzLHoR6ztbha1gAl4_U-dtUe-XY5bG",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1IoounCBdrF65E3HHmflSwUBi0hL3GRSc",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1X7Eux7EetcBANYxCtMdK4VMWZVMZHWv7",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1MdblKiWCdMY_udfcuPdzc-VcuACBdg_A",
+    "action": "rename",
+    "newTitle": "Victor, 47205 A, El calabozo (Augusto Gentile), Carlos Di Sarli y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1kL2jhhc6e9um511VB5_Nfr4SDNOzp8cz",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1qJwFC1wFWnDcPJ177JT_69THwOop6YGB",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1u9baYhBGnSNXh1GeuRvReuLdAoCRmpJo",
+    "action": "rename",
+    "newTitle": "RCA Victor, 37186 A, Tiempos nuevos (Julio Romero Ascanio - E. Donato), Francisco J. Lomuto y su Orquesta Típica Sinfónica, Canta Fernando Díaz, Tango.jpg"
+  },
+  {
+    "fileId": "1apFJ-efAcUHOzdpOxF0BEoI_pymYywh-",
+    "action": "rename",
+    "newTitle": "Victor, 80982 B, Deja nomás (A. Magaldi), Magaldi - Noda, Tonada.jpg"
   }
 ]
