@@ -225,5 +225,15 @@
   {"fileId": "1HNhpvGKBvQqTPyt5YThEieMxjlOXT6DS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1qhJskRlzwCzir1A0qkQgP-eOBmL8prZ1", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1R8IKLBwSTOFsfdq6UTT4HW4qsJPhdkYI", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1ckD0uUx8jU0KXqofF_w6nZwe7BqFVs34", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1ckD0uUx8jU0KXqofF_w6nZwe7BqFVs34", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1poPnqlVuuyscoeVD7FpFpHhSvCxmhpth", "action": "rename", "newTitle": "Nacional, 18097 A, Il piccolo navío (Caruso - Ricardi), Carlos Gardel, acomp. 4 guitarras (Ricardi y Barbieri), Tango.jpg"},
+  {"fileId": "1ZEPYBryPCxpi28xtaaK1DDHJ4bsPXr02", "action": "rename", "newTitle": "Victor, 79591 A, Callecita de mi barrio (Laporte - Gasparini), Orquesta Típica Fresedo, Tango.jpg"},
+  {"fileId": "1WKTEoyDBp64kCZe_wyjzZ6TnUXlkSSZi", "action": "rename", "newTitle": "Nacional Odeón, 5001 A, Perdón viejita (O. Fresedo), Orquesta Típica O. Fresedo, Tango.jpg"},
+  {"fileId": "1YTTp5-V-M_LKBWK3z_dGB6sLJeyP75ug", "action": "rename", "newTitle": "Victor, 60-0301 A, La cumparsita (Gerardo H. Matos Rodríguez), Juan D'Arienzo y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1TuXWDt7PCQuOU0ul-Urf1B9RfpAsY1gk", "action": "rename", "newTitle": "Victor, 47076 A, La cumparsita (G. Matos Rodríguez), Cayetano Puglisi y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1mW10DycoA7IdotbbaOwlqQBU5Ku5aAgD", "action": "rename", "newTitle": "Victor, 79527 A, Oro y seda (O. Fresedo), Orquesta Típica Fresedo, Tango.jpg"},
+  {"fileId": "1HggkcDUZCIolLV6W0Jdlp_I-kQr0NGrh", "action": "rename", "newTitle": "Nacional, 4030 A, La piba del Ta-Ba-Rís (F. y J. Canaro), Orquesta Típica Francisco Canaro, Tango.jpg"},
+  {"fileId": "18Je0qHEKSvPVNqIfsCAQhCaoWwTu34Ni", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1kaqehpRbNIcyfmsnMty6o4EMWFCn8MNB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1WskuVJY4eIG2J14H-rsPj6kEL41zbEfr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
