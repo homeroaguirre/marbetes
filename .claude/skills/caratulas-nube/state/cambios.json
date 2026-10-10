@@ -198,5 +198,55 @@
     "fileId": "1vFm30IiHnCSp1SqRItKXUZWvjupXK37e",
     "action": "rename",
     "newTitle": "Seeco, 592 A, Tus besos me hacen daño (Chucho Martínez), Chucho Martínez con Terig Tucci y su Orquesta, Bolero.jpg"
+  },
+  {
+    "fileId": "1cjGGGzNnYxyXGJJGbjgfO7e7bgoDv1lI",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18114 B, Beso ingrato (Camba - Tuegols), Carlos Gardel con 4 guitarras (Ricardo - Barbieri), Tango.jpg"
+  },
+  {
+    "fileId": "1-Gz7kv_GUqs728t_OYQsN-Z0INYNPXbI",
+    "action": "rename",
+    "newTitle": "Odeón, 5052 B, Milonga triste (Sebastián Piana - Homero Manzi), Francisco Canaro y su Orquesta Típica, Milonga.jpg"
+  },
+  {
+    "fileId": "16Ui2tgULeZ-MwKbdvLIU8ZDEnTZdAhuq",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1uNxP93NInlxBnz684HStz1yoDm1uWoZN",
+    "action": "rename",
+    "newTitle": "Victor, 39512 A, Copa de ajenjo (Carlos Pesce - Juan Canaro), Azucena Maizani, Tango.jpg"
+  },
+  {
+    "fileId": "12RR8nr9EXgejD_D9UTGGSKAGXSWs7Me5",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18287 B, Yo también como tú (Larriera - Giampietro), Carlos Gardel con guitarras (Barbieri - Aguilar), Tango.jpg"
+  },
+  {
+    "fileId": "1Iw0d75l9VtJN_lVFMo0W6RyBhTQbhqsc",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1SYE9rAsFyv_Y0veBupGgtIT6YZSJgvXW",
+    "action": "rename",
+    "newTitle": "RCA Victor, 1A-1800 B, La historia de mi vida (Mario Cavagnaro), Los Hermanos Reyes y su Conjunto, Vals.jpg"
+  },
+  {
+    "fileId": "1Ly9p0PXdCOArthMskip872Jg5gJ4MBUK",
+    "action": "rename",
+    "newTitle": "Victor, 80937 B, Agua florida (R. Collazo), Luis Petrucelli y su Orquesta Típica, Tango.jpg"
+  },
+  {
+    "fileId": "1us69K-A03Y7Q__2RVKfIyBcCpTkDpJcZ",
+    "action": "rename",
+    "newTitle": "Odeón, 41131 A, Hasta el alma (Luis Padula), José Luis Padula y su Conjunto, Tango.jpg"
+  },
+  {
+    "fileId": "1oWDtmOqt58WxwWAebtutmD2OOpW3S-V6",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 554 B, La campana (S. Almeyda), Roberto Firpo y su Orquesta Típica, Tango.jpg"
   }
 ]
