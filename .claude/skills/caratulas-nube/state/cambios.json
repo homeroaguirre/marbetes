@@ -275,5 +275,12 @@
   {"fileId": "1WPLGET7TkVM9B6BYghuQXj6xOnlg3MfP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1ARUnD9YpO770uaaBYtm0hHAb3zx81oCS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1pAdrxsYHLytsKOf523Z2lMs436GKjhYi", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1lsJkvWW18DGbBs0TkNYirajPMEEXFRKS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1lsJkvWW18DGbBs0TkNYirajPMEEXFRKS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1IMP57UuA0up9hnoQUg_y8pGNsGHm6yi5", "action": "rename", "newTitle": "Victor, 79911 A, Mi bandera (Juan Imbrom), Banda Militar Argentina, Marcha patriótica.jpg"},
+  {"fileId": "1lZ2NronNV6kZLWxanp02tA2n8EOJIetq", "action": "rename", "newTitle": "Nacional, 6910 B, Los ojazos de mi negra (A. R. Avilés), Orquesta Típica F. Canaro, Zamba.jpg"},
+  {"fileId": "1q137mJfH0NzT5pvTwuX30ts3N8txH4x0", "action": "trash"},
+  {"fileId": "1U1UqCWc34EF3LoOd2of0Jt8l2LL13aQt", "action": "rename", "newTitle": "Victor, 37244 A, Volvé (Luis Bayón Herrera - Edgardo Donato), Adolfo Carabelli y su Orquesta Típica, Canta Mercedes Simone, Tango.jpg"},
+  {"fileId": "1r__dESdYZHkB4H-E3veP3rb2yqHcVQke", "action": "rename", "newTitle": "Nacional, 18342 A, Sevilla (M. Moreno - E. Delfino), Carmen Mir (La Sevillita), con acomp. de rondalla, Paso doble.jpg"},
+  {"fileId": "1GUUvnjAEhCcy_eNwT0bMDbFJ3uEXcjJT", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1rCThoT9FCGuSU1BNWqsQS4y5OKMySM6E", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
