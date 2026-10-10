@@ -255,5 +255,15 @@
   {"fileId": "1BwqjihngebFa7aRdyRg1-vUoONOQ0hw6", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "13BnBXLqRLNfU22Y8cw0SlZR-v4PGU2iY", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1p46S9S9C1fIJYxLB-xYfg2PWfQ6dmcnW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1AynRi2fkeSwA67i_R2fjrUdnp1aoa1Fh", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1AynRi2fkeSwA67i_R2fjrUdnp1aoa1Fh", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1hEOkoiCu0D15KhFbynhGmWIfqEdqHmri", "action": "rename", "newTitle": "Columbia, 301037 B, Mañana zarpa un barco (Lucio Demare - Homero Manzi - Santiago Fugazot - Agustín Irusta), Lucio Demare y su piano, Tango.jpg"},
+  {"fileId": "17K6H_6yqvqUSwxA-HJXJarN4Dc0u9xjh", "action": "rename", "newTitle": "Odeón, 55280 A, Pasional (Jorge Caldara - Mario Soto), Osvaldo Pugliese y su Orquesta Típica, Canta Alberto Morán, Tango.jpg"},
+  {"fileId": "1-Q8aGWnFu7XuIE12HvHHuhNo-4EfgEHj", "action": "rename", "newTitle": "Nacional, 16268 B, Hasta morir (J. Zatzkin - J. Montellano - V. Candeloro), Charlo, con acomp. de 3 guitarras, Vals.jpg"},
+  {"fileId": "15GUTiVHCE3DcBlDyHOaYzjG__Ex7_MhC", "action": "rename", "newTitle": "Nacional, 4520 A, Chau ingrata (A. A. Aieta), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1vgsBNfZ8MFpzaPu0ssHY_pUKQUHumWi8", "action": "rename", "newTitle": "Nacional Odeón, 6315 B, El púa (A. De Bassi), Orquesta Típica Roberto Firpo, Tango.jpg"},
+  {"fileId": "1GzXDtkR7HdRsc_XG5HrLw4oQvvFtDFho", "action": "rename", "newTitle": "Victor, 37979 B, Siempre unidos (Manuel Romero - Alberto Soifer), Alberto Vila, acomp. orquesta de Elvino Vardaro, Tango.jpg"},
+  {"fileId": "1jUsaCCygWmL2xnHnaKjNSF4fjaZLHoYU", "action": "rename", "newTitle": "Odeón, 7697 A, Patético (Jorge Caldara), Osvaldo Pugliese y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "19_1fazECsL0j7tu0Otsh9PwXGSTF6WyT", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1I2StZbOvfG2fmjcKtK4iGENs_KT_oqSD", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1Q8xtYAf1BuqebGXNTv9NALMxbVQ6ZlKQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
