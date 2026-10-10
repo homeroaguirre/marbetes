@@ -78,5 +78,15 @@
   {"fileId": "1614t6BPhlO0mUfSPE1XWt5dsWYJ59fhr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1yuuyRzfPiPGClxZI5Ws0T22FnFi0_NWs", "action": "rename", "newTitle": "Nacional, 4121 A, París (F. Canaro), Orquesta Típica F. Canaro, Tango.jpg"},
   {"fileId": "1O0K6gcpY-nqOpPZBm42b9SsC-Txq9l9i", "action": "rename", "newTitle": "Standard, 21161 B, Es un fuego abrasador (Roberto Chacón - Ernesto Marín), Los Trovadores de Cuyo (Dir. Hilario Cuadros), Tonada.jpg"},
-  {"fileId": "1wmum0udq2SNbn_glWFL4cZAOOSLs1S7s", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1wmum0udq2SNbn_glWFL4cZAOOSLs1S7s", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1_f2kB-sF5R7uRlzu4TWNBjD2eIges8lC", "action": "rename", "newTitle": "Nacional, 647 B, El ahorcado (R. Firpo), Orquesta Típica Roberto Firpo, Tango dialogado.jpg"},
+  {"fileId": "1-5Yzp2vY90iZYqZQU-R-Q7i7yHcluhRF", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1JZUfB2c5x_rFJxuDUczkKsMKdQ8zLR9G", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1-UO7VivxLkp7y8DcSO3NTi1sQRbQ9SmR", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ytGjsU6Ema-shpIe_2gtQDTpc-7DYBzX", "action": "rename", "newTitle": "Nacional, 18269 B, Cruz de palo (G. Barbieri - E. Cadícamo), Carlos Gardel con guitarras Ricardo-Barbieri y Aguilar, Tango.jpg"},
+  {"fileId": "1fHPVSLaSmDKAocvk0Q__4bDehZ_6Oj4I", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ESxlxWOhqV54b9ohHEjh3b_0LiryUNwL", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1MbuSBsiBZ4Y_90mAc2l2lWar3Bsh8yA-", "action": "rename", "newTitle": "Victor, 80987 B, Garufa (V. Soliño - R. Fontaina - J. Collazo), Alberto Vila, Tango.jpg"},
+  {"fileId": "1gMxEyG4AyLoNY9PrNc-jP6Rfx-yS38Tw", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1tfJ3b-oiAPTSVgcAlEH4CAngSSra-rPW", "action": "rename", "newTitle": "Standard, 19015 B, Bailongo (Gardel - Razzano), Carlos Gardel, Milonga.jpg"}
 ]
