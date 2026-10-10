@@ -178,5 +178,12 @@
   {"fileId": "1my5CJXJI07KiSUoY4S-BvxoGFTFsMyHq", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1bvk-W3TseqYqL6NumGR40dH4XOmeeV57", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1bKhv3xOv3eEZBGDrOeJT9khr0AwfZBxm", "action": "rename", "newTitle": "Victor, 37018 A, La buenaventura (Pablo Silva - Ramón Montes), Ramón Montes, Paso Doble.jpg"},
-  {"fileId": "180Lvf8H5jXbGTAurJpYua_gdRKLo_uVi", "action": "rename", "newTitle": "RCA Victor, 68-1402 A, La artillera, Los Chalchaleros (Dir. J. A. Saravia Toledo), Zamba.jpg"}
+  {"fileId": "180Lvf8H5jXbGTAurJpYua_gdRKLo_uVi", "action": "rename", "newTitle": "RCA Victor, 68-1402 A, La artillera, Los Chalchaleros (Dir. J. A. Saravia Toledo), Zamba.jpg"},
+  {"fileId": "1rEsrJh9VT92l_CgcUgkOi7x8WfXAoZrz", "action": "rename", "newTitle": "Brunswick, 1661 B, Si señor, como no! (G. Veiga), Magaldi-Noda, Rumba.jpg"},
+  {"fileId": "1u-IBWDejOQnT003LVFG_qJL7xyI334My", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1GgqQuLWGLUhyRbWnFnHbfgZ8kgc9e4_Y", "action": "rename", "newTitle": "Odeón, 54009 B, Destino (Antonio Polito - A. J. Imperiale), Carlos Gardel, Tango.jpg"},
+  {"fileId": "10PDp1Kg7UCSALm-1W_VxG9GY5P0uJlal", "action": "rename", "newTitle": "Victor, 37688 B, Montañerita mía (Libardo Parra Toro - Manuel Ruiz), Magaldi-Noda, Bambuco.jpg"},
+  {"fileId": "15Kd-0H_z2myvM-AjFWRHwZH_9NcfoyNg", "action": "rename", "newTitle": "Odeón, 74318 A, El pañuelito (J. De Dios Filiberto - G. Coria Peñaloza), Dalva de Oliveira y Francisco Canaro, Tango.jpg"},
+  {"fileId": "14NYQjcoFcpxuCU0rM7gbdXm0p6P-oj7a", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1AMwQCvFsQOnKQdwRWfPbJAjkQRYtwjWr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
