@@ -205,5 +205,15 @@
   {"fileId": "11r2jdxuUJenEZ0cmIiLg5_nTtSl3XGwv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1tqMMy9dY1mPJbqrs7utAT7wfy99-e_jT", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1k6HeRug0Nb9UY2CDbfUO0xgus4GE72ZW", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "16wsyKNaKAVD7LkDutUV8YBHYjjxtDzdS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "16wsyKNaKAVD7LkDutUV8YBHYjjxtDzdS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1SrTRdteZlLkM2Forh_IA0AUI7iA2JLna", "action": "rename", "newTitle": "Nacional Odeón, 4466 A, Corazón de oro (F. Canaro), Orquesta Típica F. Canaro, Vals.jpg"},
+  {"fileId": "1x9qRhZQDnEAbMVMbGhnZIA35fZ-6VhIR", "action": "rename", "newTitle": "Columbia, 6026 A, Rosas blancas (Victorio Pontino), Orquesta Típica Maffia, Ranchera.jpg"},
+  {"fileId": "1b180jfaDllQ54uoiOlMgIRu27_gLuqi2", "action": "rename", "newTitle": "Victor, 79696 A, Solterona (D'Agostino - Pollero), Orquesta Típica Victor, Tango.jpg"},
+  {"fileId": "1RuXiIaMS9jtwrAlqedQLPnuLflj2sL7x", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "11uEMnl9LY63uxi_Jan7Ypx1iX6fqx_-6", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "11HaMKHTkTYLBzh8AcTB2W1c3mSSZnzFy", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1QrAHxRv0qKAqbEqAEGmCG3i4P3j-tm4D", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1w-j0KYazWPzfFn2_06vkHPRUIUrTw_Rn", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "11cdmWnBb2OYTspeeADJVCyir9HZ7YfxL", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1783hyxZCEjkBvgYS6BQBQszjeNR3TWyz", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
