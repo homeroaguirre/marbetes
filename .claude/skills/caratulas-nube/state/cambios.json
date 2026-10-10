@@ -148,5 +148,55 @@
     "fileId": "1ZmKJym3VCMmIz9hfjCzugpoFc5N-DDRC",
     "action": "rename",
     "newTitle": "Odeón, 30581 B, La rodada (Eduardo Bonessi - Eduardo Escaris Méndez), Alberto Marino con acompañamiento de guitarras, Canción.jpg"
+  },
+  {
+    "fileId": "1rMxskeHlwkFK8R2OMWzLTsoCs4I3h9eg",
+    "action": "rename",
+    "newTitle": "Victor, 47641 B, El sueño que yo viví (Manuel del Olmo - H. Brown), Alberto Gómez, Fox trot.jpg"
+  },
+  {
+    "fileId": "1eNyqhm5wu5SehuLYNwiyOiykp-arU5hb",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1_ng2rGfG1CHmvj2FNntvlRKlEkgD3EEi",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18016 B, Deja el alero (F. A. Ru - G. Razzano), Carlos Gardel con 3 guitarras (Ricardo), Estilo.jpg"
+  },
+  {
+    "fileId": "1qGSsYMlbXZZ0Jff1Z9q74OViym6oyU5I",
+    "action": "rename",
+    "newTitle": "Odeón, 56054 A, La bien pagá (Juan Mostazo - Ramón Perelló), María Antinea con Orquesta dirigida por Pedro H. Martínez, Zambra.jpg"
+  },
+  {
+    "fileId": "1zhlX1vQR7SGbiu6gbjJd9jT01FZB-Yf3",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1L4rC8tMb1wnuFRNl9NN6vCGfBKrf2sf-",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1W_gmvjSYkpHuyalufLAZkcGdVyoKE3OQ",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4513 B, Zaraza (B. Tagle Lara), Orquesta Típica F. Canaro, Tango.jpg"
+  },
+  {
+    "fileId": "1gZC7Dv78ZXPbCXWFVhF6gS56pIBkrdb2",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1xMEnKEbAH96i-G85q-0J8M9E6Kqz_Zoi",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 4855 B, Fiesta de luces (Francisco Mannocci), Francisco Canaro y su Orquesta Típica, Pasodoble.jpg"
+  },
+  {
+    "fileId": "1vFm30IiHnCSp1SqRItKXUZWvjupXK37e",
+    "action": "rename",
+    "newTitle": "Seeco, 592 A, Tus besos me hacen daño (Chucho Martínez), Chucho Martínez con Terig Tucci y su Orquesta, Bolero.jpg"
   }
 ]
