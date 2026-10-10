@@ -127,5 +127,15 @@
   {"fileId": "1MDC8WuIFvhqmtIb0KjnwUodYGoU5qnLy", "action": "rename", "newTitle": "Victor, 79608 B, Sarandí (J. Bauer), Orquesta Típica Victor, Tango.jpg"},
   {"fileId": "1CBdOKN4x3vqk4BBjheuk7YvGuOFkWyb4", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1aO3WXT-9igpWOVB-IfVKqoq6j5wn8sXq", "action": "rename", "newTitle": "Brunswick, 2206 A, Bigotito (G. Martina Massa - I. Aguilar - M. Buzón), Mercedes Carné con orquesta Carlos Di Sarli, Tango.jpg"},
-  {"fileId": "1tcEf8ISeQ3yxHqhbU6Aq3T_PRnROVify", "action": "rename", "newTitle": "Victor, 79690 B, La cumparsita (G. Matos Rodríguez), Maffia-Laurenz, Dúo de Bandoneones, Tango.jpg"}
+  {"fileId": "1tcEf8ISeQ3yxHqhbU6Aq3T_PRnROVify", "action": "rename", "newTitle": "Victor, 79690 B, La cumparsita (G. Matos Rodríguez), Maffia-Laurenz, Dúo de Bandoneones, Tango.jpg"},
+  {"fileId": "1k2vuuNA6hIjmxpZNIUBlMJ8lMBLWrwN0", "action": "rename", "newTitle": "Nacional, 18123 B, Caminito del taller (C. Castillo), Carlos Gardel, acomp. de 4 guitarras, Tango.jpg"},
+  {"fileId": "1PC2CADZAy3lN5OARw8wyOIY-n_G-UvaW", "action": "rename", "newTitle": "Victor, 47209 B, ¡Victoria! (E. S. Discépolo), Marcucci-Grupillo, Dúo de Bandoneones, Tango.jpg"},
+  {"fileId": "12dBo7LGk3Lk0khUORmN0zRYyvM2sWLRB", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1lZ5Mr1HAsB6ImSEKnnVOAR-USSCwKWu3", "action": "rename", "newTitle": "Brunswick, 2501 A, Don Esteban (A. P. Berto), Trío de Guitarras, Tango.jpg"},
+  {"fileId": "1DY8tte_oKhIDNaqm7bwExgRRreHBU9xj", "action": "rename", "newTitle": "Victor, 37350 B, La última cita (F. García Jiménez - A. Bardi), Mercedes Simone, Tango.jpg"},
+  {"fileId": "1b9EJ2cew0OJkxGwX7LaD9GzNfooSIbFv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1sxOIyPN78ytxK8-sG0pZiwt4uUDvC9TD", "action": "rename", "newTitle": "Victor, 77056 A, Aires criollos N° 2 (José Aguilar), José Aguilar, acomp. guitarra E. Maciel, Solo de guitarra.jpg"},
+  {"fileId": "1COKtZ_KTA8f90UbAonEF4k6uk4Y9YMwP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1C9pASs-VF00DJWyW5KuGi5Q3dGzUUWxx", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1eGVh5Ct-th0p-a2cb6hMzKH3PGC_FE45", "action": "rename", "newTitle": "Victor, 47461 A, Mi dolor (M. A. Meaños - Carlos Marcucci), Alberto Gómez, Tango.jpg"}
 ]
