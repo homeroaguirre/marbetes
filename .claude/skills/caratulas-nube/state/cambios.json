@@ -117,5 +117,15 @@
   {"fileId": "1FnaOWL0b6h6SNsC6aQiLdt4COtG0fqPx", "action": "rename", "newTitle": "Nacional, 4036 A, Griseta (E. Delfino), Orquesta Típica F. Canaro, Tango.jpg"},
   {"fileId": "15tRuUxDp1Ka56ZhSk4BIGYmzaE9uCgdZ", "action": "rename", "newTitle": "Victor, 60-1917 B, Cielo de mi tierra (Lito Bayardo - Ciriaco Ortiz), Trío Ciriaco Ortiz, Zamba.jpg"},
   {"fileId": "15vgfogcPE6qEcCcoE8ZUsLs5LhOAvdzM", "action": "rename", "newTitle": "Nacional, 4474 A, ¡Buenos Aires es una papa! (E. Delfino), Orquesta Típica F. Canaro, Tango.jpg"},
-  {"fileId": "1k1xNRWtmhz-6YTLY3HN-ZvwYJ-TtEC-w", "action": "rename", "newTitle": "Victor, 73471 A, Fruto prohibido (Enrique Delfino), Orquesta Típica Minotto, Tango.jpg"}
+  {"fileId": "1k1xNRWtmhz-6YTLY3HN-ZvwYJ-TtEC-w", "action": "rename", "newTitle": "Victor, 73471 A, Fruto prohibido (Enrique Delfino), Orquesta Típica Minotto, Tango.jpg"},
+  {"fileId": "1E4AFSbHsRgUevIfIs7e92mUC4YK9FnLr", "action": "rename", "newTitle": "Victor, 79714 A, Y no tengas que sufrir (E. Nobile - C. Martínez), Carlos Dix, acomp. A. Carabelli, Tango.jpg"},
+  {"fileId": "136tgQiPWGf5yISl8q32Qst0pBSIOAC5U", "action": "rename", "newTitle": "Victor, 73292 A, El periodista (A. P. Berto), Orquesta Típica Berto, Tango.jpg"},
+  {"fileId": "15bxyM5oIuV5JgcfMwoI0DNaxeeEcdUOE", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1brK5QxOdVWoj9JMZiPvEJoXX_L4KveiU", "action": "rename", "newTitle": "Victor, 73367 B, Snobismo (J. C. Cobián), Orquesta Típica Fresedo, Tango.jpg"},
+  {"fileId": "1yV1bBlWGIlGqLbKYxPLxdSWjmSbUN240", "action": "rename", "newTitle": "Victor, 60-1842 B, La zamba gaucha (H. García - C. Ortiz), Trío Ciriaco Ortiz, Zamba.jpg"},
+  {"fileId": "1chuKu4UU2QBBw0WQMfVhdf7cf7aMXvHa", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1MDC8WuIFvhqmtIb0KjnwUodYGoU5qnLy", "action": "rename", "newTitle": "Victor, 79608 B, Sarandí (J. Bauer), Orquesta Típica Victor, Tango.jpg"},
+  {"fileId": "1CBdOKN4x3vqk4BBjheuk7YvGuOFkWyb4", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1aO3WXT-9igpWOVB-IfVKqoq6j5wn8sXq", "action": "rename", "newTitle": "Brunswick, 2206 A, Bigotito (G. Martina Massa - I. Aguilar - M. Buzón), Mercedes Carné con orquesta Carlos Di Sarli, Tango.jpg"},
+  {"fileId": "1tcEf8ISeQ3yxHqhbU6Aq3T_PRnROVify", "action": "rename", "newTitle": "Victor, 79690 B, La cumparsita (G. Matos Rodríguez), Maffia-Laurenz, Dúo de Bandoneones, Tango.jpg"}
 ]
