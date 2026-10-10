@@ -245,5 +245,15 @@
   {"fileId": "149JfLyfVcuQNjFo30VYiu4C4mjKBLTLR", "action": "rename", "newTitle": "Victor, 38878 B, El retirao (Carlos Posadas), Carlos Di Sarli y su orquesta típica, Tango.jpg"},
   {"fileId": "1Dw3nQPcq3fy7lChFtYusKOmD8WOT22S9", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1ep_exxPiHE9DHQk9iGxJ8xHYGxsJ-U6j", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1k-xcBCCmXmk3MPHAnVyRrXrT3Mbm3NrS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1k-xcBCCmXmk3MPHAnVyRrXrT3Mbm3NrS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1zF42IbFMA3yDZEdrSlERn5hqiKRqXxgR", "action": "rename", "newTitle": "Nacional Odeón, 4197 A, Se fue Taborda (A. Aieta), Francisco Canaro y su orquesta típica, Tango.jpg"},
+  {"fileId": "1NOlhSxML7T7p7mhlK-Va3u_8-T_WUI8a", "action": "rename", "newTitle": "Nacional, 4292 A, Nobleza de arrabal (F. Canaro), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1BDn9ucy32p7M7nz0Ct-KlKeYKoLkAfEM", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1p05S5k3olEyNU1AiR-7PzD5oCoDDyTT6", "action": "rename", "newTitle": "Victor, 37142 A, Lágrimas y sonrisas (Pascual De Gullo), Trío Ciriaco Ortiz, Vals.jpg"},
+  {"fileId": "1r3TGDj_iXkUPJVVK2YKYJNdqhnDjuKCC", "action": "rename", "newTitle": "Victor, 69585 A, La guitarrita (E. Arolas), Orquesta Típica E. Arolas, Tango.jpg"},
+  {"fileId": "1foMBIbjLwqc0phOsQO4HDQ-r0zxX25sB", "action": "rename", "newTitle": "Victor, 37131 B, Trifonia Sisebuta (Nolo López - Salvador Merico), Mercedes Simone, Ranchera.jpg"},
+  {"fileId": "1P-SjVj6n0MliosFV2yPSk1XRSVF8eN2Z", "action": "rename", "newTitle": "Odeón, 51843 B, Olga (Francisco Peña), Rafael Rossi y su conjunto, Canta Hnos. Casadei, Vals.jpg"},
+  {"fileId": "1yLhPhYwuQSIAhoo95A5zNTUBUWf3jZ7l", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1zNE02oJwUQFgCofOkE-fR8TJlNB3ED4l", "action": "rename", "newTitle": "Victor, 60-0194 B, Ensueños (Luis Brighenti), Carlos Di Sarli y su orquesta típica, Tango.jpg"},
+  {"fileId": "1m53uNgFwd2Rnoep5h-BzwyzcAwyw5tAr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
