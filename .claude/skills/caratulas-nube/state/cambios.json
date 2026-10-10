@@ -97,5 +97,15 @@
   {"fileId": "1CZn-T-ennL8iha_gVO5vYPyHURP7vTdk", "action": "rename", "newTitle": "Sondor, 31562 B, Tren lechero (Félix Pérez Cardozo), Félix Pérez Cardozo y su Conjunto de Arpa y Guitarras, Polca paraguaya.jpg"},
   {"fileId": "1v6hjsKsPXIs1DD2kJknmN2E1Hiq2Okj3", "action": "rename", "newTitle": "Victor, 80922 B, La última cita (A. Bandi), Julio De Caro y su Orquesta Típica, Tango.jpg"},
   {"fileId": "1KK8JLM2fj3YSQuqhCxz4erufkVuKnZsu", "action": "rename", "newTitle": "Victor, 79884 B, Las madreselvas (José Aguilar), Aguilar-Pagés, Zamba.jpg"},
-  {"fileId": "1aoR0CB2aQNQWgUXaU1s5jUHplGNcTLmK", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1aoR0CB2aQNQWgUXaU1s5jUHplGNcTLmK", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1mOV8ce3EQg3WaQEKeTbxO67GNAFt6A9J", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1s3ooAViTFAuE6bdWR4VubEgXrkpTrLax", "action": "rename", "newTitle": "Nacional, 7725 B, Cicatrices (A. R. Avilés), Orquesta Típica F. Lomuto, Tango.jpg"},
+  {"fileId": "1QtoUXNG0gK8GxbLgnErUZl5zkHiVCBw_", "action": "rename", "newTitle": "Victor, 79797 A, Y se apagó el puchito (A. Supparo - L. Bernstein), Libertad Lamarque, Tango.jpg"},
+  {"fileId": "1D-D6DJf-zJQLus8G9_rl_IPKmsNQkY6B", "action": "rename", "newTitle": "Brunswick, 2110 A, Como se pianta la vida, Azucena Maizani, Tango.jpg"},
+  {"fileId": "1gQusFoMZOHYqhR03JXyEcwb8nEBGkUfv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1AgV-9svMhZh8pA1ZElzVyVe9sp-iuqI7", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1BWLnRExTfps1pAWOLPcvo-m2DltghK2j", "action": "rename", "newTitle": "Victor, 79677 A, Allá en el bajo (A. Magaldi - P. Noda), Julio De Caro y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1vH0gr33d3qigZhEWqMDAju3Xtt097vwV", "action": "rename", "newTitle": "Victor, 60-0371 B, El elegante (Chiqué!) (Ricardo L. Brignolo), Aníbal Troilo (Pichuco) y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1mcqX2emYf1mq2LwcE0k30P_lwDYVBM2x", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "16JiOU5vgdnLlRWMBoQwINScQCS7Bgamc", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
