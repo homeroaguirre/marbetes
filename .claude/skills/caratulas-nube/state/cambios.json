@@ -167,5 +167,15 @@
   {"fileId": "137RwfzW02nMPl2dKSLUk1ANkOHJyZD76", "action": "rename", "newTitle": "Victor, 37473 B, Capullito de alelí (Rafael Hernández), Adolfo Carabelli y su Orquesta, Canta Carlos Lafuente, Rumba.jpg"},
   {"fileId": "1u1SulTSoyEFrR9f0Z9uK48b08pdfge4n", "action": "rename", "newTitle": "Victor, 79613 A, La pueblera (J. M. Rizzuti), Orquesta Típica Victor, Tango.jpg"},
   {"fileId": "1-0s8cQaul7ewPjSHZvQS0AB0zJAuoe9C", "action": "rename", "newTitle": "Nacional Odeón, 4233 A, A media luz (E. Donato), Orquesta Típica F. Canaro, Tango.jpg"},
-  {"fileId": "1LTOQBeiwfJoPmJAy2VDdplgfxMltpwfy", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1LTOQBeiwfJoPmJAy2VDdplgfxMltpwfy", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1JESAPGGIWMDFpSFFMFMuac7cvCRt0ATH", "action": "rename", "newTitle": "Victor, 60-0906 B, Milonga triste (Homero Manzi - Sebastián Piana), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta A. Marino y quinteto de voces, Milonga.jpg"},
+  {"fileId": "13cBGwzyCpeToBRaHop2am5Q9LH_S7Erm", "action": "rename", "newTitle": "Nacional, 6971 A, La Sulamita (F. Canaro), Jazz Band F. Canaro, Shimmy.jpg"},
+  {"fileId": "154Da6wXwGmZJI2hC3UEvfhyHPqqdTPF_", "action": "rename", "newTitle": "Victor, 39627 B, Colorao colorao (C. E. Flores - A. H. Acuña), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Fiorentino, Tango.jpg"},
+  {"fileId": "1iVjpVMfmOxq9bI9oTywXzhOsmxX40KK5", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1RvlfVsod47AzqYA5Bz45mva91NQdXilK", "action": "rename", "newTitle": "Nacional Odeón, 18417 A, Olga (Caruso - Peña), Ignacio Corsini, tenor, con 3 guitarras, Vals.jpg"},
+  {"fileId": "1k3eNsYff24t8WmGzytrJfrC4q56J0jxx", "action": "rename", "newTitle": "Victor, 79690 A, Pura maña (A. Maffia), Maffia-Laurenz, Dúo de Bandoneones, Tango.jpg"},
+  {"fileId": "1JUmonJHYwPoapNyjoZ9dVHiEdVlqmWMA", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1GEeKHWtxJhFc0tXZ-8zaTKVzRAp5Y_rh", "action": "rename", "newTitle": "Victor, 79915 A, Cruz Diablo (R. Biagi), Rodolfo Biagi, Solo de piano.jpg"},
+  {"fileId": "1Csxp-eySmiz98oFStIT241Pd88ciTeqi", "action": "trash"},
+  {"fileId": "1HUWcyV3rddhxPzKi-Bu7Mhj3CyFA7Vg0", "action": "rename", "newTitle": "Victor, 77443 A, Cenizas (Rizzuti - Fresedo), Roberto Díaz, acomp. Orquesta E. Pereyra, Tango.jpg"}
 ]
