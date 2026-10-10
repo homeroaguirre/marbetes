@@ -147,5 +147,15 @@
   {"fileId": "1GMYPdkJgA0lyqzfjZLnG4Z-hRSFcAuWP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1VZqDvCkv0IIuyLHF0Z3YB5OYFyOtkdvo", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "195SMO8Xy64wmK0wfzAVuGdblqL0APgBD", "action": "rename", "newTitle": "Victor, 79914 A, Pinta brava (Charlo - Battistella), Agustín Irusta, Tango.jpg"},
-  {"fileId": "1AdBTzeLxj4cb39Dx41Pu_Y-EnZZ-wJH8", "action": "rename", "newTitle": "Victor, 37290 B, La dicha jamás lograda (Ismael R. Moreno), Trío Ciriaco Ortiz, Vals.jpg"}
+  {"fileId": "1AdBTzeLxj4cb39Dx41Pu_Y-EnZZ-wJH8", "action": "rename", "newTitle": "Victor, 37290 B, La dicha jamás lograda (Ismael R. Moreno), Trío Ciriaco Ortiz, Vals.jpg"},
+  {"fileId": "1XrF8adqR7x0uy8AUUxzXPmUuljkF7Q9V", "action": "rename", "newTitle": "Nacional, 7719 B, Lechuza (A. y J. Navarrine), Orquesta Típica P. Lomuto, Tango.jpg"},
+  {"fileId": "109p-fbJIAvJ8oRaOXkxeDEljO6bQ1mPH", "action": "rename", "newTitle": "Nacional, 4210 A, El poncho del olvido (A. Avilés), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1sMqra22MIl2gd7BkQcv55Zkq_FrJTH9t", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1baSs8To9eyFAxY865ozENqHQO8kM8uTQ", "action": "rename", "newTitle": "Victor, 60-0900 B, Recuerdos de Bohemia (Parte 2) (Manuel Romero - Enrique Delfino), Aníbal Troilo (Pichuco) y su Orquesta Típica, Canta Alberto Marino, Tango.jpg"},
+  {"fileId": "1JFpcZAURu7IGQeItJZX-7Qsb9HC6QSa7", "action": "rename", "newTitle": "Nacional, 16217 A, Viejo callejón (A. P. Urgo - J. Culiersi), Charlo, con acomp. de Orquesta Francisco Canaro, Tango.jpg"},
+  {"fileId": "1fbdx2kgmKZgtqa980Pwo7f2mqsQYLfwQ", "action": "rename", "newTitle": "Nacional Odeón, 18474 B, Caminito de la sierra (Porto - Braña - Vettori), Ignacio Corsini, con 3 guitarras, Canción.jpg"},
+  {"fileId": "1xnv6Vk0LkewkRm3EIpd8vlaC-QgmHn4g", "action": "rename", "newTitle": "Nacional, 8672 B, Hojarasca (R. Pesoa), Orquesta Típica R. Firpo, Tango.jpg"},
+  {"fileId": "1_ixn2_gegIrHSsFGp9kaBL5MKuxVjTWU", "action": "rename", "newTitle": "Victor, 79608 A, Olvido (A. D'Agostino), Orquesta Típica Victor, Tango.jpg"},
+  {"fileId": "1UG6i-1Q2gb4Gzo3NHQ0iTNk0CO6HL2az", "action": "rename", "newTitle": "Victor, 73788 B, Polola (Hugo B. Rizzi), Orquesta Típica Cobián, Tango.jpg"},
+  {"fileId": "1HGa14d2T4N8Fs69wntIAqLiiPfs4JaCs", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
