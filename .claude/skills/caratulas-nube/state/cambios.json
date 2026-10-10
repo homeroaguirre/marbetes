@@ -58,5 +58,15 @@
   {"fileId": "1nlW3rWBq1m5GcWpDA-xF7MDuiKcojQOH", "action": "rename", "newTitle": "Nacional, 18078 A, Padre nuestro (Delfino - Vaccarezza), Carlos Gardel con 4 guitarras Ricardo y Barbieri, Tango.jpg"},
   {"fileId": "1LtzglSCKqvWyfLqs5xZJ885NNW4pxySC", "action": "rename", "newTitle": "Nacional, 5015 A, Yo te bendigo (J. De Dios Filiberto), Orquesta Típica Osvaldo Fresedo, Tango.jpg"},
   {"fileId": "1FAMRDfqAStzU0NSObxodnpmKYdD9j4xd", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1qsK1n7dlKmdEB80_SwH_MMa1TkjMHoAk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1qsK1n7dlKmdEB80_SwH_MMa1TkjMHoAk", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1YrUb88MIQZGHZf67sUKhsnyyHvIjNYoP", "action": "rename", "newTitle": "Odeón, 3508 A, La cumparsita (Gerardo Matos Rodríguez), Roberto Firpo y su Cuarteto, Tango.jpg"},
+  {"fileId": "1CZZGYbqulU-bMQJqEUIPNQi-ARt4t4A2", "action": "rename", "newTitle": "Nacional, 18261 A, Patadura (J. López Arés - E. Carrera Sotelo), Carlos Gardel con guitarras Ricardo, Barbieri y Aguilar, Tango.jpg"},
+  {"fileId": "1xNqjVTVKNZTXqgmtyeZPU4XD0EZj3ALE", "action": "rename", "newTitle": "Nacional, 4694 B, No va más, Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1v03aWZE7v5Q-Z81bq1bnyeuzu2hOWi9h", "action": "rename", "newTitle": "Columbia, 15076 A, Soy marinero (Jackie Koan - Lorenzo D'Acosta), El Indio Araucano, Vals.jpg"},
+  {"fileId": "1pyzSeNa45r0BZwkE3om-_-046T30v8II", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1kOMeYpi5Uh2Nhrw8Bs5KShhOlyXoiptZ", "action": "rename", "newTitle": "Victor, 37534 A, Anda a verla (F. García Giménez - Oscar Napolitano), Francisco J. Lomuto y su Orquesta Típica, Canta Charlo, Tango.jpg"},
+  {"fileId": "1-I7oCNFjZaRgvNABdPL4Hnq8NpyKpMiy", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1f8Q4Wdm7oTcYop1q-O6Uv94mPwikuCkw", "action": "rename", "newTitle": "RCA Victor, 63-0056 A, Discepolín (Homero Manzi - Aníbal Troilo), Francini-Pontier y su Orquesta Típica, Canta Héctor Montes, Tango.jpg"},
+  {"fileId": "1LO4cesgj8EVivjfPcXLXypISa7zCX-4m", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1nF8clIszToqrkOr0psbKTTeMIIDAhlr0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
