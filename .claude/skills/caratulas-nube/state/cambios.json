@@ -38,5 +38,15 @@
   {"fileId": "12VJwJk2uiUm8oxgSivbPn4O9jRZDDIgn", "action": "rename", "newTitle": "Victor, 72896 B, Corrientes y Esmeralda (E. Delfino), Orquesta Típica Select, Tango.jpg"},
   {"fileId": "17Duu6d7Vf20x1Zt5sIf6MGSQjPQtbOjD", "action": "rename", "newTitle": "Victor, 60-1657 A, El moro (Carlos Gardel - José Razzano), Ricardo Tanturi y su orquesta típica, Canta Alberto Castillo, Tango.jpg"},
   {"fileId": "1l9QOYKWPLYjs4c5ZFbjcKvyvbfS46oxE", "action": "rename", "newTitle": "Nacional, 4110 B, Acuarelita del arrabal (Cátulo Castillo), Orquesta Típica F. Canaro, Tango.jpg"},
-  {"fileId": "1xqI6BDnfAx5-nzvok2ql_gx6z8pP4mau", "action": "rename", "newTitle": "Victor, P-1457 A, La descamisada (A. Helú - E. P. Maroni), Nelly Omar, Milonga.jpg"}
+  {"fileId": "1xqI6BDnfAx5-nzvok2ql_gx6z8pP4mau", "action": "rename", "newTitle": "Victor, P-1457 A, La descamisada (A. Helú - E. P. Maroni), Nelly Omar, Milonga.jpg"},
+  {"fileId": "1dGNL5wFYJL4DlAibuyo0UrIbIiZKaApw", "action": "rename", "newTitle": "Nacional Odeón, 6973 A, Templo de Venus (E. Iribarne - M. N. Valdez), Francisco Canaro Jazz Band, Shimmy.jpg"},
+  {"fileId": "1ac3rBWCwrQ4EvIf-mHrgXgnpGlNmCZWQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1dI2lMnR08y_OY84jeCQ4mbfOVnJidHWv", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "15SmYi5TBVqIZQWoT8IApGd6cI2EiE7i6", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1eN0BgvKZxVRFzPZpf2lABGan1iCwzxB0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1WGsYtUSVQupSmlwvMEKn-fdtWhEXw1EO", "action": "rename", "newTitle": "Nacional, 4484 B, Emoción (P. Cimaglia), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1elQ7AWtKlcMukg-Qo4OQK3p6PahGRAH0", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "13_W8AW7lqQenA17S22josqtppbpQdbEb", "action": "rename", "newTitle": "Odeón, 55345 B, Mesón de fierro (Tránsito Cocomarola - Armando Correa - Luis Mendoza), Trío Cocomarola, Chamamé.jpg"},
+  {"fileId": "1F29hjXNj9PdtMokz44AXsBHfQVkHk7Tm", "action": "rename", "newTitle": "Victor, 60-0016 A, Cornetín (H. Manzi - C. Castillo - P. Maffia), Carlos Di Sarli y su orquesta típica, Canta Roberto Rufino, Tango.jpg"},
+  {"fileId": "12Aa4d8R_6JJduFgHLdoTZFQoTBPQP85W", "action": "rename", "newTitle": "Victor, 47212 B, Gaucho lindo (Gma. Aguilar), Spina-Baudino, Gato.jpg"}
 ]
