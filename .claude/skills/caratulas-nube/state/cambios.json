@@ -398,5 +398,50 @@
     "fileId": "10172cOMRFwyKHcncUewjTw0ZJL8t1J79",
     "action": "move",
     "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1TVbz_ZpUbRI4-7Ww-tMkFG2_6jx4P3nM",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1CGqV8lpoaouI3duWuh98FNfQ8dDnTd6b",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1Nv25zr_GH9MVSLtbtZYN-XJW34yTRvTb",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18410 B, Metejón (Goyeneche - Aurelio), Ignacio Corsini con 2 guitarras, Tango.jpg"
+  },
+  {
+    "fileId": "1PY8hgt6lRW61o9RAoSsVZZJKCK6zrF0o",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1cqjeC_ihfD3TV6_snL2cz7BVv_syofP9",
+    "action": "rename",
+    "newTitle": "Odeón, 5052 A, Pericón nacional (Cayetano Grifone), Francisco Canaro y su Orquesta Típica, Pericón.jpg"
+  },
+  {
+    "fileId": "1HMtItdV3HlHOp3Dr3XlLslZ7Jv4pYfLk",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 18074 A, La danza de las libélulas (F. Lehár), Carlos Gardel con 4 guitarras (Ricardo - Barbieri), Canción.jpg"
+  },
+  {
+    "fileId": "1stjaLSaMT-kdU4PushO-84ONFLrg-Hxj",
+    "action": "move",
+    "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"
+  },
+  {
+    "fileId": "1zuJsMEtuKPdUBHwpu3_1diatvfMWQE5a",
+    "action": "rename",
+    "newTitle": "Odeón, 55756 A, Tú me quieres blanca (Alfonsina Storni), Berta Singerman, Poesía recitada.jpg"
+  },
+  {
+    "fileId": "16D7-2A6kFBhFZDxDrr-Y2j07Xrn5-mzt",
+    "action": "rename",
+    "newTitle": "Disco Nacional, 7770 A, Pero yo sé (A. Maizani), Orquesta Típica F. Lomuto, Tango.jpg"
   }
 ]
