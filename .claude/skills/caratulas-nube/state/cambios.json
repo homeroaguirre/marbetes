@@ -265,5 +265,15 @@
   {"fileId": "1jUsaCCygWmL2xnHnaKjNSF4fjaZLHoYU", "action": "rename", "newTitle": "Odeón, 7697 A, Patético (Jorge Caldara), Osvaldo Pugliese y su Orquesta Típica, Tango.jpg"},
   {"fileId": "19_1fazECsL0j7tu0Otsh9PwXGSTF6WyT", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "1I2StZbOvfG2fmjcKtK4iGENs_KT_oqSD", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1Q8xtYAf1BuqebGXNTv9NALMxbVQ6ZlKQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1Q8xtYAf1BuqebGXNTv9NALMxbVQ6ZlKQ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "15NdIqGT1-qohfyFVrpmHcvvYOpNsw8zo", "action": "rename", "newTitle": "Victor, 79850 A, Viejo taura (Marino - Blois), Italo Goyeche, Tango.jpg"},
+  {"fileId": "1I9xaF2JiqRk6TMTv4EV41wt7BI9M718_", "action": "rename", "newTitle": "Nacional, 16255 A, Linyera (Luis Mario - Dios Filiberto), Charlo, con acomp. de Orquesta F. Canaro, Tango.jpg"},
+  {"fileId": "13NlyV-sckJb2mv9Wr1sAuIuvmWDK_8SX", "action": "rename", "newTitle": "Victor, 60-1544 A, La maleva (M. Pardo - A. Buglione), Aníbal Troilo (Pichuco) y su Orquesta Típica, Tango.jpg"},
+  {"fileId": "1q84qE3H89GioCUXicEoyJKBUhl4Ui4tf", "action": "rename", "newTitle": "Nacional Odeón, 4234 B, Oiga... (E. Donato), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "106pxI0OX_POitj4e7oqtvJHnUjL3yL95", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "15kxY6dh5fJGed6bTFgPqYyiPq24a9cu4", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1WPLGET7TkVM9B6BYghuQXj6xOnlg3MfP", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ARUnD9YpO770uaaBYtm0hHAb3zx81oCS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1pAdrxsYHLytsKOf523Z2lMs436GKjhYi", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1lsJkvWW18DGbBs0TkNYirajPMEEXFRKS", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
