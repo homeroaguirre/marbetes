@@ -292,5 +292,15 @@
   {"fileId": "1Y9JfF4gLDShVaTTJPoOj_0vACk6HXVzI", "action": "rename", "newTitle": "Victor, 73611 A, Peligro oculto (V. Loduca), Orquesta Típica Fresedo, Tango.jpg"},
   {"fileId": "1SRM3FzUyv4Z6Lhpmo5-LxetcVimYE9vj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
   {"fileId": "17VmguvgIKcRwAYtks7ycOOTmQ257w96g", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1z-fMVtvfYDY7ICPEfE6oPX8-hzEDlNsZ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1z-fMVtvfYDY7ICPEfE6oPX8-hzEDlNsZ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1W7wYgg_9-rezobAZl06gWCCzk6G3OgWT", "action": "rename", "newTitle": "Odeón, 30373 B, De mi barrio, Julio De Caro y su Orquesta Típica, Canta Fanny Navarro, Tango.jpg"},
+  {"fileId": "1JlTLPM-Bed_A5ivmja6RHhhEqPL0Yzpc", "action": "rename", "newTitle": "Disco Nacional, 4294 B, La vuelta de Rocha (J. de Dios Filiberto), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1TPKnhIulHuDhz7_F4DKLqHzXSTwfEclD", "action": "rename", "newTitle": "Victor, 47053 B, Oyeme mujer (C. Gallardo - V. Soliño), Alberto Vila, Tango.jpg"},
+  {"fileId": "1SSgS9Knjv1Ti09HMv0UKr39hB9zMy9FS", "action": "rename", "newTitle": "Brunswick, 1245 A, Vira vira (E. Discépolo), Orquesta Típica Julio De Caro, Canta L. Díaz, Tango.jpg"},
+  {"fileId": "1JhZPJ5UILomWicxaUhaSCZV1cTt1LGn7", "action": "rename", "newTitle": "Victor, 1A-1678 B, Justo un año (Miguel Bucino), Juan D'Arienzo y su Orquesta Típica, Canta Mario Bustos, Tango.jpg"},
+  {"fileId": "1ON4T0lJh9YzgE78LzG0Br73zTjh7wU5A", "action": "rename", "newTitle": "Columbia, 20345 A, María escandalosa (Klecius Caldas - Armando Cavalcanti), Carlinhos con acompañamiento de Orquesta, Tango.jpg"},
+  {"fileId": "1-5wP2goBga2DefV4WwRlINtFIkJ5m8gy", "action": "rename", "newTitle": "Disco Rob. Firpo, 615 B, S. Paulo Futuro (F. Lobo), Orquesta Roberto Firpo, Maxixe Brasileiro.jpg"},
+  {"fileId": "1mApamsJ9ZficEZLBMBl0uqTSjel8s6fI", "action": "rename", "newTitle": "Columbia, T174, Don Simplicio poca ropa, Arturo Navas, Milonga.jpg"},
+  {"fileId": "1F27XdhMKdsHT9dTCvmHVv_CvlFLXebLV", "action": "rename", "newTitle": "Disco Nacional, 7613 B, Quiero olvidar (E. Lomuto), Orquesta Típica Francisco Lomuto, Tango.jpg"},
+  {"fileId": "1ajZZGlMjJpkjlPODEVXmbJehPLICYMhF", "action": "rename", "newTitle": "Disco Nacional, 4406 A, Señor comisario (F. Canaro), Orquesta Típica F. Canaro, Tango.jpg"}
 ]
