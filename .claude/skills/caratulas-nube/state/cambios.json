@@ -282,5 +282,15 @@
   {"fileId": "1U1UqCWc34EF3LoOd2of0Jt8l2LL13aQt", "action": "rename", "newTitle": "Victor, 37244 A, Volvé (Luis Bayón Herrera - Edgardo Donato), Adolfo Carabelli y su Orquesta Típica, Canta Mercedes Simone, Tango.jpg"},
   {"fileId": "1r__dESdYZHkB4H-E3veP3rb2yqHcVQke", "action": "rename", "newTitle": "Nacional, 18342 A, Sevilla (M. Moreno - E. Delfino), Carmen Mir (La Sevillita), con acomp. de rondalla, Paso doble.jpg"},
   {"fileId": "1GUUvnjAEhCcy_eNwT0bMDbFJ3uEXcjJT", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
-  {"fileId": "1rCThoT9FCGuSU1BNWqsQS4y5OKMySM6E", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
+  {"fileId": "1rCThoT9FCGuSU1BNWqsQS4y5OKMySM6E", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "16A5XlOgWG7A6nebmYcDK2E4RT1-JZY7n", "action": "rename", "newTitle": "Nacional Odeón, 4355 A, Noche de Reyes, Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1e0HkEJUsxk_BQDNNQqKBEEgoNx2dLDEs", "action": "rename", "newTitle": "Nacional Odeón, 4246 B, Florida (L. Riccardi), Orquesta Típica F. Canaro, Vals criollo.jpg"},
+  {"fileId": "12b2DvH048qLqm3pN5abjXDK2cJZ7pQK8", "action": "rename", "newTitle": "Nacional, 18178 A, Aquel cuartito de la pensión (Viale - De los Hoyos), Carlos Gardel, Tango.jpg"},
+  {"fileId": "1W7mUes2qQcbxtBO-q3wDsphhPNFSNrWF", "action": "rename", "newTitle": "Victor, 79687 A, La canción del ukelele (A. Conrad), Carabelli Jazz Band, Shimmy.jpg"},
+  {"fileId": "1eqcY9Y4o0ciJOQf5ZVAh57u4URrY0isr", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1v5IGDaEalA3c42m2EYW3RgEPeD0T0KhA", "action": "rename", "newTitle": "Nacional, 16203 A, Piedad, Charlo con acompañamiento de Orquesta Canaro, Tango.jpg"},
+  {"fileId": "1Y9JfF4gLDShVaTTJPoOj_0vACk6HXVzI", "action": "rename", "newTitle": "Victor, 73611 A, Peligro oculto (V. Loduca), Orquesta Típica Fresedo, Tango.jpg"},
+  {"fileId": "1SRM3FzUyv4Z6Lhpmo5-LxetcVimYE9vj", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "17VmguvgIKcRwAYtks7ycOOTmQ257w96g", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1z-fMVtvfYDY7ICPEfE6oPX8-hzEDlNsZ", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"}
 ]
