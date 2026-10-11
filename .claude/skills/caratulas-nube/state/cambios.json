@@ -302,5 +302,15 @@
   {"fileId": "1-5wP2goBga2DefV4WwRlINtFIkJ5m8gy", "action": "rename", "newTitle": "Disco Rob. Firpo, 615 B, S. Paulo Futuro (F. Lobo), Orquesta Roberto Firpo, Maxixe Brasileiro.jpg"},
   {"fileId": "1mApamsJ9ZficEZLBMBl0uqTSjel8s6fI", "action": "rename", "newTitle": "Columbia, T174, Don Simplicio poca ropa, Arturo Navas, Milonga.jpg"},
   {"fileId": "1F27XdhMKdsHT9dTCvmHVv_CvlFLXebLV", "action": "rename", "newTitle": "Disco Nacional, 7613 B, Quiero olvidar (E. Lomuto), Orquesta Típica Francisco Lomuto, Tango.jpg"},
-  {"fileId": "1ajZZGlMjJpkjlPODEVXmbJehPLICYMhF", "action": "rename", "newTitle": "Disco Nacional, 4406 A, Señor comisario (F. Canaro), Orquesta Típica F. Canaro, Tango.jpg"}
+  {"fileId": "1ajZZGlMjJpkjlPODEVXmbJehPLICYMhF", "action": "rename", "newTitle": "Disco Nacional, 4406 A, Señor comisario (F. Canaro), Orquesta Típica F. Canaro, Tango.jpg"},
+  {"fileId": "1Ik09gobkKlZa8RYXuz3YEgB3jAdg5flu", "action": "rename", "newTitle": "Victor, 72966 A, Bélgica (E. Delfino), Oswaldo Fresedo (Solo de Bandoneón), Tango.jpg"},
+  {"fileId": "1d3l03bcSG3uTd_EW8T_n1z5hkOG2so7z", "action": "rename", "newTitle": "Victor, 67686 B, Una noche de garufa (Eduardo Arolas), Orquesta Argentina de Ferrer, Tango.jpg"},
+  {"fileId": "1pY3HBgyEkrPHKkN1AbsIqgm9ED-2gUpC", "action": "rename", "newTitle": "Gath & Chaves, 4511, Bartolo, Señor Gobbi, Canto.jpg"},
+  {"fileId": "1Gpz7mBezgJ4lxtYd85vwRH1ABrNH42tN", "action": "rename", "newTitle": "Victor, 72900 A, Va cayendo gente al baile (Francisco y Julio De Caro), Orquesta Típica Select, Tango.jpg"},
+  {"fileId": "1hXufF2xjjhV5N4PjTS73fckJp-goBRyy", "action": "rename", "newTitle": "Disco Gardel-Razzano, 18012 B, Flor de fango (Gentile - Contursi), Carlos Gardel, Tango.jpg"},
+  {"fileId": "1g7OO1L1ZCeOhNEjzG3qRVT5VlVwdwFtI", "action": "rename", "newTitle": "Nacional, 18024 B, Ivette (Costa - Roca - Contursi), Carlos Gardel, Tango.jpg"},
+  {"fileId": "1m6LnGCgXkqXEqiZz7Y8P12InW7DvM3Ca", "action": "rename", "newTitle": "Victor, 69727 B, Las campanas (I. Riverol), Dúo Criollo Bianco-Riverol, Canción provinciana.jpg"},
+  {"fileId": "14nD4NYCVmlWobLJu1IBDiMY1hjlzcKvl", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1NvcpT8lwLUKh63dSuy1qhdj2w2tRwO-l", "action": "rename", "newTitle": "Atlanta, 65465, Gorrión (S. Castriota), Quinteto Criollo Augusto, dirigido por Augusto P. Berto, Tango criollo.jpg"},
+  {"fileId": "1yBNjMHIPGMRTjw6D4SfRLGp9W3scZDyp", "action": "rename", "newTitle": "Victor, 73674 B, ¡Pobrecita! (Plinio J. Boraschi), Orquesta Típica de Aficionados, Tango.jpg"}
 ]
