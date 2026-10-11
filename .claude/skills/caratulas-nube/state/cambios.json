@@ -48,5 +48,15 @@
   {"fileId": "1LGoKIDydJsoXIpdqq4EvITxiqUWLU0Wc", "action": "rename", "newTitle": "Columbia, T869, El Guapo (A. A. Mathon), Arturo A. Mathon, Tango Compadre.jpg"},
   {"fileId": "1hzUvWgD22AXKBjpZ3DL-6Taj184KlReQ", "action": "rename", "newTitle": "Columbia, T520, El Caburé (Arturo de Bassi), Orquesta Típica 'Pacho', Tango.jpg"},
   {"fileId": "1F6XdsIUl5QRFJFTn8FtlMMrEVUXt-IuQ", "action": "rename", "newTitle": "Victor, 62781-B, El Polo (Col), Banda del Pabellón de las Rosas (dir. C. Sesso), Tango.jpg"},
-  {"fileId": "11uDl2xwrOhxk48C8bSyVY4z6QhwHL2mC", "action": "rename", "newTitle": "Victor, 62207-A, Zoilo y la Negra (Trejo-García), Blanca Vidal - Arturo Navas, Dúo Cómico.jpg"}
+  {"fileId": "11uDl2xwrOhxk48C8bSyVY4z6QhwHL2mC", "action": "rename", "newTitle": "Victor, 62207-A, Zoilo y la Negra (Trejo-García), Blanca Vidal - Arturo Navas, Dúo Cómico.jpg"},
+  {"fileId": "1wMERGWqk35J6sKGesDoEAHT9kmKsD8rn", "action": "rename", "newTitle": "Victor, 62835-B, El Sueño (Regules), José Razzano, Canción.jpg"},
+  {"fileId": "1TeqD43FE2feGHRAzR6V1TS8BhBNHRbOj", "action": "rename", "newTitle": "Columbia, T508, Sentimientos del Cantante (S. Salinas), Saúl Salinas, Canción Provinciana.jpg"},
+  {"fileId": "1IaWBWDrYbKNlBDRZ1KAubtq_3DkiPEkr", "action": "rename", "newTitle": "Columbia, 55052, Pica Pica - El Compadrito, Ángel Villoldo, Canción.jpg"},
+  {"fileId": "1RAtougvSOeIsxTM1QHWVzLErxLA9mWz_", "action": "rename", "newTitle": "Odeón, 109077, Machiche Criollo, Ángel Villoldo, Machiche.jpg"},
+  {"fileId": "1A1g1ZdU0BP9K1_BAFV_dfYt2kF7xQoWp", "action": "rename", "newTitle": "Homokord, 70231, Mar del Plata (A. Battisti), Rondalla Criolla, Tango Argentino.jpg"},
+  {"fileId": "1utozcKEXwO7gsME-iBpOz2_Bge9mPhzs", "action": "move", "targetFolderId": "15Rhf5B6_2ALIBF92utPX832Z5kE_dLtu"},
+  {"fileId": "1ONporOuws5NJwnBmK1KYNOuPqu886a0X", "action": "rename", "newTitle": "Columbia, T664, Don Julio (E. M. De Alarcón), Banda Militar, Tango.jpg"},
+  {"fileId": "1pWzZP_oOlf1gYG8PPwrX9xo4OP92KOLs", "action": "rename", "newTitle": "Columbia, T561, Una Noche de Garufa (P. Cimaglia), Terceto 'Cimaglia', Tango.jpg"},
+  {"fileId": "1q60wslCECYQ6urq1eTgMhNOTZmMOJ_aR", "action": "rename", "newTitle": "Atlanta, 192, Siempre Fiel (Waldteufel), Tano Genaro, Vals.jpg"},
+  {"fileId": "141uwqgwWpUFVHm0uRllhkYLu-7Zkqx9_", "action": "rename", "newTitle": "Columbia, T1005, Reclamo de Casimiro - Deja e Jugar Che, Alfredo Campo y Señora, Dúo.jpg"}
 ]
